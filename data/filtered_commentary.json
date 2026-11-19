@@ -1,0 +1,793 @@
+{
+ "dropped_count": 31,
+ "dropped": [
+  {
+   "published": "2026-11-19",
+   "title": "FILE PHOTO: United Airlines system outage grounds flights at Newark Liberty International Airport",
+   "outlet": "The Lufkin Daily News",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUkZENEc5VlBoNEI2TmhLNzdOT0xieTR4N1huT0lsemctejlLTmFNUmNhRW4tQkstX29ydEhic1RMZlByZFdHR3Jvd2tkSlFoZ0NQcHpDd291b3BHVk8xRG55ZklDc2U2VEUtemluZUpUVnFQSi1EX0hIeWYtRGZlai1JRkFBbGpoYnRWb1djRXg1cGpSQ0tCOUpUUU9ZZ0JTbGkydDR2WmN0ZF9QVzJyN3JPNmJhX0xTM3ZGYkFkRld6YVY3Vm1wNWtZaFE0a3p1cUlncEZEM2plRjBxd3oteWpUendENWlGcEZEYzh1Uks5b0hrNDBZVDZnWkFjWTFIN2tmclRPY2lHUGJ2RVA3ZWw3eTRSZnRia2JTYTJvZw?oc=5",
+   "matched": "FILE PHOTO"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "A.I. Makes More Tech Outages Likely, Microsoft\u2019s Chief Warns",
+   "outlet": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzIwNVFQYVRJeDNJaWFLUUlpV0hRNEpaZ05ISnJYelI3dWJsbWNzallzNkR3eGJCRlpZcE43ZlRaQmJIWThMbkd5VnJtZTd6S1hFWDFHUXJJQXBSeEJNQ0l5M1JRQjZjR0F3eGI2RTQtLWlmOWJIUXB2YmFzamZ2cGtsM3MxVnQxUE5vUzgtWWNUU2lxNk1n?oc=5",
+   "matched": "More Tech Outages Likely"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "US Sen. Tammy Duckworth, Democrat from Illinois, seeks answers after FAA outage as officials rule out coordinated cyberattack",
+   "outlet": "ABC7 Chicago",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQczBrVlBwMkxPalR3VTlNeEdjbUdEZVM0N1M1T3JJUWdPQnFKZk9PQk1QTjBPdWZBeWF5XzVvRHE0VnIwTlZlNjMzMFFhVHBTQ0VGQWpGQU5RUlI1WjRSQ3N6Nm9FR0lNVHBhR3R1X1MyaVpLX2NSUU1FQWRQWEQ4ZWZjUlh6ejBZbFl5YTR1Skd0ZnpmZlVtcnhzd0VUNWVZYUZsLUIxQ1VsaFpwa2VybnFNNktVaWtpRHpLU0JQcEhabC1TTzJ0LXE0VVlkRDl2eUxkM1N2NS1yaUXSAeABQVVfeXFMUE9uYWZ1dlJKX2dQc0E0WjdXRUlNNDhXbk9jZkRGVDhXUVI0WlFmTjU0NjJHU3ZRQnVBWEdzTndQVzZDaWhXYXNUNWM0Tk1HSTR0ZlBzS3NGdTZKQ0l6b1BUSjJEcEVfZFpTZ29TNnNSUVVWRjJoWFVjeWR3TkdQcVluOUdWZjZMMDBvWmo4dGpSUU9iMk1vRTlxODhCLWhxeUhCSEdmR3RTSFJDZlNmTWFjNU1kWDZDX2R6d1U5bWRyeER3N3V0RkJWQ090LXBjUDBaNE9jcVlLdWk4WmlHdEs?oc=5",
+   "matched": "seeks answers"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Why Are So Many Outages Happening? U.S. Official Denies Cyberattacks As NSA, Apple, Microsoft And More Hit",
+   "outlet": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUlkNTVJYkYtSWhlZVcxdFotUHFsZHEtbkdkOFRDV2FuUnJraXBkSnNZZGFSeUNuMXdtanI2ekIyVjdjdkhRTWppRVV1dkI5UldZWHo3N05CVWlJTFlBUDJxS3gwQnN1SzVhNEdQSG9MU1N6ZERJQk5EZTFZajNxQ2tTZldvMGIwUERwZlVJcUE2c1BaOUtSMTBJc2R4cTVFb3ZyMTZhZmZ4V05MZGUyQmhfZHI2ZWl4T3VSaFJFZVVDX0Fvdk13NjRIeGNYRXg4SjFvdjlFNjY0OXdQcjZKU3NJTlFBbXdTRS1meFdCcUY1SmxKbnp3cjBYMnJEdGJjZ0tv?oc=5",
+   "matched": "Why Are"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Microsoft\u2019s massive outage offers a lesson in how to bring the world back online",
+   "outlet": "Fox News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVFPN2cxUk1qY2ZIV2E0ajR0Mko0STBWbjB0cmc4MHF2cmNzajBoT1lhRHNUTGViSnNqWnF5TEI5LU5fdFVqblVWZHN4eWdGLTZZMDhjSW5fV2hpSlZyd2pKdmo5eGZuakdXR3hEajgyZUxBak1OQVhmRjM1d3J2d2xENUoyeUIxWHRoRS1wQTBNSWtidnBCTXc3SdIBoAFBVV95cUxQR2Y2T0VhSHJxWDJKMXdidVJPVXVra1lWVTJQQm1QaE9Sc0RoWE5ETzRpNlVTNG9iQU1lemJOaG4wOXZFZzVBekNfQWlPN0lmd0V1ejRjWkJRN09LUWlsU1JtQ19ORzV1TTlacXFnNlpfVE5uSzAydEEwNWZZNzlrSTU2dDlzSEc5eV9kMG1tUE9ib3kydUxJLXlnU3VvbE40?oc=5",
+   "matched": "how to "
+  },
+  {
+   "published": "2026-11-18",
+   "title": "From Apple To Microsoft: What's Behind The Wave Of Tech Outages?",
+   "outlet": "Outlook India",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTDRYbnNZUHg4U0xhOXJmTzBZNzdNQ3RoX0FJbEliTXg3OWEzZXQtT0RTMUZMSjlxY1hoWElOQ2xvT3VlLXotNXB6Ym1PRGxMVEc4aXJTdlVpVndKQk9ZYzlVdTZFMGhoUTlpMFpEb2lQX2ptajJyT1hWcDczMXNNNHdmOUhCeU9FSnF1RVlBZ0YzS0ZwdzZ5YWoyWHVlbm1aNy1BdNIBsgFBVV95cUxPOWRqS0U3OVExQVdSak55MVJQU0ZLZk5zSlZYaFFxbVJJeGdaNFF3c2tEZEZKWDlNdXVQdnk3dUlNWldLSXE3NTRQZEh2SS1PZDFxYnhIOFZQbGREZmR2emJnRzhUajFubmFKY1BWS3M4eXdYNVplNU1uUzIwX3lHV2JycEc0eXFLdFFIcnh5ZmZOZ3BydTM1eGhGYzUtem5SZmpfc2RUc2RTS3Npa3hoc19R?oc=5",
+   "matched": "Wave Of"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Microsoft CEO addresses outage amid wave of other tech failures",
+   "outlet": "The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeTl0MFVXeEhUQVN5QmNtYk8zNTl1bkh3Zy1EdVJuMFVmVURrajhuVF84UFR6bjFDQ2RKOXJ6bDZRZXIta09ISnNIbUVKMW5IVGtnbTQ3WTJscll5cWdhWGlIR05rWUVQS1Z5blZlaVNqWjRDVDBwWDUyZUs1SDNqUXJuR0VzYXk3MXF0dzRuR1VGT0RZQk9tMi1MVXFSNGJEWWFjWjJYd3c4Tm1qXzJKU3Zn?oc=5",
+   "matched": "wave of"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+   "outlet": "NOTUS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1ZjcjdQcVRqUnZEQlBvUmMzT3c1YzhWMEpoX0t6VTZkRTM2ZXpCZWRSRld2ajJEQmNzSWV0dWdvWXdSX2ZpeXFMZjZzNVFXUkliYkdVbkNYYkc4eUJNYzhEbl9Ea1dEODBZX2JOMzlteXBka1dEbjFlaTN3MXY5VGYyOFVqaTFIbHJRTEFjSm53cUdlNXJ3YnJSVnIzV2JPSEQ4?oc=5",
+   "matched": "Congress"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "What to Know About the Apple Outage",
+   "outlet": "Time Magazine",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xOEdxWVBiSmpISmRJSnIxTUlKVGhXcnZhTHJWMk4tbjlNb3MtdmdSZ0h2NUI5ZElVV1RKdGVYNzh3aEJFaWc3MW50dTlGQkN3RjNmS2V4M0VkMGFNeHl5b19nSUxfS2VTVjhwUXRhd2JtRlh3dnc?oc=5",
+   "matched": "What to Know"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "NSA Classified Network, Apple Services Go Down in Latest String of Outages",
+   "outlet": "The Daily Signal",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1ZwN3ZjYUdJd2xqVGVnRGtna0FGRVF0VFcwLWJjY00yWjhtZHplRkNNYkJ6Z1F5VmhCOUNCX3llYjhuNjZ5OVhBMkt6dzRLNXItdmw2SWhteE9FSk9PbTJEVl95dEpMM05sc0Y1RHU3UEM1UmpGa3gyTFVtbTJ3UFVPbDFPWDl6ZTJONTN3?oc=5",
+   "matched": "String of"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "United Airlines Outage: What Passengers Can Claim Under International Law",
+   "outlet": "Diplomacy and Law",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2MUMtcWxxcHNwVW1mQ0pQdDk0ckNoTmlWNHd0Mm5tR0pyT2lzN3NfdEVRMHRtUXJkRVFZemItb1BXaDBhcjR4RkQ3cUM3Nm9wVmNsMEppYnRsbjBYUEVvTTJqRGo2bTZvSzk0?oc=5",
+   "matched": "What Passengers Can Claim"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Apple Music and App Store down in latest tech outage",
+   "outlet": "KRON4",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSW1pQzVqZjBzWVZYbGJ5ZXhTZHo1d1d6dklhV0ZqdkpKOWhyd1MzdmtmYlJ5RGV6Y2xWOGlWV1owamVOUFk1UUNQX0FNTGV6OUx0dmE2V2FfUTAtMEFZSEdXbER0SWtIbXhnUWpBLVJMTVQtSjJvNzRfMmdUOE1aSjVLTkVfLVFjUldQTThqcjRwSmxpTXM2YnF30gGfAUFVX3lxTE15Q2pvazg4R25YdllwZkliLU5PdnhLYWhKV05KbHlUa1JRTUNOQlRibjh2WFBlSm40eXdFOUZzS3FWNXdSNEo4dWljeXFhRG82cHlSS29wRWtqeGpnR0VHaUZQdUZxVENfRUJuOHdMWF83dnlRMzczMEFQRUZ0SWtQQXRfQTBkX0hEQlpzOE8tUzEtZEJRdTA0XzIzSWNvbw?oc=5",
+   "matched": "latest tech"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Markwayne Mullin responds to CYBERATTACK FEARS after bank DELAYS, United Airline OUTAGE | RISING",
+   "outlet": "The Hill",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVJKS1VKRDd3cXc4bnJUY0hpOGR6RzFEWHNSbm41Xy13TGhkYUpDQnJOMjJPaWt4cTdraUduS2RlOVpuUzQ2V1FfRXA0RHRRdWRSc2dMR2R6UW5FSXVDTGFZWlZLTmlOUllVSFZzTnNpalVtb1l5TThkeFBYYk1WQXZHZWtJMHBrY0VJYkpuaTN1Q1Iyck9vMkp4RUNGZTctb04xYmdnWEVUdVo3RlZiemNpSnZCZnJMdmZhQllQWHRnanVQZFM4Wk5lZHhSYm9YM2cyTNIB2gFBVV95cUxPd2FrVFlPVUV4eVQ3aDJzTlpQeERtZlNiRk83MjJQN183MHBqeTBDOTFXZjB6RVhxWnE4TW82SmFjeDJkMHV0QVg0cDVDUUdxZlpubUsyenRrQnMxQXhtNDEyd2FXNjZ1ekEta0dkN0lhZ2Uzdi1GNWpPSV9WNDNQblB0UmhURjZDYVZ1by1ZYVJmeTdCcUZFZElOZVAyN2ZJR3FpOFVvbFY3Vkl3YksweHNYTm1ld3IyUEtUbDhsaGtfWnFpRjkzVFNmZzJ2WGFFSWw2WEdzQlZldw?oc=5",
+   "matched": "Mullin"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Trump Says He\u2019s Not Worried About Outages Affecting Banks, FAA: \u2018It\u2019s Life\u2019",
+   "outlet": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN3VsWWtzVGZwWHNQeVlMVDZjWVpPMDQzcm1NN2x6NmdQalpVOWZWQUxPU01hSk1MSXdJS2t6dEhidmNFOVo1S01tZ1NqOEFkYl9EYUJXV2xKWDlSQWktX1RiWE1zQ0hKckp5ZUNGZzBYM3J4Q21RLVgwSkVNZmtqV3RsaUJucmpudDJVcjZBUnNKcGh4aElHSzNfSXJZOElWUmpPM3h0bFI?oc=5",
+   "matched": "Trump"
+  },
+  {
+   "published": "2026-11-16",
+   "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+   "outlet": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
+   "matched": "everything be broken"
+  },
+  {
+   "published": "2026-11-15",
+   "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+   "outlet": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5",
+   "matched": "everything be broken"
+  },
+  {
+   "published": "2026-10-26",
+   "title": "Claude Not Working or Not Responding? How to Check Status and Fix It",
+   "outlet": "Fello AI",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzRraGdqVnc4dlk3WkVDNmQzYlFKUXdsT3diZmhxd2tpYnJXdnJFd0QxN2VYNV9YNXU4c21HREJSUWdaV2dDM0k0TGdTT1J1TE1VMW5Xa2xmYXNuVHNKZERRQnIwOHkzV0JNWm82M1VBWmNqME5pdWZmNktMQkMyRlZlZ2tUMHZybE5BVDJlOE45WXFGM2pGOGY2U1hGTWxN?oc=5",
+   "matched": "How to "
+  },
+  {
+   "published": "2026-10-01",
+   "title": "Apple TV Down? What to Know About the Outage (Oct 2026)",
+   "outlet": "AmericanTV.com",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmMS15T3RSNnhheml6REJtNkxPalFLVzRrWEk0U0hBOGlEU3V6RHBfczJGZmFXQ0c1UjRlZnVqaFNaNDJYRGJTbmE5cmg2ZzBNcjZlVjJKZWxVaHBGTG9yQ2I2d0FJWFdtOTdRX2dfZmtpS2JLTlJMQw?oc=5",
+   "matched": "What to Know"
+  },
+  {
+   "published": "2026-08-01",
+   "title": "Apple Pay outage: Why are users 'unable to connect to wallet services'? | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkQwcmZla0NuWWN2VlNTUmxZNHpMYVNSUkhoZTl6NVhCTjl2alU0ZDBQMGxfbGdXV3hPWnNFOEppYTFyX0ZNc0hFOTZWQmlORXZvUXBrYlRXZ3hRcXc2VXROalVOLVREMWk4aUdJRld4LUY3RkctU19DREVKZkJFc2xfQUlRWE1LOHBNTm5aXzZiMkN2N2FxSjFfM1RGdk5NM1pOR25jWkdDYlJYQ0FlRDJjZ2JvdEllMHRud0VGREpJVTVzeDVBX0xHQlBIcnppMmNnLdIB2gFBVV95cUxQaElKTWpBQVpoRUFNUUxUNFZkRzFpVlZabHVxd080T09QRVB2NndFeUwwT3FjWEVsNW05R0Z2OXFhWGJTVlB6bDhBNDgyRHRQY05Nenl3TEF4RVNGMmRHYjY0b0JJeU9GNmJ2d1NmajdFbi1Bcm5FblhUa1FfMzhvVXBhcVdpZlNVRDZ0U2dyMDhhZks5dldlaklaYWwtOTNjNmZFVUZDM0JSNXV6cHJqTmxKb0hjTjlCbGtWVXJLU2EzaDZUcm9Qd3dUbHpweVBrT1RQRTZXUWFkQQ?oc=5",
+   "matched": "Why are"
+  },
+  {
+   "published": "2026-06-18",
+   "title": "Claude down update: Thousands complain of outage; how to fix \u2018server down\u2019, Claude chat issues | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNTlQV1FrM1g3dUxzT1VjdGhZZzVQSTlvZVNCVEhxSTRtSmtocG1GSlQ3cUE5bE5zeXFRZUszVll3RkpqZGR6OTM3SjF0OWY5WVZnbFc5NEdZS3B2VWpwR3VzYUlGN0hjYW9pcF93ems1eGRWZWJwUWtmNmh2MWF3eEtJLUR5emFlZjhicVVYWHBfOXNFM2hEMkc5YzBVbjFELW5kN1VsRk42TGxoQzE0VkhOcmRtb0QzRHdlbnpab0Nrc1Z0aEthVVdKRnJTRkxZdjB2SUVCSUtQNGhTSWxBOTVpUmxGVU5PMkFXRWlHakszN1N2SmfSAfsBQVVfeXFMT1FDNmVmRXU1c1VIbmZHUnpSbTlrNGNReGZYUGxSQ0E1a09UaW1WTkMzMXpTYmExTHNweFpUb3kwWmQzWVZUY0ZhRUhUZ0JFY19tZjZJRGtJRWpYZ3M5R1pNZF8zYThGMXJVQnBKbjUzdmNmSGRLNmRnT1JYMHdQMkRTQ1NPemhfV0lWQUFjbjdlYTBSQlRhUmlvb1lVc1BTSTF5SkRYTy00TzdmZ203ZWpNdHd6dkl4dHVWN1BUR3VsWTVRYlNLNUhORzFRdWpxcWlwR2IzdUtmbXg0eUdYYnRvV1g3N2FXUDB5TDF6dmhQU2lhOXpmWWNGUnM?oc=5",
+   "matched": "how to "
+  },
+  {
+   "published": "2026-05-14",
+   "title": "Microsoft Copilot down? How to fix errors amid massive outage | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSFc4ZENwdHlaZk9jY21QbmdhcUszeHBSQWRoMjBTOUNIb0YwYWtkZEstc2o4cHNUd1B3aU9BbkZobTJ0R01YOWV5Z0x3TW9ueEhZOXlNWHZ1bS11bDU1cmdnVW9FZUxzNTBDSEhnMzN3a0JOVVZ2UWQtcjE5YUVxdWMyQnVNNFhNMjNEMUxxMXEwN3dhQkZmWm0tOG00Tk5pRjhsQUM4OU9TVTBzYU8tSDJQSjA5WEotTWdWSGUxZWY0bWg2VUY3QVVzU1Fha0hKc0lKVU5GWUYtTkwyZ1c3VDBTMXp4d9IB6wFBVV95cUxOWlhOU0xob3o5NUxfT1pDYVFMMzB1emZxcHlQSGVCdFpxeXNlVlJWWDNWbWVjMW1PRnZLdzY3bk9KNnVHc3ctaHpiUndGV2o3cFJ1Rk0tSE96T2tNblVNN0NxcXhBUnNYQmdydFNnNnZBYU1RZlhXSWEzWGdvaFU4aXJuWXB2a0tXdm03SzA5N1R2NnJSbVBwd1A5dVpTLWxzLXdzak44b1hvQTdDZ0dkTTBIdHJ0T2ozeTE5eU9ObHZrRFVIMzJ5SVBOdGMtWUFjWmRSUHRHOGd5U0gteG9qYlBUb2JvRENpeWw4?oc=5",
+   "matched": "How to "
+  },
+  {
+   "published": "2026-04-28",
+   "title": "How to fix Outlook login problems as Microsoft outage hits users",
+   "outlet": "Daily Record",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQkRySVI0Qm1uTTNDTU1ZUGlsN1FzNEZCTGpUX0RZS3p4bkNCaE1pUHVkN283SGtYV3Jhc0dTejdvdVFCRjZSYVQ3M2U5bFZFX0xUdjRnTllTaDJUUkZ6cEZOMlZKOEk2cUxxS19valgwQzcwelRYTkxkRUppb3RxT1Jqck9XUdIBiwFBVV95cUxOZjNxWThHWFNBajhDbVowbzB3bjZMamZmVDNRb3hLRGtjX3k4UTgtRE9TdFROTHZHdk1UOXJSY21STENCcmlMWjF5SXhlQlJMbzB1WW9NRXJpTjg3VldTb0RlckEwQ3RKSFFTaXhNZWJhMTBocW4xcGlCcnpwM19HUHd2Z2FuTlpxOXBj?oc=5",
+   "matched": "How to "
+  },
+  {
+   "published": "2026-04-27",
+   "title": "Microsoft outlook outage \u2013 here\u2019s what to know as users experience widespread issues",
+   "outlet": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQblJqTW1yaUgwdERjejBoNzV3S09WMjlhdUJIWmVpaVprOW5WU1hSSEpkSFhrMkMtNTBOeXQ4dmVIcHRSM1hEcUhZZUwzc0hzZG1WQUNPd3BQVjVHNk1XWU55VWxZV3RVV3ZqdjNyb0lxcmQyNnllSUtRUmw5b08wTGd2WEYzLVpydExSdklKajFLUW9OMzNLekdvMHE3UkVjWlhj?oc=5",
+   "matched": "what to know"
+  },
+  {
+   "published": "2026-04-15",
+   "title": "Claude, Yahoo down? How to solve API 500 error amid massive outage; company responds | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYzNfS1hXNkQ2elJ6dFQ1V3BxMENBR0xsTVc4dWxaVmFKQzA0OHNPWHRvbTM1SUNvaXRwaU1sekgyMEltSFpmY2RtSTJFRXlRUU41dUZ4dWRNV016N19PcGM5ZG5FNlpqMF9WYWw1RHdkVDNEc1gycWtpOEF2TlltY2MtMjVxZXdHT0htOVp5Vy1XcW9uTVEyZDlmTVAtLWY3cmlmemxGd2V3cm9jN0VSTmZvRzJxN0hyVHZmcFFEVVBxbXlPTjdYSnUtaDQtaW0zWmMzbUlEXzlIZ1lPOVV0RmNHNjkwMV9YcV9ZTDRibXYwdHFhVnowV2VVNWVSazdhOXY3OGNR0gGLAkFVX3lxTE1IWl96aTZBLWZIU1F0bFYybHhYOEE2M1JTTmhaZDh0RmVoUUhIQ2dWNEdBVmktYlY4RHRqdGZxZFdfMlVNZ3FrcGlyUTAyRmpMTU8wSGJVUDEwR2RyWTBxTWY1TzNyWlM3UG43d1lnM2xYOVJnT09sZTJid2l0blROZE55Ul9FLVFjZVk3ZHFwdmh6TE9mSVFHT3lVcjZRVnc3OGRuS1kydzBNLUh6ZHd1eW01M1Q1Z0pZTndPUGx0SlI4VGZIelNZUHVqMGRaVzFMNGxJYktTajU1aXlnUTlzZTM5NzBwd0ZiNl9oTTBPUTluel9aU282elJKaGFnbWhPTU9iMHlyVjdjbw?oc=5",
+   "matched": "How to "
+  },
+  {
+   "published": "2026-03-18",
+   "title": "Claude down: Thousands of users face issues with Anthropic \u2018code\u2019 amid outage; how to fix API error 500 | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZVlHaWhzSVNtNUg5ZXpxSHdRVWRTckNSLTZrc0Z3UkYwR0FFNDREZ3FiX010UF8wX1ZUc19SS2loZHJrYjdsY2dLQ05oTzNMdkJJOVV3N0JIUDh4dTNWQ3FLbmR4dGxncm04NUhGRVBnQmk4dkVBc2syLTJuWE8zdVRSR2FoNTYzUkV0UWEwOEV0QWNYdGR5UGZKSFFUcUZKOGRPczU2dldJVU4xUjd3MUtUamlrUXVKSkxkRHJ4WFM2Nm5yRzB2TjJoRXhFMnp1cWRJWlAxQl8zZDTSAeABQVVfeXFMTkJsdnBHUWk3M3Z0bEFHTHhRNk9YbWxpWUZ4R043TXBIa3JVSEdmNUt6aThtOFQ0eUVIbWNSZ1AwVTkybi14ejlQcGtrV0JCdURDZFZpMGZPMEVxS0J6MHBZMVdKU1pfUGgzaDFTeWJQSUpnbXprb2pxVVE2UE5ldXF5SGZrVFpKNjVQVDU1dWtic2g0Njk2SUxJZzVoU21haTBIOGdGQ3MyWk9KN084ZXBOU3ZzSFhMTkw0NWVHLXEzUklrLUNDMDdWTmhIUENtM2R6Vmd1dUlDZXJVOGxiR2c?oc=5",
+   "matched": "how to "
+  },
+  {
+   "published": "2026-03-04",
+   "title": "Claude AI: Why are there so many internet outages?",
+   "outlet": "New Scientist",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOem1tM1pHRzU2UUk2RUJyUVFZcU1tT3lxQkxkNE5pU0h2QUgtTVlVTkdhRGdvVW4wLWdqczFINGNkUEE2MWVLVlotb1NQd09qWHhFUkdNNHVDV2dVblFtQXBKWUlpSy00ZmxCRUU3azdJTHNyd2FER1hRRHVFVndxVnpESW1UajZfSEw2MlJ0b0xZbnduLVpzZ1R3?oc=5",
+   "matched": "Why are"
+  },
+  {
+   "published": "2026-03-02",
+   "title": "Anthropic\u2019s Claude Faces Server Outage Amid High-Profile Trump Conflict",
+   "outlet": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZm1WanpzOHV5c3V5TklZNWFwOUdIWktaMm5DSkFwRGw2ckZXZzR4SjFBTkhaMWxLUHBNWFdxLTU4RzNOcVRIQzREd0JYQjBRWVBtM2FicHZiM3N3ZTBFQUhZVWNZYWhsNWNjbVJrNmZyc2lnNUstODRpTTNyamREMUMzZHR6eUJ6bllzdHFTWXpZWW5HR2tDVUhCOUFNSkFEajJ0LTRNWmQ?oc=5",
+   "matched": "Trump"
+  },
+  {
+   "published": "2026-01-22",
+   "title": "Microsoft Releases Statement as Office, Teams, 365 Outages Continue: What to Know",
+   "outlet": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0QyWFk2bmRGbVY0c2wzMU4zRTJxRmpibkZTNUZVY1hjV1NXYnRHTWNPdFRXeVpZMDJjNU5BeFNUV0NDN2E1a1J3aVpnWHBPckVGNDNYTU9BeHRqWllJOW1TN3o5blRUYUk1UE5pbGZqN254Z1kxMFdtM1RYQlZsXzFHWGdhdFRncm95cHBn?oc=5",
+   "matched": "What to Know"
+  },
+  {
+   "published": "2025-12-05",
+   "title": "Cloudflare down again: Full list of websites impacted by global outage | Trending",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTm52MzVsVHJyanpRamY4M21KcC1vNDhobVlOM2R6eEcxVEI3M28xLVEwV010bkdXMlI1SzBtTXVqWXVXWnozVGFnd0gxU0d0Ui1pY3R5ZEl2WmlFS2J3Sk1aTXBva2ZZcXF1RzZYb2lXVm8tUDZlLUYzWUlmUHQ5UVE4dkF2ODJqWG1IX2piOGhmWjRaQXVSbmt4eDJmeGNaREsyY2JiaWZvRVRCSkpmNkFMMnB4a0tUeVFPR09mRUZMNnYzLVhfZjFR0gHPAUFVX3lxTFA5SllzWmlIdmNVcTEyTXVwM0xIakE0U0Jmc0tDb25rN2hWMmV5Zk1fczRnMmFKNWE2WmNqeWQ5VTdvWmtHRWY2SmxueEMyME5vWlA5M0ZwZWNxMGotUGJaRThKazliSGg1bWRFRHBlTWFWTlN6LU45V2NQWXJmbG9JYU9EOXNzdXI0QmpXMU5WMHFOWTQtNXpFMGRtbmctRkJWTXRIaGprWkJjWldQWGVuel9WanhFUE9aS2xRcTY4X2cwYUJNekpCQkkyZHdCVQ?oc=5",
+   "matched": "Trend"
+  },
+  {
+   "published": "2025-11-07",
+   "title": "Is Apple Music down? Users report second wave of outages after massive platform disruptions",
+   "outlet": "Austin American-Statesman",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaXRYdjNXcXVyV3cyWDVZQU1yb1BiTVZzaC1iZjZyaHEwTWZhdHMwbVg1eWVYZ3RCMVphWHV0VlVRUVZWOVhlMThOd29fejhiTnZYS1c1ZENXa21SXzlxdmJhVnRrWXkyMUFEaHJ2QmotcW81V3M0bGgzMTUtb01YLVVXRG1SYVYtTUJ3N2lSWTExS3oyNk1iSXF0ZlFtODZ4WmNj?oc=5",
+   "matched": "wave of"
+  },
+  {
+   "published": "2025-11-07",
+   "title": "Apple TV down: How to solve \u2018problem loading this content\u2019 error amid outage? | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNT3p3MFQzYVFlNW9HQmxvX1ZWcmM0eHYxMWE4bXhwd1pUcUQ5Y0dyYkMxc0lQYks1ZnBtallFdGdNdjRQeUFndERuaWFTYUF0Yk1mVlotYTl3bWxTQTRCM2I0N2dnV1dGNWpRS2tPcEVfZ1BIY1FWZ29iZENsQ1FJcXE5NXV0eDktWUZmZ21zVEpRQjNPZG1PMVpfZGxpRGdmX3NfUDlSSGZjb2ZZVGM5T1V4Z05GZE92NmhPZmpwVkFGZTlHejV0SS14STBKOTFiTy1iaDd5MHhNRVRS0gHiAUFVX3lxTE03ay1vcEdqRUE5eG1XNGJqbG9wMHRiYmF4TmZyUm44NktRT2VQTHJVYTlUeUtOcTdBZWgtMjl5YmdNTmlIM0E1aVhjbm1vZUxtcmhTeFl5bTd3Y3RFanI5NTRraVBRSUtQSUhDSUhCR2I4QlBpV3AydE9oMmtGcV9hRE8tb2Jwb2NCN2h4Z0VPeXAzajNOWGtjcXpGOHdlTUtNd0FPWUtoTzFLUUp2MUN2Y1RtNTQwS0pFWVpqYU15bHYtVEJ0T3BHcThJVzEyR3hPcDdyZE9pOHMzenBYRzNhelE?oc=5",
+   "matched": "How to "
+  }
+ ],
+ "evidence_only_count": 71,
+ "evidence_only": [
+  {
+   "published": "2026-11-18",
+   "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNcThPR1ZVUm5qbHNRSURJQkpUTVZpbGRlYzR1ZWhNZjNfeS1NdlJ5d1BoU2x2bWpjSnc3OTY2dkF3M0VwejRRQkJUenJGd3czM1MzWjg3cFVTSTJ3OFlQNk5FWm80c1NrLTB3UlpKeEZ1Zkc2VTRabDNJb2loeVE2Y2hna3dCcGZRR0hlSFpJYXFLcENFWFdpQmZOZE1JVk5vdGNfYWRIRDVEMUVjZWUtMUs4Z010eTlvNmVsY0N6MGFHT011ckpFX3QxckJudU1ybG5yWmRLcVl2dVBRS0VZTjc5NC1teTdBSm5hZGFXaS1iaEVicjZ0dmRLRHd6UGVxd0tZSU1ackFrM2ppUFZpczRlWGVEVTQ3X21BdDlpZGhJTG41VTZBODU0bEFwcC1uajJXcHVaN1NsUVhhV3VKaTN5ZnVMX1QxOFVvZdIBzAJBVV95cUxNcThPR1ZVUm5qbHNRSURJQkpUTVZpbGRlYzR1ZWhNZjNfeS1NdlJ5d1BoU2x2bWpjSnc3OTY2dkF3M0VwejRRQkJUenJGd3czM1MzWjg3cFVTSTJ3OFlQNk5FWm80c1NrLTB3UlpKeEZ1Zkc2VTRabDNJb2loeVE2Y2hna3dCcGZRR0hlSFpJYXFLcENFWFdpQmZOZE1JVk5vdGNfYWRIRDVEMUVjZWUtMUs4Z010eTlvNmVsY0N6MGFHT011ckpFX3QxckJudU1ybG5yWmRLcVl2dVBRS0VZTjc5NC1teTdBSm5hZGFXaS1iaEVicjZ0dmRLRHd6UGVxd0tZSU1ackFrM2ppUFZpczRlWGVEVTQ3X21BdDlpZGhJTG41VTZBODU0bEFwcC1uajJXcHVaN1NsUVhhV3VKaTN5ZnVMX1QxOFVvZQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "AWS"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
+   "outlet": "ABC7 Chicago",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
+   "matched": "Is NSA down?",
+   "brand": "Chase"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Is Apple down? Company says 'internal update' behind outages on services like iCloud",
+   "outlet": "KATU",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOanZBdW5INFNBZGxZNTB3aUYzNkRDYkM4MTh3dFVwMTViQUtyVUVIa1lhUlJKNGZ3eU5WM2s0aUlVdVpyY2RlYkRDZm5WanpZWnNkY205SDBjWTFCZkdyOFBPczJmLXc2Z1NxMTRlV0ZORzFsNUU5MDg3bVRyNjZkS3ZaUFNFTC1zdTY4cHI5ekpRZ2Z4N0Jyai10WlEyYjFlMVpwWmZ3YkpIQ1VaNmNfLU13bk9ZVjNDdnhaSEVNaXVuZHZpc3k5VWo2OVZpNFozMEN2eFZiWGM2UkFvOXZKYTkydWpvZWlnLWRaRGM4NU1VUTV6bFY5c1JNazhFS25iR0ozVHVFUjNjenRNVlppZk0xOU8zNlhsSlpfb2t2YXhJUTVYelMzWW5Yd0FLMGYyOEpzWU1VaEVVT2M?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Is Apple Down? Company Reportedly Attributes Brief Outages To System Update",
+   "outlet": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTXl0RXBySUlSSndLck5OZnFtVE5wN0I2YjRYMEFnZjNXSms0TnB1RnFxTXNxUFNUdlFiVFU0RnJKS0p0bnd1dUktTTgzUzhjb0QxUk5aRWx3eXBuaTVqYVNOWmtLZ2kwZjdkMV9ocHZQbG9HaXNkczRXN3dJUVpTWHFLVDA1MVd5akFzOElyZVdZWUV6RmdmV1BSWElGclNxTXdiWjhwY1ZSWkVua0llU2phU205NDFRUTAwaElxLXlqMXY1?oc=5",
+   "matched": "Is Apple Down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Apple outage today: iCloud and App Store down after a week of big outages",
+   "outlet": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEUtVFNUUnlmNlZfdS16TnNIaVpxaHEzY3F6VUVlZnZkZnVrOUttdlFmTEdnWExQbjlkQzlKQ0I0UW9iR2x4TENvVENYQUhfY1pYNDBKNnlFSHJoYk9lQ1V0bXRXcnRpem9uQUZjdE9QTVU5czl6RFpWbEtlUHhTajRtQl9XYjlEMGY5VjE0OTBXams1ajBzSklGUUZRMWZnWlNzUk4ySG9SbS03a0RRRERGQnQxcUFwQ2tj?oc=5",
+   "matched": "outage today:",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Is Apple down? Outages hit App Store, Apple Music, iCloud sign-in",
+   "outlet": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWFjSWQ2WlQ3VjRaYzZ6emhxM0NyU0RtZ09nYzlEQTdUVHloRXl0R28tdGNZMGdub19WSnJwNlAxSnVOM0Fyc3lLWUhGWC1FdXRHMC1jbDFXOENnaDFDX2ZZSk5qYkh5bHBaZXJtekNVU20zaHdOSmt6VjhxSG9seGZhUQ?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Is Apple down? Users report widespread outages across popular services",
+   "outlet": "San Antonio Express-News",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkEtbjdKSjZNNVhVZ0N1SmR1LVQ4VGVxWjNPZ2ROdlJqT2Q1RXJQbjFkdzEwaEJ5T2xKV0cybjkzQTVaZjdMTzZ1a0NjWUZ4UjZnZWVweDRzS0Jfa2ZMd3RTc1RJNURmXy00QTZmM0lZcFZ3bjZ3TEFGeFBkVVNfTlp5d1lGNXRhQmpfeU52UDZVUld5NkM5cmZOb2Q4dmxxTEwzV253VQ?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "NSA network down and Apple outage today: What happened?",
+   "outlet": "Revista Merca2.0",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmhTNS1LTllMdWZfR05MOTRPNFhJdFZ3SmlEQUxrODVDMlVuOWdsRTVSS09BWUFxanQwUzJMWDlaWTM5cnY4cE1FVm9ONjFXUDk3Qk9YYk96ZElvYnRaOFAxMk5sdkY4bFU2M2ZRWm12OTZ5blI4NHkxdXFDRG9UT0tvelM?oc=5",
+   "matched": "outage today:",
+   "brand": "NSA"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Is Apple down? iCloud, App Store, Apple Music users report outages",
+   "outlet": "Bergen Record",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTkF5WndQZVJkbC1sejBDWXMwSUhKaUFocTlkYTVMVWpyLUNxNEZDOGhGMmVfVzdyMmFzczV4NlYwanVSM09YYVFhNHBlZUxFX1BDeGpES2pNUHMwelBiOTRkNFg1WFllZkdQRU1XdjVSeW50TUowV2RzNUFPWGdXaTFCejhHS3lDWkdNSllXQ2ZnN1VxY1YwRHRadnFzdXpiNkV2ZG1yNndjX2NUZ3J5YWpIVjd5cEpiMnVV?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-15",
+   "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App, Login, Shopping, Payment & AWS Issues | Amazon Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVE5tR3hwWWt5NXhGVTlFckxCR2V3dnF4aWg4cXZ6SmZDNENDcnZtVlZ0Z3c2d3dnQl9HTnc5b3drdG5xWjYxUnZCUHVaN0ptODZfR25OOGNNa2FFRmRVc3dJWWpxZnhxVnI2bmVHeTJMT1FsRG9IY2JPdVp2NURBNVU3a0poZS1Da0NmZndtZnJpQkZoX3YyYjZTRUJ2eGRzRzIyam5YVDRUck9DLVdldUZFczR5dEUwMUl5ZnFDNUxValkzUXNMcU0yNUpLbVpiOXcwYTNoUGV3dVlYUUxEdzZrV056cXJaTzJiS21WZWpYQjNZQy1hemdiQ3NEbWJ5MUpJTG9VaWZwVVFJV3dWclpR0gGXAkFVX3lxTE1DZ1B0REdyNUxVUkNSNHUwcl91c2o0bElBdGkwaVdJRjlpS0lKR0dnbzZ1aFYyNHpoM2hBWGljNkY1V2xLbkNsZ0NQYnpIUWRnMW85UG1YS0hodW9JdXRodlMxcHp0a2tGOEFZc0E5V0U0RHBSbUZoSVp5M203OXNUaWNZdmhIcnY2Q2J1Q0xNZFJGdGhXanFwWDR6OEF4TXZFUkN4OHh1c2hYM1lMeGNQalkzODRHTTRLdlJQQWprNWxZRlh6ZlpaU0w5OWQwLUtGSDBWa1J2R2hsMjV3U3UwMFl4d0xvd05YNUQyZnUwODVwQkpKOEJlRGFtQ0FtMVprZHhkb3B5c2trNGp1YldCU3hiS0tQcw?oc=5",
+   "matched": "Outage Today:",
+   "brand": "AWS"
+  },
+  {
+   "published": "2026-11-13",
+   "title": "Claude AI Outage Today: Is Claude Down Globally? \u2018WTF Claude Down Again?\u2019 Users Complain of Login Failures as Claude Code and App Face Disruptions | Check Latest Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNVTd6MnVGUUU2RkNoUWxrU3p5VnhCTEt1ZnBvVWVkYzNxMVNjendJZmE3U2Z6QnJ1MlJybEVFeTdXZE9nQ29HQm00NkpEN3N6VnJORUx5bDdFNUJjMmZJWVZteGx2Rjk1Y3QzcUNWVGJVbEFmM2lCN2RoZmVYWFNQZW5mVi1MeWJFbDBreFYtY2oxX1JvblBkTkpVcHk4cmZfTWh3SUlwMDhyTTlrX191UHRVVFdQUHByOUlMcHVyNkpHbWhUaUVPdnBhX2NXR0hwVVdSMFAwLWpYZmVNeFFmSl94cjdCQnV4SkxOTnM0dEY2MGVJcVQ0azhfZDhQOTFZR0NWZkFLSWNHczBuMzZCajdYTFpMQzhCV2tUT3pJSm1RSFFmdlBWQWl3S1BRQjDSAbQCQVVfeXFMT01nNlE2TUNSR2xTb3hvQldnR01wRjE4RnRwTlkyeWY5ZzZuQlIwemd2Zy1hLXNNakFhSDF3UDNqaG92anE4ZlpyeW5LZlZraElnUnhhNGxqZTF2ajFGaVY2VGF1RU9XSVFNTDRmSFp1ZFlqWVh4YTRLWTBVQmtaUEdZa0ZYbUpuR3VpWXlneEZkSy1jcmJtdUNydnEyMDNtUlRGQXBMREFpTVlMazVyRzRaZEJmbHZTZTYxY3E3NEY4LXBPYjBpRi1ubmtCcnNHbm5ESU9pM0lfZGxaTWpROU1LRWR4OHVPYnpndHRaT2hjQm9ySkxpNEJvSXMtWUtXejNtcHl1MjB3WjVIWm1VMkRBUXJSRHVKRWMwbEd0bU8zVm5ZSzRnT1lSVWdTOXgyMVFNaGM?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-11-13",
+   "title": "Is Outlook down? Outage hits companies as Microsoft struggles to restore services",
+   "outlet": "WCAX",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb2RVWWplM0Y5WGdiRi1ERFFhcE9mbzFWTElsUUprU0FBMDhIUllxUTBnUmRFamVCeWdhV0dtRWVzWlFLeDNXR3l2dWZ1WW1xS3VDRHNHQUJfZXJUa2c4ejBrWW9vZVZUc1BLM0R5M004WTAtU1A5RDRXLXlkQWdISGZqM3pqQUhYYXR6NnlvdmNhS0piTXNBTFc0NUE5U2s0SENhVVctX05GN0tRdThfbkx3TnZmTFc5ck9zTU5FTdIBvwFBVV95cUxNb2RVWWplM0Y5WGdiRi1ERFFhcE9mbzFWTElsUUprU0FBMDhIUllxUTBnUmRFamVCeWdhV0dtRWVzWlFLeDNXR3l2dWZ1WW1xS3VDRHNHQUJfZXJUa2c4ejBrWW9vZVZUc1BLM0R5M004WTAtU1A5RDRXLXlkQWdISGZqM3pqQUhYYXR6NnlvdmNhS0piTXNBTFc0NUE5U2s0SENhVVctX05GN0tRdThfbkx3TnZmTFc5ck9zTU5FTQ?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-11-13",
+   "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps",
+   "outlet": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-11-12",
+   "title": "Is Outlook down? Users report Microsoft outage.",
+   "outlet": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PUWJMNm5aOVdpOXJNT1E4NDRMMV9fdXYzakhwdFZ1cVphS3BTdXp1Nk5kR0pPeWlKdXZRMVNlUXVEUFlUQ21nMmtudHY3Q2RldWdoWDl3cV9ObHRjaXdDSml3a21kUEEwc29YM0lCZw?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-11-12",
+   "title": "Is Outlook down? Widespread Microsoft outage impacts thousands of users",
+   "outlet": "WJAR",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPakRlM29odlY0OElsNi1kU29oZTFzWjIyZ1dHU0I0RTNSb0MtYnNibkdnX2NBeFh3TzBRRWJrSEhEMjFkV1hQa1BmLXM3VzgwMmE4SlFfT3ZQWHVGX1ZRWUxqd2lpOGpNOVF6cXdzajIyUXpQdDh3VEtfNTczYnU0SElGSXJWb3EzUW5YNXg2MDl4QW5Ta1ppNUpZa2s5UF9oWUJZdDExZGVEek9Oa1k5Si0tbHhMbkk2ODVId3Y2ajZMZndXZEtyb3dVYlEwRWh5SUhXc1ktRExKUW5TNmlyRnN2dkJFZTdDUVJxSUo4MHhrdWdjdEZyNV9HeHZXYU5aU1FhM3JLb1VoQ2JJNjNMVmdiSUhQUHU4R1ltV2ZHU1lIZDRDTmpacG5fUVlITkpmazcyandXWQ?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-10-29",
+   "title": "Microsoft Outlook Outage Today: Is Microsoft Down Today? Thousands Users Reports Outlook Errors, App Login Issues, Messages Failure & Email Delivery Problems | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOcXRrLUppem83cElhb2ZOajhacHNrT2pJaDdSN3pqQVVyLVRveS1SVUNNdFdHVWRuR2dFdkNFbmFrSmdFb0FYU2NSaGN0S2N4M3FzeXRnSWFFc2paTnlqcl94TE5NYnZzNllMVUtZMm5lazRhNjJ3RjFMbWZpWHE0WkZTbnRuekVHX3IwWUpIcWIwR01HRGl3d3lwZUpCNDdhNl81cC1xc3d5Z3BDeXJmN1RaM0o2NFUyeW41M0RmUzRRelRnNkhURUF2Q1pBMHBQRklPVVFIOElTcjQ1ajV4VFFjNWE1YWdfdHdydExHSXRIc2Y5cWsxOVBZWXlZSm1GTDlWRVVkMmFKdW5ZZ1V4WFpFWmVEakI4X1o3TC1FNzJpUjJxVGVVc19kVFlROHEzbFBVR1FnUjVUQ2RjNjVTNFg3ei14bTF2blNLTHVR0gHTAkFVX3lxTFBPYlNzQzNDMUtSRnF5Nm1uMEdSMzFxWV9vODdZbmNKVm4tOGM1Um84aWZLVS14eGpXdDdpVnhoYTF1VnpNa1c0TThpUWdvMjVXcTdMTi1rZ0MzQlRzVE1jQWNhN2pxSUE5bWJLcndXR3NhSEs3cHNldVMwM25lT3BZa3hGS0c3Y014ZVVwZjZoN3NCanI2NFJINHA0dlhnR1I0TUJPY0kwTmJfQXlkelB2V2FONEVXc3ptaGdSWHpzQzFiT21YMmZYeUJ0ZlBnOGRiYWdyS0JIVURCVW9FdTVIMGoyQndBMl9ZblBBbF8yblRrLV9CbURCU2R6XzRnUW04eXdDNmxfN3JQdmx4bDYxNHVqNzFBQ2V5RGJLVnE4Y01fNXVDanVKMUJpX1lIWXQyR2VmQkNVdW4tdDhiaVpjSmRIczlRS01UZGdKOGNLZ1RQUQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-10-28",
+   "title": "Microsoft Copilot Outage Today: Is Microsoft Copilot Down? Users Report Issues with AI Generation, App, Website & \u2018Try Again\u2019 \u2013 Check Microsoft Copilot Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxObl9YdGJBdzhHbDBqV1FqYVFuWklBb3BlYXpCVzREQmptMEtEdVZSbUU4MGZQY1c1YjdELTlINkpEckoxQUJUWjFhSEtNRmFHRlpWajEyMmM1emNtRkJvWXE0N0JRTmxOQkVjNEY3RmxkN0xabTd4UENDc2JTTVAyT20xQWV5TGNFYTR3ejZiN3J0QU9pUXFxV2xkcEZDUUlLZDBURGNmbUdhVWVWYWV0N2VnbXpvdi1fYm9NQk0wN2YzRTd4Y1VqYnBfZjJsOExHbHFSSUZuWXg2UXZBRjhFaG1zdEVXZ1U2YzB0c2dFd3BHRDFCRTBuZmVWY0ZFZWE0bDU0YjZIVUNxdXBzcURJcG5NeTh5QkhsRmE3M1BGaGtjZXdvU1J3QnViVzlNb0JLMjVn0gG4AkFVX3lxTE5fWGhwTDVzOXVRTjhGZVhyVHA1TUFiM1dic2lHT3YwR3llbVpMckY3c01kN3lxN3RCTnhvdFEySWRqbmsxUVBWQkluUElqc19QVzVUamFMVEpxSDF6MVFZTU9MS0VkOXdzeHptR2hLNlhRUUFPekdCQW1wQWFzMkxXQ3hFUEE4SEMzUzdabndQU2tDR0Rwb3lPMzFkazBxejNxLVZDVzB0R2kxQ2Q3WjBYWW9HTmU3WVh0NDVBUk1oT1ByVFNjVUlQSGZMZ2pLOWFZWlg0M2NQTDNvdGd0aDg4Y2MtcUs0bjZkeU1JaHVrY1RQSTE1U3kxU0VjN0NBT29MaFVGSmtVdWNZS3lXMGk5Nlk1ZmhLVldQclRpU2tFdEdvZ05QNmViQllwQkRITno1V2NVUU5mQQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-10-23",
+   "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? New York, Chicago, Denver, Dallas & Other Cities Report Issues | Check Downdetector Status & More",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPc0V5Z0RQMEJKcFY5aDBkM05NajFpR0hrNDF3djR6ZXpZZElGTk5xNnRRMmFSZWFVdFR5Wm9Id3FOMm5hRjRhRXpjYVpqZ2V1SHI0ci1xaV9lOFRDOVZkSndwNmVtTXpFbDZQTWZLVFQ5TEZ5UF9feG5uNW9pSG1rbmNTNEFfendtVHlCdzFycWxDXzZSbTZyR1VBdzd2R1RTMGpHVlBvY3JoZ3J0N1NLMld4OVNHcUdMZTZ5bFJBZTVmbnZORzAwTmtQVWE4OWo0aHh5UFoyZ0tuX1JHTDNPMmk2Y0F4Z3hfS3hoVFFJN24yaGpXcjBocG9XcFJwVXljd0JsUWhKZVBidU56T1p4czhiRFZmSjl5MWl4UdIBogJBVV95cUxNeHB6XzNjTlBMNzNHSGQ5QWdyVFlneC10a3pvVThzQUZrdG1Ea2xCbWU2ZExBWmsySjdtRXNOX1F0V0pmT1loU2JoUUdMQmVIQmhabnpUZkEwMWJob3p4S05CTlppMUZOMEp5S1Joa1NNclZkSGFOQ25MMXJDU2diMHRITmhjalAzaTc4MGhKaGIxVHZBWGxzY3M1WnQ2RWh6T0ZMZnNnTWJIbkdBUU9Ud0I5Q1J0dmFSUUdxSHZ2alhzMklCOV9zMkl2ZGdINEhqRVlEbmljUlhWZWRQYVRiejZrVjcwelA4NUJZZi02OVVwOVJSS1Y4Q21OUDl0RHVJMWc1VG95Tjlsa2ZoUHJmeUpqUGVFUjFELU92UzFoTjVSQQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-10-13",
+   "title": "Cloudflare Outage Today: Is Cloudflare Down in US? Users Report Blocked WARP Errors, Failed Security Verification, API Problems & Website Server Loading Issues | Cloudflare Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOeUlsdjQwU1NzaF9WYThURURYNGNEdzhadERhTmYzRzN5ZEZmRjQ2V2IwRERac0xhYXNFQ2tsN3FsOEhsQ3BEUmFKdUI0VGtnRnBNRGlOdEN3SzlpbnJueVpfR3d6YmhuVWMzWDNIRVJqZzJoaUtxanVaTFA5UFpjM09qbGd6RnhieDNxNjdLZTVNd3luRHBHem1DQlhoR0JKUmUwTk9GVnRLMVdPNmtqbEJPRWw1VVlPdGtzQWxTR0dVQ2lRWVgweGZBd3lqY2VndUtqanZTaDFhcENjNzdLUFJnQTBBOTdZUGVSOV83TFlIZUVOVVJtbnRYM2poVjFCNkFhd1Rmd2VudGJMS09XZFByLUdmdkNjbmZMQlhIVWNvWC1Ea3JWczBhMl9haF9uVm1MS2d6UFllRWp4OUt2eDB0bWlhZVlWbVMxeG530gHTAkFVX3lxTE9aR1MwcXZCLWUxNlg3ZXhvNzhsOHFjNTZtRVpDVVdScHRuNTBfcHhCT2ljc01HVlp1aUNoTGtmcVF5Ykx1NWFDbm5kZUliNnpQdGRxZXZnQXBhUWNJV2ZTVExTWDNRRWhRLThKYkVjdGRHUzFLSkp5b3VWcmZHbmJyTjg4OVlqTGRrQkNTU21Ma25VZ1FndF95MG5ZOU50Nml3YXJoUVdKVjl3SHoxNXNsM3JaOHFqNFhJeWdKZDJWVUhXalBaRkMyZUVHamdwaXBfbzVOUFo5ZExNZzJObXBWZk9idndIRXBaWFFnOHhSeE5wdGVRVkhOaTdTN0tlOGhxdjZCYW1uMG5jdUFwRkhCZmZqd0h0Yzh2Q2sxSWdYaFFJcXk5aXF5eWt1M2Nyd0lUNmQyd2JWbEpqaXN1SGstQTRaYi1IYmxZa01Bc0l6cGZzZw?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Cloudflare"
+  },
+  {
+   "published": "2026-10-08",
+   "title": "Cloudflare Outage Today: Is Cloudflare Down in US? Users Report Blocked Website Errors, Security Verification, API Problems & Server Loading Issues | Cloudflare Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOVS1jVXVPeW5MOE9haXpGLVhYTUxVTVgtcTd2cnBKaGlsY3p0SGU1NnBDU0hXRXZMV2FoTm1KaW83cnRNcDZzOGZJcmFiNWZjZzNNM3NZOWZXZ2FPLTlPWU1IUzVLdnVRYTVHOEk1SzRrZ1hNbGVFTzhuWkM5WUVVdWZibDZvcHhDUlJrQTZwT1RjS05oWVhjWEVFVENHZl9zWEE2MFJCeWs0akpLSUpfMXJSRXJHcVlIVWFwOHZDb3NsZVdlUGh4Z2ZmdEdESFhyYU5FNDY1ZmhNeHY3OVFFV21UeDlma0dVb01lZ2tvaWVDSl9VYUp2SUl2TDdoUEM4SWNaZi1uTk1GUXN5cUhfYjJTV2dTTnNEbDdZWTZEY1ZYV05iWDBVbHpYZ3JHUGNaMFFMZzJ0dEpMWlBxelHSAcMCQVVfeXFMTmxrMjc4NW1CRXZIMFlFaExUd2RCMk12R0hFMzZpYkdMTGdLQjdwT1h6Mlk5enN4Qm10bGhxRUxLNThyd0ZWSElmWm5uc2hrejA2T002QmwzQ2RDNGpQWlhJSFZqckxsWnk2ZWJDVzFQNDIwd0tYc200WUdhRU8yanBYWTZjcTRZajhCMmtaUzJLSzJDeWVhRXJLRHVQUkhYcnNBd3JPWF83MFQ0Q3hxdlNQWXB4LTNQX1BGRGMwZzl5MWo4WGoxVVYyU2tfWlp6U1pTNDVfUXN5WW4xOXNyakhSRE1VRkJRNy1sNk53WnNMVXpsdEJoS2V4Z0R1d043N0M3SUZLb2NVNFJvRExVS3lhUC1EYTB2blFkZjlnemUxVEtJTmwzc2FmdF9WbXo2Ty1ETloxcExEWDkyRFhURGxQQlE?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Cloudflare"
+  },
+  {
+   "published": "2026-09-29",
+   "title": "Is Claude Down? Anthropic Confirms Fix for AI Chatbot Outage",
+   "outlet": "PCMag",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV3NXLURwYzFCcXNma1R2U01DdVNWMDhQeGswQW1qSXh0eE42Ry1XNjdKOTVMQmt5emgxRGNTVHFPX2RfVzRIUUFKN1JoU1BWUk5lckRjak0tVGYyOXVvYmlDNGtqMmd5VC1oRWV1MHRncWE4emZ2a1ZVRjVFQ2NxM3dtT1JpV1hTS041bzY5bkJuRDFC?oc=5",
+   "matched": "Is Claude Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-09-24",
+   "title": "Apple maps not working. Is Apple Maps down? Apple Map outage",
+   "outlet": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PXzFmZkVoMm9SSUI1clpVczRaelJEWTBySGI5NERHWEJCX3MzZ2F6bkN2Ni11QURZel8xSElzN3Y3Mjk0am9zbEhOd0dvNVB1blBQRlRMZWsyS0YycTVmV3VuY3kwc0gxN0pETDhUU0lJbHUtZG5WTi1lcXA?oc=5",
+   "matched": "Is Apple Maps down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-09-10",
+   "title": "Microsoft Outlook Outage: Is Microsoft Outlook Down Today? Thousands Users Report Problems Amid Outage Surge; Check Downdetector Status, Affected Services, Countries, Email Issues & Latest Update",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPRVVuTm5QNThHVmk3WWNlMG1zdGR5N2pnX0RGMnk5S29rNEFZSU5DQlU3SjJkNjlmWTJtRXlBeVR0WXpfU1JZY1Z4SUNxR3NDa2tYQWZyendKcDQ1b2Zmcl9LNGRlUEVaZXVSOV85NUFwSnU0UUJDcGhCckw1WHRPaXZkZ1B4b1kwc2h0b0J0MVlIck9ZTnNkSmxGQnhmY01JUTFHVzhrZnRMV0daSjhKR0NJM2o2bjBKLVpGZ1M0aE1hUVB1d1BwVnVSdmoxaVd2ckp6SWpJX0hPY2Nod1BZcHdHamRweGhKczNFT3puN1BfT1JwOHVST092WW9Ud01Zb28xRXZJclZPcDhaNkJpdm5wVHJMWS1QYmF2WmVNSEgycUFZWDNyRE01UnJfZ1ZsODNXbGRtelpoUFdaRmhnRjRFTkpIWktfdktnX3Zxc0dzd9IB1wJBVV95cUxPNG1ub0JRT1RKaWwtUk1WUG5ocUk3TnM1ajFvRnNZX21Hdll5Yjd3Ri1ab0lTV1RwZmZQSGpnaFQ4a2J0N2o2MWU2MUlFaWRCWndicDBHdDl1RHR4RkVtUzB1S0c5Z3pzQjlVVkZsZk5uRkZCOVUxX0M0bnk4X3lKZlYzZHUwekxVOWZPUjQyUTB0NVVXOXVlV1NxMkxYdTVnU2RnT05uaDBvNXR1el9hTHNqYVAtUUdTQ1hpc2hmTmI5VVpuc0xXUzhwMzkydWpoNGVCdUxVWlUtZFd2bmd1NlhLX3RNTzh3WlFFQVI1VEtvdVEtYXpyZHZiWU4wY25rS0N5LXhOVFhPMWU1b2htczJMLVdsRTVsVnR2TzBXYWN5WVFPNHlOZ2JnRXFJNjhrQW5pSHhjcnQtOVcxblpCUGpZbTY0c2RPUVU5dENtVXZUVGRENFFn?oc=5",
+   "matched": "Down Today?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-08",
+   "title": "Microsoft 365 outage. Is Microsoft 365 down? Microsoft 365 down",
+   "outlet": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDBaT2s2V0JvR29zUTAxdWk5c2RqbFlUM1hTVUV4REZOT1VBbllJX1lhMG9oVkNPWGdzOFdsaG1BY25Ka3VNX1ZrUDJ0WExTVU80blNGcVBzcl9KRlVveEZ3WjMzaWUzcUtGLTdPNjhGRkNYWmZJQy1VS293UnNGS3gwVVI?oc=5",
+   "matched": "Is Microsoft 365 down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-08",
+   "title": "Microsoft 365 Outage Today: Is Microsoft 36 Down Today in the US? Users Report Outlook, Teams & Other Microsoft 365 Service Problems | Microsoft 365 Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNc0xHaGJ3QktJRWpkNVBvb3daaGt5ZUFKb2kwQzVPb2FYT2hZeThlY1NHV3lGblJQc3o1YVdwNWhuTk9weUhuUFJXN0FMR0RnZ0RtRXlTNjVGUDNUSVhVRlpZUEwyaVV2cVpSY0hXbW1KZk5EcUxEVEIzYUlWMThjdTBIZ3lGOThjZk52a2RZdHNWOExfV2ZBcV9xTURrMF9UUHYyYzhqZUgxbGo1THJ3Y204YnU1UkE2S0V2bERmRFdrS1hvZHJNS1hrVGxJSnJpQkJ0U3FsNVpUaGI4UzlGcUhzY2g0NG1IaVpRQVF4bkI1NFFZMncyWWJCMWlZQ1dzeTRkN0RPZFIwaEJRX2owN0drcU1yQ1VlV0FXUWJnN2NkQjM3c2lyY2x3UmVVdGVSeGlCdlBSUjZyRDdO0gHCAkFVX3lxTE1fV0RfRDJJbTB5OWt5NHNnREdZMmtoMWo0S1VCNVZpZXlaQ2N6THMtNU5zTUZ1TXFxY2dXSklZbk1BNjhSSUwtd3JxRXBSM2lWSDZrN1BRVzlzVWwyU01rbFZCSV91enZvbzkwYVM3Y200Y1hEOUVkN0g2SGc4NUdMclB1UUhjSVMydVM1OVV0LTVnY251SFRXaXpLcHN0cE8zTlFDY2FmQkVBUDNmYjE4MkR3SGFlQXNpaDRCVGtZZHpzRDkydFZCenlqal8tdUpPQWs5dnlMTHRJQnY5c09Gb3ptbGkxTkJEbWZJYzBieHhyaGVIaHNPZEFqelRzZWxWVW05alFKa0tkeGk4ajk5SHNVNzNlUWdqTHFnVGJqbXB6UEdpbUFpQ3JHc1RKanhBX25sRU50OWZ2S2gyWklOZEE?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-03",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down Today? Users Report Website, Receiving & Sending Email Issues in US | Outlook Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQeUdEalJHOFhpVzdLY1BnMUhBNWJBUEtVS2Q0ZnhUVllfOVQ3Wm5ieUNqdzNpYmhVZ05HRkFwaWZPcFBYR3FnaG10OFpkTmZHWU8zTWZBenpNQV85X2YzLUszZ08yUjdzTHBYX1YxalhQMmxEMjlRZktCOEpEQ1FlcjVGd3BBd2J0SkUzOHBleTV3Z1AwYXJ5ZFE5TU1NQmxSd0FVamhoY2htXzZ2UW81U21PMDVJN21HRjlIUFpOVXhrdXV1dzhreEpWY1ZhQWwwcUowbE9hZHN0VnZtMno2SVVOd19hX2xVSmlpem1oTHMxLWhHTzFLUlBKeE9SbmkxMVhxYzliU20yWndObEhPYtIBlgJBVV95cUxQY09ndzdibGEyc25OV29ELVJnNGhsd2ZLSkNJUF96SGNZQlR2UGFDUm9uMFY4c0ljNk5qQUJZaGV2YVNiVUJobmhIMUFfeFA0WTlwSFNXUHNrT1U4cjhFb0treU5HdUJYbFVUYVZTcE1VZ3ZGUE1PQ3JqRkZMMF9qYWdWR2VFeXo0SUJkQmFtVlFtTk1melZFbkx2QldEc05uWHJGQ0pzOGlSUXpXbTNldm1XaGdfbVpIdnhRS1RPUW1ValBTXzhRRHFWcXg3N2ZOazJyNkxsT2hBRTlNbjZtYl9FUmI0NlVELW9WZ3BRdTdLZFdfU2hUNDRsMG9vcFU1STBLTnUtOEItbFFOSUFSa1QySGt1UQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-03",
+   "title": "Is OpenAI's ChatGPT Down? Thousands of Users Report Outages Among Grok, Gemini, Claude",
+   "outlet": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWnNKWTRrdU5DYnJldnppZUtidWlUMXJPQ0w2WmNhamJZUjlfN2ZZX2tnZ0RLT2xjZFhLU2dxQTdUQVMwem1wZlBobTFzSThidEg1REpGcTluU2ZnOEVXcnhXYWl2LWZYRGhvcnJYbnE1N2xmU0o3ZUxUTm00UGlLVW0xQjk3aHl2VmRTVGdhWXVZZw?oc=5",
+   "matched": "Is OpenAI's ChatGPT Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-09-03",
+   "title": "Is ChatGPT Down? Users Reported Widespread AI Chatbot Outages",
+   "outlet": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR21vUEt6eWJBVzVTakRRdTlLNmw3OGxZN2lVRENuTUZwVDJJZmVqRWQ2WElFMzh4aG52ZjlaT2FNUkVWU0M1YTFfRF9yaDhxbllmdHppNERuN0hSRTdyaFRUZTM0eU9MWTZvN1VsMkpULTRMek1QZkNjSTVLRHdlWHJxOUZ6eGZtaGNRTnhFQm4tcVFRWG5HbWN5aUw3Sjg0WVlwcWthRExFdEdI?oc=5",
+   "matched": "Is ChatGPT Down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2026-09-02",
+   "title": "Outlook outage today: Outlook mail login down for many.",
+   "outlet": "Asbury Park Press",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzZnSjVpWE9wUkFITmdEVXpXeTNCUHh3WUxpdWduLTRpcVc3dlZ2Q0lLeGhvNk9lbUV1TGFfdGRwdGg4RHQzanEwYU5OMUptTmR4QWwwVHVEZU94bS1DU09BdzAzOHRXREdPM2dtbFlyRDNCOWlRM2dpN0xGTW9wdVVuRzBzTFFfT3Y1cjJwNTcxVy1tNWNmdTA3cE9wMFVEWk1Hekk5RUktT3p2LTNFYzVnekFJNWw5NjRobU9laThnbV84ekE?oc=5",
+   "matched": "outage today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-02",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down Today? Users Report Receiving, Website & App Issues in US | Outlook Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNVZpRjd6WmQya251WXZKSnZzZDNOUjFwMUI2a2hqeUQ5My1ScGxTQWhGNzV6eXZCSHNSYjVJMVhOajJsczBGaHd3SGNGLTNsXzcyRUtTMFBzVHhIaEhELTREcnlWUWVNeklqaGh0THI5bmcxX2tnZ0YyT1NiZE9SbmJuWHczY1d6Wlgtd0lXWjBJSng5NXp3SkFYU1ZwT2kyNzRjUTBJcUZqdDRuM2NlaUpyTWFuZUFLZ3RaSHo2SEd5VE1Icy1YZmxSTWQwUklBNTlPclAwa1RHREQ3RWJUNW91Y2xra1ZnOUF5QW9WcER0dzM3NU9qNWFpMEdEeEUtNENr0gGIAkFVX3lxTE42R0djUTZLTzR5MTBlWmpfWjRKVUFFV2JIb2V0VnJ4V19uMTcwSDdfelprcUl2bTRVazMwb1ppcXVjTjE0akVTUzQ5T0lyeDE3NE5DWlIxNW9neGdsWHNwMDlZVHlWRWhZS0hXWXFOOHlhamtWR1IyQkNSV2JKVW5rQVlDdzlVb25rTDRyc05MT2tCazhRb2RZZzhuXzJOdWJ3b0k2OHRUczRnZXk5WW1vX0lZNXM4MkNaVThleDFCQXpaaldwR2dJNVU1WXFxVDgyTFI5cFhpVWQyODFPZUZ4cXdKQmhtLWVwVHp4Y3A5MUFXc21OdHgtOVhhN0xOVG5EZFFLV2tJQw?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-01",
+   "title": "Is Microsoft Outlook down? Thousands report outage as recovery begins",
+   "outlet": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0hDYzJKOW1pRU9fbzU1WnBhSlNTaGdfZHNEbzctWEk4RzYydkttTXhpOW9nMTc0NkRpRHhuSGxteC1HTFVJMEViQlpTUkQ1dC1CblNjVlRybnNLWWtNY1c2QWF1Mi1MeUhsVG45Y0F6a2daVFRDUGVlRlFoRmx0aDd2S0hlaG4tR3pnaEJNTXRlX3pCMVRldk04bWVYcmNjYmUyV0JRWmNLc25jQnMw0gGrAUFVX3lxTFAtalJGSkdBLXRTSGYxUU5XemJLenhTV2NiZURNOGZIM3lXS013NVl6VWhIaFZvYk10aUo3OTJRUE1hVE5pajhSRzNTMUMwUzFORTU1V2tyT1hhQ0pYOFRhMUlKdFZvRHFnRHQ2QXVNd3puZlFTMGFxNFlkaGVMM2EyX01xbDMwbVVHM1JKcTZvSmtmR0ZOTjJMbzBGYUxHQ253c0E3U1pveWZtTQ?oc=5",
+   "matched": "Is Microsoft Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-01",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down Today? Users Report Receiving, Website, Outage Symptoms & App Issues | Outlook Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNTdXV3Z5R1hGUENHQ2I1QkNaQzY4aXFyb1BwZjh2YmloYTZMM1NyMEN0ZlI1d3E5NzNiUm9yYWlhRl9FVkUzYXBLRWR2UGd4aDJjdzF0aGltaTM5X1EycXZwQTF3MG5lU2V4bEt6YkZMMVNfRUpmNnBTcUdvV0tuUGlQVEpvbWtRWFV6dGVKLUo1SHpqaHRndmRhMENRbUxoWXd1cHhaeDJOMXpCSlc5TmNZTk9tSUl5cXRraUE2SGpXRU9rdEQwNERQYnZFTGlOTFQ3ZE5wTmtybXNwZ3JvZTFhSmtiUWhuOU5YQUNzdi01VklVTEhWWlJNNNIBgAJBVV95cUxQMnNBT09BeVdOSkhxQmJ2RGozSnhheTAwT2ZxU05fcTVCYTRXM1B6N0RtbEVTalEzSUdYRTk2ekRlWUI5RUhVa2R3VmlDMHk1bHlNUlpnck5BSmJjaDZZLVQ5Xy1SRVg5NUJwMExGN3F1ZmZkZlIyWXlVUXZra1dQQkU3d1pXRkxlYmRMNGo4ZjdySXFMSG42ZVVldVBKU0xENzBZOG0wY1QwaWFCOW1MSkFHWGxndE92VkxOd252LTdTdTdfb1F5eWVpaTdlU3BLMFczMG9XU0Y3SXo2M0tRNmhvV3RqOGNTeEFwREQzTkRVYjZqemZfWmFqSXl2clZ2?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-09-01",
+   "title": "Microsoft Outlook Outage Today: Email Service Disruption Continues as Users Face Login, Sending and Receiving Problems \u2013 Check Latest Status, Cause, Fix & More | Outlook Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNakYtT1VpZjlkbHZ0Nl9tYzM2cjNJMUU0d1NSeXk4ZHRhbFN3QjBHd205LVQwQzlndzV6ZldfdDF1c0RVdzNvUy00NUFBcVNiUmlkOVpoR2tKcXl3dmhSbkJINktVd0RsOFhFV3l3d19US3NnSzFsc0cyWEFOWEN1aW4wS1A3d3RtRkp0VExQa1FHMUV3NERNaG1TTXdwbUpMa2Nubklld2hGUmkyejhWRnRiVlVIX2NJQVlZU1p0dUhQSXEwZWFJRVZpeUZPdzhVS2JaMXNEdVBGTFhRX0Yzd2VwdTA5MU5yQ2hkM0w2aE01ZkpRbWZZQktfZmhERmZiX29IT1FiOEZGT0lkV1lLUmM0Q3g5aUNGNFkybmN1MlNMc2JtYTlwYW4xZHZUZ21QcUtBU005N3ktd0hHUzlOVWhBdXJ2eGPSAcwCQVVfeXFMUGFKd3h3VFl4ZUUyNF8zWVZmMzF6MFRiazByMWtKMjJhOGk0WTNRQTZSNkFvRjBIWFE3dDV5cExQTW9nNW9MRElRY2Z0Rlh6WWhTT2RRRWZrWEt0OE80eUwwUjZ4ZGFQVjluQUx4LVQ1V3VyOHFvZWFBYkZpVERVTFEyZUthV0RibXZldnFBbWxWRUZlbnJnajRSeUFSUTJCRlkycG1CUmtwOEVLY3poRDdDVEhzcllQZUZaakhNaEItVGtRSUFQXy1LVjhXOXlPUWJuUWhPTUw1MVJvemQ1MlEzbzhIWF9TUXdJRHV4NElqbTRqWTNBeWpQamFnWHFKRGNUNG4xX1VZRTVDTmJoOTVzclNxLVhaQjVjN3dVVUp1RW9xSkJ2MllXcVh2ZmJOSXNYTTU1ZmdQUFU1M2ZZRXM5ai0zbG5aZGI0UVo?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-08-24",
+   "title": "Is Claude Down? Anthropic Says It Fixed the Latest AI Outage",
+   "outlet": "PCMag",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRTBkdnJrRXAzd1F2OGg3bk1BdEpCX3dtTmFIRlhiLUtTR3VwZ0haQS13bFVZSGdtQUh6XzYwZGN4VFU5RVM2cjNpLXB3d3pEcVBLX2NMdlJRZi05eWo3WTRJaTd1dDZYZTB6NFNGZC1uMzVXZnpoYlRRNTdKV0RPLWRtaWlmbm5mdTh4M2QtbnE?oc=5",
+   "matched": "Is Claude Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-08-22",
+   "title": "Apple Pay Outage Today: Is Apple Pay Down Today in US? Users Report Payment, Purchase & Funds Transfer Issues | Apple Pay Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbnJYVFZFOU5WazJUMnAwdHhDWFhYbUtHNlppbTJxV0JhUVc1LWlTRUhmWDNraXZQVmgyYnF0NUJrdGZRVGxEbXduYmVNbjU1QzBnMVdHM1d2WC1ZdHpueUtlZU02OGhxcVFsT2hvVkJoYkNtYVZsNGV1YklLTVc0ZEZaWGkzSEF2VVJ5bTFnWjFhWHdjY2tzNWd4NHJRbGpCejQwYWdMcEFGYTIwVnlMVmFMRzVFNUFObUEtVVZ6SUVScTVrOWpkby1lMFFqbFBsa05VYndRMjBJUjZyR3BCYUM2NmJJSjYtZGhjTTNmY3dMOUFaTnRUZXhvblZFblpWS0xjMW1YR2hWZ1XSAZACQVVfeXFMTjdLdzlyNEdHNEt2dkp3UmpHeVZIWWRPai0zQlFOTE80RVF2TGxzV1lBQV9JRXMzX0RfYVZESVpINm9GTjN1STF1NUxMUGFhSzZFYUdIYUtsVGFMTnpVWHdtbFdDdG8xQTZYLTh1NmxySFlWVnFSVnkweEJSMXJrNEtRcS1kOTV5TlQtZXBBYmRCVWM4eDVTcjhnVkp3VkhqbTBjdGg1dW04OGFLMVpWSU5wOWVObEdiWHBzYW5lNklLdXRZSFZjWWhwNTFpdTRzd3VoUUVEeXM2SVRmWTJIQUtBWndSbFo1TGVOQnotUVBPVXF5eU9vNnRLVHBQSUtTeWo1MlJKZF80T1RsRVBQNUE?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-08-01",
+   "title": "Apple Pay Outage Today: Is Apple Pay App Down? Users Report Login Problems, Cash Transfer Delays, Wallet Service Errors & Payment Disruptions Amid High Traffic Surge | Apple Pay Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOQXp3Zmh6TGhsazVITG5TSHljZUtFZjhhSVg3RkVlREhURm9NcU1FMnAzTU1lcTRlX0hTWVIzaW1NRF9XWDNuYXlXZ3VIdzYzRXAydE9wVWVWVUJQcXVocUFBY2lBZnQ1d1M1dTdRYzNycnFfSWpXQVJKSnZGb0R2UXdybl9pbl9UNjkxdUNENFhpV2ROTy1QSGx1bG9GcUpsTl9KbnpKOU9uR1RBMXNjNnFtanc1RjhvdGM5WTFUNHc0T1F2OHBNZGJqbVNvMThJUzZDQzhER0tKNlhpVlZ5SUZqWEFaTzIxcFpSS1U0LU5SNEpKSmkyR0JMVTktWUZ6OFVuQU8wUHJuTGUzcmZUeU5MbTJiYkxnV2tkZWstRGpCOVhLM1lqZFdQUk11MVdIQm1WcU5NbzlPTmNzR0gxNFNTVzRXcjRDTWprZG5kRDZZZEFl0gHaAkFVX3lxTE1DS19DdDE0NGl6dzFGZ1FRQ1FyR0M4TlR3dFBBa2ExRzJIQUxDSlo5Qy1RcEpTM0VXN21rTjlQRXBBOHJlTDZkbU1oTWxuc2xrdS15QTFtXzhuel8ybkszLXFMcnlGbmZQejQ5elZrMFdPLVBPLUdtWVFKRHhOT0xYeENkTEpXek9ic2s2ckhFSzA3TkI1TFNudEphbTFxSk9tOVhnT3R6SEJjSjkwR1FFVFNGbXotUXZfeHBqdWduLUpwT2lwRVVPUmlvY3BpNGdBTUFMN2ZGQmxoUHNIWDlqdlp4QU1zbVo5ZTNFVzhrM09QZkduc0pmTVJUMldUYjdSTmZWN3ZjOExZbi11TmRha2ZCclhtdnVkakV6U1BuUktIdWpVbWg2WHR6U1BDT3pjMFdEVWZLeGxhTml2dTRIQWRSN2JFcXo2Wk1NeGg3RTNVdTh4ZHhUeEE?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-07-31",
+   "title": "Is Apple Pay down? Users report disruptions",
+   "outlet": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGprSTF5SGFkUHNuZVE5QUVXM3FBbVJOUVB5MjJJU2Rid3Z2Yy1hOWdQOUFpUzlnYXlKYjJCM0tTNDVuMXRLRTBZM1QzdVAza2piUTZsWDZYbnlMMThmcFRRTHdIcFM3Q2lJRDN4Znp1bjlMbk11SlFVSG1jRGNDYW9oWVMxb2ZxWDdQbWdR?oc=5",
+   "matched": "Is Apple Pay down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-07-31",
+   "title": "Why is my Apple Pay not working? Is Apple Pay down? Is Apple Pay not working",
+   "outlet": "Asbury Park Press",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXQzUS10UU50VVB0TnZyaFota1N6dFlWd2ZRTGJtYzQtR0JQSFFXb2tDSllQZkxkbFJRUnBIOVpzeHNqMkh2Yi0zSnQ0ajd0TnNwSFgtMEZPWUJCUXlWRzV1bFFqWXg0X3V6Z3lfZnR5N3dtQkxfSlpWcHJjelhrSS1YR1phRFlJVFprWW83Rnloc1dTcU1BcVhVNXFtYTJUZW91ZlpuZw?oc=5",
+   "matched": "Is Apple Pay down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-07-29",
+   "title": "Is Claude down? Claude outage impacts thousands",
+   "outlet": "Asbury Park Press",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0JFTTRkRzFPLU1DbGU2R2pxSUpORzNVVTVPUU4tbTJ6WFYzeGwzUUpfUXBDNzRNWEt5Nkkya3NuU2NfQ0ptZVVGbVdjN1M0cnJiZm1pUU1KancxTm02LV9MdFpKZnExcFhJdTlmNUVqTkhYVVVtY3N5US1iTTN0aE1DMFBJNUJOZ0xIcVpuVnJmdTBjS3loU2liR1FPdFN3eF9qRHlXNjlQWkVNVjNSeUhNUXp3VnVyOEFsZWpocXJiQQ?oc=5",
+   "matched": "Is Claude down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-07-26",
+   "title": "Apple TV app not working. Apple TV outage. Why is Apple TV down?",
+   "outlet": "Asbury Park Press",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeU5sZVJXc2dpX2Z3Z05lSXdVcVZ3MEtMMkFTMGs0NXN1LV9oVnE2SW4wdXRkcS1VZ3lxNkxjOHhUUFVNbGhQdGtFb1d1M2lTODl6SXQ0cVpaUl9xOFhadHdRS1dXUjZRdUZvTFkzWnVQak5hcXpILVBQc1RPVXdIRWJtMmZhWW95a1pQQzZUQ3NOYVZUNTM0bVB5NVZaampQcE5IZzdHTEFVMzVad2VtOGdEVHpsdWZUeVVTcVlTVzhFUnctVnc3alE1R0h3cy1zREE?oc=5",
+   "matched": "is Apple TV down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-07-25",
+   "title": "Why is ChatGPT down? OpenAI confirms widespread service disruption",
+   "outlet": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNblUwUEFTdFZPVmI2czh6ZlFlYml4WWQwY1BXckNXaUhKUFRBTldKdmg1MVFaUW84NXZ6dWpobVhvZnd2NTNLN1huTnpMLTNWdTAyY3RHYUU2czhWM2I5RmpQYVVwbVQyWUZ5U2d5V2RmUGQ5VjBoTk5IbzZoTHN1dmpXdHZjeXpIOHJsTjJ4QURsU19oTFZjMDJrNlRORFhEOEhrQnNwQms0VEXSAacBQVVfeXFMTm83ODdkZ2wya096R0ZsYUp3Y0NVbTFkU0lNUlo0WmdHRU5NNXJoOUhJVm5wS2ZKU1R5V1hneXRNc0liRC1UVzFqUWdQaVotQXZNR2JhY2hMLWFBaVlFNmMyMGJoem9YWUF6MnEyeVR3QndjWWtIT2M0VXZMZ3FjVHUyVGxtWTBJbU5KWkw4RzV3bDRjRG9yM24ydFdvSW9Ed2ZMU1huZUE?oc=5",
+   "matched": "is ChatGPT down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2026-07-23",
+   "title": "Is Outlook down? Microsoft outage hits email, Teams, Xbox",
+   "outlet": "The Seattle Times",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMHlybUJ1WjBjbG9hRWZuM2xuemFhSXZVYlBTSG1fLUszalhVVE9MVXl4aWZVNFVOS1lwTl9oVHFiOGFTSHRURUFDbUwzWXVraWxXbG40Mlczd0pSTGp2Q1NUNXVUWDlSNVBITzRwbDgtWll2XzFRNXc3S3k2cUhnbUdoSGdGc1lrWTBPdHpCUE9lYlljbnZMZ25IR1VpYXc3dmc5cVlB?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-07-23",
+   "title": "Is Microsoft down? Outages reported for 365, Teams, Outlook, XBox Live",
+   "outlet": "Daytona Beach News-Journal",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmE0ZUNVVVNPbF81czJ3TVpyRlV1d1RDRldjc1B0c29pNDMweGRyeWgyYXBYdGpJQkZ1VWRYTkluTHVDTDJfRlFmU1RJQVZBazFqejg4YlhXNDZlTnBQdV9WbEFGSGdGTDZ4aDByUlZmZ2NjMjMwbkQzWlNQVnI1dUhvYlBrWmY5T1ctc1RnWEw?oc=5",
+   "matched": "Is Microsoft down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-07-23",
+   "title": "Is Microsoft down? Outages reported for 365, Teams, Outlook, XBox Live",
+   "outlet": "Yahoo Tech",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTVPcG9LclNZS1pfY2MtM21PQk1xUkcxU0hQeXMxaGtMUWJVb0pESFZ0UDREMUVzb3lGaWhTVUZMdlBOMlNqTmpWclRBR3FyeXB1cmJaT01fWWNleXdaYjJlMVZnd1JaLUJIYTcycWE0U3FzVVA5VzB4RWtqdVNmQXgtamhlTWJJRHEyV1RfdGpnNnI4Y0E?oc=5",
+   "matched": "Is Microsoft down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-07-23",
+   "title": "Microsoft Outage Today: Is Microsoft Down Today? Users Experience Issues with Outlook, OpenAI, Teams & Other Services | Check Down Detector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOazhVVTlINms4ZS05MWs2MmhnazZiMWVlczBZSk9vVGhtczBhV1Jfd01tZWdOMVpoS2pFb3ZRR1RxTDZtVDBFVXQ5VnAyVDYybjNJcWdWV0QtRWtkcm84TXpfbUhGc283WHlZendManR1UnlnUE5TMTVaZGQ1V1dITnJQVm1WeWhIQ0pua1piaV9OaFl0Z0NlUXhqVzZwa0ZfVHBzWW4tWlVnQVRBbm5UNXhiZE9uRnlkTHNYcTFZX0ZYVS1DWFRLRDVzUTFrMmJ2VnBzbXVLLTNqb0FPODgwNy1JZENOSWw3YXMtRU1wVFUxVVNWYUFaUXRLSkhtWENUVWxOa3JDMEFOc0l3N3JaZWg5ekLSAZoCQVVfeXFMTkNhTWh3WkFrY0tLNWViUkhPRURjTWdOR2JPYjE1S1hzTlZtZ2lYZ3VnNVNhT3ZLZGg3TWhiYlppNXVFVUpvMlkxNm5CNl84c0k2WFNQNHV4SDdqcFAydENVZHBxZ3F2VjNBMmlXTXlOcFJvNVhhZG1xVjF1TXp3TmlYQVRydFZPeDQwWklpOHVzWHp3U1huVXJmb0FJYTRZOHNMQVdZSGw3cFMxWEZxZXhwdTlwWWNxSGtPMFBVWVQyNTVpdVFoWWlhb2ZQS0hUY2ZjSnlOczBJNEFlTzlmMFVmbXllbXN3MUp0S0o0aTFDOHpFeHhMNkFLUWhUN1FYQmxnXy1HdFh1ZFJXNGdWdmhVQXFjeTh6SV93?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-07-16",
+   "title": "AWS CloudFront Outage Today: Is CloudFront Down Today? Amazon Web Services Confirms Service Disruption as \u20185xx Errors\u2019 Hit Websites Across Multiple Regions | CloudFront Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPRmlPLVlmUEwzMDNFQms2dFZxOXV2bTJnUjRhLVd0cUduYXVhZmQ3NTczV09aX1BtWktvWUw0M3RQR1NOdV9OQV9Vc292NXFkcHBDVmNubGFnbXNrV3doLUNXeTJpSHR6MXpVdDFvMk1NYkF6YXNOVDFjUlViajRxcXljU2VJdHlqSjhRbjl6M0N3V0lTRlhVZ0lSZUtBdG1FYnVyUE9sMWFKZFZuYjJQMnpDVm02dDV2Z052aUNiNU5wR1U5U0pyNS1QbV84UXVvZ1VRY0xEN2R1eXNscFJNOHFkRjN3Wk9aZWFmeHlhSHY4RUdxaFBnT1hYNnc1UHZlWVBIMndiVmQtd1o2MnJGVGdXd29qWkpfMnY2Y09JVEs2WXRkckVfTmtZZWprLUs2ZEZtdlNWZC1IejZrNi1OOFEzTXQ4SEVJZkU40gHQAkFVX3lxTE5nSGw4M2wxZFM0ei1wNXJqTFB3clp1LVk0LUtkMDFMRlBENDNWN1VuU2QzVF90bl8tUEY5ZWZsaTROaDl2dXhQUnVlZGJ3VTJ4XzJLd2d5SjlfMVQ0VkJfclRSUW9lMVQ3RkpQQjU5SXFJWXZyUUpkMWliWHFRanlPOFVtYU9FY1RVS215Zy10S3hlRDRfV0lMSjZET2d2bERIcV9aSTlEVWR5OXlLWVppclMwMklxekJDbkNaYmxWb3V5eHVCVVp3c0x2eVFVQ3BnRVFDTFVpcGxseVo0aE5QcXcwZkJ6bjZMVHllVnZqemp5U2dSVG5DbFhraEttcjJXNUliS1VhSHRmUFh3R3pfOFJpbmlMUU9JeDFCOXNZVWlGc3U0eENlMl8yRTc3eXc1US16dkxsaGhDdkI2WV9aczB2U3lqRXZzZU1JX0lzMw?oc=5",
+   "matched": "Outage Today:",
+   "brand": "AWS"
+  },
+  {
+   "published": "2026-06-23",
+   "title": "Cloudflare Outage: Is Cloudflare Down Today? Thousands Users Report Widespread Internet Disruptions Across Major Platforms | Cloudflare Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNSjJPd2lyNVJaV3NucEhDT2ZJMTFkT2ctUDVlZzBZbXhNTVAwNzBQWllqNzFiTlN2eXk4amV2aHVsZDlpRUNodkhwX3lLQV81MnFSV0JNZkxxVzQwYjJLWkFrWG1hUG13d0wxUXFXaHpVN19MWjFZZU9ORjJKbzExTVFYSWdsY19vbE8wOGgtSkc4Rm1CcjNfa3F2STB3cF9UN3JkTHRQUzY2YTNpcWE3TVNySWlYUzFQdTFQeWRrSk9IdGZ0ZDRpU2J0VUhSamJ6UlA0Q1RSS2paOFpZcVlTcTRfb1BHeVpnMVpxN25LU3lFYUJXOFhCdjFLcDFXNlNodFhfM01aSm1McFNjdXFiajBteXExWjhDNnAzUTgteFdncHFORmfSAasCQVVfeXFMTUlxTGpnRlZfWWVITWJBM0JzTUZ5OWl5QWR5dkQ3cmladXh3cDA0MmRqOUl1N0hDMXVvNVV3QXViUzVSTmNuMDR3SnZPcTFIb3B4czUwX1AyUFI2WDFNODhfeFNTUlk4YlM1ZVphUG9nVmpkbXA1MXNtZS1rYk5acGN2aWMyd2RtcjNjU0tRb0JLWndaZHNPZHdNNHU1MEk0Z00tMk9GVlNPaWhRcVJDUWxBSUxRYlBiWmtlUXUzNk12QmNEU0dacmt5OUxVRG5ycXpMTk1KWmU5OEVTeFBBZ3hWTTNvUlJlS2hxTTBEcHp0cmJDS0I3QUhmTlFNMDI5NGhpX3JTaVFvS0k0UEVNMjNGTVJET1J2cTA2WUxVSzB6UE9fbS0tbkJjOEU?oc=5",
+   "matched": "Down Today?",
+   "brand": "Cloudflare"
+  },
+  {
+   "published": "2026-06-18",
+   "title": "Is Claude down? Users of AI chatbot report major outage",
+   "outlet": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQngycFdnVmpPVGEtbC1TVG5jbDFhRnZhMkUyYThWM1ZpT3dob2dCQVdibzNQM0I4WE4tT1ZrN1FUOWJ5QWZvY0xKZGJld0RNbERuOEFtSDFXVXB3Ty1abFRIbXJIaXdVSk50Rk1HZk03VTQ4cjhRSGlLVTZGUHNEM0pYd1pvcjc4bjVkcnR5ZzBBdHp5NWZMeWRfdw?oc=5",
+   "matched": "Is Claude down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-05-13",
+   "title": "Is Wells Fargo App Down? User Experiences Glitches as Customers Report Missing ATM Deposits and Balance Issues",
+   "outlet": "International Business Times Australia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU82VGZhVHV1U08tanBTRVRUMDRUTmluYi1NWHQySDRGMTlrMXdLcnBybDBMejZmWTZjRk1JejkwcGk4WE9TbWV4UHc0NjVQem1weENJVTNpc0JLSlhVa3RqNW1xMHdPLUwzaWtBQkIwNk5zRHZiZmx2SzY5bjctbGo1Y3VPWmtXR3dSRVRrNGd4dEpXUDBIYjhlRDdOcVVEZjBzRkYtVzZLNmd4QVJhNzRCZTFYMFpFVDdpRnhCandpcnIxQ3c?oc=5",
+   "matched": "Is Wells Fargo App Down?",
+   "brand": "Wells Fargo"
+  },
+  {
+   "published": "2026-05-07",
+   "title": "Outlook down or not working? Microsoft confirms widespread service degradation [Updated]",
+   "outlet": "PiunikaWeb",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93bERZYTdPZ0xDaWxOWTFGcVh5bGg5V1llSmZHMnFNdU5oMmNCdnQ1aDU3TkoxcG1IVjZqUkNab1dlUkdoM0QtNW04THMweENiZS1OMDI5TUFEcGlTQ3I4ZVVwRDlJUmRRcDI1Q19VdGdKSXFGSnc?oc=5",
+   "matched": "down or not",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-04-27",
+   "title": "Is Microsoft Outlook down? Latest on the outage impacting thousands",
+   "outlet": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3UtMXl4NHktYnVhWVd1VUp4WmlBU2NGUXhvbzFKMlkzeUgtY3BrSlpjaXRSMkp4RnR2Qng3cllQVzNpMkZjdi1DNTRxRE9IQmZQWFAxdWRSbml0OTlYcWRFYXlaSWJWMEVKbXhnN0pKZGpoMUVLdWZMaXFmSUx0V0ZOUUJlQ3NsZU9QYW5HRFFmVFE?oc=5",
+   "matched": "Is Microsoft Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-04-27",
+   "title": "Is Outlook down? Microsoft users report email issues amid outage: Here's what we know",
+   "outlet": "Geo News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkhLcWFVV3RzRUt2QlNBYm4tRk1XZjhuMk9DR3R1VGNHdk9neHlIekVSOGlqUVI2NHJ4QXdET0VHUmM2c0VLeXoxd0pzY3ZCenIwclI0MkV5VFYwMzFrcnZKUjQ0dF9uQU9XbHJJRnA5OVJPQUpaa2FISkFhVkphSUNOaFRqNVlHTWMtM3J2U21xMTJpWnB6RWcxYm9oZkFDemRpdVNlUTVsQ1A3WmVwRjZ3UHhmZw?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-04-27",
+   "title": "Is Outlook down? Microsoft email app hit by widespread outage in UK, US",
+   "outlet": "The News International",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ0VkdFFxdTNUTEZ2RmtQeDFpaEw3czhJbU5nc1F0TERTMlVQdXVEd3dWWkFiWk5PYjBrYlpmZFBuWVBRMHd0ZkVWdEhnR1cxVU9weGtUUWhLVzhaOHNVOW5zTjl4LUdWdEstTUREOVhRcUdhQnFFVUZGNk1ZVnRFWFBOVENjdWxqNlNaQ0dJRFVmVHVfQWxDY1dvRkpJTGVNQkVpVzVKTW4ybjFuT1hsd9IBrAFBVV95cUxPamNUMUNlMHlJdmJua082QjJOUVRnUHdFcFhlZTk1V21CaGZnYXhRaFVJdVBucnFjSTZtU0Y1MnFsUjBYNjRZVHA5VHdicUZYTHBaQkhkdEg1RVpobUpDRGptYUg5d2s1bV93c1R3dm83cUpzUzZHUVNMRWx5Q2E5WWVzNV9CY0F0OUZ3WlVTZnJTeV9Rb1h0eWNtUkpYbmNJcXJLT3JGRzR1U1ZZ?oc=5",
+   "matched": "Is Outlook down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-04-20",
+   "title": "Is ChatGPT down? OpenAI confirms outage as chatbot users report problems",
+   "outlet": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEpCQ2RMUUxiaktoMWJRUHhSend2YzhSNm9WVEtkc1JEcTIyTFAtUHNKOXMzRExySmR5SE82TGJfM3dlWjlZdFEwTWJzTFNHZW1mY3U4SGFDQWx1U3FoLWc3VkJhd1lmRWZPREs0bnF2ZE41aWg3OWFVb3FkRWYxUXV2Z3h3aExpZnRrWUNRZGg?oc=5",
+   "matched": "Is ChatGPT down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2026-04-15",
+   "title": "Is Claude down? Anthropic confirms Claude outage, problems with Cowork.",
+   "outlet": "Mashable",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzYjd3cFVvOTVTblYtRXRTVTVQMHpzdE5aeTFkU0tiVURDak1LTTdnUGFTSWRTQ2lYNlQyN3MzbWdudmxobEpMdWNYWWxSZlJob1JzZzFkWm9IS1RmTjd1alRCRnY3NjVPYy1WYWFR?oc=5",
+   "matched": "Is Claude down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-03-02",
+   "title": "Is Claude AI Down? Anthropic Comments on Worldwide Outage",
+   "outlet": "Newsweek",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xbjJnTGlJcmoyWGJFS1VXMlRSMlNIQ3FpRnpESmlVMUdNdGN5NXEteTFJZFZOTkJIbTljOTZnQWY1cW9Ocm1Hclo0Ulc4bGpmV3AtQ2RNdkZYWFNGNkZfWHlGNGlRa0s1WXBkUWlaOEgxN0E?oc=5",
+   "matched": "Is Claude AI Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-03-02",
+   "title": "Is Claude Down? Anthropic Says It\u2019s Resolved the AI Tool\u2019s Outage",
+   "outlet": "CNET",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdEQyeEh4Wm8zTFRlVDc2bzNiRjJuNVlHNzY2b1ZVRUhIRm1WQzJVem83T1Z3R3UxQ2EtWW1UYW9GVGRkMzRMVWl6NzU1cklaUXdoMDgwR1pVdGljcXZ4MlQ2S2VRdWxBRXNpYlhTbkxMbzZPODl2VVRGMTVReXpKUmZn?oc=5",
+   "matched": "Is Claude Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-03-02",
+   "title": "Is Claude Down? Anthropic Confirms Major Outage",
+   "outlet": "Dataconomy",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVVpTFkyZWg3UkJLdDdiaDNyaEpPSGI0dF9DMkxzZ3hGM0prWktHbThZVUdYWHNFbTJ2YlhaSjdnNG95WVZ5Wm5Ca1A0NS1JZVBid3ZWc3UzcFpvUVBqeWw2VDVueWJ1eXBLcEJocTFaSEprS2I2Q3czUk85RVNCU2UzX1BJZW9f?oc=5",
+   "matched": "Is Claude Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-02-25",
+   "title": "Is Claude Down? Outage Reports Briefly Spike For Anthropic\u2019s AI",
+   "outlet": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDZFdGpjVFRucXdXTVhuR3g4MzRtZEVEWmlxLTVPYlNKRDFkVGdMUnNiTFVOeXhfbFRKUld4MFhFbTJ6Uy1yZDBBT3dwei1LUE42cEMwS0lJOG05cXVzN0dzbDBpODRac3d0S1VLd3NhLTgyLWcyQXh4SG1TX1p0Q1FEMUVjQVJHZGxUSU5DYk9uRk05c3hRcUVFZnkxWVRKdWtZbTE4QjhBa1dIWng2MW1jR05xaUU?oc=5",
+   "matched": "Is Claude Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-02-17",
+   "title": "Is Claude Down? Outage Reports Briefly Spike On Downdetector",
+   "outlet": "Forbes",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXpaR2dlSVlTY2E1WkhOZ09rcFoxZmtsTlZwUW8tWEdBXzRPdlZpQXNWNGx4Q2lzTXZqYXo4ZHpha0tSUy1rZEJkeGNKTnJteFVsV0oxcEtwVEZFSURXMlJLN3JYbm9ReXZaYXREN3NSTU94U3R1LXBGOXdwTFZsYVBDRlhsdG56VDJVLUpqc29NMkk1VENoQnlJc3A2c1NFejI5N2RpVTlLYnhlM3RwWTlrX1lGOE5mQ2g5WHAxSmNGUQ?oc=5",
+   "matched": "Is Claude Down?",
+   "brand": "Claude/Anthropic"
+  },
+  {
+   "published": "2026-02-04",
+   "title": "Is ChatGPT down? Open AI experiencing partial outage. When it will return?",
+   "outlet": "Delawareonline.com",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHNjd09SU25hUjVGUktORG9YbHpHWUNfTDREYk1tekJKNWZtNEc5VzdLNzVmeEE0ckhhclJwMVBhVEIxOUx3WmFGcXJ0NER4aFduOTFOMW84ZW83cFJNRUxwQnRWUEJtLUVxU3ZUNkI5T3pnZ3pLMzNVX1M4RUktZ0I1Sk1nMHFqX2pVLVlKaFhHclVWVGtIYUVMZmxDd2RZd2RFY1pYbGFOTzA?oc=5",
+   "matched": "Is ChatGPT down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2026-02-04",
+   "title": "Is ChatGPT down? What OpenAI says about service outage",
+   "outlet": "Peoria Journal Star",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd3pDUWRnX1BGVVJXaXduRlpKeTFmbEhOWVhBZm1EUGVnNUd0eFJpTnNZRmVId3hta1liV0VlN0F2enVqNVczUzNhQllhT3BnOFhrMlFqNmo3bEFubXk1R2FjaFFsMmxYMENMZmM4VWd1c0FwTmhtQzlMNGxGOGtIMU5DVUJFNVptcmVoR2VXa2pKQnB4dm5CeHVreURZalhIUldXQ21MeHJtZXZRbDlNUVpkZzNwdnJadkhYZGxEMFc3U3hCTnFkVzU2QjBIUQ?oc=5",
+   "matched": "Is ChatGPT down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2026-01-23",
+   "title": "Is Microsoft Down? Recovery for Widespread Outlook and Teams Outage Is Underway",
+   "outlet": "CNET",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkdjbXBLYU1oSVl5SWZEYlpJMFJkM0tjN1FDNjFCODJJMUFSY0R0anRLbEZhNW5xTHJ1QjNZNU1UX0kwcDFUNXRGVE83LUNCc2JTZ0g2bi15dmd5Rl9iV0NHcmpFTTFkX2taNGNnT1pGTW8tSTk2R1U1cXFSS3hGa2FkbXlUSm45UXpKOE5TbVdCMld1RlE?oc=5",
+   "matched": "Is Microsoft Down?",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-01-23",
+   "title": "Microsoft 365 outage today: When Outlook, Defender, Purview, Teams will be back up? First details | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONElodVRldTdKMTJReG9udTZPOEQwZTZ6cWpRQW9NQlg1Y0dnQ0lHcUl5SDNDMmplSjhjcHdTRWhvY0UtVXU3c2pnZEt6Ry1FNDJnczVPT2RaYjRRQ21oeGNpeVlLYVAxUzFQQWUwNml1V0ZJR0tZV1V6Q1JEbzJMZDBUbTVTMG1xV2hFUkdSMk0yLThZTElhV0tyUWRJX3ZkNDVnNFozT01xV3docEx0ZUY5S1FxQ1JmQ3Fjd0F6b192SEtOZ1ZnUGxMRmE5SzR2ZW9qRTlSX3MwMDhKRHI4OWRhUXdfOXc3c3hhdzBrbXRqYWZPZGlN0gH8AUFVX3lxTE0tWGxhbEZFN3BLR21yeVo0R2tWeFhfb1owWWJTS3NKT2t5M3VmMXlYM19va21vSGhsRE05d1FqOTQ2SENHV01MbVkxRXM2T0VYV3FiRDlhLXByVWxLZjR6QWxGelotYXBuOXdFR0EzdjZ5bEhodzg1bjVwTlZoWDZJclJkd3ZxblZiWjhuMTd3QVkwMFJaOEFWd1NJRDI5NFhuajF0a0hDLUhOTE1rYV9VOG4tbm5HV0pyWDJkM2ozb3BNeUY4TmhVa05JRW5WQ3lvN0lCZHNlZGNfakh4QkRaSWFDN2Q3SXZ2emdJLUNSbkItOVlZSGZPcTg5cQ?oc=5",
+   "matched": "outage today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-01-23",
+   "title": "Microsoft outage today: Outlook, Microsoft 365 down for thousands of users; Co. cites N America infrastructure issues",
+   "outlet": "Livemint",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOMTJ4Q0dJVWtrelZ6U3NvbGhpM0ZhTkhOcUZSbkxNWDFqcm9tNGVRazVCYjUyVUFnbTE4VFV4Skx0ZFlfZTJDTnlGZV9rU05MVEthWlE5RHBXZHRqMlRNWVIxRUZQTlkyTDl3a0N0ZGk0c21ETkdwVjlnb0d1RWJkRXkzMXRKalhZeXI5WUlCYkhEMV9KdXo1Z1d0c3lSZGtvZWRGbnpscE1tUWxKTHZTVlpwYVBWTDR3R1o4Y0FaTTQ2QnZKM19zUVhQdEVKc0lDTnlub0pJMWFUeW1DSmM0U2Nhc1NZQWZEb0hIdjlwaDlVUjBEYkE0TDV0RUcwamfSAYQCQVVfeXFMT2JTUWlSbTJOdFdZcUF0eVNuRmxNWEIyRDJHRFdEclBsZ0xtVEhuNGgtVExKQ2RURExPcTlGeGp4d2otRXM5X1RiZmE1MURnNml1TE9TMG43NDA3NGQtZGEwbWNQeklvWHFNajcyd2dXRWFHYkJIX0d1cV9lSXpGTFIxdmFrRVprMEw1NElhRkZhX3BsVGpGZEhfWGpBczA4TUtTZnRjWm1MMS1aVUs1b1NPam1VcG05bmZQSFBoUzlVMDFvNGdIRDhQV25qa1BwVUNCRzVuWkpMLVdZMVZGZlNfb1RzajdCLTlLdTRwSUw5cFlZbDJZM1hUcEJhdDl6V3dsMmg?oc=5",
+   "matched": "outage today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-01-20",
+   "title": "Is Apple Music down? Reports on outage tracker spike",
+   "outlet": "USA Today",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUEtRQmJLOE5OeVFtRVhiUVRuQWhkd3Fva3RXdkYwQnZMMTZrenIxNm15MGhBbm4wa053SWdpQTl6Ml96SUg2ZExrVU9CWWNXZERuNjd0LVJ3MV9qNVRneHlsc3hFLUd0b1BnS0d3SVFCNnh0OHFZU2hnMmdoLUV1eHc4ZWd6Vk42QXl1V3IzQUxZRDh0cU9QTw?oc=5",
+   "matched": "Is Apple Music down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2025-12-08",
+   "title": "Is ChatGPT down? What OpenAI has to say on outage",
+   "outlet": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDR1ZDVjY05ReUZWbHgzQkJjQWxPRzFEOXhSR0hIdFRUMVdvN241V2tCWFVtT053TS1GWWVJYlJXem9uQzRLWm5CMjd4WnFqTV9lQkVPM2UzNzZiVDlxTnNKQ3dTUmYzcklsUTgybFRmalZIVFJxWjRBUDROVndaOWhHMWdiNEYzZE1HWmliQ0FZc2RZVkdfTjFBUmFfMWtpN2Nfb1lXenJWUUpQN1VKeXA5NGlld3VzTnVoSHJCaVBHY2hDTWdTMWhfY9IB0AFBVV95cUxQQ19SLUYtbzhucXlIcTdsSWRjSWhpSWdyMDdrM1g4T3NycWF3ZmVUWDNvTzQwZFhXZ0szcEtZNVlmUzJwaXNpZC1rUVRWaEgtU1NVOFpmbnBrb3R6cEpmSnhQTjVFbXBTNExOUWxNY2h2YnE0UGlscXlOMkxHcUl4Nkw4NVdqTmlBVHlLeDc3VVc0MEphVUtObjlMNjcyUHZkVTZNQzk4elRCM0ZMRVdEenhvZ0FraV9EZ3hNOVNOaVZjYk05bGJ1RjdTbS1fbXhO?oc=5",
+   "matched": "Is ChatGPT down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2025-12-05",
+   "title": "Is Shopify down? Major websites hit by mass Cloudflare outage",
+   "outlet": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlhneWlEVnBaVExuR05VTGVkSVdyNEE0QlE3anE5VzFURXNHS0VIV2poQmZzYU5iSG5HMDdzV09GcUl0N1dlQ2NyNkdJQ3kxakZGU1VOdXA2b0dJMkFBYWJyZVVVR0x1WVYzNU1KZS00NkZIeGEtSTJKSXVsWkJNeWNacGJpNFVIX3lxaXNZOXhqdHIyNHc?oc=5",
+   "matched": "Is Shopify down?",
+   "brand": "Cloudflare"
+  },
+  {
+   "published": "2025-12-03",
+   "title": "Is ChatGPT down? Thousands report outage with OpenAI's chatbot; Details here | World News",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMk9kNmxqUkJaMnRWS3cwdFNFSjZJWXpKYTBoN0xNd3RrQnBPZVFmcUpuTmVlaGdhUFV4QjFldmlGLV9kWmFtcm8xUXVUOU1BZ0djRUFtWUFnNDQ1eUVwUk9YTmFIczd5TjFiaVNWZDQ5Z3hnMXFGUkFOUFRtRWpjRnNZbXJkaE41RGhQc3BYWlZFZ2Fpd2ZJWWhudVN0NU82QVZhODlaSE1MS3VpcjlwcHFoZnpuZFhkbUljQ2ptRG1XQThBSzJoM19rRUc4amhxOHfSAdcBQVVfeXFMTk5ucHlSNjJTYzFMb3d4RDRramtNUjczSVpCSENKWi1lenlaVjlxWm4zZUJnMlpVSnc2WmQxRXRzRi05MzVobF8yUEh3UVl1R0RpelI1WEx4cE43RElKUzRxUTBoOThZbGNFNWxJZ2JkX3dkcGxlNlB3RWFEQ3ZWdmpPNnpFcG9PQXdIOEZNdV9lRWU3ZVZobFA4aHhDcWRuRGZYWUYzcHdqb3ZRT2tSMXhNUXlxLXkyaWNJRWdRZzFiNmZmdmFsRUdWSG5LSHp2aEJkcTRyeVE?oc=5",
+   "matched": "Is ChatGPT down?",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2025-11-18",
+   "title": "Why is ChatGPT down? Several users report service disruption amid Cloudflare outage | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPcHRmMW5Lczg0d25RNGUydldBLWg2WTBMelVydnprZm1uM04tN0R5YzRHOE5MNzVxUWlueGdlLUY2eEhiT1NfWWhfNERaOGtiOFU5WFV4cTZsVWFlX05VcTBGRG82M0UyMlh1dk1Qb3hobmhldG83VUo0X3lQYVRvRWdsSVFxeS1DWjY2MUF4cW5vZXNZeHpKdVp5U29pX1lpaThZU19uWEhsMkwxVGgyX2F6S3l0bHV6cWpIeFRKbmpOcE1TZnNpaGszMS1qanlaMnlxZ2lLMVFPOTVacTFKSkJzSjJleHZ10gHuAUFVX3lxTE1sLTBnTUUzVktGbENsQ2xuMFVLOG0zOTdkRWtjdU5VbmhRaEVDa29McEFmY3dVd2k4RGg0OEl4cGtIMVQyX0xENHJsaHhvYzl2eWVBOHpWSDNIcjNPOXRqOWxGWE9OdEJ0dW9QWmJqWVJjc1ZtSHZsbVFUQm91cXE0OURfNjNIbWtOUUVVU3JhX2VqOGluYnhNM1l4dk1ZT3FnbXNXT0U5b2lrVFdjWU1zRnF0dFo5T3pxZzByQ0RBZl9QLXVkS1NRZU4xVVdadTVGMkZncGVORnFob2JoMjhXby1vQ1ZEVWhNUW9XZkE?oc=5",
+   "matched": "is ChatGPT down?",
+   "brand": "Cloudflare"
+  },
+  {
+   "published": "2025-11-12",
+   "title": "Is Claude AI down? Chat not working amid reported outage | Hindustan Times",
+   "outlet": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWZ5NjFoeHRMQzh4VkpOSnFMVnJJdGo1TG5mSzY1Zng4QnBKOGFzbllwTGdLbTQ2TGxOb1dTODhvMmlpRV9LWG5IQ0NNQVpnSlpoY0lTVnhweUVBNFBNaVdYb3BxLXdMVDQ5NGg5bnozdXRHeFRqX2JSalNXdDFIVWFCaTBuZDB4aklkczVUclNZQldBSjhubkJJNE5fZ3Aza0FKQWJlUy1VM0VKMno0WG8tUFhXc0MzNDZjallnUVBwRFdz0gHKAUFVX3lxTE5Yd1FjVTRNYmx0Z1VHbFNMMWgwNG9DNEVXMDFjRmFiV0JFRS14V2tsVUVya2dQQWhfWWdHQTlZeUhNdHpKdVB3U3FJWWpDRXVrVUpEQUVxcFVsZEVkdXJQSFlFOEhmTEkxbkxhV0J4aWJmcWlqNWpfRC11ZWJtb3ZEdXB6TEwwYTluemdZTmNHdXlkYnBzWk9UZVB5dTliSzRuOFNndXZhWXJhSE9hNTZUVW45RjFZS3Zsc05GUThIUWp1aHNidTVQQWc?oc=5",
+   "matched": "Is Claude AI down?",
+   "brand": "Claude/Anthropic"
+  }
+ ]
+}

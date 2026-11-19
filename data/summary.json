@@ -1,0 +1,145 @@
+{
+ "window_days": 30,
+ "min_severity": "major",
+ "total": 23,
+ "per_week_avg": 5.37,
+ "by_service": [
+  [
+   "GitHub",
+   13
+  ],
+  [
+   "Discord",
+   3
+  ],
+  [
+   "npm",
+   2
+  ],
+  [
+   "Vercel",
+   1
+  ],
+  [
+   "Dropbox",
+   1
+  ],
+  [
+   "Microsoft 365 / Outlook",
+   1
+  ],
+  [
+   "Chase / Wells Fargo / Bank of America",
+   1
+  ],
+  [
+   "NSA",
+   1
+  ]
+ ],
+ "by_category": [
+  [
+   "developer",
+   15
+  ],
+  [
+   "consumer-app",
+   3
+  ],
+  [
+   "saas",
+   2
+  ],
+  [
+   "cloud",
+   1
+  ],
+  [
+   "bank",
+   1
+  ],
+  [
+   "government",
+   1
+  ]
+ ],
+ "by_week": [
+  [
+   "2026-W43",
+   2
+  ],
+  [
+   "2026-W44",
+   6
+  ],
+  [
+   "2026-W45",
+   3
+  ],
+  [
+   "2026-W46",
+   8
+  ],
+  [
+   "2026-W47",
+   4
+  ]
+ ],
+ "by_cause": [
+  [
+   "unknown",
+   11
+  ],
+  [
+   "software-change",
+   8
+  ],
+  [
+   "third-party",
+   2
+  ],
+  [
+   "capacity-overload",
+   1
+  ],
+  [
+   "config-change",
+   1
+  ]
+ ],
+ "cause_known_pct": 52.2,
+ "by_weekday": [
+  [
+   "Wed",
+   7
+  ],
+  [
+   "Mon",
+   6
+  ],
+  [
+   "Fri",
+   4
+  ],
+  [
+   "Tue",
+   3
+  ],
+  [
+   "Thu",
+   2
+  ],
+  [
+   "Sat",
+   1
+  ]
+ ],
+ "median_duration_min": {
+  "Vercel": 189,
+  "Dropbox": 160,
+  "GitHub": 75,
+  "Discord": 55,
+  "npm": 110,
+  "Microsoft 365 / Outlook": 2177
+ }
+}

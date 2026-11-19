@@ -1,0 +1,276 @@
+first_reported,last_reported,service,category,title,severity,cause,cause_basis,ai_link,ai_service_affected,ai_evidence,articles,sources,key
+2026-11-18,2026-11-18,PlayStation,consumer-app,"PlayStation suffers major outage hours before ""GTA VI"" launch",reported,unknown,override,none,False,,4,news,news:PlayStation:2026-11-18
+2026-11-17,2026-11-17,NSA,government,Partial outage of some internal communications systems,major,software-change,press,none,False,,15,manual|news,manual:2026-11-17-nsa-internal
+2026-11-17,2026-11-17,Dropbox,saas,Sign in with Apple is not working as expected for some users,major,unknown,,none,False,,0,status-page,dropbox:nxj9fhc24j92
+2026-11-17,2026-11-18,Apple,consumer-app,"iCloud, App Store, and other Apple services hit by ongoing outage [U]",reported,software-change,press,none,False,,39,news,news:Apple:2026-11-17
+2026-11-16,2026-11-16,Chase / Wells Fargo / Bank of America,bank,Customers unable to access accounts or transfer funds,major,unknown,,none,False,,14,manual|news,manual:2026-11-16-us-banks
+2026-11-16,2026-11-16,1Password,saas,Degraded Device Trust Authentication Experience,major,network,provider,none,False,,0,status-page,onepassword:pjzfk1k4w5bh
+2026-11-16,2026-11-18,United Airlines,transport,United Airlines outage: System restored after flights delayed in Chicago,reported,unknown,,none,False,,88,news,news:United Airlines:2026-11-16
+2026-11-15,2026-11-16,AWS,cloud,AWS Resolves US-EAST-1 Outage After Authentication Failures Disrupt 11 Cloud Services,reported,unknown,,none,False,,4,news,news:AWS:2026-11-15
+2026-11-13,2026-11-13,GitHub,developer,Incident with Pull Requests,major,unknown,,none,False,,0,status-page,github:1xzmt89vv61l
+2026-11-13,2026-11-15,Google Cloud,cloud,CNA938 Rewind - Google Cloud outage exposes risks: Are banks too dependent on Big Tech?,reported,unknown,,none,False,,4,news,news:Google Cloud:2026-11-13
+2026-11-12,2026-11-14,Microsoft 365 / Outlook,saas,"Outlook, Teams, Copilot outage; secure-connection process overwhelmed on servers",critical,software-change,override,ruled-out,True,"Microsoft says global outage caused by technical issue, not cyberattack or AI",140,manual|news,manual:2026-11-12-microsoft-365
+2026-11-11,2026-11-11,GitHub,developer,"Impact across multiple GitHub products including Actions, Pages, and Copilot products.",critical,unknown,,none,True,,0,status-page,github:dvy0t3mvh1lg
+2026-11-10,2026-11-10,Notion,saas,Some Notion Agent sessions may hang or stop updating,major,unknown,,none,False,,0,status-page,notion:01M73GD2431C577QYYH7W6TMNQ
+2026-11-10,2026-11-10,GitHub,developer,Incident with Git Operations and Pull Requests,critical,capacity-overload,provider,none,False,,0,status-page,github:hnf21m9jkl3c
+2026-11-09,2026-11-10,GitHub,developer,Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot,major,third-party,provider,none,True,,0,status-page,github:6jm5k16vyhfg
+2026-11-09,2026-11-09,GitHub,developer,Incident with Actions and Checks API,critical,software-change,provider,none,False,,0,status-page,github:tp8cghg7tlc4
+2026-11-09,2026-11-09,Discord,consumer-app,Connectivity Issue w/ Discord's Homepage and Marketing Sites,major,config-change,provider,none,False,,0,status-page,discord:nrwykczfny3n
+2026-11-09,2026-11-09,GitHub,developer,Incident with Webhooks and Actions,major,third-party,provider,none,False,,0,status-page,github:xxb3l2bm76dr
+2026-11-04,2026-11-04,GitHub,developer,Incident with Actions,major,unknown,,none,False,,0,status-page,github:h02n9572mx9y
+2026-11-04,2026-11-04,GitHub,developer,Incident with Actions and Pages,major,software-change,provider,none,False,,0,status-page,github:xr3myzj7ms51
+2026-11-04,2026-11-04,GitHub,developer,"Incident with Pull Requests, Git Operations and Issues",major,software-change,provider,none,False,,0,status-page,github:smtdswd1h2w4
+2026-10-31,2026-10-31,Discord,consumer-app,Issues establishing voice call,major,unknown,,none,False,,0,status-page,discord:bg4s23tyzw6l
+2026-10-30,2026-10-30,GitHub,developer,"Incident with Actions, Pages, and Webhooks",major,software-change,provider,none,False,,0,status-page,github:pwxsjgnvrk6b
+2026-10-30,2026-10-30,Discord,consumer-app,Issues establishing voice calls,major,unknown,,none,False,,0,status-page,discord:fyf18nfvtqm7
+2026-10-30,2026-10-30,GitHub,developer,Disruption with GitHub services,critical,software-change,provider,none,False,,0,status-page,github:nxy2l0ssxm10
+2026-10-28,2026-10-28,GitHub,developer,Disruption with some Copilot services,critical,software-change,provider,none,True,,0,status-page,github:l7ycmglmykgg
+2026-10-23,2026-10-24,Asana,saas,Background jobs partial outage,major,unknown,,none,False,,0,status-page,asana:n2y69mf26w75
+2026-10-23,2026-10-23,Notion,saas,Users unable to access Notion,critical,unknown,,none,False,,0,status-page,notion:01M5KDD3F5QY6FNBRV6P3RK4PK
+2026-10-22,2026-10-22,Notion,saas,Notion MCP query_data_source tool is temporarily unavailable in Claude clients,major,unknown,,none,True,,0,status-page,notion:01M5GT4J4EF9Z9R6M4KD9AY21Q
+2026-10-21,2026-10-21,Asana,saas,Asana downtime,major,software-change,provider,none,False,,0,status-page,asana:hmnfnm98zvy4
+2026-10-21,2026-10-21,GitHub,developer,Delays for Pull Requests and Webhook deliveries,critical,software-change,provider,none,False,,0,status-page,github:nms1dpzmh9d9
+2026-10-20,2026-10-21,Notion,saas,Unable to install connections created by other workspace members,major,unknown,,none,False,,0,status-page,notion:01M5DA6BAN51BD0SQJ54126TA6
+2026-10-20,2026-10-20,Box,saas,[Medium] Issue with multiple Box Services,major,capacity-overload,provider,none,False,,0,status-page,box:8mlj3j9t0xx9
+2026-10-20,2026-10-22,Google Cloud,cloud,Major Google Cloud Outage Hits Europe and Could Impact Gaming,reported,unknown,,none,False,,36,news,news:Google Cloud:2026-10-20
+2026-10-19,2026-10-19,GitHub,developer,"Degraded availability for GitHub Actions, GitHub Pages and Webhooks",critical,software-change,provider,none,False,,0,status-page,github:8tzbpcnl75jp
+2026-10-16,2026-10-20,1Password,saas,High error rate on 1Password.com,major,software-change,provider,none,False,,0,status-page,onepassword:g012v1sp38m7
+2026-10-15,2026-10-15,Box,saas,[Major] Issue with Box Drive,major,software-change,provider,none,False,,0,status-page,box:j6l1h67d01hc
+2026-10-14,2026-10-14,Coinbase,bank,Site Performance - Coinbase Website,major,unknown,,none,False,,0,status-page,coinbase:27ptqxypnlf4
+2026-10-14,2026-10-16,Apple,consumer-app,Apple TV outage disrupts MLS as fans miss out on Lionel Messi action,reported,unknown,,none,False,,3,news,news:Apple:2026-10-14
+2026-10-09,2026-10-09,Southwest,transport,"More than 1,200 Southwest Airlines flights delayed after software outage",reported,unknown,,none,False,,8,news,news:Southwest:2026-10-09
+2026-10-08,2026-10-08,Box,saas,[Critical] Issues with Multiple Box Services,critical,software-change,provider,none,False,,0,status-page,box:nby3tvjc88nf
+2026-10-08,2026-10-08,Box,saas,[Medium] Issue with Enterprise Event Reports,major,unknown,,none,False,,0,status-page,box:gpq20z01s4y9
+2026-10-07,2026-10-07,GitHub,developer,"Incident with Git Operations, Issues, Actions and Pull Requests",critical,unknown,,none,False,,0,status-page,github:qpfv5p86dmrl
+2026-10-07,2026-10-07,GitHub,developer,"Incident with Git Operations, Pull Requests and Actions",critical,software-change,provider,none,False,,0,status-page,github:djlmxz2zd0j7
+2026-10-06,2026-10-06,GitHub,developer,Several services are degraded,critical,software-change,provider,none,False,,0,status-page,github:cjwszcf57bff
+2026-10-05,2026-10-06,GitHub,developer,Disruption with some GitHub services,major,network,provider,none,False,,0,status-page,github:2kxnqcxcrr7f
+2026-10-05,2026-10-05,GitHub,developer,Incident with Actions,critical,capacity-overload,provider,none,False,,0,status-page,github:3q1yb5m7ltvb
+2026-10-02,2026-10-01,Box,saas,[Medium] Issue with File Requests,major,software-change,provider,none,False,,0,status-page,box:9zt2kt0r08xy
+2026-10-01,2026-10-02,Apple,consumer-app,"Is Apple TV down right now (October 1, 2026)? Outage status today",reported,unknown,,none,False,,4,news,news:Apple:2026-10-01
+2026-09-30,2026-10-05,Box,saas,[Medium] Issue with multiple reports,major,software-change,provider,none,False,,0,status-page,box:ykw1vy641q3p
+2026-09-30,2026-09-30,Asana,saas,Partial API outage,major,unknown,,none,False,,0,status-page,asana:tqy08q0k3xt2
+2026-09-29,2026-09-29,Box,saas,"[Critical] Issues with All Files Page, Box Notes, API calls, logins and downloads",critical,software-change,provider,none,False,,0,status-page,box:nymp07yk68rh
+2026-09-28,2026-09-28,GitHub,developer,Copilot Code Review is unable to complete reviews,critical,software-change,provider,none,True,,0,status-page,github:169pg72gg9jr
+2026-09-28,2026-09-28,Squarespace,saas,Squarespace loading and editing Issues,major,unknown,,none,False,,0,status-page,squarespace:1pz7bq4z190p
+2026-09-28,2026-09-28,Box,saas,[Medium] Issues with Box Notes,major,software-change,provider,none,False,,0,status-page,box:qvw8ppb72m38
+2026-09-27,2026-09-27,Figma,saas,Service disruption,critical,unknown,,none,False,,0,status-page,figma:l376b3fy6y47
+2026-09-24,2026-09-24,Discord,consumer-app,Age group status mismatch across devices,major,unknown,,none,False,,0,status-page,discord:t00495fymyd6
+2026-09-21,2026-09-22,FAA,transport,"Flights at Newark, JFK, LaGuardia airports resume following equipment outage, FAA says",reported,unknown,,none,False,,4,news,news:FAA:2026-09-21
+2026-09-18,2026-09-22,Squarespace,saas,Acuity Scheduling Admin Mobile app crashing unexpectedly after iOS 27 update,major,unknown,,none,False,,0,status-page,squarespace:kh77sr2kwjqg
+2026-09-17,2026-09-17,Discord,consumer-app,Issue / Delay in establishing call connection,major,unknown,,none,False,,0,status-page,discord:610vfhw9wjcj
+2026-09-16,2026-09-16,Discord,consumer-app,Issue establishing voice call,major,unknown,,none,False,,0,status-page,discord:c9vn3xqlhzyl
+2026-09-16,2026-09-16,Discord,consumer-app,Google Pay Outage,major,unknown,,none,False,,0,status-page,discord:1z5kbv8r5pkv
+2026-09-11,2026-09-11,Notion,saas,Issues managing email addresses and aliases,major,unknown,,none,False,,0,status-page,notion:01M28QXV3DEYNPWFBG603YPJQA
+2026-09-11,2026-09-11,Discord,consumer-app,Issue with establishing voice calls,major,unknown,,none,False,,0,status-page,discord:d82z44sn4fpx
+2026-09-09,2026-09-09,Dropbox,saas,Some customers are unable to access certain website routes and features.,major,unknown,,none,False,,0,status-page,dropbox:vv8tcb8dzh16
+2026-09-09,2026-09-09,1Password,saas,Device Trust Service Disruption,major,unknown,,none,False,,0,status-page,onepassword:nk0l5hd1n2y9
+2026-09-09,2026-09-08,Squarespace,saas,"Acuity Scheduling / Client Scheduling Page showing ""SORRY"" error",major,unknown,,none,False,,0,status-page,squarespace:q2r6jc35q7bf
+2026-09-03,2026-09-03,Discord,consumer-app,Some servers unavailable,major,unknown,,none,False,,0,status-page,discord:lf84xp6q5qjc
+2026-09-02,2026-09-02,Discord,consumer-app,Voice endpoint selection issues,major,unknown,,none,False,,0,status-page,discord:h3xfmqrqhqw3
+2026-09-02,2026-09-02,Asana,saas,"We are fully down for a subset of customers. We're investigating the issue, and are rolling back a deployment.",major,software-change,provider,none,False,,0,status-page,asana:70ts4fqbblrc
+2026-09-02,2026-09-02,Discord,consumer-app,Server Unavailability,major,unknown,,none,False,,0,status-page,discord:ty5bs3l7xgcf
+2026-09-01,2026-09-01,Reddit,consumer-app,Elevated site errors,major,unknown,,none,False,,0,status-page,reddit:s4ffy6g43v5h
+2026-08-31,2026-09-01,Discord,consumer-app,"Some servers and other services (voice calls, activities) not available for some users",major,unknown,,none,False,,0,status-page,discord:xpz8zbrdkgs2
+2026-08-31,2026-08-31,Asana,saas,"Asana full outage for some users (2 hours, 25% outage)",major,config-change,provider,none,False,,0,status-page,asana:7402jg0zwnnv
+2026-08-31,2026-09-03,Microsoft,saas,"Microsoft Outlook Down for Thousands of Users, Downdetector Reports",reported,unknown,,speculated,False,Microsoft Outlook and OpenAI's ChatGPT Work are experiencing user outages,26,news,news:Microsoft:2026-08-31
+2026-08-28,2026-08-28,Box,saas,[Medium] Issues with Box Hubs Shared Links,major,software-change,provider,none,False,,0,status-page,box:1yxxnk5jp1h9
+2026-08-26,2026-08-26,Figma,saas,Figma MCP Disruption,major,unknown,,none,False,,0,status-page,figma:bzgyp689s7cy
+2026-08-25,2026-08-25,Box,saas,[Critical] Issue with Downloads,critical,capacity-overload,provider,none,False,,0,status-page,box:3thgpsg9qpd6
+2026-08-24,2026-08-24,Box,saas,[Medium] Issue with Uploads,major,software-change,provider,none,False,,0,status-page,box:sd640nc9mkr1
+2026-08-20,2026-08-20,Box,saas,[Medium] Issue with Microsoft Office Integration and Box Edit,major,software-change,provider,none,False,,0,status-page,box:nnsrr0wr5qpv
+2026-08-19,2026-08-19,Box,saas,[Medium] Issues with Multiple Box Services,major,third-party,provider,none,False,,0,status-page,box:zccvq8lr58jr
+2026-08-17,2026-08-18,Microsoft,saas,"Microsoft 365 Search Outage Disrupts SharePoint, OneDrive, and Outlook Users Worldwide",reported,unknown,,speculated,False,Microsoft’s GitHub Hit by Major Outage as AI-Driven Demand Strains Infrastructure,4,news,news:Microsoft:2026-08-17
+2026-08-14,2026-08-14,Discord,consumer-app,Issue with establishing a call,major,unknown,,none,False,,0,status-page,discord:xtbm1jcfkbcs
+2026-08-12,2026-08-12,Squarespace,saas,Acuity Scheduling Service Disruption,critical,unknown,,none,False,,0,status-page,squarespace:3jkt3qpcd5n8
+2026-08-07,2026-08-07,Discord,consumer-app,Issues sending messages for bots and users,critical,unknown,,none,False,,0,status-page,discord:pcg3nsfq6l2y
+2026-08-07,2026-08-07,Box,saas,[Medium] Issues affecting multiple Box services,major,software-change,provider,none,False,,0,status-page,box:lpcwd88jzdzn
+2026-08-06,2026-08-07,FAA,transport,Flights Resume After Passengers Faced Hours-Long Delays Due to Regional FAA ‘Equipment Outage’,reported,unknown,,none,False,,4,news,news:FAA:2026-08-06
+2026-08-04,2026-08-04,Box,saas,[Medium] Issues with Uploads and Downloads,major,config-change,provider,none,False,,0,status-page,box:lgpl7g7n0t84
+2026-08-04,2026-08-04,Discord,consumer-app,Messaging failures,critical,unknown,,none,False,,0,status-page,discord:73wgk29dznv4
+2026-07-31,2026-07-31,Box,saas,[Medium] Issues with Box Shuttle Standalone,major,config-change,provider,none,False,,0,status-page,box:4swwrrjj1y7s
+2026-07-31,2026-08-01,Apple,consumer-app,"Apple Pay Goes Down for Thousands, Downdetector Reports",reported,unknown,,none,False,,2,news,news:Apple:2026-07-31
+2026-07-29,2026-07-29,Squarespace,saas,Connectivity Issues,major,network,provider,none,False,,0,status-page,squarespace:y8jvtxx0jv7f
+2026-07-28,2026-07-30,American Airlines,transport,American Airlines outage delays flights at Bradley International Airport,reported,unknown,,none,False,,19,news,news:American Airlines:2026-07-28
+2026-07-27,2026-07-27,Discord,consumer-app,"session starts, DM message delivery down",major,unknown,,none,False,,0,status-page,discord:0gz6pdq1c141
+2026-07-27,2026-07-29,Microsoft,saas,"Xbox outage shouldn’t have affected games on disc, Microsoft confirms",reported,unknown,,none,False,,5,news,news:Microsoft:2026-07-27
+2026-07-25,2026-07-25,Reddit,consumer-app,Degraded performance across the site,major,unknown,,none,False,,0,status-page,reddit:3t7xtffbb544
+2026-07-24,2026-07-24,PlayStation,consumer-app,PlayStation’s Day-Long Outage Has Gamers Asking What’s So Wrong with Discs,reported,unknown,,none,False,,4,news,news:PlayStation:2026-07-24
+2026-07-24,2026-07-26,Apple,consumer-app,"AWS Outage Disrupts DoorDash, Reddit, Hulu and Apple Pay as Major Websites Go Down",reported,unknown,,none,False,,2,news,news:Apple:2026-07-24
+2026-07-24,2026-07-25,AWS,cloud,PlayStation Network Goes Down Worldwide as AWS Outage Cascades Across Gaming Services,reported,unknown,,none,False,,4,news,news:AWS:2026-07-24
+2026-07-23,2026-07-23,Box,saas,[Medium] Issues with Box Hubs,major,software-change,provider,none,False,,0,status-page,box:p8jg1sgbmk4n
+2026-07-23,2026-07-23,Box,saas,[Medium] Issues with File Requests,major,capacity-overload,provider,none,False,,0,status-page,box:73k8gbsk6nf0
+2026-07-23,2026-07-25,Microsoft,saas,"Microsoft 365 Services Outage Impacted Teams, Copilot, Purview and Other Services",reported,software-change,press,speculated,True,"Microsoft 365 Services Outage Impacted Teams, Copilot, Purview and Other Services",22,news,news:Microsoft:2026-07-23
+2026-07-22,2026-07-22,Discord,consumer-app,unable to establish voice connection,major,unknown,,none,False,,0,status-page,discord:g196lnx3h2cz
+2026-07-22,2026-07-22,1Password,saas,Account governance functions are unavailable in SaaS Manager,major,unknown,,none,False,,0,status-page,onepassword:vw89rqdwx7zc
+2026-07-21,2026-07-23,Google Cloud,cloud,"Google Cloud Netherlands Outage Highlights Power, Cooling Vulnerabilities",reported,hardware-datacenter,press,none,False,,5,news,news:Google Cloud:2026-07-21
+2026-07-18,2026-07-21,United Airlines,transport,United Airlines Flights Delayed Nationwide As Tech Outage Hits Check-In And Boarding,reported,unknown,,none,False,,6,news,news:United Airlines:2026-07-18
+2026-07-17,2026-07-17,Discord,consumer-app,API Errors,major,network,provider,none,False,,0,status-page,discord:vwmnnymc48b9
+2026-07-16,2026-07-16,Box,saas,[Medium] Issues with Box Edit and Microsoft Office Online,major,software-change,provider,none,False,,0,status-page,box:tq711b9h023x
+2026-07-16,2026-07-17,AWS,cloud,Amazon Web Services experiences 'global' outage affecting CloudFront users,reported,config-change,press,none,False,,11,news,news:AWS:2026-07-16
+2026-07-15,2026-07-15,Box,saas,[Medium] Issues with Box Relay,major,software-change,provider,none,False,,0,status-page,box:sqlxzk5v13d0
+2026-07-10,2026-07-10,Discord,consumer-app,Issues with billing operations,major,unknown,,none,False,,0,status-page,discord:yj1xklr7ynwg
+2026-07-07,2026-07-07,Asana,saas,Errors loading the Asana web app for some users in US,major,config-change,provider,none,False,,0,status-page,asana:nf6r56sm9cmv
+2026-07-07,2026-07-07,Box,saas,"[Medium] Issues with Search service, Box Sign Templates and Metadata queries",major,config-change,provider,none,False,,0,status-page,box:40zm4w1j4fyc
+2026-07-02,2026-07-02,1Password,saas,Device Trust Outage,critical,software-change,provider,none,False,,0,status-page,onepassword:nxgrp52180y3
+2026-06-25,2026-06-25,Box,saas,[Medium] Issues with Zip Downloads,major,software-change,provider,none,False,,0,status-page,box:8wq1nq6mj333
+2026-06-17,2026-06-17,Box,saas,[Medium] Issue with Multiple Box Services,major,software-change,provider,none,False,,0,status-page,box:0ws7h1m5npqw
+2026-06-11,2026-06-12,1Password,saas,Device Trust Authentication Service Experiencing Timeout Errors,critical,unknown,,none,False,,0,status-page,onepassword:pfr2v2vwlbvy
+2026-06-11,2026-06-11,Box,saas,[Medium] Issue with Multiple Box Services,major,software-change,provider,none,False,,0,status-page,box:51dltrh13zzn
+2026-06-10,2026-06-10,Discord,consumer-app,Activities cannot be launched,major,unknown,,none,False,,0,status-page,discord:rtskh59jhdp2
+2026-06-09,2026-06-09,Discord,consumer-app,All clients may see issues connecting to Discord,major,capacity-overload,provider,none,False,,0,status-page,discord:w13pp3bc12v3
+2026-06-09,2026-06-11,Google Cloud,cloud,Google Cloud outage in India after third-party data centre fire triggers shutdown,reported,hardware-datacenter,press,none,False,,10,news,news:Google Cloud:2026-06-09
+2026-06-04,2026-06-04,Squarespace,saas,Acuity Scheduling Elevated Errors,critical,unknown,,none,False,,0,status-page,squarespace:s997p77zp0ll
+2026-06-03,2026-06-03,Box,saas,[Critical] Issues with Multiple Box Services,critical,software-change,provider,none,False,,0,status-page,box:hmldgmrlw7vw
+2026-06-01,2026-06-01,Box,saas,[Medium] Issues with Box AI,major,third-party,provider,none,False,,0,status-page,box:yyz4tkky4fwr
+2026-06-01,2026-06-02,Microsoft,saas,"Microsoft Copilot Outage Disrupts Users, Company Investigates",reported,unknown,,speculated,True,"Microsoft Copilot Outage Disrupts Users, Company Investigates",5,news,news:Microsoft:2026-06-01
+2026-05-22,2026-05-22,Box,saas,[Medium] Issues with Box Drive,major,config-change,provider,none,False,,0,status-page,box:flg9088vj5bh
+2026-05-22,2026-05-22,Discord,consumer-app,"API errors affecting message sends, session starts, and billing operations",major,unknown,,none,False,,0,status-page,discord:vrdywypml5lf
+2026-05-20,2026-05-20,Squarespace,saas,Connectivity Issues,major,network,provider,none,False,,0,status-page,squarespace:m5hk8njy4h4q
+2026-05-19,2026-05-19,Squarespace,saas,Acuity Scheduling Service Disruption,major,unknown,,none,False,,0,status-page,squarespace:fsk182w4cjtk
+2026-05-16,2026-05-16,1Password,saas,SaaS Manager performance is degraded,major,unknown,,none,False,,0,status-page,onepassword:q4nlhty38qlc
+2026-05-14,2026-05-14,Box,saas,[Medium] Degradation of Enterprise Events API,major,capacity-overload,provider,none,False,,0,status-page,box:nz4lgqjc9kwn
+2026-05-08,2026-05-08,Discord,consumer-app,Increased API Errors,major,unknown,,none,False,,0,status-page,discord:4hpm4454hxtx
+2026-05-07,2026-05-07,Box,saas,[Critical] Issues with Multiple Box Services,critical,config-change,provider,none,False,,0,status-page,box:6wq3xnxtnflt
+2026-05-07,2026-05-09,AWS,cloud,"AWS data center outage hits trading on FanDuel, Coinbase — recovery to take hours",reported,hardware-datacenter,press,none,False,,17,news,news:AWS:2026-05-07
+2026-05-04,2026-05-04,1Password,saas,SaaS Manager workflows and integrations are failing,critical,unknown,,none,False,,0,status-page,onepassword:j50wsgdngks8
+2026-05-02,2026-05-02,Discord,consumer-app,Message Sends affected on certain channels,major,unknown,,none,False,,0,status-page,discord:k42p6rqypf7v
+2026-04-30,2026-04-30,Reddit,consumer-app,Issues with reporting,major,unknown,,none,False,,0,status-page,reddit:wt5dz5yw7501
+2026-04-28,2026-04-28,Squarespace,saas,Unable to create new sites and purchase or modify non-website subscriptions,critical,unknown,,none,False,,0,status-page,squarespace:7z3vhb1bg478
+2026-04-27,2026-04-27,Box,saas,[Medium] Issues with Box Search,major,unknown,,none,False,,0,status-page,box:wnjtwzb7dt5h
+2026-04-27,2026-04-27,Squarespace,saas,Website subscriptions are not activated,major,unknown,,none,False,,0,status-page,squarespace:wh3sbh0f58l2
+2026-04-27,2026-04-28,1Password,saas,Login and Sync Issues,critical,software-change,provider,none,False,,0,status-page,onepassword:xjl9szb17mqh
+2026-04-27,2026-04-28,Microsoft,saas,Outlook login not working? What caused Microsoft Outlook outage today — and was it Hacked?,reported,unknown,,none,False,,10,news,news:Microsoft:2026-04-27
+2026-04-22,2026-04-22,1Password,saas,Sign-in issues affecting 1Password SaaS Manager,major,unknown,,none,False,,0,status-page,onepassword:0s1c8fs68h0q
+2026-04-21,2026-04-21,Squarespace,saas,New Payment Methods Cannot Be Saved,major,unknown,,none,False,,0,status-page,squarespace:09z420765y10
+2026-04-19,2026-04-19,Discord,consumer-app,User Profile Errors,major,unknown,,none,False,,0,status-page,discord:g904ygw2n408
+2026-04-15,2026-04-15,Dropbox,saas,Dropbox may be unavailable for some users,major,unknown,,none,False,,0,status-page,dropbox:c2332s4s59qc
+2026-04-14,2026-04-15,1Password,saas,1Password Hosted Service in the US experiencing high latency and errors,critical,capacity-overload,provider,none,False,,0,status-page,onepassword:sd38vryb6ng1
+2026-04-13,2026-04-22,1Password,saas,SSO sign-in failing on some attempts for some users,major,third-party,provider,none,False,,0,status-page,onepassword:tdd7fy641q7k
+2026-04-06,2026-04-06,Reddit,consumer-app,Elevated site Errors,major,unknown,,none,False,,0,status-page,reddit:qpwpll5pmvkz
+2026-04-03,2026-04-03,Box,saas,[Critical] Issues with Box Sign,critical,third-party,provider,none,False,,0,status-page,box:bblsr3byykkt
+2026-03-31,2026-03-31,Squarespace,saas,Connectivity issues,major,config-change,provider,none,False,,0,status-page,squarespace:sdy4jchg1mb3
+2026-03-28,2026-03-28,Discord,consumer-app,General API errors,major,unknown,,none,False,,0,status-page,discord:jt67pjfbbs3q
+2026-03-25,2026-03-25,Discord,consumer-app,Issues connecting to Discord,critical,network,provider,none,False,,0,status-page,discord:9sng5r2j71sq
+2026-03-25,2026-03-25,Box,saas,[Medium] Issues Accessing the Admin Console Dashboard,major,unknown,,none,False,,0,status-page,box:2950yxqgqf2y
+2026-03-25,2026-03-25,Box,saas,[Critical] Issue with Box Shuttle,critical,software-change,provider,none,False,,0,status-page,box:tc5ktgwbm9x2
+2026-03-20,2026-03-20,Box,saas,"[Medium] Issues with Logins, Folder and File Preview, and Shared Links",major,software-change,provider,none,False,,0,status-page,box:z5kwthjc2c7h
+2026-03-20,2026-03-20,Discord,consumer-app,Failure to start new voice calls,major,unknown,,none,False,,0,status-page,discord:2vw56wyzvjqn
+2026-03-18,2026-03-18,Box,saas,[Medium] Customers may experience issues previewing files,major,unknown,,none,False,,0,status-page,box:k7hsgbs103sx
+2026-03-18,2026-03-18,Squarespace,saas,Site Loading Issues,major,unknown,,none,False,,0,status-page,squarespace:2xrbw049lql2
+2026-03-16,2026-03-16,Microsoft,saas,Microsoft confirms Office.com outage as Exchange Online mailbox go down [Update],reported,unknown,,none,False,,4,news,news:Microsoft:2026-03-16
+2026-03-12,2026-03-12,Discord,consumer-app,Applications experiencing 503 errors,major,unknown,,none,False,,0,status-page,discord:jxpmdts24t6d
+2026-03-12,2026-03-12,Discord,consumer-app,Applications experiencing 503 errors,major,unknown,,none,False,,0,status-page,discord:dsv750sj44fn
+2026-03-11,2026-03-11,Discord,consumer-app,Some servers unavailable,major,unknown,,none,False,,0,status-page,discord:nhs3zcp3g3j7
+2026-03-09,2026-03-09,Discord,consumer-app,Issues sending and loading messages,major,unknown,,none,False,,0,status-page,discord:clqzb7y8t0r8
+2026-03-05,2026-03-05,Discord,consumer-app,Guild Unavailability,major,unknown,,none,False,,0,status-page,discord:f3dxbcrcsysw
+2026-03-04,2026-03-04,Reddit,consumer-app,Degraded performance for reddit.com,major,unknown,,none,False,,0,status-page,reddit:2vjc8h5hrrq5
+2026-03-02,2026-03-03,AWS,cloud,Amazon’s AWS reports outage after UAE data center struck by ‘objects’,reported,hardware-datacenter,press,none,False,,5,news,news:AWS:2026-03-02
+2026-03-01,2026-03-01,Squarespace,saas,Connectivity Issues,major,unknown,,none,False,,0,status-page,squarespace:0s244pzwf3h8
+2026-02-28,2026-02-28,Discord,consumer-app,Continued issues with presence and DM delivery,major,unknown,,none,False,,0,status-page,discord:nm7zsjzv8kd2
+2026-02-27,2026-02-27,Box,saas,[Medium] Increased FTP 530 Captcha errors,major,config-change,provider,none,False,,0,status-page,box:hbkyb6npjb8w
+2026-02-25,2026-02-25,Box,saas,[Medium] Customers may experience issues with Uploads and Downloads for the UK zone,major,unknown,,none,False,,0,status-page,box:8fz6wqqt5csw
+2026-02-24,2026-02-25,Box,saas,[Critical] Issue with Box API,critical,capacity-overload,provider,none,False,,0,status-page,box:yb6gsksvbkzf
+2026-02-24,2026-02-24,Box,saas,[Critical] Issues with Multiple Box Services,critical,software-change,provider,none,False,,0,status-page,box:wf5c7yk7rnss
+2026-02-20,2026-02-21,Cloudflare,cdn-network,List of sites down after Cloudflare outage with Bet 365 among those affected,reported,unknown,,none,False,,7,news,news:Cloudflare:2026-02-20
+2026-02-20,2026-02-21,AWS,cloud,Amazon pushes back on Financial Times report blaming AI coding tools for AWS outages,reported,unknown,,cited-cause,False,13-hour AWS outage reportedly caused by Amazon's own AI tools,7,news,news:AWS:2026-02-20
+2026-02-11,2026-02-11,Squarespace,saas,Customers unable to create new trial sites,major,unknown,,none,False,,0,status-page,squarespace:vzyr2v0f59w7
+2026-02-11,2026-02-11,Squarespace,saas,Acuity Scheduling / Webhook delivery delay,major,unknown,,none,False,,0,status-page,squarespace:pljhhyxcnt0z
+2026-02-10,2026-02-11,Apple,consumer-app,"iCloud is Down: Apple Services Outage Affects Photos, Find My and More",reported,unknown,,none,False,,3,news,news:Apple:2026-02-10
+2026-02-03,2026-02-03,Squarespace,saas,Issues with editing some Squarespace 7.0 sites,major,unknown,,none,False,,0,status-page,squarespace:m79nbsgt9v4x
+2026-01-28,2026-01-28,Squarespace,saas,Collection Page Issues,major,unknown,,none,False,,0,status-page,squarespace:byx41pnhzbbq
+2026-01-22,2026-01-22,Asana,saas,Asana webapp unavailable,critical,capacity-overload,provider,none,False,,0,status-page,asana:3z9g0xv4lvdv
+2026-01-22,2026-01-24,Microsoft,saas,"Microsoft 365 outage disrupts Outlook, Teams for thousands of users",reported,software-change,press,none,False,,33,news,news:Microsoft:2026-01-22
+2026-01-20,2026-01-21,Apple,consumer-app,"Apple services outage: Apple TV, Music & other services restored; what official status page says",reported,unknown,,none,False,,2,news,news:Apple:2026-01-20
+2026-01-17,2026-01-17,Reddit,consumer-app,Increased error rates across the site,major,unknown,,none,False,,0,status-page,reddit:brsn0q8r649z
+2026-01-12,2026-01-12,Squarespace,saas,Connectivity issues - 503 errors,major,unknown,,none,False,,0,status-page,squarespace:stwv888zg362
+2026-01-09,2026-01-09,Box,saas,"[Critical] Issues with Logins, Notes and API",critical,unknown,,none,False,,0,status-page,box:kxsd3vwnnn5m
+2026-01-08,2026-01-08,Box,saas,[Critical] Issues with Multiple Box Services,critical,software-change,provider,none,False,,0,status-page,box:nk46jrrlqdsr
+2026-01-05,2026-01-05,Asana,saas,Downtime for the Asana web app,major,unknown,,none,False,,0,status-page,asana:966xb9fvsgvb
+2026-01-03,2026-01-02,Box,saas,[Medium] Issue with Enterprise Reporting,major,software-change,provider,none,False,,0,status-page,box:qjfrndl5bzhq
+2025-12-25,2025-12-25,AWS,cloud,It wasn’t AWS: Widespread gaming outage traced to Epic Online Services (EOS) authentication failure,reported,unknown,,none,False,,4,news,news:AWS:2025-12-25
+2025-12-22,2025-12-22,Squarespace,saas,Domain Registrations,major,unknown,,none,False,,0,status-page,squarespace:hfdjw3t755m9
+2025-12-18,2025-12-20,Microsoft,saas,"Microsoft 365 Outage Disrupts Teams, Outlook, and Copilot in Japan and China",reported,unknown,,speculated,True,"Microsoft 365 Outage Disrupts Teams, Outlook, and Copilot in Japan and China",4,news,news:Microsoft:2025-12-18
+2025-12-16,2025-12-16,Squarespace,saas,Non-English Template Front Sites,major,unknown,,none,False,,0,status-page,squarespace:khn1gwdyq3r7
+2025-12-09,2025-12-09,Reddit,consumer-app,Elevated errors,major,unknown,,none,False,,0,status-page,reddit:5n62vhqm9lch
+2025-12-09,2025-12-10,Microsoft,saas,Microsoft Copilot down: AI assistant not working in major outage,reported,unknown,,speculated,True,Microsoft Copilot down: AI assistant not working in major outage,3,news,news:Microsoft:2025-12-09
+2025-12-08,2025-12-08,Squarespace,saas,3D Secure purchase attempts for subscriptions are failing,major,third-party,provider,none,False,,0,status-page,squarespace:z23wzts5g535
+2025-12-05,2025-12-08,Cloudflare,cdn-network,Cloudflare apologises after latest outage takes down LinkedIn and Zoom,reported,unknown,,speculated,False,"Cloudflare outage: ChatGPT, Spotify, Fortnite and other apps and sites that were hit",36,news,news:Cloudflare:2025-12-05
+2025-12-02,2025-12-04,Microsoft,saas,"Microsoft Outage Hits Check-In Systems At Indian Airports; IndiGo, Air India & More Affected",reported,unknown,,none,False,,3,news,news:Microsoft:2025-12-02
+2025-11-30,2025-11-30,1Password,saas,1Password.com Website Access Degradation,major,third-party,provider,none,False,,0,status-page,onepassword:llmtdmck3jx5
+2025-11-18,2025-11-18,1Password,saas,"Service Degradation Affecting Sign In, SSO, MFA",major,capacity-overload,provider,none,False,,0,status-page,onepassword:hxqx48n0hpg6
+2025-11-18,2025-11-18,Dropbox,saas,DocSend impacted by ongoing Cloudflare outage,major,unknown,,none,False,,0,status-page,dropbox:rv4s502gjxt6
+2025-11-18,2025-11-18,1Password,saas,1password.com Website Access Degradation,major,third-party,provider,none,False,,0,status-page,onepassword:ftk5dmb7jm7w
+2025-11-18,2025-11-19,Cloudflare,cdn-network,Cloudflare outage exposes reliance on a handful of Internet companies,reported,capacity-overload,press,speculated,False,"Cloudflare says outage that hit X, ChatGPT and other sites is resolved",62,news,news:Cloudflare:2025-11-18
+2025-11-14,2025-11-14,Dropbox,saas,Dropbox Chat unavailable,major,unknown,,none,False,,0,status-page,dropbox:ygpccbh12mmn
+2025-11-07,2025-11-07,Asana,saas,Asana downtime in all regions,critical,config-change,provider,none,False,,0,status-page,asana:1nw7dpczrg1c
+2025-11-03,2025-11-03,Squarespace,saas,Site Loading and Editing issues - due to 503 errors,critical,unknown,,none,False,,0,status-page,squarespace:gdtcwksfpp4w
+2025-10-29,2025-10-29,Squarespace,saas,Acuity Scheduling / Slow loading or 500 errors,major,unknown,,none,False,,0,status-page,squarespace:v6zxmlgd5tfn
+2025-10-28,2025-10-29,1Password,saas,Some MSP users are unable to access Managed Companies,major,software-change,provider,none,False,,0,status-page,onepassword:n8fb9ygzvnrp
+2025-10-20,2025-10-20,Reddit,consumer-app,Elevated errors,major,unknown,,none,False,,0,status-page,reddit:1hcw0z152lmf
+2025-10-20,2025-10-21,1Password,saas,Intermittent performance issues with 1Password.com,major,software-change,provider,none,False,,0,status-page,onepassword:mncv42fq1s26
+2025-10-16,2025-10-16,Squarespace,saas,PayPal Issues,major,unknown,,none,False,,0,status-page,squarespace:8m65jcpj7vqw
+2025-10-01,2025-10-01,Squarespace,saas,Acuity Scheduling / Appointment Types not loading for some users,major,unknown,,none,False,,0,status-page,squarespace:7247p2zvg0ly
+2025-10-01,2025-10-01,Squarespace,saas,Acuity loading,major,unknown,,none,False,,0,status-page,squarespace:66x58dphns10
+2025-09-26,2025-09-26,1Password,saas,Degraded performance when accessing 1Password,major,software-change,provider,none,False,,0,status-page,onepassword:z20sn66ynbfl
+2025-09-25,2025-09-25,1Password,saas,Some users are unable to interact with the admin console,major,unknown,,none,False,,0,status-page,onepassword:nf0y43b5d2nm
+2025-09-24,2025-09-24,1Password,saas,Some users are unable to interact with the admin console,major,software-change,provider,none,False,,0,status-page,onepassword:p9qy3hv550zm
+2025-09-23,2025-09-24,1Password,saas,Provisioning invite links are not working,major,software-change,provider,none,False,,0,status-page,onepassword:pw03wwkz4prv
+2025-09-23,2025-09-23,Squarespace,saas,Acuity Scheduling / 500 error,critical,unknown,,none,False,,0,status-page,squarespace:bf01k990bll7
+2025-09-18,2025-09-18,1Password,saas,Contact and Sales Forms Returning Errors to Users,major,unknown,,none,False,,0,status-page,onepassword:8n6r8rttnbvd
+2025-09-09,2025-09-09,Squarespace,saas,Acuity Scheduling / Undelivered SMS reminders,major,unknown,,none,False,,0,status-page,squarespace:vn2m8gsppnd8
+2025-09-02,2025-09-02,Squarespace,saas,New domain registration page domains.squarespace.com does not load,critical,unknown,,none,False,,0,status-page,squarespace:tnc5qj4pn0rj
+2025-08-25,2025-08-25,Reddit,consumer-app,Elevated errors with comments,major,unknown,,none,False,,0,status-page,reddit:z6vy1s1vk197
+2025-08-18,2025-08-18,Asana,saas,Automation delay,major,hardware-datacenter,provider,none,False,,0,status-page,asana:2yp2xnzjbcv3
+2025-07-16,2025-07-17,Reddit,consumer-app,Elevated errors with comments,major,unknown,,none,False,,0,status-page,reddit:08gt8gfb906r
+2025-07-16,2025-07-16,Reddit,consumer-app,Investigating elevated site errors,major,unknown,,none,False,,0,status-page,reddit:70ytfyybg2w7
+2025-06-24,2025-06-24,Shopify,commerce,Some POS transactions are not completing on iOS devices Actions,major,unknown,,none,False,,0,status-page,shopify:882r6x3ttyg9
+2025-06-03,2025-06-03,Reddit,consumer-app,Elevated errors,critical,unknown,,none,False,,0,status-page,reddit:t740dtmtb2z2
+2025-05-28,2025-05-28,Reddit,consumer-app,Errors viewing image posts on mobile clients,major,unknown,,none,False,,0,status-page,reddit:t2bmz821sqpm
+2025-05-16,2025-05-16,Reddit,consumer-app,Elevated Errors,major,unknown,,none,False,,0,status-page,reddit:6d1m99b88gnt
+2025-04-30,2025-04-30,Reddit,consumer-app,Chat - elevated errors,major,unknown,,none,False,,0,status-page,reddit:tzw7yxwqp6kb
+2025-04-21,2025-04-21,Reddit,consumer-app,Investigating elevated site errors,major,unknown,,none,False,,0,status-page,reddit:f8tm205kh3y9
+2025-03-01,2025-03-01,Reddit,consumer-app,Delayed Comments,major,software-change,provider,none,False,,0,status-page,reddit:f40dgv6fr8qk
+2025-02-22,2025-02-22,Reddit,consumer-app,Elevated Errors,major,unknown,,none,False,,0,status-page,reddit:s9szfhh4bqb9
+2025-01-22,2025-01-22,Dropbox,saas,DocSend unavailable,major,unknown,,none,False,,0,status-page,dropbox:np9rsdc10d1m
+2025-01-17,2025-01-17,Asana,saas,Partial Outage,major,unknown,,none,False,,0,status-page,asana:ck6hsz1w7s3s
+2024-12-03,2024-12-03,Asana,saas,Asana unavailable,critical,software-change,provider,none,False,,0,status-page,asana:67p3s5lwrzcx
+2024-11-08,2024-11-08,Asana,saas,Issues in some regions,critical,network,provider,none,False,,0,status-page,asana:09j3kr2pnqsf
+2024-11-06,2024-11-06,Reddit,consumer-app,Degraded performance for reddit.com,major,unknown,,none,False,,0,status-page,reddit:4tr89ms0r453
+2024-09-10,2024-09-10,Figma,saas,Service disruption,major,unknown,,none,False,,0,status-page,figma:70s0lrwdxw5m
+2024-08-28,2024-08-28,Reddit,consumer-app,Degraded Performance for reddit.com,critical,unknown,,none,False,,0,status-page,reddit:t8b942dzrwh1
+2024-07-22,2024-07-22,Figma,saas,Service disruption,major,unknown,,none,False,,0,status-page,figma:t8pdbxsjx00y
+2024-07-14,2024-07-14,Reddit,consumer-app,Comment Processing is Delayed,major,software-change,provider,none,False,,0,status-page,reddit:4c1vjlptgddq
+2024-07-01,2024-07-01,Asana,saas,Asana unreachable for some users,major,software-change,provider,none,False,,0,status-page,asana:mpz02gpgpwpj
+2023-10-24,2023-10-24,Atlassian,saas,Email domain unverified,major,config-change,provider,none,False,,0,status-page,atlassian:3sf6vg9v8nqm
+2023-03-13,2023-03-13,Shopify,commerce,Some Merchants are experiencing issues accessing Storefronts and Shopify Admins,critical,unknown,,none,False,,0,status-page,shopify:ds8xn3g4w0lf
+2022-10-25,2022-10-25,Shopify,commerce,Some merchants are encountering errors within their admin,major,unknown,,none,False,,0,status-page,shopify:bv7csxpsckfx
+2022-06-21,2022-06-21,Shopify,commerce,We are investigating an issue preventing web traffic to our servers,major,unknown,,none,False,,0,status-page,shopify:26hrlv896m7j
+2021-06-08,2021-06-08,Shopify,commerce,Assets not loading for some Shopify services,critical,unknown,,none,False,,0,status-page,shopify:z8k4ztsb5mm6
+2020-09-28,2020-09-29,Atlassian,saas,Login / Signup with Microsoft not working,major,unknown,,none,False,,0,status-page,atlassian:wkg98r6wc1b5
+2020-01-25,2020-01-25,Shopify,commerce,Checkout completion delayed for some stores,major,unknown,,none,False,,0,status-page,shopify:cnnn97chn0j4
+2020-01-25,2020-01-25,Shopify,commerce,PayPal not processing payments,major,unknown,,none,False,,0,status-page,shopify:f7hqv0r3q4l9
+2020-01-20,2020-01-20,Shopify,commerce,"Failures with Shopify Shipping, Shopify Pay and Admin access",critical,unknown,,none,False,,0,status-page,shopify:d33vnbcprhy8
+2019-12-04,2019-12-04,Shopify,commerce,Avalara service degradation causing some checkouts for merchants using Avalara to fall back to Shopify tax engine,major,unknown,,none,False,,0,status-page,shopify:7thwh85tjm4m
+2019-12-03,2019-12-03,Shopify,commerce,Shopify admin is currently unreachable,critical,unknown,,none,False,,0,status-page,shopify:0snzwtvz27c8
+2019-11-25,2019-11-25,Shopify,commerce,Admin and Storefronts experiencing intermittent downtime,major,unknown,,none,False,,0,status-page,shopify:swtlt8fq6vww
+2019-11-20,2019-11-21,Shopify,commerce,Buy button malfunctioning in the admin,major,unknown,,none,False,,0,status-page,shopify:ltgv3tx79dyc
+2019-11-20,2019-11-20,Shopify,commerce,Shopify storefronts not accessible on some stores,major,unknown,,none,False,,0,status-page,shopify:qbcgdy7j907b
+2019-11-15,2019-11-15,Shopify,commerce,No packing slips are being served,major,unknown,,none,False,,0,status-page,shopify:fdzvpq2xzgms
+2019-11-14,2019-11-14,Shopify,commerce,UPS shipping rates not available at checkout,major,unknown,,none,False,,0,status-page,shopify:x6m63766rwzv
+2019-11-14,2019-11-14,Shopify,commerce,Some stores unable to purchase UPS shipping labels.,major,unknown,,none,False,,0,status-page,shopify:pmtx96c7h3m4
+2019-11-08,2019-11-08,Shopify,commerce,UPS shipping rates not available at checkout,major,unknown,,none,False,,0,status-page,shopify:8690sspd5xck
+2019-11-05,2019-11-05,Shopify,commerce,Some stores unable to purchase DHL Express shipping labels.,major,unknown,,none,False,,0,status-page,shopify:hcdcj512c03w
+2019-11-05,2019-11-05,Shopify,commerce,Storefront and checkout down for some shops,major,unknown,,none,False,,0,status-page,shopify:fhyrnxfs06lh
+2019-11-01,2019-11-01,Shopify,commerce,Storefront and checkouts down for some storefronts,major,unknown,,none,False,,0,status-page,shopify:b2cpx3slrtcc
+2019-10-29,2019-10-29,Shopify,commerce,Interruption in service on some stores,major,unknown,,none,False,,0,status-page,shopify:m4rk88ldlv2w
+2019-10-25,2019-10-25,Shopify,commerce,UPS shipping rates not available at checkout,major,unknown,,none,False,,0,status-page,shopify:55nlz4n2pt70
+2019-10-23,2019-10-23,Shopify,commerce,Payment processing failures for merchants using PayPal Express,major,unknown,,none,False,,0,status-page,shopify:3trf2dwyx7th
+2019-10-22,2019-10-22,Shopify,commerce,The Admin is not loading correctly for some stores,major,unknown,,none,False,,0,status-page,shopify:st33xk2fm8nx
+2019-10-22,2019-10-22,Shopify,commerce,"Storefront, Admin and Checkout down for some stores",major,unknown,,none,False,,0,status-page,shopify:nv0sr1jfsqn8
+2019-10-17,2019-10-17,Shopify,commerce,Google Shopping app not syncing,major,unknown,,none,False,,0,status-page,shopify:2ykp7p3w34t9
+2019-07-01,2019-07-01,Atlassian,saas,App switcher not loading in Jira and Confluence for some customers,major,unknown,,none,False,,0,status-page,atlassian:w81fyrpz5qcl
+2019-06-19,2019-06-20,Atlassian,saas,Atlassian Cloud email notifications issue,major,unknown,,none,False,,0,status-page,atlassian:sqq15l5bd34s
+2019-05-14,2019-05-14,Atlassian,saas,Atlassian Cloud users experiencing outages,critical,software-change,provider,none,False,,0,status-page,atlassian:3p4zfxggg0vv
+2019-05-10,2019-05-10,Atlassian,saas,Jira Users Receiving HTTP 500 Errors,major,unknown,,none,False,,0,status-page,atlassian:dgsyrnqfr2r0
+2019-05-07,2019-05-07,Atlassian,saas,Jira Imports are Failing,major,unknown,,none,False,,0,status-page,atlassian:mx1wvlvbw23y

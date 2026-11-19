@@ -1,0 +1,130 @@
+{
+ "statuspage": [
+  {
+   "id": "cloudflare",
+   "name": "Cloudflare",
+   "category": "cdn-network",
+   "base": "https://www.cloudflarestatus.com"
+  },
+  {
+   "id": "github",
+   "name": "GitHub",
+   "category": "developer",
+   "base": "https://www.githubstatus.com"
+  },
+  {
+   "id": "discord",
+   "name": "Discord",
+   "category": "consumer-app",
+   "base": "https://discordstatus.com"
+  },
+  {
+   "id": "openai",
+   "name": "OpenAI",
+   "category": "ai",
+   "base": "https://status.openai.com"
+  },
+  {
+   "id": "anthropic",
+   "name": "Anthropic",
+   "category": "ai",
+   "base": "https://status.claude.com"
+  },
+  {
+   "id": "atlassian",
+   "name": "Atlassian",
+   "category": "saas",
+   "base": "https://status.atlassian.com"
+  },
+  {
+   "id": "zoom",
+   "name": "Zoom",
+   "category": "saas",
+   "base": "https://www.zoomstatus.com"
+  },
+  {
+   "id": "twilio",
+   "name": "Twilio",
+   "category": "cloud-api",
+   "base": "https://status.twilio.com"
+  },
+  {
+   "id": "dropbox",
+   "name": "Dropbox",
+   "category": "saas",
+   "base": "https://status.dropbox.com"
+  },
+  {
+   "id": "npm",
+   "name": "npm",
+   "category": "developer",
+   "base": "https://status.npmjs.org"
+  },
+  {
+   "id": "vercel",
+   "name": "Vercel",
+   "category": "cloud",
+   "base": "https://www.vercel-status.com"
+  },
+  {
+   "id": "reddit",
+   "name": "Reddit",
+   "category": "consumer-app",
+   "base": "https://www.redditstatus.com"
+  },
+  {
+   "id": "shopify",
+   "name": "Shopify",
+   "category": "commerce",
+   "base": "https://www.shopifystatus.com"
+  },
+  {
+   "id": "coinbase",
+   "name": "Coinbase",
+   "category": "bank",
+   "base": "https://status.coinbase.com"
+  },
+  {
+   "id": "box",
+   "name": "Box",
+   "category": "saas",
+   "base": "https://status.box.com"
+  },
+  {
+   "id": "asana",
+   "name": "Asana",
+   "category": "saas",
+   "base": "https://status.asana.com"
+  },
+  {
+   "id": "notion",
+   "name": "Notion",
+   "category": "saas",
+   "base": "https://www.notion-status.com"
+  },
+  {
+   "id": "squarespace",
+   "name": "Squarespace",
+   "category": "saas",
+   "base": "https://status.squarespace.com"
+  },
+  {
+   "id": "figma",
+   "name": "Figma",
+   "category": "saas",
+   "base": "https://status.figma.com"
+  },
+  {
+   "id": "hubspot",
+   "name": "HubSpot",
+   "category": "saas",
+   "base": "https://status.hubspot.com"
+  },
+  {
+   "id": "onepassword",
+   "name": "1Password",
+   "category": "saas",
+   "base": "https://status.1password.com"
+  }
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "count": 41,
+ "events": [
+  {
+   "key": "anthropic:c1kmrkmv5f3d",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2",
+   "first_reported": "2026-11-19"
+  },
+  {
+   "key": "anthropic:1lglzf469c0z",
+   "service": "Anthropic",
+   "title": "Some users unable to sign in with Apple on claude.ai and the Claude iOS app",
+   "first_reported": "2026-11-17"
+  },
+  {
+   "key": "anthropic:r1b4f9bbnsx1",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Sonnet 5.5 and Claude Fable 5.2",
+   "first_reported": "2026-11-16"
+  },
+  {
+   "key": "anthropic:ct4c2pwf2xpj",
+   "service": "Anthropic",
+   "title": "Some users unable to sign up with Apple on the Claude iOS app",
+   "first_reported": "2026-11-14"
+  },
+  {
+   "key": "anthropic:34wq7gxnxvvm",
+   "service": "Anthropic",
+   "title": "Elevated errors on claude.ai, the Claude API, and Claude Code",
+   "first_reported": "2026-11-13"
+  },
+  {
+   "key": "anthropic:nn11wk485zfn",
+   "service": "Anthropic",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "first_reported": "2026-11-13"
+  },
+  {
+   "key": "anthropic:sqn3fg1l96dl",
+   "service": "Anthropic",
+   "title": "Elevated errors affecting the Microsoft 365 connector",
+   "first_reported": "2026-11-12"
+  },
+  {
+   "key": "openai:01M76CW2D7FM7K7F8NJ4W0G08N",
+   "service": "OpenAI",
+   "title": "Unable to start new Workspace Agent runs",
+   "first_reported": "2026-11-11"
+  },
+  {
+   "key": "anthropic:lqhknfdjrcst",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Sonnet 5.5",
+   "first_reported": "2026-10-27"
+  },
+  {
+   "key": "anthropic:0q89dylg9vjk",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Sonnet 5.5",
+   "first_reported": "2026-10-27"
+  },
+  {
+   "key": "anthropic:vx06kp8wfpq2",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Fable 5.1",
+   "first_reported": "2026-10-25"
+  },
+  {
+   "key": "anthropic:334jvgbrc4ff",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Sonnet 5.5 and other models",
+   "first_reported": "2026-10-25"
+  },
+  {
+   "key": "anthropic:0ns5clsk8p2x",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Fable 5 and Claude Fable 5.1",
+   "first_reported": "2026-10-24"
+  },
+  {
+   "key": "anthropic:3cqf3pmlnr96",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Opus 5.5",
+   "first_reported": "2026-10-24"
+  },
+  {
+   "key": "anthropic:h101vcmhnfky",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Fable 5.1, Sonnet 5.5, and Haiku 5.5",
+   "first_reported": "2026-10-23"
+  },
+  {
+   "key": "anthropic:978mjkgw6mh7",
+   "service": "Anthropic",
+   "title": "Elevated errors on platform.claude.com",
+   "first_reported": "2026-10-07"
+  },
+  {
+   "key": "anthropic:wf2v8ms031sx",
+   "service": "Anthropic",
+   "title": "Elevated errors loading usage data on platform.claude.com",
+   "first_reported": "2026-10-07"
+  },
+  {
+   "key": "anthropic:ch27pb90bn85",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Opus 5.5",
+   "first_reported": "2026-10-06"
+  },
+  {
+   "key": "anthropic:bhphxz3vr58g",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+   "first_reported": "2026-10-05"
+  },
+  {
+   "key": "anthropic:4xvtc2gnq73l",
+   "service": "Anthropic",
+   "title": "Elevated errors on claude.ai, Claude Code, Claude Cowork and the Claude API",
+   "first_reported": "2026-09-29"
+  },
+  {
+   "key": "anthropic:7g1qpkyz5gxh",
+   "service": "Anthropic",
+   "title": "Elevated errors for multiple models",
+   "first_reported": "2026-09-22"
+  },
+  {
+   "key": "anthropic:6304r9jjhj34",
+   "service": "Anthropic",
+   "title": "Intermittent error spikes for Claude Mythos 5.1 and Claude Fable 5.1",
+   "first_reported": "2026-09-15"
+  },
+  {
+   "key": "anthropic:t33dncr5ydvl",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Mythos 5.1 and Claude Fable 5.1",
+   "first_reported": "2026-09-11"
+  },
+  {
+   "key": "anthropic:r1pqn1kb4hvk",
+   "service": "Anthropic",
+   "title": "Degraded functionality for Claude Cowork on Windows",
+   "first_reported": "2026-09-10"
+  },
+  {
+   "key": "anthropic:461yvfrzpwtt",
+   "service": "Anthropic",
+   "title": "Elevated errors for multiple models",
+   "first_reported": "2026-09-03"
+  },
+  {
+   "key": "anthropic:288w7p4hk1l1",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Sonnet 5",
+   "first_reported": "2026-09-03"
+  },
+  {
+   "key": "anthropic:ls6bn1x81m0w",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Sonnet 5",
+   "first_reported": "2026-09-02"
+  },
+  {
+   "key": "anthropic:vr9tpk8w7zr8",
+   "service": "Anthropic",
+   "title": "Elevated errors on Claude Code and Claude Cowork",
+   "first_reported": "2026-08-28"
+  },
+  {
+   "key": "anthropic:vgz5psbjmt1h",
+   "service": "Anthropic",
+   "title": "Elevated errors for multiple models",
+   "first_reported": "2026-08-24"
+  },
+  {
+   "key": "anthropic:c0ncxxm2wd9r",
+   "service": "Anthropic",
+   "title": "Elevated errors on requests to multiple models",
+   "first_reported": "2026-08-20"
+  },
+  {
+   "key": "news:Claude/Anthropic:2026-03-02",
+   "service": "Claude/Anthropic",
+   "title": "Anthropic\u2019s Claude hit by widespread service outage (updated)",
+   "first_reported": "2026-03-02"
+  },
+  {
+   "key": "news:Claude/Anthropic:2026-04-06",
+   "service": "Claude/Anthropic",
+   "title": "Is Claude down for you? You're not alone (Update: Working again)",
+   "first_reported": "2026-04-06"
+  },
+  {
+   "key": "news:Claude/Anthropic:2026-04-13",
+   "service": "Claude/Anthropic",
+   "title": "Claude AI-Anthropic down: Outage reported by users, reports Downdetector",
+   "first_reported": "2026-04-13"
+  },
+  {
+   "key": "news:Claude/Anthropic:2026-06-02",
+   "service": "Claude/Anthropic",
+   "title": "Claude is Offline: Anthropic's AI Chatbot Hits a Global Wall",
+   "first_reported": "2026-06-02"
+  },
+  {
+   "key": "news:Claude/Anthropic:2026-06-22",
+   "service": "Claude/Anthropic",
+   "title": "Claude suffers outage, but Anthropic says the fix is already in",
+   "first_reported": "2026-06-22"
+  },
+  {
+   "key": "news:Claude/Anthropic:2026-07-29",
+   "service": "Claude/Anthropic",
+   "title": "Claude AI Goes Down for Thousands Wednesday, Downdetector Reports",
+   "first_reported": "2026-07-29"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2025-12-02",
+   "service": "OpenAI/ChatGPT",
+   "title": "OpenAI experiences major global outage as ChatGPT users face issues",
+   "first_reported": "2025-12-02"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-02-03",
+   "service": "OpenAI/ChatGPT",
+   "title": "Was ChatGPT down? Outage data showed spike",
+   "first_reported": "2026-02-03"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-04-20",
+   "service": "OpenAI/ChatGPT",
+   "title": "OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows",
+   "first_reported": "2026-04-20"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-07-14",
+   "service": "OpenAI/ChatGPT",
+   "title": "ChatGPT Outage Displays '504 Error' and Exposes Users' IP Addresses",
+   "first_reported": "2026-07-14"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-07-25",
+   "service": "OpenAI/ChatGPT",
+   "title": "ChatGPT down in UAE: OpenAI confirms global outage",
+   "first_reported": "2026-07-25"
+  }
+ ]
+}

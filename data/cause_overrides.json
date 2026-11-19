@@ -1,0 +1,25 @@
+{
+  "_comment": "Correct any cause here. Key = record key (see review_queue.md). Overrides beat the classifier.",
+  "overrides": {
+    "manual:2026-11-12-microsoft-365": {
+      "cause": "software-change",
+      "note": "Microsoft later blamed a dormant July update defect (press, Nov 16); initial statement was server overload"
+    },
+    "news:Other:2026-11-18": {
+      "cause": "unknown",
+      "note": "'release' meant the GTA VI game launch, not a software release"
+    },
+    "news:Microsoft:2026-11-15": {
+      "cause": "unknown",
+      "note": "'deployed' referred to first responders in a different story"
+    },
+    "news:Microsoft:2026-11-14": {
+      "cause": "software-change",
+      "note": "Microsoft first said network upgrade; later blamed dormant July update defect"
+    },
+    "news:PlayStation:2026-11-18": {
+      "cause": "unknown",
+      "note": "'release' = GTA VI game launch, not a software release; likely launch-day demand but not stated"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_comment": "Hand-logged events for things with no public feed (banks, government, news-reported). Dates are UTC ISO. Add 'source_url' for the news link.",
+  "events": [
+    {
+      "key": "manual:2026-11-12-microsoft-365",
+      "service": "Microsoft 365 / Outlook",
+      "category": "saas",
+      "kind": "manual",
+      "title": "Outlook, Teams, Copilot outage; secure-connection process overwhelmed on servers",
+      "severity": "critical",
+      "started_at": "2026-11-12T16:00:00Z",
+      "resolved_at": "2026-11-14T04:17:00Z",
+      "components": [
+        "Outlook",
+        "Exchange Online",
+        "Teams",
+        "SharePoint Online",
+        "Copilot"
+      ],
+      "cause": "capacity-overload",
+      "source_url": "https://aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why",
+      "cause_basis": "provider",
+      "cause_detail": "secure-connection process on servers overwhelmed; later attributed by Microsoft to a dormant July update defect (software-change) \u2014 recheck"
+    },
+    {
+      "key": "manual:2026-11-16-us-banks",
+      "service": "Chase / Wells Fargo / Bank of America",
+      "category": "bank",
+      "kind": "manual",
+      "title": "Customers unable to access accounts or transfer funds",
+      "severity": "major",
+      "started_at": "2026-11-16T00:00:00Z",
+      "resolved_at": null,
+      "components": [
+        "online banking",
+        "transfers"
+      ],
+      "cause": "unknown",
+      "source_url": "https://www.fox29.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack",
+      "time_precision": "day",
+      "cause_basis": null
+    },
+    {
+      "key": "manual:2026-11-17-nsa-internal",
+      "service": "NSA",
+      "category": "government",
+      "kind": "manual",
+      "title": "Partial outage of some internal communications systems",
+      "severity": "major",
+      "started_at": "2026-11-17T00:00:00Z",
+      "resolved_at": null,
+      "components": [
+        "internal communications"
+      ],
+      "cause": "unknown",
+      "source_url": "https://www.fox35orlando.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack",
+      "time_precision": "day",
+      "cause_basis": null
+    }
+  ]
+}

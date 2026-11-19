@@ -1,0 +1,35 @@
+name: Collect outages
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # hourly: status pages
+    - cron: "43 11 * * *"  # daily, ~6:43am Eastern: news search
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect
+        run: python collector/collect.py
+      - name: News (daily run or manual)
+        if: github.event.schedule != '17 * * * *'
+        run: python collector/news.py || true   # Google News may rate-limit; keep going
+      - name: Merge
+        run: python collector/merge.py
+      - name: Summarize
+        run: python collector/summarize.py --days 90
+      - name: Commit data
+        run: |
+          git config user.name "outage-bot"
+          git config user.email "outage-bot@users.noreply.github.com"
+          git add data/incidents.json data/news.json data/events.json data/events.csv data/summary.json
+          git diff --staged --quiet || git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

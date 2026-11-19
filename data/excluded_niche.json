@@ -1,0 +1,185 @@
+{
+ "count": 30,
+ "events": [
+  {
+   "key": "vercel:c83fx5n8008f",
+   "service": "Vercel",
+   "title": "Delays in observability data",
+   "first_reported": "2026-11-18"
+  },
+  {
+   "key": "anthropic:qrpz8k79qm7x",
+   "service": "Anthropic",
+   "title": "Elevated purchasing errors on claude.ai",
+   "first_reported": "2026-11-14"
+  },
+  {
+   "key": "npm:hf0q2nhdk5cp",
+   "service": "npm",
+   "title": "View package and auth outage on npmjs.com",
+   "first_reported": "2026-10-26"
+  },
+  {
+   "key": "npm:xfp75s9j3bp8",
+   "service": "npm",
+   "title": "Degraded Package Install and Publishing",
+   "first_reported": "2026-10-22"
+  },
+  {
+   "key": "vercel:sps6n39gm4sg",
+   "service": "Vercel",
+   "title": "Increased build and deployment failures",
+   "first_reported": "2026-10-12"
+  },
+  {
+   "key": "vercel:bpzq72pgngc7",
+   "service": "Vercel",
+   "title": "Delays in Drains, Observability, and Workflow in Washington (iad1)",
+   "first_reported": "2026-10-10"
+  },
+  {
+   "key": "vercel:1dp8c0nfchtg",
+   "service": "Vercel",
+   "title": "Vercel Auth login failures for pages with Deployment Protection enabled",
+   "first_reported": "2026-10-06"
+  },
+  {
+   "key": "vercel:bwkmw4hmrgmk",
+   "service": "Vercel",
+   "title": "Elevated Errors Triggering Deployments",
+   "first_reported": "2026-09-18"
+  },
+  {
+   "key": "vercel:mf04gp4lrfz0",
+   "service": "Vercel",
+   "title": "Elevated error rate on Connect and Passport",
+   "first_reported": "2026-09-10"
+  },
+  {
+   "key": "vercel:1z2qkcjgfx3y",
+   "service": "Vercel",
+   "title": "Increased deployment failures",
+   "first_reported": "2026-09-01"
+  },
+  {
+   "key": "vercel:75b4vyf7cm69",
+   "service": "Vercel",
+   "title": "Failures logging in with Vercel CLI",
+   "first_reported": "2026-08-26"
+  },
+  {
+   "key": "vercel:w8r0qkm97p1c",
+   "service": "Vercel",
+   "title": "New container functions are failing",
+   "first_reported": "2026-08-20"
+  },
+  {
+   "key": "vercel:g5svdyg45c5b",
+   "service": "Vercel",
+   "title": "Logs unavailable to query in Dashboard",
+   "first_reported": "2026-08-20"
+  },
+  {
+   "key": "npm:nwz55wql2vlc",
+   "service": "npm",
+   "title": "Publish and Install failures",
+   "first_reported": "2026-07-24"
+  },
+  {
+   "key": "vercel:1s8rqbswvwqc",
+   "service": "Vercel",
+   "title": "Telemetry data loss for Drains",
+   "first_reported": "2026-07-23"
+  },
+  {
+   "key": "vercel:bwyq88fxt57g",
+   "service": "Vercel",
+   "title": "Timeouts loading charts and observability data in Dashboard",
+   "first_reported": "2026-07-23"
+  },
+  {
+   "key": "vercel:zxb1gkbxnktp",
+   "service": "Vercel",
+   "title": "Dashboard authentication errors",
+   "first_reported": "2026-07-23"
+  },
+  {
+   "key": "vercel:nw8xv7ypn7y0",
+   "service": "Vercel",
+   "title": "SAML Single Sign-On (SSO) errors",
+   "first_reported": "2026-07-16"
+  },
+  {
+   "key": "vercel:9mwnzxknwysy",
+   "service": "Vercel",
+   "title": "Intermittent Login Failures on Vercel Dashboard",
+   "first_reported": "2026-06-26"
+  },
+  {
+   "key": "vercel:x4ngbgzymq4h",
+   "service": "Vercel",
+   "title": "Increase in Workflow runs stuck as pending",
+   "first_reported": "2026-06-25"
+  },
+  {
+   "key": "vercel:2f4kf430rmlz",
+   "service": "Vercel",
+   "title": "Elevated latency and errors in FRA1 Vercel Region (Frankfurt, Germany)",
+   "first_reported": "2026-06-14"
+  },
+  {
+   "key": "vercel:l7m81jfvmv0v",
+   "service": "Vercel",
+   "title": "Elevated Build Errors for Secure Compute/Static IPs Projects",
+   "first_reported": "2026-06-09"
+  },
+  {
+   "key": "npm:7q86pc3q1zgv",
+   "service": "npm",
+   "title": "npm Website is unavailable",
+   "first_reported": "2026-04-27"
+  },
+  {
+   "key": "npm:wjpr7d1kq5s1",
+   "service": "npm",
+   "title": "Issue with npm website and login.",
+   "first_reported": "2026-03-25"
+  },
+  {
+   "key": "npm:bptmjs4rmx8q",
+   "service": "npm",
+   "title": "Issue connecting to website and registry",
+   "first_reported": "2025-12-05"
+  },
+  {
+   "key": "npm:dn5mcp85737y",
+   "service": "npm",
+   "title": "Issues with package install, package publish, and login.",
+   "first_reported": "2025-06-12"
+  },
+  {
+   "key": "npm:j17xz3yd9pd9",
+   "service": "npm",
+   "title": "Issues publishing and installing packages",
+   "first_reported": "2025-04-05"
+  },
+  {
+   "key": "npm:bxvmmvlqzfds",
+   "service": "npm",
+   "title": "Package Install failures due to \"304 Not Modified\" responses in Mumbai, India region",
+   "first_reported": "2024-12-17"
+  },
+  {
+   "key": "npm:2v41lbhcj771",
+   "service": "npm",
+   "title": "Failures publishing, deprecating, and installing packages",
+   "first_reported": "2024-06-11"
+  },
+  {
+   "key": "npm:qj1sgg136lbr",
+   "service": "npm",
+   "title": "Intermittent failures installing scoped packages",
+   "first_reported": "2024-06-03"
+  }
+ ]
+}
