@@ -12,3 +12,6 @@ Merge: `python collector/merge.py` -> data/events.json + events.csv (one row per
 - `data/excluded_niche.json`: developer-only infrastructure outages with fewer than 3 articles.
 - Added status feeds for everyday/work services (Reddit, Shopify, Coinbase, Box, Asana, Notion, Squarespace, Figma, HubSpot, 1Password).
 - `data/filtered_commentary.json`: `dropped` = commentary removed (opinion, officials reacting, explainers); `evidence_only` = "Is X down?" pages kept as evidence but not counted as articles. An event needs 2+ real articles and 3+ including evidence pages.
+
+## Dashboard
+`index.html` is the dashboard (static, d3 from a CDN). It reads `data/dashboard_events.json`, which `collector/export_dashboard.py` rebuilds on every run. Preview locally with `python3 -m http.server` and open http://localhost:8000. Enable it under Settings → Pages → Deploy from branch → `main` / root.

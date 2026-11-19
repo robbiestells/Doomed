@@ -1,0 +1,367 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Are We Doomed: days without an outage</title>
+<meta name="description" content="A running count of the outages that touch daily and work life, and whether they are becoming more prevalent.">
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+<style>
+:root{
+--ink:#0A0D10;--panel:#10151A;--panel2:#141B21;--line:#1F2A33;--acid:#E8F23A;--txt:#D8DEE4;--dim:#8A97A3;--red:#FF4D3D;--amber:#F2A93B;--teal:#3DDBB0;
+--grid:#1A232B;--axis:#3A4752;--muted:#33404B;
+--mono:ui-monospace,'JetBrains Mono','SF Mono',Menlo,Consolas,monospace;
+--sans:'Inter','Helvetica Neue',Arial,system-ui,sans-serif}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--ink);color:var(--txt);font-family:var(--sans);-webkit-text-size-adjust:100%}
+body{padding:clamp(16px,4vw,40px);min-height:100vh;
+background-image:linear-gradient(var(--line) 1px,transparent 1px),linear-gradient(90deg,var(--line) 1px,transparent 1px);
+background-size:100% 120px,120px 100%;background-position:0 -1px,-1px 0}
+.ot{display:flex;flex-direction:column;gap:28px;max-width:1100px;margin:0 auto;counter-reset:sec}
+h1{margin:0;font-weight:700;text-transform:uppercase;letter-spacing:-.02em;font-size:clamp(34px,7vw,64px);line-height:.92}
+h1::after{content:'_';color:var(--acid);animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+h2{margin:0 0 10px;font-family:var(--mono);font-weight:500;text-transform:uppercase;letter-spacing:.12em;font-size:13px;display:flex;align-items:baseline;gap:12px}
+.card>h2::before{counter-increment:sec;content:'T-0' counter(sec);color:var(--acid);font-size:11px;letter-spacing:.08em;border:1px solid var(--acid);padding:1px 6px}
+h3{margin:0 0 6px;font-family:var(--mono);font-size:11px;text-transform:uppercase;letter-spacing:.14em;color:var(--dim);font-weight:400}
+p{margin:0 0 10px;line-height:1.5}
+.subtitle{font-family:var(--mono);text-transform:uppercase;letter-spacing:.22em;font-size:clamp(12px,2.4vw,16px);color:var(--acid);margin:10px 0 0}
+.kicker{font-family:var(--mono);text-transform:uppercase;letter-spacing:.18em;font-size:11px;color:var(--acid);margin:0 0 8px}
+.muted{color:var(--dim);font-size:13px}
+.lede{font-size:clamp(16px,2.2vw,20px);max-width:64ch;border-left:2px solid var(--acid);padding-left:14px}
+b.v{color:var(--acid);font-family:var(--mono);font-weight:500}
+.card{background:linear-gradient(180deg,var(--panel2),var(--panel));border:1px solid var(--line);border-radius:2px;padding:20px;position:relative}
+.card::before,.card::after{content:'';position:absolute;width:14px;height:14px;pointer-events:none}
+.card::before{top:-1px;left:-1px;border-top:2px solid var(--acid);border-left:2px solid var(--acid)}
+.card::after{bottom:-1px;right:-1px;border-bottom:2px solid var(--acid);border-right:2px solid var(--acid)}
+.word{font-weight:700;text-transform:uppercase;letter-spacing:-.01em;font-size:clamp(26px,4vw,34px);line-height:1.15;margin:0 0 10px}
+.is-bad .word{color:var(--red)}.is-warn .word{color:var(--amber)}.is-ok .word{color:var(--teal)}
+/* hero */
+.sign{background:#06080A;border:1px solid var(--line);border-radius:2px;box-shadow:0 0 0 1px #000,0 30px 80px -30px rgba(232,242,58,.18)}
+.stripe{height:8px;background:repeating-linear-gradient(90deg,var(--acid) 0 2px,transparent 2px 14px);opacity:.55}
+.board{display:flex;flex-direction:column;align-items:center;gap:14px;padding:clamp(20px,4vw,40px) 16px;text-align:center}
+.sign-top,.sign-mid{font-family:var(--mono);letter-spacing:.24em;font-size:clamp(10px,1.8vw,13px);color:var(--dim);text-transform:uppercase}
+.sign-top::before{content:'● ';color:var(--red);animation:blink 1.4s steps(1) infinite}
+.digits{display:flex;gap:clamp(4px,1vw,10px);justify-content:center}
+.digit{font-family:var(--mono);font-weight:500;color:var(--acid);background:linear-gradient(180deg,#151B20 0 50%,#0F1418 50% 100%);border:1px solid #232D35;border-radius:3px;font-size:clamp(64px,17vw,150px);line-height:1.05;padding:.02em .1em;min-width:.7em;text-align:center;text-shadow:0 0 18px rgba(232,242,58,.45);box-shadow:inset 0 1px 0 rgba(255,255,255,.05),inset 0 -2px 0 rgba(0,0,0,.6);position:relative}
+.digit::after{content:'';position:absolute;left:0;right:0;top:50%;height:1px;background:#000}
+.sign.is-bad .digit{color:var(--red);text-shadow:0 0 22px rgba(255,77,61,.55)}
+.sign.is-warn .digit{color:var(--amber);text-shadow:0 0 18px rgba(242,169,59,.45)}
+.sign-rec{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--dim);text-transform:uppercase}
+.sign-rec b{color:var(--txt)}
+header .muted b{color:var(--txt);font-weight:500}
+/* tiles */
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px}
+.tiles .lbl{font-family:var(--mono);text-transform:uppercase;letter-spacing:.12em;font-size:10px;color:var(--dim);display:block;margin-bottom:6px}
+.big{display:block;font-family:var(--mono);font-weight:500;font-size:40px;color:var(--acid);letter-spacing:-.02em;line-height:1.1;font-variant-numeric:tabular-nums}
+/* charts */
+.chart{position:relative;min-height:120px}
+svg text{fill:var(--dim);font-size:10px;font-family:var(--mono)}
+.tip{position:absolute;pointer-events:none;z-index:3;background:#0E1317;border:1px solid var(--acid);color:var(--txt);padding:6px 8px;border-radius:2px;font-family:var(--mono);font-size:11px;max-width:250px;line-height:1.35}
+.controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:10px}
+.controls label{font-family:var(--mono);text-transform:uppercase;letter-spacing:.12em;font-size:10px;color:var(--dim)}
+select{background:var(--ink);color:var(--txt);border:1px solid var(--line);border-radius:2px;font-family:var(--mono);font-size:12px;padding:5px 8px}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;margin-top:8px;font-size:12px;color:var(--dim)}
+.sw{display:inline-block;width:10px;height:10px;margin-right:5px;vertical-align:-1px}
+.hscroll{overflow-x:auto;background:#06080A;border:1px solid var(--line);border-radius:2px;padding:4px 0;scrollbar-color:var(--acid) var(--ink)}
+.hscroll circle{cursor:pointer;fill:var(--acid);filter:drop-shadow(0 0 5px rgba(232,242,58,.6))}
+.hscroll circle:focus-visible{outline:2px solid #fff}
+.detail{margin-top:14px;border-top:1px solid var(--line);padding-top:10px}
+.detail h3{color:var(--acid)}
+.detail ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:10px}
+.detail li{font-size:13px;line-height:1.4;border-left:2px solid var(--line);padding-left:10px}
+.detail a{color:var(--acid);font-size:12px}
+.mix{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:24px}
+.mixrow{display:grid;grid-template-columns:minmax(110px,150px) 1fr 28px;gap:8px;align-items:center;font-size:12px;margin-bottom:4px}
+.mixbar{display:block;height:10px}.mixbar i{display:block;height:100%}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-family:var(--mono);font-size:12px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:400;text-transform:uppercase;letter-spacing:.12em;font-size:10px;color:var(--dim);border-bottom:1px solid var(--acid)}
+tbody tr:hover td{background:rgba(232,242,58,.05)}
+details{font-size:13px;color:var(--dim)}
+summary{cursor:pointer;font-family:var(--mono);text-transform:uppercase;letter-spacing:.12em;font-size:11px;color:var(--acid)}
+/* doom meter */
+.doom{display:flex;flex-wrap:wrap;gap:24px;align-items:center}
+.gauge{flex:0 1 320px;min-width:240px}
+.factors{flex:1 1 280px;min-width:240px}
+.frow{margin-bottom:10px}
+.fhead{display:flex;justify-content:space-between;font-size:12px}
+.fbar{height:8px;border-radius:4px;background:var(--grid);position:relative;margin:4px 0}
+.fbar i{position:absolute;left:0;top:0;bottom:0;border-radius:4px}
+.err{color:var(--amber);font-family:var(--mono)}
+@media (prefers-reduced-motion:reduce){h1::after,.sign-top::before{animation:none}}
+</style>
+</head>
+<body>
+<div class="ot" id="app">
+<header>
+<h1>Are We Doomed</h1>
+<p class="subtitle">Days without an outage</p>
+<section class="sign" id="hero" aria-live="polite">
+<div class="stripe"></div>
+<div class="board">
+<span class="sign-top">This internet has gone</span>
+<div class="digits" id="h_days" role="img" aria-label="Days without an outage">----</div>
+<span class="sign-mid">days without a widely reported outage</span>
+<span class="sign-rec">Previous record: <b id="h_record">-</b> days</span>
+</div>
+<div class="stripe"></div>
+</section>
+<p class="muted">Last one: <b id="h_last">-</b> on <b id="h_lastdate">-</b>. Counting since press tracking began on <b id="h_since">-</b>.</p>
+<p class="muted" id="h_stale"></p>
+<p class="lede">The press reported <b class="v" id="l_press">-</b> widely covered outages in the last 30 days. <span id="l_tail"></span></p>
+</header>
+
+<section class="card" id="verdict">
+<h2>Are outages becoming more prevalent?</h2>
+<p class="word" id="v_word">-</p>
+<p>The press reported <b class="v" id="v_recent">-</b> widely covered outages in the last 28 days, against <b class="v" id="v_prior">-</b> in the 28 days before and an average of <b class="v" id="v_base">-</b> per 28 days over the 11 months before that (<b class="v" id="v_change">-</b> against that average).</p>
+<p class="muted">Counts before Nov 12 come from a sampled news search that misses smaller outages, so the older average is probably low and a "higher than usual" reading may be partly an artifact. Treat this as a first reading until daily collection has run for a few months.</p>
+</section>
+
+<section class="card" id="doom">
+<h2>Are we doomed?</h2>
+<p class="muted">A mood meter built from five factors drawn from news coverage, each scored 0 to 100 where 50 means normal for the past year. It is a summary of the signals below, not a forecast.</p>
+<div class="chart" id="doom_gauge">-</div>
+</section>
+
+<section class="tiles" id="tiles">
+<div class="card"><span class="lbl">Typical 28 days, past year</span><b class="big" id="t_base">-</b><span class="muted">widely reported outages on average, from 11 months of coverage</span></div>
+<div class="card"><span class="lbl">Widely reported outages, last 28 days</span><b class="big" id="t_press">-</b><span class="muted">against <b id="t_prev">-</b> in the 28 days before, from a sampled search</span></div>
+<div class="card"><span class="lbl">Events with a known cause</span><b class="big" id="t_cause">-</b><span class="muted">of <b id="t_ev30">-</b> events in the last 30 days</span></div>
+<div class="card"><span class="lbl">Events with an AI link, last 30 days</span><b class="big" id="t_ai">-</b><span class="muted"><b id="t_cited">-</b> cite AI as a cause, <b id="t_ruled">-</b> rule it out</span></div>
+</section>
+
+<section class="card" id="year">
+<h2>The past year</h2>
+<p class="muted">Widely reported outages by month of first report. Before Nov 12 this comes from a sampled monthly news search, so it finds the big outages and misses smaller ones.</p>
+<div class="chart" id="press_chart">-</div>
+</section>
+
+<section class="card" id="timeline-card">
+<h2>Timeline</h2>
+<div class="controls">
+<label for="days">Window</label>
+<select id="days" aria-label="Window"><option value="14">Last 14 days</option><option value="30" selected>Last 30 days</option><option value="60">Last 60 days</option><option value="90">Last 90 days</option><option value="365">Last 12 months</option></select>
+<label for="scope">Show</label>
+<select id="scope" aria-label="Show"><option value="reported" selected>Widely reported only</option><option value="all">All events, including status pages</option><option value="ai">AI-linked only</option></select>
+</div>
+<div class="chart" id="timeline">-</div>
+</section>
+
+<section class="card" id="mix">
+<h2>Causes and AI links</h2>
+<p class="muted">Widely reported events in the last 90 days.</p>
+<div class="chart" id="mix_chart">-</div>
+</section>
+
+<section class="card" id="reported">
+<h2>Widely reported outages</h2>
+<div class="scroll"><table><thead><tr><th>When</th><th>Outage</th><th>Cause</th><th>AI link</th><th>Articles</th></tr></thead><tbody id="reported_body"></tbody></table></div>
+</section>
+
+<p class="muted">Data as of <b id="asof">-</b>.</p>
+<details>
+<summary>How these numbers are built</summary>
+<p>Outages come mainly from news headlines, grouped by company and day, with commentary, officials' reactions and roundups removed. "Is X down?" pages count as evidence but not as articles. Status-page incidents and a small manual log fill in the rest. Causes and AI links are read from headlines and update text by keyword, so each is a first pass.</p>
+<p>Scope: outages that touch daily or work life, such as banks, airlines, government, consumer apps, commerce and the SaaS tools people work in. Developer-only infrastructure is kept only when the press covered it widely. Outages of AI companies' own products (Anthropic, OpenAI and similar) are left out unless coverage shows another industry, such as finance or travel, was hit.</p>
+<p>Press events before Nov 12 come from a monthly news search that returns only about 10 to 20 headlines per query, so it finds the big outages and misses smaller ones. The record on the sign counts only the period since daily collection began.</p>
+</details>
+</div>
+
+<script>
+(function(){
+const P=d3.utcParse('%Y-%m-%d'),DAY=864e5,md=d3.utcFormat('%b %-d'),mon=d3.utcFormat('%b %Y'),ymd=d3.utcFormat('%Y-%m-%d');
+const ACID='#E8F23A';
+const CAUSES=['software-change','config-change','capacity-overload','network','hardware-datacenter','third-party','cyberattack','human-error','unknown'];
+const CL={'software-change':'Software change','config-change':'Config change','capacity-overload':'Capacity overload','network':'Network','hardware-datacenter':'Hardware / data center','third-party':'Third party','cyberattack':'Cyberattack','human-error':'Human error','unknown':'Cause unknown'};
+const CCOL=['#E8F23A','#3DDBB0','#F2A93B','#6EA8FF','#C58BFF','#FF7AA8','#FF4D3D','#9AE66E'];
+const causeColor=c=>c==='unknown'?'#33404B':CCOL[CAUSES.indexOf(c)%CCOL.length];
+const AL={'ai-service':'AI service down','cited-cause':'AI cited as cause','speculated':'AI speculated','ruled-out':'AI ruled out','none':'No AI link'};
+const CATS=['bank','government','transport','saas','cloud','cdn-network','cloud-api','developer','ai','consumer-app','commerce','telecom','other'];
+const CATL={'bank':'Banks','government':'Government','transport':'Transport','saas':'SaaS','cloud':'Cloud','cdn-network':'CDN / network','cloud-api':'Cloud APIs','developer':'Developer','ai':'AI','consumer-app':'Consumer apps','commerce':'Commerce','telecom':'Telecom','other':'Other'};
+const $=id=>document.getElementById(id);
+const set=(id,v)=>{const e=$(id);if(e)e.textContent=String(v)};
+const state={days:30,scope:'reported',sel:null};
+let EV=[],REP=[],ASOF=null;
+
+const tipFor=el=>{const t=document.createElement('div');t.className='tip';t.hidden=true;el.appendChild(t);return{show(ev,lines){t.replaceChildren(...lines.filter(Boolean).map((s,i)=>{const d=document.createElement('div');if(i===0)d.style.fontWeight='600';d.textContent=s;return d}));t.hidden=false;const p=d3.pointer(ev,el),w=t.offsetWidth;t.style.left=Math.max(4,Math.min(el.clientWidth-w-4,p[0]+12))+'px';t.style.top=Math.max(4,p[1]-t.offsetHeight-10)+'px'},hide(){t.hidden=true}}};
+const note=(el,s)=>{el.replaceChildren();const p=document.createElement('p');p.className='muted';p.textContent=s;el.appendChild(p)};
+const legend=(el,items)=>{const d=document.createElement('div');d.className='legend';items.forEach(it=>{const s=document.createElement('span');const w=document.createElement('i');w.className='sw';w.style.background=it[1];s.appendChild(w);s.appendChild(document.createTextNode(it[0]));d.appendChild(s)});el.appendChild(d)};
+const todayUTC=()=>{const n=new Date();return Date.UTC(n.getFullYear(),n.getMonth(),n.getDate())};
+const daysSince=s=>Math.max(0,Math.round((todayUTC()-P(s).getTime())/DAY));
+const inR=(e,a,b)=>{const t=P(e.first).getTime();return t>=a&&t<=b};
+
+function hero(){
+const rep=REP.slice().sort((a,b)=>a.first.localeCompare(b.first)||a.articles-b.articles);
+const dates=Array.from(new Set(rep.filter(e=>!e.sampled).map(e=>e.first))).sort();
+let rec=0;for(let i=1;i<dates.length;i++)rec=Math.max(rec,Math.round((P(dates[i])-P(dates[i-1]))/DAY)-1);
+const last=rep[rep.length-1];
+if(!last)return;
+const n=daysSince(last.first),h=$('hero');
+h.classList.add(n===0?'is-bad':n<3?'is-warn':'is-ok');
+$('h_days').setAttribute('aria-label',n+' days without an outage');
+$('h_days').replaceChildren(...String(n).padStart(4,'0').split('').map(ch=>{const d=document.createElement('span');d.className='digit';d.textContent=ch;return d}));
+set('h_record',rec);set('h_last',last.service);set('h_lastdate',md(P(last.first)));set('h_since',dates[0]?md(P(dates[0])):'-');
+const stale=daysSince(ymd(ASOF));
+set('h_stale',stale>=2?'The data was last updated '+md(ASOF)+', so this counter may be behind.':'');
+}
+
+function summary(){
+const a=ASOF.getTime(),w0=a-27*DAY,l30=EV.filter(e=>inR(e,a-29*DAY,a));
+const p28=REP.filter(e=>inR(e,w0,a)).length,prev=REP.filter(e=>inR(e,a-55*DAY,a-28*DAY)).length;
+const p30=REP.filter(e=>inR(e,a-29*DAY,a)).length;
+const base=REP.filter(e=>inR(e,a-335*DAY,a-28*DAY)).length/12,ratio=base>0?p28/base:null;
+const verdict=ratio===null?'Too early to say':ratio>=1.5?'Higher than usual':ratio<=0.67?'Lower than usual':'About normal';
+const v=$('verdict');v.classList.add(verdict==='Higher than usual'?'is-bad':verdict==='Lower than usual'?'is-ok':'is-warn');
+set('l_press',p30);set('l_tail',verdict==='Too early to say'?'It is too early to call a trend.':'Trend: '+verdict.toLowerCase()+'.');
+set('v_word',verdict);set('v_recent',p28);set('v_prior',prev);set('v_base',(Math.round(10*base)/10));
+set('v_change',ratio===null?'n/a':(ratio>=1?'+':'')+Math.round(100*(ratio-1))+'%');
+set('t_base',Math.round(10*base)/10);set('t_press',p28);set('t_prev',prev);
+set('t_cause',(l30.length?Math.round(100*l30.filter(e=>e.cause!=='unknown').length/l30.length):0)+'%');set('t_ev30',l30.length);
+set('t_ai',l30.filter(e=>e.ai_link!=='none').length);set('t_cited',l30.filter(e=>e.ai_link==='cited-cause').length);set('t_ruled',l30.filter(e=>e.ai_link==='ruled-out').length);
+set('asof',md(ASOF));
+}
+
+function doomFactors(){
+const a=ASOF.getTime(),w0=a-27*DAY,bs=a-335*DAY,be=a-28*DAY,out=[];
+const clamp=x=>Math.max(0,Math.min(100,Math.round(x))),r1=x=>Math.round(10*x)/10;
+const cur=REP.filter(e=>inR(e,w0,a)),base=REP.filter(e=>inR(e,bs,be)).length/12;
+out.push({factor:'Frequency',score:base>=1?clamp(50*cur.length/base):null,detail:cur.length+' widely reported outages in the last 28 days, against an average of '+r1(base)+' per 28 days over the 11 months before.'});
+const wk=d3.range(52).map(i=>REP.filter(e=>inR(e,a-(i*7+6)*DAY,a-i*7*DAY)).length),mean=d3.mean(wk),high=wk.slice(0,8).filter(c=>c>mean).length;
+out.push({factor:'Staying high',score:mean>0?clamp(100*high/8):null,detail:high+' of the last 8 weeks were busier than the 52-week average ('+r1(mean)+' a week). About 3 of 8 is normal.'});
+const bc=new Set(cur.map(e=>e.category)).size;
+const bb=d3.mean(d3.range(11),i=>new Set(REP.filter(e=>inR(e,a-(28*(i+2)-1)*DAY,a-28*(i+1)*DAY)).map(e=>e.category)).size);
+out.push({factor:'Spreading wider',score:bb>0?clamp(50*bc/bb):null,detail:'Widely reported outages hit '+bc+' kinds of service in the last 28 days, against '+r1(bb)+' on average in earlier 28-day periods.'});
+const busy=(x,y)=>{let c=0;for(let t=x;t<=y;t+=DAY){if(REP.filter(e=>P(e.first).getTime()<=t&&P(e.last).getTime()>=t).length>=2)c++}return c};
+const bd=busy(w0,a),bdBase=busy(bs,be)/12;
+out.push({factor:'Pile-ups',score:bdBase>=1?clamp(50*bd/bdBase):null,detail:bd+' of the last 28 days had two or more widely reported outages at once, against an average of '+r1(bdBase)+' per 28 days before.'});
+const span=(x,y)=>REP.filter(e=>e.source!=='status-page'&&inR(e,x,y)).map(e=>Math.round((P(e.last)-P(e.first))/DAY)+1);
+const sc=span(a-55*DAY,a),sb=span(bs,a-56*DAY);
+out.push({factor:'Slow recovery',score:sc.length>=5&&sb.length>=5?clamp(50*d3.mean(sc)/d3.mean(sb)):null,detail:sc.length>=5&&sb.length>=5?'Press stories ran '+r1(d3.mean(sc))+' days on average in the last 8 weeks, against '+r1(d3.mean(sb))+' before. This is a proxy for recovery time, not a measured one.':'Too few press-covered outages to compare.'});
+return out;
+}
+
+function doomGauge(){
+const el=$('doom_gauge'),fs=doomFactors(),ok=fs.filter(f=>f.score!==null);
+el.replaceChildren();
+if(!ok.length){note(el,'Not enough data yet to score this.');return}
+const score=Math.round(d3.mean(ok,f=>f.score));
+const bands=[[0,20,'Not doomed'],[20,40,'Probably fine'],[40,60,'Uneasy'],[60,80,'Getting doomier'],[80,100,'Doomed']];
+const lab=bands.find(b=>score<b[1])||bands[4];
+const wrap=document.createElement('div');wrap.className='doom';el.appendChild(wrap);
+const gw=document.createElement('div');gw.className='gauge';wrap.appendChild(gw);
+const W=320,H=190,cx=W/2,cy=160,R=140,r0=88;
+const svg=d3.select(gw).append('svg').attr('viewBox','0 0 '+W+' '+H).attr('width','100%').attr('role','img').attr('aria-label','Doom meter: '+score+' out of 100, '+lab[2]);
+const ang=s=>-Math.PI/2+Math.PI*s/100;
+const cols=['#3DDBB0','#3DDBB0','#4A5762','#F2A93B','#FF4D3D'],ops=[1,.55,.9,.85,1];
+bands.forEach((b,i)=>svg.append('path').attr('transform','translate('+cx+','+cy+')').attr('d',d3.arc().innerRadius(r0).outerRadius(R).startAngle(ang(b[0])+.012).endAngle(ang(b[1])-.012)()).style('fill',cols[i]).style('opacity',ops[i]));
+const a=ang(score),len=R-14;
+svg.append('line').attr('x1',cx).attr('y1',cy).attr('x2',cx+len*Math.sin(a)).attr('y2',cy-len*Math.cos(a)).attr('stroke','#D8DEE4').attr('stroke-width',3).attr('stroke-linecap','round');
+svg.append('circle').attr('cx',cx).attr('cy',cy).attr('r',7).attr('fill','#D8DEE4');
+svg.append('text').attr('x',cx-R+(R-r0)/2).attr('y',cy+16).attr('text-anchor','middle').text('Calm');
+svg.append('text').attr('x',cx+R-(R-r0)/2).attr('y',cy+16).attr('text-anchor','middle').text('Doomed');
+const side=document.createElement('div');side.className='factors';wrap.appendChild(side);
+const big=document.createElement('div');big.className='word';big.textContent=lab[2]+' ('+score+')';
+big.style.color=score>=60?'#FF4D3D':score>=40?'#F2A93B':'#3DDBB0';side.appendChild(big);
+const sub=document.createElement('p');sub.className='muted';sub.textContent=ok.length+' of '+fs.length+' factors had enough data. Press counts before Nov 12 come from a sampled search, so treat this as a rough read.';side.appendChild(sub);
+fs.forEach(f=>{const row=document.createElement('div');row.className='frow';
+const h=document.createElement('div');h.className='fhead';const n=document.createElement('b');n.textContent=f.factor;const v=document.createElement('span');v.textContent=f.score===null?'not enough data':f.score+' / 100';h.append(n,v);row.appendChild(h);
+const bar=document.createElement('div');bar.className='fbar';
+if(f.score!==null){const i=document.createElement('i');i.style.width=f.score+'%';i.style.background=f.score>=60?'#FF4D3D':f.score>=40?'#F2A93B':'#3DDBB0';bar.appendChild(i)}
+row.appendChild(bar);const d=document.createElement('div');d.className='muted';d.textContent=f.detail;row.appendChild(d);side.appendChild(row)});
+}
+
+function pressChart(){
+const el=$('press_chart'),start=d3.utcMonth.offset(d3.utcMonth(ASOF),-12);
+const rows=d3.utcMonth.range(start,d3.utcMonth.offset(d3.utcMonth(ASOF),1)).map(m=>{const nx=d3.utcMonth.offset(m,1),l=REP.filter(e=>{const t=P(e.first);return t>=m&&t<nx});return{m:m,events:l.length,articles:d3.sum(l,e=>e.articles),partial:nx>ASOF}});
+el.replaceChildren();
+const W=Math.max(300,el.clientWidth),m={l:30,r:8,t:12},H=230,bot=H-26;
+const svg=d3.select(el).append('svg').attr('viewBox','0 0 '+W+' '+H).attr('width','100%').attr('role','img').attr('aria-label','Widely reported outages per month over the past year');
+const x=d3.scaleBand(rows.map(r=>+r.m),[m.l,W-m.r]).padding(.2),y=d3.scaleLinear([0,d3.max(rows,r=>r.events)||1],[bot,m.t]).nice();
+y.ticks(4).forEach(t=>{svg.append('line').attr('x1',m.l).attr('x2',W-m.r).attr('y1',y(t)).attr('y2',y(t)).attr('stroke','#1A232B');svg.append('text').attr('x',m.l-6).attr('y',y(t)+4).attr('text-anchor','end').text(t)});
+const tip=tipFor(el);
+rows.forEach(r=>{svg.append('rect').attr('x',x(+r.m)).attr('y',y(r.events)).attr('width',x.bandwidth()).attr('height',y(0)-y(r.events)).attr('fill',ACID).style('opacity',r.partial?.5:1);
+if(r.events>0)svg.append('text').attr('x',x(+r.m)+x.bandwidth()/2).attr('y',y(r.events)-3).attr('text-anchor','middle').text(r.events);
+svg.append('rect').attr('x',x(+r.m)-1).attr('y',0).attr('width',x.bandwidth()+2).attr('height',H).attr('fill','transparent').on('pointermove',ev=>tip.show(ev,[mon(r.m),r.events+' widely reported outages',r.articles+' articles',r.partial?'Month in progress':''])).on('pointerleave',tip.hide)});
+const per=Math.max(1,Math.ceil(rows.length/Math.max(1,Math.floor((W-m.l)/42))));
+rows.forEach((r,i)=>{if(i%per===0)svg.append('text').attr('x',x(+r.m)+x.bandwidth()/2).attr('y',H-6).attr('text-anchor','middle').text(d3.utcFormat('%b %y')(r.m))});
+}
+
+function timeline(){
+const el=$('timeline'),n=state.days,startT=ASOF.getTime()-(n-1)*DAY;
+let evs=EV.filter(e=>{const t=P(e.first).getTime();return t>=startT&&t<=ASOF.getTime()});
+if(state.scope==='reported')evs=evs.filter(e=>e.source!=='status-page'||e.articles>=3);
+if(state.scope==='ai')evs=evs.filter(e=>e.ai_link!=='none');
+if(!evs.length){note(el,'No events match these filters.');return}
+const by=d3.group(evs,e=>e.first);
+const step=26,padL=24,padR=30,W=padL+padR+(n-1)*step,H=96,ay=58;
+el.replaceChildren();
+const sc=document.createElement('div');sc.className='hscroll';el.appendChild(sc);
+const svg=d3.select(sc).append('svg').attr('width',W).attr('height',H).attr('role','group').attr('aria-label','Timeline: one dot per date with outages. Select a dot to list that date\'s outages.');
+svg.append('line').attr('x1',padL-10).attr('x2',W-padR+10).attr('y1',ay).attr('y2',ay).attr('stroke','#3A4752').attr('stroke-opacity',.5);
+const days=d3.range(n).map(i=>new Date(startT+i*DAY));
+days.forEach((d,i)=>{const x=padL+i*step,first=d.getUTCDate()===1,mon1=d.getUTCDay()===1;
+svg.append('line').attr('x1',x).attr('x2',x).attr('y1',ay-(first||mon1?5:3)).attr('y2',ay+(first||mon1?5:3)).attr('stroke','#3A4752').attr('stroke-opacity',.6);
+if(n<=60?mon1:first||d.getUTCDate()===15)svg.append('text').attr('x',x).attr('y',H-12).attr('text-anchor','middle').text(first?mon(d):md(d))});
+const detail=document.createElement('div');detail.className='detail';detail.setAttribute('aria-live','polite');el.appendChild(detail);
+const dots=[];
+const show=key=>{state.sel=key;dots.forEach(c=>{c.node.setAttribute('stroke',c.key===key?'#fff':'none');c.node.setAttribute('stroke-width',3)});
+detail.replaceChildren();const h=document.createElement('h3');detail.appendChild(h);const list=by.get(key);
+if(!list){h.textContent='Select a dot to see that day\'s outages.';return}
+h.textContent=d3.utcFormat('%A, %b %-d, %Y')(P(key))+': '+list.length+(list.length===1?' outage':' outages');
+const ul=document.createElement('ul');detail.appendChild(ul);
+list.slice().sort((a,b)=>(b.articles||0)-(a.articles||0)).forEach(e=>{const li=document.createElement('li');
+const t=document.createElement('b');t.textContent=e.service;li.appendChild(t);li.appendChild(document.createTextNode(': '+(e.title||'').slice(0,140)));
+const meta=[(CL[e.cause]||e.cause)+(e.cause_basis?' ('+e.cause_basis+')':''),e.ai_link!=='none'?AL[e.ai_link]:'',e.first!==e.last?'ran to '+md(P(e.last)):'',e.articles>0?e.articles+' articles':'provider status page',e.sampled?'from sampled news search':''].filter(Boolean);
+const m=document.createElement('div');m.className='muted';m.textContent=meta.join(' · ');li.appendChild(m);
+if(e.url&&/^https?:/.test(e.url)){const a=document.createElement('a');a.href=e.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent='Source';li.appendChild(a)}
+ul.appendChild(li)})};
+days.forEach((d,i)=>{const key=ymd(d),list=by.get(key);if(!list)return;const x=padL+i*step,r=6+Math.min(7,(list.length-1)*2);
+const c=svg.append('circle').attr('cx',x).attr('cy',ay).attr('r',r).attr('tabindex',0).attr('role','button').attr('aria-label',md(d)+': '+list.length+(list.length===1?' outage':' outages'));
+c.append('title').text(md(d)+': '+list.map(e=>e.service).slice(0,4).join(', ')+(list.length>4?'…':''));
+c.on('click',()=>show(key)).on('keydown',ev=>{if(ev.key==='Enter'||ev.key===' '){ev.preventDefault();show(key)}});
+dots.push({key:key,node:c.node()});
+if(list.length>1)svg.append('text').attr('x',x).attr('y',ay-r-5).attr('text-anchor','middle').text(list.length)});
+const keys=Array.from(by.keys()).sort();
+show(state.sel&&by.has(state.sel)?state.sel:keys[keys.length-1]);
+sc.scrollLeft=sc.scrollWidth;
+legend(el,[['Each dot is a date with at least one outage; bigger dot, more outages. Scroll sideways for earlier dates.',ACID]]);
+}
+
+function mixChart(){
+const el=$('mix_chart'),a=ASOF.getTime(),ev=REP.filter(e=>P(e.first).getTime()>=a-89*DAY);
+el.replaceChildren();
+const cnt=(f)=>d3.rollups(ev,v=>v.length,f).map(r=>({key:r[0],n:r[1]})).sort((x,y)=>y.n-x.n);
+const wrap=document.createElement('div');wrap.className='mix';el.appendChild(wrap);
+[['cause','Cause',cnt(e=>e.cause)],['ai','Link to AI',cnt(e=>e.ai_link)]].forEach(k=>{
+const col=document.createElement('div'),h=document.createElement('h3');h.textContent=k[1];col.appendChild(h);
+const mx=d3.max(k[2],r=>r.n)||1;
+k[2].forEach(r=>{const line=document.createElement('div');line.className='mixrow';const l=document.createElement('span');l.textContent=k[0]==='cause'?(CL[r.key]||r.key):(AL[r.key]||r.key);
+const b=document.createElement('span');b.className='mixbar';const i=document.createElement('i');i.style.width=(100*r.n/mx)+'%';i.style.background=k[0]==='cause'?causeColor(r.key):(r.key==='none'?'#33404B':ACID);b.appendChild(i);
+const n=document.createElement('span');n.textContent=r.n;line.append(l,b,n);col.appendChild(line)});wrap.appendChild(col)});
+}
+
+function reportedTable(){
+const rows=REP.slice().sort((a,b)=>b.first.localeCompare(a.first)).slice(0,15);
+const tb=d3.select($('reported_body'));
+tb.selectAll('tr').data(rows).join('tr').each(function(e){const tr=d3.select(this);tr.selectAll('td').remove();
+[e.first===e.last?md(P(e.first)):md(P(e.first))+' to '+md(P(e.last)),e.service+': '+e.title.slice(0,90),CL[e.cause]||e.cause,e.ai_link==='none'?'None':AL[e.ai_link],e.articles].forEach(v=>tr.append('td').text(v))});
+}
+
+function drawAll(){pressChart();timeline();doomGauge();mixChart()}
+
+fetch('data/dashboard_events.json',{cache:'no-store'}).then(r=>{if(!r.ok)throw new Error(r.status);return r.json()}).then(rows=>{
+EV=rows;if(!EV.length)throw new Error('no data');
+REP=EV.filter(e=>e.source!=='status-page'||e.articles>=3);
+ASOF=P(d3.max(EV,e=>e.first));
+hero();summary();reportedTable();drawAll();
+$('days').addEventListener('change',e=>{state.days=+e.target.value;timeline()});
+$('scope').addEventListener('change',e=>{state.scope=e.target.value;timeline()});
+let rt;window.addEventListener('resize',()=>{clearTimeout(rt);rt=setTimeout(()=>{pressChart()},150)});
+}).catch(err=>{const p=document.createElement('p');p.className='err';p.textContent='Could not load data/dashboard_events.json ('+err.message+'). If you opened this file directly, serve it over http instead.';$('app').prepend(p)});
+})();
+</script>
+</body>
+</html>

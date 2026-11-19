@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 jobs:
   collect:
@@ -24,12 +25,19 @@ jobs:
         run: python collector/news.py || true   # Google News may rate-limit; keep going
       - name: Merge
         run: python collector/merge.py
+      - name: Export dashboard rows
+        run: python collector/export_dashboard.py
       - name: Summarize
         run: python collector/summarize.py --days 90
       - name: Commit data
         run: |
           git config user.name "outage-bot"
           git config user.email "outage-bot@users.noreply.github.com"
-          git add data/incidents.json data/news.json data/events.json data/events.csv data/summary.json
+          git add data/incidents.json data/news.json data/events.json data/events.csv data/summary.json data/dashboard_events.json data/filtered_commentary.json data/excluded_ai.json data/excluded_niche.json
           git diff --staged --quiet || git commit -m "data: update $(date -u +%Y-%m-%dT%H:%MZ)"
           git push
+
+      - name: Rebuild Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST repos/${{ github.repository }}/pages/builds || true   # branch-based Pages does not always rebuild on bot pushes
