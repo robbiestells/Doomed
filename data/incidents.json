@@ -1,7 +1,234 @@
 {
- "generated_at": "2026-11-19T13:27:33Z",
- "count": 985,
+ "generated_at": "2026-11-19T22:13:47Z",
+ "count": 991,
  "incidents": [
+  {
+   "key": "twilio:4rknsqgf86ss",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Automated Alert: No Customer Impact",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-19T18:30:30Z",
+   "resolved_at": "2026-11-19T18:48:15Z",
+   "duration_min": 17,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-19T18:48:15Z",
+     "status": "resolved",
+     "body": "We have fully investigated the User Account Roles issue triggered by our automated alert, and it was determined that there is no noticeable customer impact. All systems are operational."
+    },
+    {
+     "at": "2026-11-19T18:30:30Z",
+     "status": "investigating",
+     "body": "Our monitoring systems have detected a potential issue with User Account Roles. Our engineers have been alerted and are investigating. We will provide an update when we have more details."
+    }
+   ],
+   "url": "https://stspg.io/g58ysv5fg2yf",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "github:m310qbkfm3ww",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Disruption with some GitHub services",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-19T17:06:26Z",
+   "resolved_at": "2026-11-19T18:17:42Z",
+   "duration_min": 71,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-19T18:17:42Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-19T18:05:21Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-19T17:43:44Z",
+     "status": "monitoring",
+     "body": "Starting around 18:02 UTC on November 5, GitHub web sessions stopped being renewed based on recent activity, so users were signed out when their sessions expired due to inactivity. These sign-outs were caused by a bug in session renewal, not due to a security incident.<br /><br />We believe we fixed the bug at 05:23 UTC on November 19, and sessions created since then should renew as usual. We\u2019re continuing to monitor the situation.<br /><br />If you had an inactive session from that period, you may still find that you\u2019re signed out when you return to GitHub. If that happens, all you need to do is sign back in."
+    },
+    {
+     "at": "2026-11-19T17:06:27Z",
+     "status": "investigating",
+     "body": "We are investigating reports of impacted performance for some GitHub services."
+    }
+   ],
+   "url": "https://stspg.io/pvjz2g01trc7",
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...e to inactivity. These sign-outs were caused by a bug in session renewal, not due to a security inciden..."
+  },
+  {
+   "key": "cloudflare:ljrvdciu7syf",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Observability ingestion delay and query failures",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-19T16:30:04Z",
+   "resolved_at": "2026-11-19T21:55:44Z",
+   "duration_min": 325,
+   "components": [
+    "Workers",
+    "Workers Observability"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-19T21:55:44Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-19T21:23:35Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-19T16:30:04Z",
+     "status": "identified",
+     "body": "Cloudflare has identified an issue impacting Observability ingestion and querying. Customers may be seeing delays in new data coming in and increased error rates querying Workers Observability and Cloudflare Traces data. We are working to analyze and mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/ljrvdciu7syf",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "openai:01M7T8MRF9SDBDNQ62Z6V156ZZ",
+   "source": "openai",
+   "service": "OpenAI",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Elevated error rates for gpt-6 Luna API requests",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-19T16:01:12Z",
+   "resolved_at": "2026-11-19T16:58:04Z",
+   "duration_min": 56,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-19T16:58:04Z",
+     "status": "resolved",
+     "body": "All affected services are operating normally again. We\u2019re sorry for the disruption, and we appreciate your patience."
+    },
+    {
+     "at": "2026-11-19T16:21:41Z",
+     "status": "monitoring",
+     "body": "We\u2019ve applied a mitigation and are monitoring the affected services to confirm recovery."
+    },
+    {
+     "at": "2026-11-19T16:01:12Z",
+     "status": "investigating",
+     "body": "We\u2019re investigating a potential issue for the listed services and checking how it affects users. We\u2019ll share an update when we know more."
+    }
+   ],
+   "url": "https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "github:gp7nhc88bwv9",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Degraded availability for GPT-6 Luna in Copilot",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-19T15:56:02Z",
+   "resolved_at": "2026-11-19T16:37:00Z",
+   "duration_min": 40,
+   "components": [
+    "Copilot AI Model Providers"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-19T16:37:00Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-19T16:28:40Z",
+     "status": "monitoring",
+     "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-19T15:57:24Z",
+     "status": "investigating",
+     "body": "We are experiencing degraded availability for the GPT-6 Luna model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Fusion' to continue using Copilot."
+    },
+    {
+     "at": "2026-11-19T15:56:02Z",
+     "status": "investigating",
+     "body": "We are investigating reports of degraded performance for Copilot AI Model Providers"
+    }
+   ],
+   "url": "https://stspg.io/vv0kzmyd9wqs",
+   "cause": "third-party",
+   "cause_basis": "provider",
+   "cause_evidence": "...and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolv..."
+  },
+  {
+   "key": "twilio:q8sh3cw55b17",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Voice Call Failures from a Subset of Twilio Phone Numbers to Argentina",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-19T15:15:43Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Voice, Latin America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-19T18:38:41Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call failures from a subset of Twilio Phone Numbers to network subscribers in Argentina. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-19T16:38:06Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call failures from a subset of Twilio Phone Numbers to network subscribers in Argentina. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-19T15:36:06Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call failures from Twilio Phone Numbers to network subscribers in Argentina. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-19T15:15:43Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing voice call failures from a subset of Twilio Phone Numbers to network subscribers in Argentina. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/xpzbcfrc7bmy",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:5pe5mb9fefi8",
    "source": "cloudflare",
@@ -10,15 +237,20 @@
    "kind": "feed",
    "title": "Durable Objects and D1 \u2013 Increased Errors",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-19T13:05:04Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-19T13:37:02Z",
+   "duration_min": 31,
    "components": [
     "Durable Objects",
     "D1"
    ],
    "updates": [
+    {
+     "at": "2026-11-19T13:37:02Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
     {
      "at": "2026-11-19T13:26:41Z",
      "status": "identified",
@@ -1576,16 +1808,26 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Voice Call Audio Quality Degradation and Post Dial Delay and Silent and One-Way Audio Between Twilio and Brazil",
+   "title": "Voice Call Audio Quality Degradation and Silent and One-Way Audio between Twilio and Multiple Networks in Brazil",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-17T16:06:00Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-19T16:54:08Z",
+   "duration_min": 2928,
    "components": [
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-19T16:54:08Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and voice calls between Twilio and network subscribers on affected networks in Brazil are operating normally."
+    },
+    {
+     "at": "2026-11-19T14:51:03Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls between Twilio Phone Numbers and network subscribers on multiple networks in Brazil and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-18T03:18:54Z",
      "status": "identified",

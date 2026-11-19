@@ -1,27 +1,59 @@
 {
- "window_days": 30,
+ "window_days": 90,
  "min_severity": "major",
- "total": 23,
- "per_week_avg": 5.37,
+ "total": 78,
+ "per_week_avg": 6.07,
  "by_service": [
   [
    "GitHub",
-   13
+   20
   ],
   [
    "Discord",
+   12
+  ],
+  [
+   "Box",
+   11
+  ],
+  [
+   "Vercel",
+   8
+  ],
+  [
+   "Notion",
+   5
+  ],
+  [
+   "Asana",
+   5
+  ],
+  [
+   "1Password",
    3
+  ],
+  [
+   "Squarespace",
+   3
+  ],
+  [
+   "Dropbox",
+   2
   ],
   [
    "npm",
    2
   ],
   [
-   "Vercel",
+   "Figma",
+   2
+  ],
+  [
+   "Coinbase",
    1
   ],
   [
-   "Dropbox",
+   "Reddit",
    1
   ],
   [
@@ -39,24 +71,24 @@
  ],
  "by_category": [
   [
+   "saas",
+   32
+  ],
+  [
    "developer",
-   15
+   22
   ],
   [
    "consumer-app",
-   3
-  ],
-  [
-   "saas",
-   2
+   13
   ],
   [
    "cloud",
-   1
+   8
   ],
   [
    "bank",
-   1
+   2
   ],
   [
    "government",
@@ -65,8 +97,40 @@
  ],
  "by_week": [
   [
-   "2026-W43",
+   "2026-W35",
+   5
+  ],
+  [
+   "2026-W36",
+   8
+  ],
+  [
+   "2026-W37",
+   6
+  ],
+  [
+   "2026-W38",
+   5
+  ],
+  [
+   "2026-W39",
    2
+  ],
+  [
+   "2026-W40",
+   7
+  ],
+  [
+   "2026-W41",
+   9
+  ],
+  [
+   "2026-W42",
+   4
+  ],
+  [
+   "2026-W43",
+   9
   ],
   [
    "2026-W44",
@@ -78,68 +142,84 @@
   ],
   [
    "2026-W46",
-   8
+   9
   ],
   [
    "2026-W47",
-   4
+   5
   ]
  ],
  "by_cause": [
   [
    "unknown",
-   11
+   41
   ],
   [
    "software-change",
-   8
+   27
+  ],
+  [
+   "capacity-overload",
+   4
+  ],
+  [
+   "network",
+   2
   ],
   [
    "third-party",
    2
   ],
   [
-   "capacity-overload",
-   1
-  ],
-  [
    "config-change",
-   1
+   2
   ]
  ],
- "cause_known_pct": 52.2,
+ "cause_known_pct": 47.4,
  "by_weekday": [
   [
    "Wed",
-   7
+   23
   ],
   [
    "Mon",
-   6
+   17
   ],
   [
    "Fri",
-   4
+   13
   ],
   [
    "Tue",
-   3
+   12
   ],
   [
    "Thu",
-   2
+   10
   ],
   [
    "Sat",
+   2
+  ],
+  [
+   "Sun",
    1
   ]
  ],
  "median_duration_min": {
-  "Vercel": 189,
+  "Vercel": 82,
   "Dropbox": 160,
+  "1Password": 56,
   "GitHub": 75,
-  "Discord": 55,
+  "Notion": 160,
+  "Discord": 83,
   "npm": 110,
+  "Asana": 50,
+  "Box": 74,
+  "Coinbase": 2,
+  "Squarespace": 48,
+  "Figma": 250,
+  "Reddit": 92,
   "Microsoft 365 / Outlook": 2177
  }
 }
