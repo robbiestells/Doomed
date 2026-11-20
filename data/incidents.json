@@ -1,7 +1,35 @@
 {
- "generated_at": "2026-11-19T22:13:47Z",
- "count": 991,
+ "generated_at": "2026-11-20T03:29:49Z",
+ "count": 993,
  "incidents": [
+  {
+   "key": "cloudflare:pfwuex7qix27",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": " R2 and Durable Objects availability issues",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-20T02:52:58Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Durable Objects",
+    "R2"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T02:52:58Z",
+     "status": "investigating",
+     "body": "Customers using R2 and Durable Objects in Eastern North America may be experiencing intermittent errors and failed requests. We are investigating the cause and working to confirm that service availability has stabilized. We will provide updates as more information becomes available."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/pfwuex7qix27",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:4rknsqgf86ss",
    "source": "twilio",
@@ -195,14 +223,24 @@
    "kind": "feed",
    "title": "Voice Call Failures from a Subset of Twilio Phone Numbers to Argentina",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-19T15:15:43Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-19T22:53:53Z",
+   "duration_min": 458,
    "components": [
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-19T22:53:53Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and voice calls from a subset of Twilio Phone Numbers to network subscribers in Argentina are operating normally."
+    },
+    {
+     "at": "2026-11-19T22:27:35Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from a subset of Twilio Phone Numbers to network subscribers in Argentina and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-19T18:38:41Z",
      "status": "identified",
@@ -731,7 +769,7 @@
    "kind": "feed",
    "title": "Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Phone Numbers",
    "severity": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-18T15:56:21Z",
    "resolved_at": null,
    "duration_min": null,
@@ -739,6 +777,16 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T01:44:32Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-19T23:38:33Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-19T07:32:27Z",
      "status": "identified",
@@ -2038,8 +2086,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [
@@ -7986,6 +8034,183 @@
     }
    ],
    "url": "https://www.cloudflarestatus.com/incidents/c60k3g4vsoc1",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:m5yrng0zkwr5",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Receipt Delays from a Subset of Twilio Long Codes to Multiple Networks in Chile",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-06T21:21:41Z",
+   "resolved_at": "2026-11-19T22:27:08Z",
+   "duration_min": 18785,
+   "components": [
+    "SMS, Latin America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-19T22:27:08Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery receipts from a subset of Twilio Long Codes to network subscribers on affected networks in Chile are operating normally."
+    },
+    {
+     "at": "2026-11-19T12:41:55Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile and are monitoring service stability. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-19T04:37:23Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-19T00:36:59Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-18T22:36:30Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-18T03:18:54Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-17T03:18:22Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-16T03:12:33Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-15T03:12:08Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-14T03:01:12Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-13T03:00:36Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-12T02:34:51Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-11T02:22:29Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-10T10:15:20Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-10T02:10:43Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T22:04:02Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T19:58:43Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T18:58:16Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T18:29:04Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T10:27:46Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T06:26:28Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T04:25:57Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T03:19:57Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-09T02:26:52Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-08T05:02:54Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-07T12:56:01Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-07T04:55:40Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-07T00:55:14Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-06T22:54:33Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-06T21:49:00Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to network subscribers on multiple networks in Chile. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-06T21:21:41Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Phone Numbers to network subscribers on multiple networks in Chile. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/92y684hgthhn",
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null
