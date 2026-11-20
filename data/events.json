@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T03:29:49Z",
+ "generated_at": "2026-11-20T13:02:30Z",
  "count": 275,
  "events": [
   {
@@ -2304,7 +2304,7 @@
    "kind": "feed",
    "title": "[Medium] Issue with Enterprise Event Reports",
    "severity": "major",
-   "status": "resolved",
+   "status": "postmortem",
    "started_at": "2026-10-08T01:48:20Z",
    "resolved_at": "2026-10-08T03:54:12Z",
    "duration_min": 125,
@@ -2313,6 +2313,11 @@
     "Enterprise Reports"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T04:55:18Z",
+     "status": "postmortem",
+     "body": "We recently addressed issues affecting Enterprise Events reports, Enterprise Events API, AI usage, and billing in Box. We would like to take the opportunity to further explain these issues and the steps we have taken to keep them from happening in the future.\n\nBetween October 6, 2026 at 5:55 PM PT and October 7, 2026 at 8:10 PM PT, some customers may have seen missing or outdated data in Admin Console reports, Insights, and User Activity Reports, and delayed or incomplete results from the Enterprise Events API. In addition, Box AI unit usage may have appeared inaccurate, AI usage limits may not have been enforced on time, and AI usage billing data may have been delayed. All delayed events were processed and service was fully restored by 8:10 PM PT on October 7, 2026.\n\n# Analysis\n\nA storage retention change, intended to streamline old code artifacts, unintentionally deleted code artifacts that our event processing service still depended on. The change incorrectly assumed those artifacts were no longer in use. The service continued to run until it needed additional processing capacity during peak load on October 6. That capacity could not start without the deleted files, and event processing stopped.  \n\nPre-production testing for the change did not capture how the service uses those files. After release, while our monitoring confirmed the service was running, it did not check for whether the service was processing data. After event processing stalled, the service did not recover on its own, and the deleted artifacts could not be auto-restored, so recovery required manual intervention.\n\n# Corrective Actions\n\nBox has initiated the following corrective actions:\n\n* Removing the storage retention rule from the affected services, so code artifacts they depend on are no longer deleted automatically.\n* Updating our processing services so that each new run uses its own freshly stored copy of the artifacts it needs.\n* Adding alerts that detect when event processing stalls or event data stops arriving, to enable a more timely response.\n\n\u200c\n\nWe are continuously working to improve Box and want to make sure we are delivering the best product and user experience we can. We hope we have provided some clarity here and we would be happy to answer any questions you may still have regarding this matter.\n\nSincerely,  \nThe Box Team"
+    },
     {
      "at": "2026-10-08T03:54:12Z",
      "status": "resolved",
@@ -2345,9 +2350,9 @@
     }
    ],
    "url": "https://stspg.io/m4y0wyxljb1s",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...t capture how the service uses those files. After release, while our monitoring confirmed the service was r...",
    "brand": null,
    "sources": [
     "status-page"

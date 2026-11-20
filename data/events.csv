@@ -40,7 +40,7 @@ first_reported,last_reported,service,category,title,severity,cause,cause_basis,a
 2026-10-14,2026-10-16,Apple,consumer-app,Apple TV outage disrupts MLS as fans miss out on Lionel Messi action,reported,unknown,,none,False,,3,news,news:Apple:2026-10-14
 2026-10-09,2026-10-09,Southwest,transport,"More than 1,200 Southwest Airlines flights delayed after software outage",reported,unknown,,none,False,,8,news,news:Southwest:2026-10-09
 2026-10-08,2026-10-08,Box,saas,[Critical] Issues with Multiple Box Services,critical,software-change,provider,none,False,,0,status-page,box:nby3tvjc88nf
-2026-10-08,2026-10-08,Box,saas,[Medium] Issue with Enterprise Event Reports,major,unknown,,none,False,,0,status-page,box:gpq20z01s4y9
+2026-10-08,2026-10-08,Box,saas,[Medium] Issue with Enterprise Event Reports,major,software-change,provider,none,False,,0,status-page,box:gpq20z01s4y9
 2026-10-07,2026-10-07,GitHub,developer,"Incident with Git Operations, Issues, Actions and Pull Requests",critical,unknown,,none,False,,0,status-page,github:qpfv5p86dmrl
 2026-10-07,2026-10-07,GitHub,developer,"Incident with Git Operations, Pull Requests and Actions",critical,software-change,provider,none,False,,0,status-page,github:djlmxz2zd0j7
 2026-10-06,2026-10-06,GitHub,developer,Several services are degraded,critical,software-change,provider,none,False,,0,status-page,github:cjwszcf57bff

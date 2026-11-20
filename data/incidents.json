@@ -1,7 +1,66 @@
 {
- "generated_at": "2026-11-20T03:29:49Z",
- "count": 993,
+ "generated_at": "2026-11-20T13:02:30Z",
+ "count": 995,
  "incidents": [
+  {
+   "key": "twilio:sjjy31999wh3",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Proximus Belgium",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-20T12:51:03Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T12:51:03Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Proximus network subscribers in Belgium. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/7t0sbbb66526",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:4lv21sf5fzhm",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Network Performance Issues in Miami",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-20T05:00:56Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Miami, United States - (MIA)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T05:10:34Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-20T05:00:56Z",
+     "status": "investigating",
+     "body": "Cloudflare has identified issues with Network Performance in Miami. We are working to analyze and mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/4lv21sf5fzhm",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:pfwuex7qix27",
    "source": "cloudflare",
@@ -10,15 +69,25 @@
    "kind": "feed",
    "title": " R2 and Durable Objects availability issues",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-20T02:52:58Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T04:35:18Z",
+   "duration_min": 102,
    "components": [
     "Durable Objects",
     "R2"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T04:35:18Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T04:02:56Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
     {
      "at": "2026-11-20T02:52:58Z",
      "status": "investigating",
@@ -777,6 +846,11 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T05:44:57Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-20T01:44:32Z",
      "status": "monitoring",
@@ -2086,8 +2160,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Data Localization Suite",
     "Zero Trust",
+    "Data Localization Suite",
     "Cloudflare One Client"
    ],
    "updates": [
@@ -14206,7 +14280,7 @@
    "kind": "feed",
    "title": "[Medium] Issue with Enterprise Event Reports",
    "severity": "major",
-   "status": "resolved",
+   "status": "postmortem",
    "started_at": "2026-10-08T01:48:20Z",
    "resolved_at": "2026-10-08T03:54:12Z",
    "duration_min": 125,
@@ -14215,6 +14289,11 @@
     "Enterprise Reports"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T04:55:18Z",
+     "status": "postmortem",
+     "body": "We recently addressed issues affecting Enterprise Events reports, Enterprise Events API, AI usage, and billing in Box. We would like to take the opportunity to further explain these issues and the steps we have taken to keep them from happening in the future.\n\nBetween October 6, 2026 at 5:55 PM PT and October 7, 2026 at 8:10 PM PT, some customers may have seen missing or outdated data in Admin Console reports, Insights, and User Activity Reports, and delayed or incomplete results from the Enterprise Events API. In addition, Box AI unit usage may have appeared inaccurate, AI usage limits may not have been enforced on time, and AI usage billing data may have been delayed. All delayed events were processed and service was fully restored by 8:10 PM PT on October 7, 2026.\n\n# Analysis\n\nA storage retention change, intended to streamline old code artifacts, unintentionally deleted code artifacts that our event processing service still depended on. The change incorrectly assumed those artifacts were no longer in use. The service continued to run until it needed additional processing capacity during peak load on October 6. That capacity could not start without the deleted files, and event processing stopped.  \n\nPre-production testing for the change did not capture how the service uses those files. After release, while our monitoring confirmed the service was running, it did not check for whether the service was processing data. After event processing stalled, the service did not recover on its own, and the deleted artifacts could not be auto-restored, so recovery required manual intervention.\n\n# Corrective Actions\n\nBox has initiated the following corrective actions:\n\n* Removing the storage retention rule from the affected services, so code artifacts they depend on are no longer deleted automatically.\n* Updating our processing services so that each new run uses its own freshly stored copy of the artifacts it needs.\n* Adding alerts that detect when event processing stalls or event data stops arriving, to enable a more timely response.\n\n\u200c\n\nWe are continuously working to improve Box and want to make sure we are delivering the best product and user experience we can. We hope we have provided some clarity here and we would be happy to answer any questions you may still have regarding this matter.\n\nSincerely,  \nThe Box Team"
+    },
     {
      "at": "2026-10-08T03:54:12Z",
      "status": "resolved",
@@ -14247,9 +14326,9 @@
     }
    ],
    "url": "https://stspg.io/m4y0wyxljb1s",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...t capture how the service uses those files. After release, while our monitoring confirmed the service was r..."
   },
   {
    "key": "anthropic:vmys9qn874h4",

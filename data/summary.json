@@ -152,11 +152,11 @@
  "by_cause": [
   [
    "unknown",
-   41
+   40
   ],
   [
    "software-change",
-   27
+   28
   ],
   [
    "capacity-overload",
@@ -175,7 +175,7 @@
    2
   ]
  ],
- "cause_known_pct": 47.4,
+ "cause_known_pct": 48.7,
  "by_weekday": [
   [
    "Wed",
