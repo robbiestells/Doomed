@@ -1,8 +1,8 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 80,
- "per_week_avg": 6.22,
+ "total": 81,
+ "per_week_avg": 6.3,
  "by_service": [
   [
    "GitHub",
@@ -29,16 +29,16 @@
    5
   ],
   [
+   "Dropbox",
+   3
+  ],
+  [
    "1Password",
    3
   ],
   [
    "Squarespace",
    3
-  ],
-  [
-   "Dropbox",
-   2
   ],
   [
    "npm",
@@ -76,7 +76,7 @@
  "by_category": [
   [
    "saas",
-   33
+   34
   ],
   [
    "developer",
@@ -154,13 +154,13 @@
   ],
   [
    "2026-W47",
-   7
+   8
   ]
  ],
  "by_cause": [
   [
    "unknown",
-   41
+   42
   ],
   [
    "software-change",
@@ -183,7 +183,7 @@
    2
   ]
  ],
- "cause_known_pct": 48.8,
+ "cause_known_pct": 48.1,
  "by_weekday": [
   [
    "Wed",
@@ -195,7 +195,7 @@
   ],
   [
    "Fri",
-   15
+   16
   ],
   [
    "Tue",
@@ -215,16 +215,16 @@
   ]
  ],
  "median_duration_min": {
+  "Dropbox": 59,
+  "Box": 74,
   "Cloudflare": 28,
   "Vercel": 82,
-  "Dropbox": 160,
   "1Password": 56,
   "GitHub": 75,
   "Notion": 160,
   "Discord": 83,
   "npm": 110,
   "Asana": 50,
-  "Box": 74,
   "Coinbase": 2,
   "Squarespace": 48,
   "Figma": 250,

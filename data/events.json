@@ -1,7 +1,71 @@
 {
- "generated_at": "2026-11-20T19:16:12Z",
- "count": 279,
+ "generated_at": "2026-11-20T21:13:56Z",
+ "count": 280,
  "events": [
+  {
+   "key": "dropbox:h0w7s25x3j7z",
+   "source": "dropbox",
+   "service": "Dropbox",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Dropbox is not working as expected for some users",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-20T19:28:42Z",
+   "resolved_at": "2026-11-20T20:13:28Z",
+   "duration_min": 44,
+   "components": [
+    "Website",
+    "Desktop Application",
+    "Mobile Application",
+    "API",
+    "Paper",
+    "Passwords",
+    "Dash",
+    "Protect",
+    "Replay",
+    "DocSend",
+    "MCP Server",
+    "Support Services"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T20:13:28Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T20:05:34Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T19:37:36Z",
+     "status": "investigating",
+     "body": "We are continuing to investigate this issue. The outage is not caused by a cyberattack or by AI acting on its own. We\u2019re sorry for the disruption."
+    },
+    {
+     "at": "2026-11-20T19:28:43Z",
+     "status": "investigating",
+     "body": "We are currently investigating this issue."
+    }
+   ],
+   "url": "https://stspg.io/njzlzrzr1yyh",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": null,
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-20",
+   "last_reported": "2026-11-20",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "box:0ssj5ngcpqhs",
    "source": "box",
@@ -10,15 +74,25 @@
    "kind": "feed",
    "title": "[Medium] Issue with Box Forms, File Request, and Box Doc Gen",
    "severity": "major",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-20T18:48:22Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T19:40:32Z",
+   "duration_min": 52,
    "components": [
     "Box Forms",
     "Box Doc Gen"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T19:40:32Z",
+     "status": "resolved",
+     "body": "After further monitoring, this incident is now considered resolved. Box Forms, File Request, and Box Doc Gen have been restored to full functionality. If you continue to experience any issues, please contact Support at https://support.box.com."
+    },
+    {
+     "at": "2026-11-20T19:25:27Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
     {
      "at": "2026-11-20T19:10:33Z",
      "status": "identified",

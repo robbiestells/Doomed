@@ -1,7 +1,193 @@
 {
- "generated_at": "2026-11-20T19:16:08Z",
- "count": 1000,
+ "generated_at": "2026-11-20T21:13:56Z",
+ "count": 1005,
  "incidents": [
+  {
+   "key": "cloudflare:akjr7qn5o622",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cache Purging Delays in Milan",
+   "severity": "none",
+   "status": "identified",
+   "started_at": "2026-11-20T20:51:40Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "CDN Cache Purge"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T20:55:47Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-20T20:51:40Z",
+     "status": "investigating",
+     "body": "Cloudflare single-file cache purging (purge by URL) called via the Dashboard/API is delayed in Milan. We are working to resolve this issue as soon as possible. Until then you may use the Purge Everything feature but do be aware it may cause a surge in traffic to your origin server(s). More updates to follow."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/akjr7qn5o622",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...Everything feature but do be aware it may cause a surge in traffic to your origin server(s). More updates..."
+  },
+  {
+   "key": "cloudflare:oz6to8yacrxe",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Network Performance Issues in Washington, DC datacenter (IAD)",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-20T20:35:16Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Network"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T20:36:41Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T20:35:16Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with network performance in Washington, DC datacenter (IAD). We are working to analyze and mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/oz6to8yacrxe",
+   "cause": "hardware-datacenter",
+   "cause_basis": "provider",
+   "cause_evidence": "...issues with network performance in Washington, DC datacenter (IAD). We are working to analyze and mitigate thi..."
+  },
+  {
+   "key": "zoom:xvsknch85ynp",
+   "source": "zoom",
+   "service": "Zoom",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Service Degradation for a subset of users affecting outbound Zoom Phone calls in Australia.",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-20T20:30:33Z",
+   "resolved_at": "2026-11-20T20:42:51Z",
+   "duration_min": 12,
+   "components": [
+    "Calling (Inbound/Outbound)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T20:42:51Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T20:30:33Z",
+     "status": "monitoring",
+     "body": "On 11/20/2026, Between 18:26 UTC to 19:22 UTC, a subset of users may have experienced issues with outbound Zoom Phone calls in Australia. \nThis incident has been resolved and the affected services have been restored."
+    }
+   ],
+   "url": "https://stspg.io/mjlsmmz5zyqx",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:fdjn1ghpx43y",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to CTBC Brazil",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-20T19:53:26Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Latin America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T20:54:24Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Phone Numbers to CTBC network subscribers in Brazil. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T19:53:56Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Phone Numbers to CTBC network subscribers in Brazil. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T19:53:26Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Phone Numbers to CTBC network subscribers in Brazil. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/5xn9c5l36hbq",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "dropbox:h0w7s25x3j7z",
+   "source": "dropbox",
+   "service": "Dropbox",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Dropbox is not working as expected for some users",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-20T19:28:42Z",
+   "resolved_at": "2026-11-20T20:13:28Z",
+   "duration_min": 44,
+   "components": [
+    "Website",
+    "Desktop Application",
+    "Mobile Application",
+    "API",
+    "Paper",
+    "Passwords",
+    "Dash",
+    "Protect",
+    "Replay",
+    "DocSend",
+    "MCP Server",
+    "Support Services"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T20:13:28Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T20:05:34Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T19:37:36Z",
+     "status": "investigating",
+     "body": "We are continuing to investigate this issue. The outage is not caused by a cyberattack or by AI acting on its own. We\u2019re sorry for the disruption."
+    },
+    {
+     "at": "2026-11-20T19:28:43Z",
+     "status": "investigating",
+     "body": "We are currently investigating this issue."
+    }
+   ],
+   "url": "https://stspg.io/njzlzrzr1yyh",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "box:0ssj5ngcpqhs",
    "source": "box",
@@ -10,15 +196,25 @@
    "kind": "feed",
    "title": "[Medium] Issue with Box Forms, File Request, and Box Doc Gen",
    "severity": "major",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-20T18:48:22Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T19:40:32Z",
+   "duration_min": 52,
    "components": [
     "Box Forms",
     "Box Doc Gen"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T19:40:32Z",
+     "status": "resolved",
+     "body": "After further monitoring, this incident is now considered resolved. Box Forms, File Request, and Box Doc Gen have been restored to full functionality. If you continue to experience any issues, please contact Support at https://support.box.com."
+    },
+    {
+     "at": "2026-11-20T19:25:27Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
     {
      "at": "2026-11-20T19:10:33Z",
      "status": "identified",
@@ -78,14 +274,29 @@
    "kind": "feed",
    "title": "Cache Purging Delays in Amsterdam",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-20T18:00:33Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T19:41:49Z",
+   "duration_min": 101,
    "components": [
     "CDN Cache Purge"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T19:41:49Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T19:40:46Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T19:40:23Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
     {
      "at": "2026-11-20T18:00:33Z",
      "status": "investigating",
@@ -145,9 +356,9 @@
    "service": "Coinbase",
    "category": "bank",
    "kind": "feed",
-   "title": "Degraded Performance - Derivative Trading",
+   "title": "Degraded Performance - Global Derivatives Trading",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "investigating",
    "started_at": "2026-11-20T16:30:04Z",
    "resolved_at": null,
    "duration_min": null,
@@ -156,6 +367,16 @@
     "Deribit - Website"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T20:46:11Z",
+     "status": "investigating",
+     "body": "Our team is continuing to investigate an issue affecting global derivatives trading. Some customers may currently be unable to trade Global Derivatives or use margin trading, and balances may not display at this time. US derivatives are not affected. We will provide an update as soon as possible."
+    },
+    {
+     "at": "2026-11-20T19:26:00Z",
+     "status": "investigating",
+     "body": "Some users may currently be unable to trade derivatives. Our team is working on this issue and will provide an update shortly. Your funds are safe."
+    },
     {
      "at": "2026-11-20T16:45:23Z",
      "status": "monitoring",
@@ -185,14 +406,19 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Proximus Belgium",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-20T12:51:03Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T19:50:49Z",
+   "duration_min": 419,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T19:50:49Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Proximus network subscribers in Belgium is operating normally."
+    },
     {
      "at": "2026-11-20T18:12:27Z",
      "status": "monitoring",
@@ -2360,8 +2586,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [

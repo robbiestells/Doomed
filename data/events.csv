@@ -1,4 +1,5 @@
 first_reported,last_reported,service,category,title,severity,cause,cause_basis,ai_link,ai_service_affected,ai_evidence,articles,sources,key
+2026-11-20,2026-11-20,Dropbox,saas,Dropbox is not working as expected for some users,critical,unknown,,none,False,,0,status-page,dropbox:h0w7s25x3j7z
 2026-11-20,2026-11-20,Box,saas,"[Medium] Issue with Box Forms, File Request, and Box Doc Gen",major,unknown,,none,False,,0,status-page,box:0ssj5ngcpqhs
 2026-11-20,2026-11-20,Cloudflare,cdn-network,Cloudflare Dashboard and Cloudflare API service issues in EU region,major,unknown,,none,False,,0,status-page,cloudflare:iysf3fasf7wn
 2026-11-18,2026-11-19,PlayStation,consumer-app,"PlayStation suffers major outage hours before ""GTA VI"" launch",reported,unknown,override,none,False,,5,news,news:PlayStation:2026-11-18
