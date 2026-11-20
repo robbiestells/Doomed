@@ -1,15 +1,105 @@
 {
- "generated_at": "2026-11-20T13:02:30Z",
- "count": 275,
+ "generated_at": "2026-11-20T19:16:12Z",
+ "count": 279,
  "events": [
+  {
+   "key": "box:0ssj5ngcpqhs",
+   "source": "box",
+   "service": "Box",
+   "category": "saas",
+   "kind": "feed",
+   "title": "[Medium] Issue with Box Forms, File Request, and Box Doc Gen",
+   "severity": "major",
+   "status": "identified",
+   "started_at": "2026-11-20T18:48:22Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Box Forms",
+    "Box Doc Gen"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T19:10:33Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-20T18:48:22Z",
+     "status": "investigating",
+     "body": "Our team is investigating an issue with Box Forms, File Request, and Box Doc Gen. Users may intermittently see errors or be unable to use these features. We will provide additional information as it becomes available."
+    }
+   ],
+   "url": "https://stspg.io/4m7nwt0yqdq9",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": null,
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-20",
+   "last_reported": "2026-11-20",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
+   "key": "cloudflare:iysf3fasf7wn",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare Dashboard and Cloudflare API service issues in EU region",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-20T18:24:29Z",
+   "resolved_at": "2026-11-20T18:53:14Z",
+   "duration_min": 28,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-20T18:53:14Z",
+     "status": "resolved",
+     "body": "Cloudflare has resolved API and dashboard issues in the EU region."
+    },
+    {
+     "at": "2026-11-20T18:38:28Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T18:24:29Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with Cloudflare Dashboard and related APIs in EU region. These issues do not affect the serving of cached files via the Cloudflare CDN or other security features at the Cloudflare Edge. Customers using the Dashboard / Cloudflare APIs are impacted as requests might fail and/or errors may be displayed."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/iysf3fasf7wn",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": "Cloudflare",
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-20",
+   "last_reported": "2026-11-20",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "news:PlayStation:2026-11-18",
    "brand": "PlayStation",
    "category": "consumer-app",
    "title": "PlayStation suffers major outage hours before \"GTA VI\" launch",
    "first_reported": "2026-11-18",
-   "last_reported": "2026-11-18",
-   "articles": 4,
+   "last_reported": "2026-11-19",
+   "articles": 5,
    "evidence_pages": 0,
    "outlets": 4,
    "cause": "unknown",
@@ -22,7 +112,8 @@
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZm1FbzlacGNWWTEtZ0FBaFVfbnJXdnU2RWNBTGtpc2tEaUpzRFpZY2tweHVVMzRuajZITThhSEpQMDJQZzRpM2RHTmJxclA4WDAwcnhoYUxlLU9wUHB1TzFGUUR2SFN6TWw1YTVtbS03MTRxd2ptM3dndzZmTDNWc3FMX2hwamdDNzk2YXdVNU9xNHVTTkJ0bWtWSzRqS3BrMlpEcTM1OC1hVjZnY2MwMFp4aw?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEIxazZvTmpHRUkydGM4LVhPbUVCemZwNTFEcWlXbVRUWV9iMGhQbmh6Yk83NzhLNXFaRlMxS0hPdjdTbEpHbFJ6dXAyVlVuS0pORXZ4M1pla3lLZFl2MUNBMTBHSnJiZUZtalVGUnNuMTFXaFNzajdJZmxmTE94RnhhZmZZMlB6Tm9nXzdBUVBtQm9MWmVtOE8wNXZMRmhENmZVY055bWh1YWNzYkRSVE5UTXdMZVFIaTEtZUFvTTY?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTFaWVRIZThxdFBhZ1RkZ25zRmlfNzRic0xyZndFZ2lrU3kwYlI0WlJGU2lvdGtEb05mV2huVnFIaXB0MV9lc1BGM3JwdXREQXpqUFhNWXcxT0w2NnFPMGtGQXpWdlA5TEpvWjk4dGJFYWFhNWRwM3ZhbUhZV0tWVDFWRGZLd1FWTjE3MWF1S2NJVDlwQ1pMZF96eFpOQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zb2xPNUJXUVhsZ3VnZk9zcDBUaXN2QlRIWHY5bldCMkJidjBRVDAwenRIekhkX1o5dHcxYmVnZ2RFVFU4clVMNXhoZFVBTzdtTE1rbFRGYnJ5cHZNeFgwUzJpclpwQjl3TGZ0c3lxWQ?oc=5"
+    "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zb2xPNUJXUVhsZ3VnZk9zcDBUaXN2QlRIWHY5bldCMkJidjBRVDAwenRIekhkX1o5dHcxYmVnZ2RFVFU4clVMNXhoZFVBTzdtTE1rbFRGYnJ5cHZNeFgwUzJpclpwQjl3TGZ0c3lxWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0g2WTlLMWRqRDZ5Skt3V1JtYnJHejJiY2cxUlozWWp4S0hMeGJ1WTMwbnBlMExyMXpMSm8yRE93MkotNHBVSHQ5SE5mbUtpY01pRFVnY0FZR1VEczd3bWxjU3llSW9tWkZjNTdkanJKOV9aZnA3MENZSWJNWFZpYWExYUlGQkJKVzlOOVlVRF84QW5zT3BlbEl1eGl3ejRocVdjX2ZNX1JtdGZ2ZklqSGZjTFZTUjdBajktTVhuenVRXzltemc4elhnU0pJbEtpU0NLZ3RzTmtNaklaUy1FSnd3a2gtWW04cHVzX0xMdWVYRWotcnlqeg?oc=5"
    ],
    "service": "PlayStation",
    "kind": "news",
@@ -57,7 +148,7 @@
     "manual",
     "news"
    ],
-   "articles": 15,
+   "articles": 21,
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-17",
    "other_industry": true,
@@ -123,12 +214,12 @@
    "key": "news:Apple:2026-11-17",
    "brand": "Apple",
    "category": "consumer-app",
-   "title": "iCloud, App Store, and other Apple services hit by ongoing outage [U]",
+   "title": "Apple works to restore services after outage caused by internal update",
    "first_reported": "2026-11-17",
-   "last_reported": "2026-11-18",
-   "articles": 39,
-   "evidence_pages": 6,
-   "outlets": 36,
+   "last_reported": "2026-11-20",
+   "articles": 47,
+   "evidence_pages": 10,
+   "outlets": 43,
    "cause": "software-change",
    "cause_basis": "press",
    "cause_evidence": "...Apple services down: Outage caused by internal software update, company rules out cyberattack...",
@@ -155,6 +246,39 @@
    "life_impact": "daily"
   },
   {
+   "key": "news:Gmail:2026-11-17",
+   "brand": "Gmail",
+   "category": "cloud",
+   "title": "Gmail down? Outages are so widespread that companies are being forced to announce they are still online",
+   "first_reported": "2026-11-17",
+   "last_reported": "2026-11-18",
+   "articles": 3,
+   "evidence_pages": 0,
+   "outlets": 3,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2ZpSW03M0FrckV4MEFCZ3NCYktVcTJIMGdlVUcyWDZUUjdzalNwODdobnRoQkJZcnlqaWFJNGk3aUtPaGJTa2FFdGVQbEFxOURnQ010ZmJaU1dkeFB5YjU4ZzBJN2d2Mk52SDJfYmJiTFhoSEN0UmR3dFBPNkdmdzRlaDNsZDJpNlNfcHJnRUoyWkZVMzFHRV9B?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1p6VlN5Ry1zZnFMNzFQZUJxakV2c0tTbnBMNElVUDg5RGpRQ0Q5QjN5M3l3dkVCYWdfME5JRmdhcnJ3RmRJMkpPeVVnQ1dydDV2SU1Gd1Ayb1FWRXZBZ2IwMjlXSk5OaHdSejVCTVhuTVVaQnhCSy1pbVZVSmk0c3I1UlVDNXQwZFVHbl9wcHgtUk9laUQxOUc5TE5kaUtfMVBWcGUzemJjU0pJcGpWZHVkQngzcFE?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMm81VmNES0h1VmNvVzlLQVNkYXp4WlNkUzJvb19SdGhvYkhDeGhTV0tsWHNZRFQwdFp6cjFfNG51RjRnV1pTRklob2c0SERrQUhOd0lhQUgxNjFQbXN1OUQxdFM4aXlGdjFlQXFGSVdZSVF3UklRNHZSekNQRE5tUWU1ZU4zbjVINmRCSno5SkowM0dMS2c?oc=5"
+   ],
+   "service": "Gmail",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-17T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
    "key": "manual:2026-11-16-us-banks",
    "service": "Chase / Wells Fargo / Bank of America",
    "category": "bank",
@@ -167,16 +291,16 @@
     "online banking",
     "transfers"
    ],
-   "cause": "unknown",
+   "cause": "third-party",
    "source_url": "https://www.fox29.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack",
    "time_precision": "day",
-   "cause_basis": null,
+   "cause_basis": "press",
    "brand": "Chase",
    "sources": [
     "manual",
     "news"
    ],
-   "articles": 14,
+   "articles": 18,
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-16",
    "other_industry": true,
@@ -187,6 +311,7 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxOQV9vWjg1QTJHZUJKM3RCMUw5cjY5dGhDUE5YdFduZlRjaEJ5MEQ1V1kzNDRBcHFaRU1vSU1sQ25ia3lOV1pwdDJJbmYtc1BBcy1sQUpZNTNNVHZ2LUtibnRpdDYzNE1YYWl1SERadEdLcTJOclNia1RRWnVYZXJqM1ZOeTdsaG9yUEdwWFZwSmNNbTFJUkZvd1B1clBXZw?oc=5",
     "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSm1XN242SkdHeHpLRmZtelVmT19GMkxLb1JnZlRIRUNnNlpDS09ETXo1djMxSV91NFNCUEE0bFJKWDk5b0x3MWx0MGFVdjFzRUFEX2hJaXh4SDVRNFVJemN3bXdxcmp1cTdFbzRfR21UQWR6TVd4Uw?oc=5"
    ],
+   "cause_evidence": "...JPMorgan Chase says vendors hit in cyberattack, not related to earlier outag...",
    "ai_link": "none",
    "ai_evidence": null,
    "ai_service_affected": false,
@@ -248,9 +373,9 @@
    "title": "United Airlines outage: System restored after flights delayed in Chicago",
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-18",
-   "articles": 88,
+   "articles": 101,
    "evidence_pages": 0,
-   "outlets": 80,
+   "outlets": 92,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -280,12 +405,12 @@
    "key": "news:AWS:2026-11-15",
    "brand": "AWS",
    "category": "cloud",
-   "title": "AWS Resolves US-EAST-1 Outage After Authentication Failures Disrupt 11 Cloud Services",
+   "title": "AWS Restores Services in US-EAST-1 After Hours-Long Outage Disrupts Cloud Operations",
    "first_reported": "2026-11-15",
    "last_reported": "2026-11-16",
-   "articles": 4,
+   "articles": 7,
    "evidence_pages": 1,
-   "outlets": 3,
+   "outlets": 5,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -293,10 +418,11 @@
    "ai_link": "none",
    "ai_evidence": null,
    "urls": [
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGdqSm5DSmM3YlFqMktJX1hfX285aEJldVVySzhNQTB0YVBfNnQ2dkJ5UTMxWUE2SGJpYkYwTWJEUkRVSG5nSHlnR3hsX1FwRTRldU0zQ1gxdEVwR0JUNTNjaFNxLW82NGUxTDg4T1ZrMno4b2k2Y2VEbHF6aDJBQ3ZCTnpzY2xYdlRnR1lqV3RKZw?oc=5",
     "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lYjVxVFUza1RZRl9uVUNJM2EyMEw5WWJ5Y3RKZkNTSlFkMVBqME1nVlVvN3NRSEZuNkdYYzdyTHlCY2ZQNlIybFlyRmMyR3FNNG5HbGc2MktwRmdIZm5uRkZXLWs4Y2phLXfSAW9BVV95cUxPd3dJa2JCUXNoOG5hb05UdzJDUjFpLWNsLTZfM01RaVZkV3ZXaHo2OEtTQUlZWVFGS0JfTkxPc0RlZzdZZlpreEhMem5yNi01dldDRllRSUhjcktUMFRmaTM1Rk45VG45T0F5cTFaRTA?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmYzZDR4NjcwczNodks1N0tFUXkwWm5HYm9TYnQxV294ei1Mek11VkFROFZUQzdqLWJGV1FKUWZtd2tPeXRIVFZRaXNhOUxUYnBKTWIteXlmaDdPaTlfUk16SmxqNnZlXzRlWEEyOTM3TnNpeXllREtNdjFDZnRzb0lqUWk5aTMwMDl0ZVVHa1ZraDBpSTVkV1o4X1hnZw?oc=5",
     "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CbzJta1VYa291ZTVud08xV1FCOFR2OERubVd5NGpKUHpkb2Jsd3lkR1dJcGlKMFNDTVVIX1FzVF9lbzY2ZmRNYkZmSGhMa05SWDUtRW1QVnpXUFVNWGNIVTBIZ1RSZ3FGZndB0gFrQVVfeXFMT0JvMm1rVVhrb3VlNW53TzFXUUI4VHY4RG5tV3k0akpQemRvYmx3eWRHV0lwaUowU0NNVUhfUXNUX2VvNjZmZE1iRmZIaExrTlJYNS1FbVBWeldQVU1YY0hVMEhnVFJncUZmd0E?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckZ1OTFJMmZSQTlxMldRZG9mWWYwdFlQWEhKSmZBVmcwZ09aa2tydUVMaEl4WUN4dndlREd1ampsTkVGZU9EeEpsR2VtVThTUTl3cXo0UGtBNW9uSVZJbTRTTdIBY0FVX3lxTFBJckZ1OTFJMmZSQTlxMldRZG9mWWYwdFlQWEhKSmZBVmcwZ09aa2tydUVMaEl4WUN4dndlREd1ampsTkVGZU9EeEpsR2VtVThTUTl3cXo0UGtBNW9uSVZJbTRTTQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92VlU4MnlUaGRwcmpGTlhneUM1ZmltaG5QSEEybVBkYXVWWWgybWZKNklleWl3MUpMeW5LRmxzaFowbHhsOUgxTWJSMWV0a3YyWXktb0R0MURvR0s1YkdWR1hFU2TSAWRBVV95cUxPdlZVODJ5VGhkcHJqRk5YZ3lDNWZpbWhuUEhBMm1QZGF1VlloMm1mSjZJZXlpdzFKTHluS0Zsc2haMGx4bDlIMU1iUjFldGt2Mll5LW9EdDFEb0dLNWJHVkdYRVNk?oc=5"
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJckZ1OTFJMmZSQTlxMldRZG9mWWYwdFlQWEhKSmZBVmcwZ09aa2tydUVMaEl4WUN4dndlREd1ampsTkVGZU9EeEpsR2VtVThTUTl3cXo0UGtBNW9uSVZJbTRTTdIBY0FVX3lxTFBJckZ1OTFJMmZSQTlxMldRZG9mWWYwdFlQWEhKSmZBVmcwZ09aa2tydUVMaEl4WUN4dndlREd1ampsTkVGZU9EeEpsR2VtVThTUTl3cXo0UGtBNW9uSVZJbTRTTQ?oc=5"
    ],
    "service": "AWS",
    "kind": "news",
@@ -384,6 +510,39 @@
    "life_impact": "work"
   },
   {
+   "key": "news:FAA:2026-11-13",
+   "brand": "FAA",
+   "category": "transport",
+   "title": "FAA ground stop sparks cyberattack questions. Here\u2019s what officials are saying",
+   "first_reported": "2026-11-13",
+   "last_reported": "2026-11-14",
+   "articles": 3,
+   "evidence_pages": 0,
+   "outlets": 3,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": true,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVA3S1RzQnl3QjRCaW1MMlJ4ejh0bEY2ZjdjVTZYS244OFdSNUN5UmdFQ2hVUFFSU2Z5Q2ZSVUpPbDVISUdGekJ3d0FQUXR4QzI4a2RsVHdVVzR5TWxjODNRY1ctdnRWZWt2VHVYSG1WR1QtX09mSFA5VGpwN1BxbE1sVFJkblhJYWtTQzBpbWhaN3czWDZsUjlUNGhhaUpZSGRvWEZlcEdFdXVBXzZPUVZGYnlNaTh6MksxRNIB0AFBVV95cUxPTTdBbDFCOXFrNm9nbXFBR3loZzN5M2ZNVUY2b2ZjaUdFWlBuWVdnLTNKVmk0SkNKWWFFMXFxVTB5aHIyYXhGNnJyS0t2OHZWM1VvZC1VLVExOTN5Y2xyTldGcHFDLTlPQjFrV3pBUHlwWVlfVWZ4WHhOdjV3RkFHNmY2d050RzVpR0Z6TUZEbHlTSExrWTNtdzFsNVBvWDV0ZjBJekpBencwaWRzd256eDhVa0RyclRjejJMZTUyQUZDcjR0WmZOeko3cHVBZTlz?oc=5",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaSWNTSW04MGV3d2hOSXdvNmVnRC1lemI4eE1jMy1KcWdKWlYwUTgtTjhaX1NJb1I4MGxmYXFTeFZlOGxtUlNZaVJpY1B5bEtEb3dsN0VPa1FqVC1vSnlPSEp30gFnQVVfeXFMTnZoYjh6WHJtU0UxdzlLLUpaeHpaQ1N3WHpHRm9NSWRpZWl0RVB1NHhpYzZCUU1feU1iVGp2LTJzSXIzMzZzWm50dTVWQ1J4dXhEQVBqbnZ6QklNLVdwV0NMbGcydFVPOA?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcy1ERmp3Z0tNWEJISkU5eGxQRlR3TmRZWmpvUk4zdGR1X1BVaFVzbFQ2NGl1VjhSVVduVHhzdjktU3VCWWpCLVFXYndBZUtSYzJXeUpuMnRYR053N3EwbHRpRHRkQ0VEdnNzQngzdmNHQ3ZRbTNNTmFmenpieFJJLWZDa0RGSjBxTzBPaEQ4VlVibkNtSGRUSnVPUGtmYUpFcjQyM0ZjZG4wdVVURjNXUG5RMzl4cVB5?oc=5"
+   ],
+   "service": "FAA",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-13T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "daily"
+  },
+  {
    "key": "news:Google Cloud:2026-11-13",
    "brand": "Google Cloud",
    "category": "cloud",
@@ -442,7 +601,7 @@
     "manual",
     "news"
    ],
-   "articles": 140,
+   "articles": 185,
    "first_reported": "2026-11-12",
    "last_reported": "2026-11-14",
    "other_industry": true,
@@ -454,7 +613,7 @@
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkb0ttbGlxMjFoWi0zam5BRDVmMWRpRTVXTXFqd2RZSy1rTGxoXzhLUnN1Tm1lbC1Zb2lYYzRVWE1DVDBRQ2RJSm1KR3pFTWZ2ZldvWEVwRVdndHF6Wk1KR0hxTXQ?oc=5"
    ],
    "ai_link": "ruled-out",
-   "ai_evidence": "Microsoft says global outage caused by technical issue, not cyberattack or AI",
+   "ai_evidence": "Microsoft \u2018deeply sorry\u2019 for global outage, rules out cyberattack and AI",
    "ai_service_affected": true,
    "life_impact": "work"
   },
@@ -480,7 +639,7 @@
     {
      "at": "2026-11-11T21:21:39Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 11, 2026, from 20:05 to 21:02 UTC, customers experienced delayed or failed Actions workflow starts, webhook errors and delivery delays, slower GitHub Apps API requests, and reduced availability of Copilot features, including Code Review. GitHub Pages builds were also delayed.<br /><br />Nearly all GitHub Actions runs triggered between 20:18 and 20:55 UTC were delayed or failed, leaving approximately 3.4 million partially created runs that are being canceled. No GitHub Pages deployments completed during the incident. In the Central US data residency stamp, between 20:06 and 20:50 UTC, about 63% of webhook API requests failed and 27% of deliveries were not recorded; those deliveries reached their destinations but remain unavailable to view or redeliver. Between approximately 20:20 and 21:00 UTC, Copilot code review on github.com completed 87% fewer reviews than normal and some other Copilot features were also unavailable.<br /><br />The disruption was caused by an Azure Cosmos DB regional outage affecting database accounts used by these services. Per Cosmos\u2019s RCA, a configuration change to the Central US gateways exposed a latent race condition under a specific high-load traffic pattern, causing gateway crashes and health-probe failures. Cosmos mitigated by rolling back the change. Service health recovered around 21:02 UTC, and the queued Actions backlog finished processing by 21:21 UTC.<br /><br />Our follow-up work focuses on validating regional database failover across affected services and developing tested recovery procedures. We are also improving recovery tools to quickly clear stuck Actions checks and runs after incidents so they do not remain uncancelable or block pull request merges."
     },
     {
      "at": "2026-11-11T21:21:32Z",
@@ -529,9 +688,9 @@
     }
    ],
    "url": "https://stspg.io/jdjlq5zjyl48",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ted runs that are being canceled. No GitHub Pages deployments completed during the incident. In the Central US...",
    "brand": "GitHub",
    "sources": [
     "status-page"
@@ -5255,6 +5414,38 @@
    "life_impact": "daily"
   },
   {
+   "key": "news:Apple:2026-07-24",
+   "brand": "Apple",
+   "category": "consumer-app",
+   "title": "AWS Outage Disrupts DoorDash, Reddit, Hulu and Apple Pay as Major Websites Go Down",
+   "first_reported": "2026-07-24",
+   "last_reported": "2026-07-26",
+   "articles": 2,
+   "evidence_pages": 1,
+   "outlets": 2,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUdUZlhQRlNaVGs1OHJkTmFORHdtVmNjOHluNDdLSGlhLTVwc3VDazFpSjdzSnV6cjVyR3U2WXhoTHlTX19KNVdzbkpzZXMxeGgzc3VOaWpJQkNxV2w0QjdIaTdZbFhkTzRxU2hva0Y5Z0hRbGU1bWhyY2xmTm5jV0tKb2hpSGZEclhLdmRwdjh3NDZFbW14ZVZGcUZaLXBjVUxSOVZzUE9LcDJZVkE?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1NHWjFXa0I1WGM1UzJnTnJJSlBtaVdSYVpmMk9sbzlSRThReTFKNFVjYnIxSHd5cVZJUXMzSlo2a1BWZDNkTjFYM0lhMnVJbEdlVFl6OGtrcGdGM3pJY0ZER21sV1dLXzdpNVRrYnl6YXBjM01GelRkTzVJamp4RkJsTUFsWDhNblhrNW85MUVPS2ozNkd3UHBHSlIybDdscDZHcjBvUDFHQTFNdU9OTkM4ckhZdEo2N0VoNkRWc0dkbWs?oc=5"
+   ],
+   "service": "Apple",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-07-24T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "daily"
+  },
+  {
    "key": "news:PlayStation:2026-07-24",
    "brand": "PlayStation",
    "category": "consumer-app",
@@ -5277,38 +5468,6 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxONGQ4ZVkwN1h4eWVvS3pvY0RKdUlLVlZ0ZjZ1NDV4andHOTZRZ2N2b1NQSS1CamtOYVN2Q2EtRFVXUElOSUg3RUtWeDF0R0tZRnJ4YWtkbHl0WUdaeG0wbG1WVjdMTWxwbmJKbVl2YXV2YTQxZDlEZnpQODF6TEJFTlRKODVIQXA0WkI2bHZ1R2ZuWHdwWUFEWmNSUF9UWVNTam1lcW9B?oc=5"
    ],
    "service": "PlayStation",
-   "kind": "news",
-   "severity": "reported",
-   "sources": [
-    "news"
-   ],
-   "started_at": "2026-07-24T00:00:00Z",
-   "resolved_at": null,
-   "time_precision": "day",
-   "ai_service_affected": false,
-   "life_impact": "daily"
-  },
-  {
-   "key": "news:Apple:2026-07-24",
-   "brand": "Apple",
-   "category": "consumer-app",
-   "title": "AWS Outage Disrupts DoorDash, Reddit, Hulu and Apple Pay as Major Websites Go Down",
-   "first_reported": "2026-07-24",
-   "last_reported": "2026-07-26",
-   "articles": 2,
-   "evidence_pages": 1,
-   "outlets": 2,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "other_industry": false,
-   "ai_link": "none",
-   "ai_evidence": null,
-   "urls": [
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUdUZlhQRlNaVGs1OHJkTmFORHdtVmNjOHluNDdLSGlhLTVwc3VDazFpSjdzSnV6cjVyR3U2WXhoTHlTX19KNVdzbkpzZXMxeGgzc3VOaWpJQkNxV2w0QjdIaTdZbFhkTzRxU2hva0Y5Z0hRbGU1bWhyY2xmTm5jV0tKb2hpSGZEclhLdmRwdjh3NDZFbW14ZVZGcUZaLXBjVUxSOVZzUE9LcDJZVkE?oc=5",
-    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1NHWjFXa0I1WGM1UzJnTnJJSlBtaVdSYVpmMk9sbzlSRThReTFKNFVjYnIxSHd5cVZJUXMzSlo2a1BWZDNkTjFYM0lhMnVJbEdlVFl6OGtrcGdGM3pJY0ZER21sV1dLXzdpNVRrYnl6YXBjM01GelRkTzVJamp4RkJsTUFsWDhNblhrNW85MUVPS2ozNkd3UHBHSlIybDdscDZHcjBvUDFHQTFNdU9OTkM4ckhZdEo2N0VoNkRWc0dkbWs?oc=5"
-   ],
-   "service": "Apple",
    "kind": "news",
    "severity": "reported",
    "sources": [

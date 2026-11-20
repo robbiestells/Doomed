@@ -1,7 +1,182 @@
 {
- "generated_at": "2026-11-20T13:02:30Z",
- "count": 995,
+ "generated_at": "2026-11-20T19:16:08Z",
+ "count": 1000,
  "incidents": [
+  {
+   "key": "box:0ssj5ngcpqhs",
+   "source": "box",
+   "service": "Box",
+   "category": "saas",
+   "kind": "feed",
+   "title": "[Medium] Issue with Box Forms, File Request, and Box Doc Gen",
+   "severity": "major",
+   "status": "identified",
+   "started_at": "2026-11-20T18:48:22Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Box Forms",
+    "Box Doc Gen"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T19:10:33Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-20T18:48:22Z",
+     "status": "investigating",
+     "body": "Our team is investigating an issue with Box Forms, File Request, and Box Doc Gen. Users may intermittently see errors or be unable to use these features. We will provide additional information as it becomes available."
+    }
+   ],
+   "url": "https://stspg.io/4m7nwt0yqdq9",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:iysf3fasf7wn",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare Dashboard and Cloudflare API service issues in EU region",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-20T18:24:29Z",
+   "resolved_at": "2026-11-20T18:53:14Z",
+   "duration_min": 28,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-20T18:53:14Z",
+     "status": "resolved",
+     "body": "Cloudflare has resolved API and dashboard issues in the EU region."
+    },
+    {
+     "at": "2026-11-20T18:38:28Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T18:24:29Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with Cloudflare Dashboard and related APIs in EU region. These issues do not affect the serving of cached files via the Cloudflare CDN or other security features at the Cloudflare Edge. Customers using the Dashboard / Cloudflare APIs are impacted as requests might fail and/or errors may be displayed."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/iysf3fasf7wn",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:xsgbfncq7of7",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cache Purging Delays in Amsterdam",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-20T18:00:33Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "CDN Cache Purge"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T18:00:33Z",
+     "status": "investigating",
+     "body": "Cloudflare single-file cache purging (purge by URL) called via the Dashboard/API is delayed in Amsterdam.  We are working to resolve this issue as soon as possible. Until then you may use the Purge Everything feature but do be aware it may cause a surge in traffic to your origin server(s). More updates to follow."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/xsgbfncq7of7",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...Everything feature but do be aware it may cause a surge in traffic to your origin server(s). More updates..."
+  },
+  {
+   "key": "twilio:gvcb0dssh6mg",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Subset of API Requests Blocked with 403 Response",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-20T17:06:44Z",
+   "resolved_at": "2026-11-20T17:56:38Z",
+   "duration_min": 49,
+   "components": [
+    "REST API"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T17:56:38Z",
+     "status": "resolved",
+     "body": "This incident related to API requests being blocked with 403 response is now resolved and service is fully restored."
+    },
+    {
+     "at": "2026-11-20T17:41:52Z",
+     "status": "monitoring",
+     "body": "We are observing a recovery in API requests blocked with 403 response. We will continue to monitor to ensure full service recovery. We expect to provide another update in 30 minutes or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T17:13:14Z",
+     "status": "investigating",
+     "body": "Some requests are being blocked by our WAF with a 403 response due to stricter rules. We are working to mitigate the issue as quickly as possible and will provide updates here. We will provide another update in 1 hour or as soon as additional information is available."
+    },
+    {
+     "at": "2026-11-20T17:06:44Z",
+     "status": "investigating",
+     "body": "Some requests are being blocked by our WAF with a 403 response due to stricter rules. We are working to mitigate the issue as quickly as possible and will provide updates here."
+    }
+   ],
+   "url": "https://stspg.io/zhv1n1y942k1",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "coinbase:gt9nygt10ks5",
+   "source": "coinbase",
+   "service": "Coinbase",
+   "category": "bank",
+   "kind": "feed",
+   "title": "Degraded Performance - Derivative Trading",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-20T16:30:04Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "International Derivatives",
+    "Deribit - Website"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T16:45:23Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T16:36:25Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-20T16:30:04Z",
+     "status": "investigating",
+     "body": "Some users may experience latency or degraded performance when trading derivatives. Our team is investigating this issue and will provide an update shortly. Your funds are safe."
+    }
+   ],
+   "url": "https://stspg.io/qbzn0syvk818",
+   "cause": "network",
+   "cause_basis": "provider",
+   "cause_evidence": "...Some users may experience latency or degraded performance when trading derivatives...."
+  },
   {
    "key": "twilio:sjjy31999wh3",
    "source": "twilio",
@@ -10,7 +185,7 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Proximus Belgium",
    "severity": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-20T12:51:03Z",
    "resolved_at": null,
    "duration_min": null,
@@ -18,6 +193,21 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T18:12:27Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Proximus network subscribers in Belgium and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T15:53:09Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Proximus network subscribers in Belgium. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T13:52:43Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Proximus network subscribers in Belgium. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-20T12:51:03Z",
      "status": "identified",
@@ -37,14 +227,19 @@
    "kind": "feed",
    "title": "Network Performance Issues in Miami",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-20T05:00:56Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T14:28:03Z",
+   "duration_min": 567,
    "components": [
     "Miami, United States - (MIA)"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T14:28:03Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
     {
      "at": "2026-11-20T05:10:34Z",
      "status": "identified",
@@ -146,7 +341,7 @@
     {
      "at": "2026-11-19T18:17:42Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "Between November 5, 2026, at 18:02 UTC and November 19, 2026, at 18:05 UTC, GitHub users experienced unexpected expiration of their web browser sessions despite continued activity, requiring them to login. An authentication change introduced an issue that caused web requests to bypass the session activity updates and cookie renewal that normally extend session lifetime. Affected sessions consequently expired when they reached their initial expiration time.<br /><br />We mitigated the incident by deploying a fix to ensure that continued web activity renews session expiration and browser cookies.<br /><br />We are adding monitoring to detect unexpected drops in session renewal activity, helping us catch similar issues sooner and reduce their impact on users."
     },
     {
      "at": "2026-11-19T18:05:21Z",
@@ -167,7 +362,7 @@
    "url": "https://stspg.io/pvjz2g01trc7",
    "cause": "software-change",
    "cause_basis": "provider",
-   "cause_evidence": "...e to inactivity. These sign-outs were caused by a bug in session renewal, not due to a security inciden..."
+   "cause_evidence": "...ion time.<br /><br />We mitigated the incident by deploying a fix to ensure that continued web activity re..."
   },
   {
    "key": "cloudflare:ljrvdciu7syf",
@@ -846,6 +1041,11 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T13:57:14Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-20T05:44:57Z",
      "status": "monitoring",
@@ -3169,7 +3369,7 @@
     {
      "at": "2026-11-16T16:26:26Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 16, 2026, between 09:30 and 15:55 UTC, some pull request merges on GitHub timed out. On average, 2.9% of merge attempts timed out, with a peak of 7.1% at 15:17 UTC. Some GitHub Actions workflow runs triggered by pull requests were also delayed. Git operations such as push and fetch stayed available, with higher latency. This was a repeat of a shorter event on November 13, between 13:15 and 17:50 UTC, when 1.7% of merges timed out.<br /><br />Both events had the same cause: some of the storage servers that hold Git repository data reached their disk read bandwidth limits. A merge must be written to every copy of a repository, so one overloaded server slowed merges for every repository it hosts. Read load on these servers had been growing as part of a planned move of repositories to new infrastructure. A disk configuration setting on those servers also made them read far more data than necessary, which cut their usable bandwidth roughly in half. We mitigated the incident by correcting that setting and moving some load away from the busiest servers.<br /><br />The corrected setting is now applied permanently across our storage fleet. We are adding storage capacity in the affected region and alerting on per-server disk bandwidth so we catch saturation before it affects customers. Sustained merge timeouts will now page our on-call engineers directly. We are also adding capacity checks before moving repositories or traffic onto new infrastructure."
     },
     {
      "at": "2026-11-16T16:16:07Z",
@@ -3228,9 +3428,9 @@
     }
    ],
    "url": "https://stspg.io/ljtn69jlt087",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ove of repositories to new infrastructure. A disk configuration setting on those servers also made them read far..."
   },
   {
    "key": "twilio:fm5qcwl1cpmn",
@@ -6482,7 +6682,7 @@
     {
      "at": "2026-11-11T21:21:39Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 11, 2026, from 20:05 to 21:02 UTC, customers experienced delayed or failed Actions workflow starts, webhook errors and delivery delays, slower GitHub Apps API requests, and reduced availability of Copilot features, including Code Review. GitHub Pages builds were also delayed.<br /><br />Nearly all GitHub Actions runs triggered between 20:18 and 20:55 UTC were delayed or failed, leaving approximately 3.4 million partially created runs that are being canceled. No GitHub Pages deployments completed during the incident. In the Central US data residency stamp, between 20:06 and 20:50 UTC, about 63% of webhook API requests failed and 27% of deliveries were not recorded; those deliveries reached their destinations but remain unavailable to view or redeliver. Between approximately 20:20 and 21:00 UTC, Copilot code review on github.com completed 87% fewer reviews than normal and some other Copilot features were also unavailable.<br /><br />The disruption was caused by an Azure Cosmos DB regional outage affecting database accounts used by these services. Per Cosmos\u2019s RCA, a configuration change to the Central US gateways exposed a latent race condition under a specific high-load traffic pattern, causing gateway crashes and health-probe failures. Cosmos mitigated by rolling back the change. Service health recovered around 21:02 UTC, and the queued Actions backlog finished processing by 21:21 UTC.<br /><br />Our follow-up work focuses on validating regional database failover across affected services and developing tested recovery procedures. We are also improving recovery tools to quickly clear stuck Actions checks and runs after incidents so they do not remain uncancelable or block pull request merges."
     },
     {
      "at": "2026-11-11T21:21:32Z",
@@ -6531,9 +6731,9 @@
     }
    ],
    "url": "https://stspg.io/jdjlq5zjyl48",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ted runs that are being canceled. No GitHub Pages deployments completed during the incident. In the Central US..."
   },
   {
    "key": "openai:01M765MJQK7F85SC82RMTYN0V3",

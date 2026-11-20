@@ -1,16 +1,20 @@
 first_reported,last_reported,service,category,title,severity,cause,cause_basis,ai_link,ai_service_affected,ai_evidence,articles,sources,key
-2026-11-18,2026-11-18,PlayStation,consumer-app,"PlayStation suffers major outage hours before ""GTA VI"" launch",reported,unknown,override,none,False,,4,news,news:PlayStation:2026-11-18
-2026-11-17,2026-11-17,NSA,government,Partial outage of some internal communications systems,major,software-change,press,none,False,,15,manual|news,manual:2026-11-17-nsa-internal
+2026-11-20,2026-11-20,Box,saas,"[Medium] Issue with Box Forms, File Request, and Box Doc Gen",major,unknown,,none,False,,0,status-page,box:0ssj5ngcpqhs
+2026-11-20,2026-11-20,Cloudflare,cdn-network,Cloudflare Dashboard and Cloudflare API service issues in EU region,major,unknown,,none,False,,0,status-page,cloudflare:iysf3fasf7wn
+2026-11-18,2026-11-19,PlayStation,consumer-app,"PlayStation suffers major outage hours before ""GTA VI"" launch",reported,unknown,override,none,False,,5,news,news:PlayStation:2026-11-18
+2026-11-17,2026-11-17,NSA,government,Partial outage of some internal communications systems,major,software-change,press,none,False,,21,manual|news,manual:2026-11-17-nsa-internal
 2026-11-17,2026-11-17,Dropbox,saas,Sign in with Apple is not working as expected for some users,major,unknown,,none,False,,0,status-page,dropbox:nxj9fhc24j92
-2026-11-17,2026-11-18,Apple,consumer-app,"iCloud, App Store, and other Apple services hit by ongoing outage [U]",reported,software-change,press,none,False,,39,news,news:Apple:2026-11-17
-2026-11-16,2026-11-16,Chase / Wells Fargo / Bank of America,bank,Customers unable to access accounts or transfer funds,major,unknown,,none,False,,14,manual|news,manual:2026-11-16-us-banks
+2026-11-17,2026-11-20,Apple,consumer-app,Apple works to restore services after outage caused by internal update,reported,software-change,press,none,False,,47,news,news:Apple:2026-11-17
+2026-11-17,2026-11-18,Gmail,cloud,Gmail down? Outages are so widespread that companies are being forced to announce they are still online,reported,unknown,,none,False,,3,news,news:Gmail:2026-11-17
+2026-11-16,2026-11-16,Chase / Wells Fargo / Bank of America,bank,Customers unable to access accounts or transfer funds,major,third-party,press,none,False,,18,manual|news,manual:2026-11-16-us-banks
 2026-11-16,2026-11-16,1Password,saas,Degraded Device Trust Authentication Experience,major,network,provider,none,False,,0,status-page,onepassword:pjzfk1k4w5bh
-2026-11-16,2026-11-18,United Airlines,transport,United Airlines outage: System restored after flights delayed in Chicago,reported,unknown,,none,False,,88,news,news:United Airlines:2026-11-16
-2026-11-15,2026-11-16,AWS,cloud,AWS Resolves US-EAST-1 Outage After Authentication Failures Disrupt 11 Cloud Services,reported,unknown,,none,False,,4,news,news:AWS:2026-11-15
+2026-11-16,2026-11-18,United Airlines,transport,United Airlines outage: System restored after flights delayed in Chicago,reported,unknown,,none,False,,101,news,news:United Airlines:2026-11-16
+2026-11-15,2026-11-16,AWS,cloud,AWS Restores Services in US-EAST-1 After Hours-Long Outage Disrupts Cloud Operations,reported,unknown,,none,False,,7,news,news:AWS:2026-11-15
 2026-11-13,2026-11-13,GitHub,developer,Incident with Pull Requests,major,unknown,,none,False,,0,status-page,github:1xzmt89vv61l
+2026-11-13,2026-11-14,FAA,transport,FAA ground stop sparks cyberattack questions. Here’s what officials are saying,reported,unknown,,none,False,,3,news,news:FAA:2026-11-13
 2026-11-13,2026-11-15,Google Cloud,cloud,CNA938 Rewind - Google Cloud outage exposes risks: Are banks too dependent on Big Tech?,reported,unknown,,none,False,,4,news,news:Google Cloud:2026-11-13
-2026-11-12,2026-11-14,Microsoft 365 / Outlook,saas,"Outlook, Teams, Copilot outage; secure-connection process overwhelmed on servers",critical,software-change,override,ruled-out,True,"Microsoft says global outage caused by technical issue, not cyberattack or AI",140,manual|news,manual:2026-11-12-microsoft-365
-2026-11-11,2026-11-11,GitHub,developer,"Impact across multiple GitHub products including Actions, Pages, and Copilot products.",critical,unknown,,none,True,,0,status-page,github:dvy0t3mvh1lg
+2026-11-12,2026-11-14,Microsoft 365 / Outlook,saas,"Outlook, Teams, Copilot outage; secure-connection process overwhelmed on servers",critical,software-change,override,ruled-out,True,"Microsoft ‘deeply sorry’ for global outage, rules out cyberattack and AI",185,manual|news,manual:2026-11-12-microsoft-365
+2026-11-11,2026-11-11,GitHub,developer,"Impact across multiple GitHub products including Actions, Pages, and Copilot products.",critical,software-change,provider,none,True,,0,status-page,github:dvy0t3mvh1lg
 2026-11-10,2026-11-10,Notion,saas,Some Notion Agent sessions may hang or stop updating,major,unknown,,none,False,,0,status-page,notion:01M73GD2431C577QYYH7W6TMNQ
 2026-11-10,2026-11-10,GitHub,developer,Incident with Git Operations and Pull Requests,critical,capacity-overload,provider,none,False,,0,status-page,github:hnf21m9jkl3c
 2026-11-09,2026-11-10,GitHub,developer,Degraded availability for GPT-5.3 Codex and GPT-5.6 models in Copilot,major,third-party,provider,none,True,,0,status-page,github:6jm5k16vyhfg
@@ -95,8 +99,8 @@ first_reported,last_reported,service,category,title,severity,cause,cause_basis,a
 2026-07-27,2026-07-27,Discord,consumer-app,"session starts, DM message delivery down",major,unknown,,none,False,,0,status-page,discord:0gz6pdq1c141
 2026-07-27,2026-07-29,Microsoft,saas,"Xbox outage shouldn’t have affected games on disc, Microsoft confirms",reported,unknown,,none,False,,5,news,news:Microsoft:2026-07-27
 2026-07-25,2026-07-25,Reddit,consumer-app,Degraded performance across the site,major,unknown,,none,False,,0,status-page,reddit:3t7xtffbb544
-2026-07-24,2026-07-24,PlayStation,consumer-app,PlayStation’s Day-Long Outage Has Gamers Asking What’s So Wrong with Discs,reported,unknown,,none,False,,4,news,news:PlayStation:2026-07-24
 2026-07-24,2026-07-26,Apple,consumer-app,"AWS Outage Disrupts DoorDash, Reddit, Hulu and Apple Pay as Major Websites Go Down",reported,unknown,,none,False,,2,news,news:Apple:2026-07-24
+2026-07-24,2026-07-24,PlayStation,consumer-app,PlayStation’s Day-Long Outage Has Gamers Asking What’s So Wrong with Discs,reported,unknown,,none,False,,4,news,news:PlayStation:2026-07-24
 2026-07-24,2026-07-25,AWS,cloud,PlayStation Network Goes Down Worldwide as AWS Outage Cascades Across Gaming Services,reported,unknown,,none,False,,4,news,news:AWS:2026-07-24
 2026-07-23,2026-07-23,Box,saas,[Medium] Issues with Box Hubs,major,software-change,provider,none,False,,0,status-page,box:p8jg1sgbmk4n
 2026-07-23,2026-07-23,Box,saas,[Medium] Issues with File Requests,major,capacity-overload,provider,none,False,,0,status-page,box:73k8gbsk6nf0

@@ -1,6 +1,34 @@
 {
- "dropped_count": 31,
+ "dropped_count": 44,
  "dropped": [
+  {
+   "published": "2026-11-19",
+   "title": "Fact-checking Mullin\u2019s House hearing on FAA ground stop, outages and dirty bombs",
+   "outlet": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG5mS0FVVEIycnJNd2NLZXhvOHB2Q0YwN0w1dDAzZG5kX250ZWdHVXJkN3NJREVHM1BBczZPVUlLakZob1R1djRBUnJ1RFBUNGhqMkxibzhRTlRrSTQ1SFZBUzVSVTJ6dUMzbEsxaFhibGg4U0t5LXFrTnZWazJkdkxhR3NoZEZFWXJSWXJuMVQ5TFFoTUpfVDhwZTVnSVctXzJrM19sbVlRTDVEeE1ISEF0V2Fxcms?oc=5",
+   "matched": "Mullin"
+  },
+  {
+   "published": "2026-11-19",
+   "title": "Outlook, FAA, bank outage, oh my! How to practice 'cyber hygiene' in the AI age",
+   "outlet": "Dallas News",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeEwyQ05TR2NvZ0QyVURDNjZNbllQLXNpY19SeDJxblhMbWtwQXJMdm1IM2JaRk4xLUl0TUhhMWdlWFBMa1hESjNja1VMSGVLY3h5YnZ0Q0Z5S2UtVFh0Y0daNmR4bHo4N25DRTdQSW52YWJhUGRiS2t1SThObUR4VkNUT1RfLWlTTXk3dmlwSVltWlB5blNmTWNmLXhfUQ?oc=5",
+   "matched": "How to "
+  },
+  {
+   "published": "2026-11-19",
+   "title": "Microsoft CEO addresses outage amid wave of other tech failures",
+   "outlet": "Jefferson City News Tribune",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVmx1cEFZQmk5MXdjcUtQT3JMbzhKVUxkVzRXdGh2TFhRcFc1M2tCdkZ4TURWWDFadEJnXzJwaE52WUZ1NWdyS1ZPemxYVzM5ajhuZEJXbXE0ZE1fRGpxekU4YnZUUTh0OXFJWlBRTnVRYjhTY2hMLVliY3lVcVVuaGpRM0tBTnVhTnhBeFkxWlR1WHBlVWJzWmJZYw?oc=5",
+   "matched": "wave of"
+  },
+  {
+   "published": "2026-11-19",
+   "title": "Microsoft, FAA, banks and United: string of outages exposes digital dependence",
+   "outlet": "KMPH Fox 26",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFE0bzYzSFAxYVhrN3FCWHJPU25RQm9VY2lLLV8tSzdmZXhBcmk3aGlBOTd5c20tQ0k0aThoUXBlekNaTm9tOHctQ0F5YWJMbzVsVTZHYlNSMkEwOXN6ai1HcTBFUk1Kd1JIeXJ1eXFSVFZUN1VIdnFWajk4Mkx0Wlc1NGpiMzhwQ2F4dmdwN0xHMjVuUWdUaVQzd3JfcGUwajJMQTV3?oc=5",
+   "matched": "string of"
+  },
   {
    "published": "2026-11-19",
    "title": "FILE PHOTO: United Airlines system outage grounds flights at Newark Liberty International Airport",
@@ -66,6 +94,13 @@
   },
   {
    "published": "2026-11-17",
+   "title": "Apple, Microsoft, Chase: What to Know About the Latest Tech Glitches | National News | U.S. News",
+   "outlet": "U.S. News & World Report",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGljUzdZNWF6TzRDOWpOYUlhTElzamJWcEpUN3Q0RVo1MEFiMkN3OG5kc0w4MHRsazVuRlgzc3h3clcyT2ZTaDlPMHlDR0tRWE0wTjZSS2Y2a2ZwS2pCdnJlMl9NdkVkOGliZkVKZGp6Wl9tZTBycjNpblA2c3FzN1FfX1MtU3YwbDhnRkVPWDVfdFpfeGR0aGMycy15TnVzN1M0djZJc2dJYVBCMmwxdHJvTUt0S1d4NExRejJ0R3FUeUlyMlE?oc=5",
+   "matched": "What to Know"
+  },
+  {
+   "published": "2026-11-17",
    "title": "NSA Classified Network, Apple Services Go Down in Latest String of Outages",
    "outlet": "The Daily Signal",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR1ZwN3ZjYUdJd2xqVGVnRGtna0FGRVF0VFcwLWJjY00yWjhtZHplRkNNYkJ6Z1F5VmhCOUNCX3llYjhuNjZ5OVhBMkt6dzRLNXItdmw2SWhteE9FSk9PbTJEVl95dEpMM05sc0Y1RHU3UEM1UmpGa3gyTFVtbTJ3UFVPbDFPWDl6ZTJONTN3?oc=5",
@@ -84,6 +119,20 @@
    "outlet": "KRON4",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSW1pQzVqZjBzWVZYbGJ5ZXhTZHo1d1d6dklhV0ZqdkpKOWhyd1MzdmtmYlJ5RGV6Y2xWOGlWV1owamVOUFk1UUNQX0FNTGV6OUx0dmE2V2FfUTAtMEFZSEdXbER0SWtIbXhnUWpBLVJMTVQtSjJvNzRfMmdUOE1aSjVLTkVfLVFjUldQTThqcjRwSmxpTXM2YnF30gGfAUFVX3lxTE15Q2pvazg4R25YdllwZkliLU5PdnhLYWhKV05KbHlUa1JRTUNOQlRibjh2WFBlSm40eXdFOUZzS3FWNXdSNEo4dWljeXFhRG82cHlSS29wRWtqeGpnR0VHaUZQdUZxVENfRUJuOHdMWF83dnlRMzczMEFQRUZ0SWtQQXRfQTBkX0hEQlpzOE8tUzEtZEJRdTA0XzIzSWNvbw?oc=5",
    "matched": "latest tech"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Apple Music and App Store down in latest tech outage",
+   "outlet": "KRON4",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSW1pQzVqZjBzWVZYbGJ5ZXhTZHo1d1d6dklhV0ZqdkpKOWhyd1MzdmtmYlJ5RGV6Y2xWOGlWV1owamVOUFk1UUNQX0FNTGV6OUx0dmE2V2FfUTAtMEFZSEdXbER0SWtIbXhnUWpBLVJMTVQtSjJvNzRfMmdUOE1aSjVLTkVfLVFjUldQTThqcjRwSmxpTXM2YnF3?oc=5",
+   "matched": "latest tech"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Apple, Google and more services down in latest wave of widespread outages",
+   "outlet": "NBC 6 South Florida",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1huQ3dQWVFrNFRCb1lXRFBOX01ETnplTnlqMS1FUG9lTU0wSk05c2wwM0hPRENqZ1NRazQxcUxjd1pLWkZ0ZGduYXhGbE1DOG1yX1pBakkwd2tZc0dvWlMzU3dnWFJEbHIxYVdoOExibG5OcFNQLU1VMkFua045Tl9CWkh5NjNqZmxOSmI1VTNjN0l6OHIzbmxFbmdScXp2R0o4Rms0enRVbWdZeFNaZG93NlQzcjNBREM0NTVWSjNJRHpzRWl6N0psZmt0OEnSAdcBQVVfeXFMUHZia1gxRU9RUVBwT0xPMjdVT0FSX3FjYU5wZGsxZVJzaUdCOURkakF4MDVaNzNwN3I0Y3NWNU1mMjg1QjRVVUc1Q3VjMXliVXFLTXpSNGxOd2lXZzdQVW5fQTk2cUsxU0RoS2oxM1dkM1ZGemo0RW14WENxX29VbS1aLWlVX0NIdUkxQXZmc3RnRlEzV2c2cEdqNHFkdHEtWHJJajdnVGYtTWNfNzc5emFkTVZsazhfb0U2UDFfaGZpWjA5RWNBeE1tM2E3YnV1V0dmd2NSLWs?oc=5",
+   "matched": "wave of"
   },
   {
    "published": "2026-11-17",
@@ -107,11 +156,53 @@
    "matched": "everything be broken"
   },
   {
+   "published": "2026-11-16",
+   "title": "Microsoft outage, grounded flights and a 'Simpson' prediction are causing alarm. Here's how to prepare a survival kit",
+   "outlet": "PhillyVoice",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXZBWE00QUU0Q3RuWFVyNDAzVjktbDVVclozNlhrUk9TS25sWjhDcUFmaEJROU0xTmVRemVsRFVrbVh0Z0JCYXo0VHZfLVVSOTlxc2hRY1ExeHlaY0FyaDhSU1BlNlUyQ2NwZ2I2RWRCbnp6NmlFZENDbm9GWXAzWU1xTTlUVWx3cmJwUm9OYTNLeXMzZnZGazdQUHJxTjg?oc=5",
+   "matched": "how to "
+  },
+  {
+   "published": "2026-11-16",
+   "title": "How could a bug hide since July before the Microsoft outage? Why dormant bugs wait for months",
+   "outlet": "Nacionale",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHNCbmEwSTZ3SzlIVTlYR2VVVENPZGpOUGFiX053MHlEM1dydXVSbzRNTE0wdS1xaTl6eUlDdk9xeVZ3NkJhUE01RGdZamY0cm9LUi1UejJ6Vlg4c1Y4V05MR2lzLTE2MUY4WU1UNTFxUmhqMlVYd2dWZWNleWNiQ2JTNUxsNjN2S2tVM20xZXRhVlJwaFJRZTlVWjBGTmZsU3FmOC10YjY3ZmtuUzBENjlSTGU2UkVpQ2N1Z1V1WQ?oc=5",
+   "matched": "Why do"
+  },
+  {
    "published": "2026-11-15",
    "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
    "outlet": "PBS",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMG1uUGNQYlAxRzRfVTBBblV4UzBEd1hFYVdZOUg1N0tRUm1JUXY3d0VLZzJGb0dXdE5kZFRlc2FDbk15NktNNEQ1X0hiNURrdkxpVTctSmRRYThWVGtEVGRtUUFXRm1CbEZvMXpkd20zeTdibGtRQ2tSd0JuYnJXQTRZc2tzOEVlQm5PUVpCZy1SMU5yaWRibXlrSzdDSFBZMjhqd3RNbWpJMEdwLXhjTE1xUktEazFXVlJN?oc=5",
    "matched": "everything be broken"
+  },
+  {
+   "published": "2026-11-15",
+   "title": "Could everything be broken? Grounded jets, Microsoft outage, AI chaos make some wonder",
+   "outlet": "The Denver Post",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQkhnM293MFF5QmFkYWhkSHZGaEpWZFRPY3p6UEFpeTd2cldUTlpZckRTczZ0YndYZ3VsVUxnOFVDQVRaY2RKLXBXS3VrbFRhR0MtYndybEtDcGVoV2NBZXNQTms1VThBVVdpcHBqZmFvVFBFamRFSmJTQXBDaDY1cXdybHJWRkFzM01ydmdTOGJqcDJ3T3lpMURHb1FiVEhxVEVTaHdZeHpiM0wydlZZTUx3MDM1NVJmVGt2WDEwOA?oc=5",
+   "matched": "everything be broken"
+  },
+  {
+   "published": "2026-11-14",
+   "title": "FULL: FAA ground stop: Airspace reopened, Duffy, Mullin explain data outage",
+   "outlet": "FOX 5 DC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45Y3dDQ05TdzlpUEIzd0gxSTNQYkM3REdQYm12TGl5Z1I4TG5EZnk0WkxzLWV1TzZCeE1SNm5ZYTZ1Y0hsWG44ak1UTUdRNFR5N3l0S1VudTlVakpSZlHSAWNBVV95cUxOVDV4NnB1aVJKMUlyWDAxYmtrNl83Z0pFYS1UdEl6YlBrdUYxczBKWFJMMGNMWkhmbnRhX2RIYi1DbkNPX0NldEhNVXY1SlROSjczWF9PT1l3enhRMkVueU0yVW8?oc=5",
+   "matched": "Mullin"
+  },
+  {
+   "published": "2026-11-14",
+   "title": "Is Microsoft Outlook still down? Outage enters second day. Here's what to know",
+   "outlet": "Stamford Advocate",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYm5qUWRvT09GQ2ZTbW9yR1Y2Um1QOHdzdG1rWmhic0RYZkxhelJhRlk1ekhuVVNydEN0VVZ5M204ZUFFdlcwdDEwOWNaelRFb1BZTWExM0JJdlJhbzkxcnJSZk5aOUJrMGNvNllrVndhblFrX21yMks4OGY0X1BSWWdLNHRDcENZODVHWHVsTGJiVWVqcjltazVzblFDSThubkI1MmE0S2RSZw?oc=5",
+   "matched": "what to know"
+  },
+  {
+   "published": "2026-11-13",
+   "title": "What to know about Microsoft's outage and why it takes so long to restore email services",
+   "outlet": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSXlpZ1VyeUl1QlhLb3ZHdEp1N2l5Q2Y2YWVLYWZCMC1uS1laUUxTVzRzZDdldzFUWnVvWEdkbHBnOXk5SmxZLU9YOFRmbnlGaWNPdGg2eUpIQXNRZllPNDV0VEloTlhfNkJnWER5ZW5SUVM0U2xUQU51Vm5CLUVUcDREQ0NhT1BOYnBiOVhoOGwzMll1VnJlRm92ZjFkSTZaSUVfUDhpX0pSRng0cGFsWWR4WmRoTXRLTGJDY28tbDB4d9IBxwFBVV95cUxPNlRtTFFhS0VuWkRnMHgtMkU3bW1aajRhcDVSYS1GaEhMMzZNNHhieXVJV3dYa1M2R1FhLXpVbndCRmt5S3dkeEs3TW1SalROb3pvbXhNSUZpazdlQmJ2a0p0X0IzQ2w5SVdtZkVjS2ZuSU1QR1ZwY1pIZWM3eVhZUzEzTDNzallrLWx6MDdqNm1iSExIYWpEcmdtSWpMYW5MTVBlWkJKN3E3UUtYS2l2WW4yamhKZnVWWkdGTnQxYjk2cnA4ZGpn?oc=5",
+   "matched": "What to know"
   },
   {
    "published": "2026-10-26",
@@ -219,8 +310,24 @@
    "matched": "How to "
   }
  ],
- "evidence_only_count": 71,
+ "evidence_only_count": 76,
  "evidence_only": [
+  {
+   "published": "2026-11-20",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Problems Receiving and Sending Emails, Login Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNLS0tZHR6dkd3R0RjU19SWEpFRnFLb1RlM1NCQjNWelhKOHFTVW4zNHVJRnhjWWlCTUJMSFV1YXNBcmcwQkZhWG84T3pxR2d2V185eWVjVVR6RG5UUUtmNFFJOXhkYW5VcXVzdHkxWVo5WkRwZ19BUXpLeVpZTlYwY1U0WWR3QTdEZ2pObzlyZzA0clVnUV9Fb0NjSEl5c1RBMmY3bUQzdE9MdnJsaENVeGplZ1U0MTBZNERLQy0ybkhrRFA1MUZFOXE5SUtTbWhpQ051bF80ZGR2R196RlctMkd0V2xoUng4ajFXcnVfeWNuQ0I4Ul8zVDBXNjdhb2Z6cThrSktuZTI0bkVBVnRVNW0yWlNKQzhDNHRmMm94Qkc3OGJS0gGqAkFVX3lxTE5fUndhVEJib0ZuM0pKTmRidC1CcXNwWEdtb0NJZ2duUkxuNndQNVd5eS1iTjhJX1QySTZkNFBRNVZXSF96bkpQWkhfQVNUelc0Z2FCMjJlcVNUQWlmNGh2M3hTRGJrcjJwZWdyT29jOXZaN29IWjRwZzlrdTJlNUo1bHhLa0NGM0JUOE1HWHJMSWlodFdqQjVjNms0bERnNjgxSTN6OUxqODVwTEhncHNLbGpMbGdQSDFlUkUwTzgwemRRREp0QnhiRDdSc2FQVVl4ODlEVHpvczZwN1FZNU9FY3pJNUJmeFdZMDdGaVhqQkVaZjhyNjBpTjBTR19pSWZLeFh2NUxDN1BKVVFSWG5CeHI4Z3hHS3NycGVOWnV5M0FPUWZYZnRLdWc?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Is Apple down? Company says 'internal update' behind outages on services like iCloud",
+   "outlet": "KHGI",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQYUVZUWs5WWdOVFNUSW1GUmN3QWFpcXM4LWNOT2xKRURHRWo2a1VxdlE3NjM3Vm8zbmI1N3l6Wm1vS0NEVDNXem4xZDNOY2FKSVYwSDBXSTB4bE5EckxWSTBrb04xSkpzSEYtYXFyTEc4UENlSDZDMmJzbXAtd1lRakdvSkp3aXRtX0F5M04wSm9PeTRENmdFRWhUWkhkbEdtY3otTDcxeUdzUHBweS1SbW8wdklqRF9LaHBqRmU1R2Vrd1l1Ymh6aUNWZmlqcWtDUFZMeUtOQ0hreFM3bkxVNUNSdXpYU0Y0ZGdjbGhKeDIyM18zc2k3Nmc0UmlFdXdZY0l4WExNa0xTZlY4Q0hjdi1CVUx4ZGl3TC0yY3p5Rk1nb3NJRFdpWWhCTGtaQnFCdVFscnZSd1JWenhWblV3?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
   {
    "published": "2026-11-18",
    "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
@@ -243,6 +350,14 @@
    "outlet": "KATU",
    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOanZBdW5INFNBZGxZNTB3aUYzNkRDYkM4MTh3dFVwMTViQUtyVUVIa1lhUlJKNGZ3eU5WM2s0aUlVdVpyY2RlYkRDZm5WanpZWnNkY205SDBjWTFCZkdyOFBPczJmLXc2Z1NxMTRlV0ZORzFsNUU5MDg3bVRyNjZkS3ZaUFNFTC1zdTY4cHI5ekpRZ2Z4N0Jyai10WlEyYjFlMVpwWmZ3YkpIQ1VaNmNfLU13bk9ZVjNDdnhaSEVNaXVuZHZpc3k5VWo2OVZpNFozMEN2eFZiWGM2UkFvOXZKYTkydWpvZWlnLWRaRGM4NU1VUTV6bFY5c1JNazhFS25iR0ozVHVFUjNjenRNVlppZk0xOU8zNlhsSlpfb2t2YXhJUTVYelMzWW5Yd0FLMGYyOEpzWU1VaEVVT2M?oc=5",
    "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Are Apple Services down? Details explored amid outage concerns",
+   "outlet": "primetimer.com",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX2NqbmU4cVdWRlZyZHRJSWVJWjI1VS1WRnlDR0M3aENxcHBFYTRoOXlzMjd4OHNPUGxva1o3RzU1d3hFMDVISUE2eE8wcVVHRURzTEJYdjdCZGQtSVlJNEZfR1NXSFhuZHJCTjFQM0UxYnJ2TXNJQUFreDFwdHNxQzhrSkRLYnlRb2JkeXNLTENNS2g3NjlMag?oc=5",
+   "matched": "Are Apple Services down?",
    "brand": "Apple"
   },
   {
@@ -271,9 +386,25 @@
   },
   {
    "published": "2026-11-17",
+   "title": "Is Apple still down? Users reported problems with iCloud, Apple Pay and App Store",
+   "outlet": "Democrat and Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlpiYW9LaUp5Q0M1TE83NFpfYTY4MzFLNVptQ3AyOFZmNW8yTXgwSUQ5eDctS0N1ZDlDa3pTZlNaU2k5ZWxEZFJSaFQ2aTZ2YmJVSFdPcHdDc1Q3UHJ6U3VrelFHa3MyUC1tSEYySjZtLWlITF9KZ3o5dGR1amhKVkNfNTgxdEN4eG1kaGdkdEZNZmRqUFFQcnpLVm5VbDVxZlR3RGNlcjBXTzdrN1pWNmljcC1FSFU?oc=5",
+   "matched": "Is Apple still down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
    "title": "Is Apple down? Users report widespread outages across popular services",
    "outlet": "San Antonio Express-News",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkEtbjdKSjZNNVhVZ0N1SmR1LVQ4VGVxWjNPZ2ROdlJqT2Q1RXJQbjFkdzEwaEJ5T2xKV0cybjkzQTVaZjdMTzZ1a0NjWUZ4UjZnZWVweDRzS0Jfa2ZMd3RTc1RJNURmXy00QTZmM0lZcFZ3bjZ3TEFGeFBkVVNfTlp5d1lGNXRhQmpfeU52UDZVUld5NkM5cmZOb2Q4dmxxTEwzV253VQ?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Is Apple down? Company says 'internal update' behind outages on services like iCloud",
+   "outlet": "WBFF",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOOHRuUk5wQWx1ZW9WbE0yV3pOZnBpdzAtMkNIcWNZOUhzRkxBQ0tCTHFrd2dkWjNWdWs5Q2NoYUc5Zkd0Mlc0WHhCMVpBWGVrZHZQc3J2Sl9MLVZscFI5c21wRER1NGlFd3ZlVWxXVFlfZWpPM2s4Mmd3OXBOV29melp5VVZfTGltOHNYVFR4TkJWMm9MLTZ3SU9YNUdSTjZlaExPazJPTi1fX0NTazhhQ3d4TFpKQ1o0Mi1CYWxOVnh2ZklsSWJjUFZ4SDJnakZJaGFscVRrZGRNaTdNZTBSZHJUeWFMMHJFcjBSTEw0cGlsQ3JSOXdjWE45bFp3NkZjZXBNTDhZYmFkTFZWSzFxQldDRlpUZmxpMFI2SWxCeWZ3UF9lUnhjanlhb1JrUEtDd1lPSFFIcmlqMXdhc1pSbHBLS3NDQQ?oc=5",
    "matched": "Is Apple down?",
    "brand": "Apple"
   },

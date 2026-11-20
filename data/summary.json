@@ -1,20 +1,20 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 78,
- "per_week_avg": 6.07,
+ "total": 80,
+ "per_week_avg": 6.22,
  "by_service": [
   [
    "GitHub",
    20
   ],
   [
-   "Discord",
+   "Box",
    12
   ],
   [
-   "Box",
-   11
+   "Discord",
+   12
   ],
   [
    "Vercel",
@@ -49,6 +49,10 @@
    2
   ],
   [
+   "Cloudflare",
+   1
+  ],
+  [
    "Coinbase",
    1
   ],
@@ -72,7 +76,7 @@
  "by_category": [
   [
    "saas",
-   32
+   33
   ],
   [
    "developer",
@@ -89,6 +93,10 @@
   [
    "bank",
    2
+  ],
+  [
+   "cdn-network",
+   1
   ],
   [
    "government",
@@ -146,17 +154,17 @@
   ],
   [
    "2026-W47",
-   5
+   7
   ]
  ],
  "by_cause": [
   [
    "unknown",
-   40
+   41
   ],
   [
    "software-change",
-   28
+   29
   ],
   [
    "capacity-overload",
@@ -175,7 +183,7 @@
    2
   ]
  ],
- "cause_known_pct": 48.7,
+ "cause_known_pct": 48.8,
  "by_weekday": [
   [
    "Wed",
@@ -187,7 +195,7 @@
   ],
   [
    "Fri",
-   13
+   15
   ],
   [
    "Tue",
@@ -207,6 +215,7 @@
   ]
  ],
  "median_duration_min": {
+  "Cloudflare": 28,
   "Vercel": 82,
   "Dropbox": 160,
   "1Password": 56,
