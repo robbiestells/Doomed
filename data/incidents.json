@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T02:29:08Z",
+ "generated_at": "2026-11-21T11:17:00Z",
  "count": 1006,
  "incidents": [
   {
@@ -94,14 +94,19 @@
    "kind": "feed",
    "title": "Network Performance Issues in Washington, DC datacenter (IAD)",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-20T20:35:16Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-21T07:44:10Z",
+   "duration_min": 668,
    "components": [
     "Network"
    ],
    "updates": [
+    {
+     "at": "2026-11-21T07:44:10Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
     {
      "at": "2026-11-20T20:36:41Z",
      "status": "monitoring",
@@ -1344,6 +1349,11 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-21T06:00:50Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-20T13:57:14Z",
      "status": "monitoring",
