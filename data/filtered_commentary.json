@@ -1,6 +1,13 @@
 {
- "dropped_count": 44,
+ "dropped_count": 47,
  "dropped": [
+  {
+   "published": "2026-11-20",
+   "title": "FAA Narrows Cause Of Nationwide Outage, Congress Questions $50 Billion Funding Request",
+   "outlet": "Investor's Business Daily",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHJuNFJCeTE5SmRPUmt4MEVna2sxYnJZbjdPU29GRmtMWnpta2NCUF9QSXY2OG5LZ1RhMTZJd3c5eDNMY2xyd0ZacXIwNnNwbU53OFRzYzFzNExrcTJNbkdTd3puRUJBb0t5elR1R19kSjVKQXFPazB4ZEpPaTF3dW9Ic0JzbmR5ZnRvZ1Z4a0hZeHNoSFZkeG82VVc?oc=5",
+   "matched": "Congress"
+  },
   {
    "published": "2026-11-19",
    "title": "Fact-checking Mullin\u2019s House hearing on FAA ground stop, outages and dirty bombs",
@@ -136,10 +143,24 @@
   },
   {
    "published": "2026-11-17",
+   "title": "Apple, Google and more services down in latest wave of widespread outages",
+   "outlet": "NBC10 Philadelphia",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnZMRU9hSFhZV1VNRkRTVWhMRVM1eV9KSkNDR09vdnphZUFCcWRjdjhveU1VS0hCUkhJSDg2RVc4b1VlUUF3bUNDanNjU2wydU9yRHZpSElsbzA3dWx4WHIxVUltODctUGM2THNHQVE0UDZEdENYdHBLdVUzWlhNZW5rUDVmMkJWNkRXZ0c1UGVGNi0tWk11bTdjVDFYR0Y2MEFDVmJQNWRRNFFrVHdxQl9naEp3VkdtNWtld3J6ZHE0QjE1Tkt5alVyNkZkVThuS1FnUktub0k?oc=5",
+   "matched": "wave of"
+  },
+  {
+   "published": "2026-11-17",
    "title": "Markwayne Mullin responds to CYBERATTACK FEARS after bank DELAYS, United Airline OUTAGE | RISING",
    "outlet": "The Hill",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTVJKS1VKRDd3cXc4bnJUY0hpOGR6RzFEWHNSbm41Xy13TGhkYUpDQnJOMjJPaWt4cTdraUduS2RlOVpuUzQ2V1FfRXA0RHRRdWRSc2dMR2R6UW5FSXVDTGFZWlZLTmlOUllVSFZzTnNpalVtb1l5TThkeFBYYk1WQXZHZWtJMHBrY0VJYkpuaTN1Q1Iyck9vMkp4RUNGZTctb04xYmdnWEVUdVo3RlZiemNpSnZCZnJMdmZhQllQWHRnanVQZFM4Wk5lZHhSYm9YM2cyTNIB2gFBVV95cUxPd2FrVFlPVUV4eVQ3aDJzTlpQeERtZlNiRk83MjJQN183MHBqeTBDOTFXZjB6RVhxWnE4TW82SmFjeDJkMHV0QVg0cDVDUUdxZlpubUsyenRrQnMxQXhtNDEyd2FXNjZ1ekEta0dkN0lhZ2Uzdi1GNWpPSV9WNDNQblB0UmhURjZDYVZ1by1ZYVJmeTdCcUZFZElOZVAyN2ZJR3FpOFVvbFY3Vkl3YksweHNYTm1ld3IyUEtUbDhsaGtfWnFpRjkzVFNmZzJ2WGFFSWw2WEdzQlZldw?oc=5",
    "matched": "Mullin"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Microsoft reveals three causes behind global Microsoft 365 outage",
+   "outlet": "Computing UK",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXNLa193NTg1eC0xcUdhWVQ2MVp2Nk1RR2owOWpjVDFBeS1QQlprYlhHWFJXVnd2clBkS2JaOXVndjN3clFCV2pJVlloeGM4cXBibGhVZmxxWXF6aEZsTmNocC1SZzZjSzFXX1l5SlpoaHBEN3hqQUkxWWtvNE42MFlBaW1kcHBJMjBXYzB4SWw?oc=5",
+   "matched": "causes behind"
   },
   {
    "published": "2026-11-17",
@@ -310,8 +331,24 @@
    "matched": "How to "
   }
  ],
- "evidence_only_count": 76,
+ "evidence_only_count": 79,
  "evidence_only": [
+  {
+   "published": "2026-11-20",
+   "title": "Chase Outage Today: Is Chase Bank Down in the US? Users Report Online Banking, Mobile App Login, Account Access, Payment and Money Transfer Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3RXNVdtTngxQXpJaDVnREZkLUlZV1g4d014bFdnWEdEd1BVRkFnSjJSM3F1RjlPSG5Qa25PTkR6a0l3c1pWZ2VPVl9XMWdmTW92WHBkTXoyNVN4MFJXQjU4Qko0REVwME5xWmctNEdWcVh6TUtsclhFZUxMamM2YXE0amJ2OGtFVUV2WERxTnJONVBVU2x4OXJHb2xSRFdRRnpZbDB5VnY5ZU0zNWFYdGdycVY2UFB4N2Rmb2VpeTVJMzI2QnZNY0RCR0RhZHdJTGUySWt2MklmcDNrWTJrd19BbllHSk1ISHZ4MWVSR0tCZU5OendMYkpmaW9oSFVtVmxMbjRQZGFUcGRiaVB4M1Frc21lRzk1aTl3dVh4TFZHRnVUcWVCdUhWbUMyY0xxeG5uUHhHaEhncjJOTjN5ek5aRzfSAcoCQVVfeXFMTy01cVFsYUNwWXRIZEUtRm9UdVZVeXNyZ05UbTM1U0JtVGJCRkFRenZyemxscURON0lVY2lRTjhNckQ3NmN3Z3F6QWNjdjhQQmdHdHhVOGNjQ2RNc0M0S2JDNUMtX3B2NjRpZU9IUndpMXltUTRMZjdoY2NMSDNETllsYUp6dHNySXBqa1NPNWhIVUJvN3RNVTIwVmRiR3BKTng5YThjWmZEQmNDZmstbXhkZDBEclJ4eXR2N0t1N3NGdXphZDNXWmxfYzNwYXZnbUx0WjNfZlFvRTlRU3I0dnRSV2lQMU92VWh2Vk94WnVoLU80aGxiczFXMGVnOU03Z1dkNXktNGkzSjVNWk81SjYtb0pWbmp1eExFZDV5S1pzN2xRYkVsLXcycXc3TXBZOFhDUjJlUXptR2FIWDQ0MnRHbFpnYVhkbVpR?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Chase"
+  },
+  {
+   "published": "2026-11-20",
+   "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive, SharePoint and Login Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWFVhdGhCWUNSeTBBTTVzQm9fMmFTd3cxUkU0Mk1tQ2MxeTFEcmltc2hCWVR4SE5vc0ZEbnN2QkVSRVJmREtSYVBMOFlialhObEdCWXFuNGxRMEVKRERzOG5nNHpELUZteHpsLXh6NzVPNk9rejVfb01nZmkxdHpVeDgtNmNlcUE4UDJKazVOMnJsdmRNZ0hhNnpmT3JHeUZkRExiZU5xZ1FzN3RZT0NYbU5KRkpfVXpiTUpTZU9Ob0ZvdGRDcHFtNGNnSW1Ta1V3Vk5jVzN1SkF1U0RhQjVUclR4WHYxTVFXcTRYbFRRWmJ4amlkOGVyQUJWMkkxWHk1S280a1Y1enIxOVFpQU8wc01QbXVXSmI3aDNVdU1SNW9nNF8zcEt6eEFTeHZaaDdDOVNSQVBydW1KZ9IBvwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx3?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
   {
    "published": "2026-11-20",
    "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Problems Receiving and Sending Emails, Login Issues | Check Latest Downdetector Status",
@@ -333,6 +370,14 @@
    "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
    "outlet": "The Sunday Guardian",
    "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNcThPR1ZVUm5qbHNRSURJQkpUTVZpbGRlYzR1ZWhNZjNfeS1NdlJ5d1BoU2x2bWpjSnc3OTY2dkF3M0VwejRRQkJUenJGd3czM1MzWjg3cFVTSTJ3OFlQNk5FWm80c1NrLTB3UlpKeEZ1Zkc2VTRabDNJb2loeVE2Y2hna3dCcGZRR0hlSFpJYXFLcENFWFdpQmZOZE1JVk5vdGNfYWRIRDVEMUVjZWUtMUs4Z010eTlvNmVsY0N6MGFHT011ckpFX3QxckJudU1ybG5yWmRLcVl2dVBRS0VZTjc5NC1teTdBSm5hZGFXaS1iaEVicjZ0dmRLRHd6UGVxd0tZSU1ackFrM2ppUFZpczRlWGVEVTQ3X21BdDlpZGhJTG41VTZBODU0bEFwcC1uajJXcHVaN1NsUVhhV3VKaTN5ZnVMX1QxOFVvZdIBzAJBVV95cUxNcThPR1ZVUm5qbHNRSURJQkpUTVZpbGRlYzR1ZWhNZjNfeS1NdlJ5d1BoU2x2bWpjSnc3OTY2dkF3M0VwejRRQkJUenJGd3czM1MzWjg3cFVTSTJ3OFlQNk5FWm80c1NrLTB3UlpKeEZ1Zkc2VTRabDNJb2loeVE2Y2hna3dCcGZRR0hlSFpJYXFLcENFWFdpQmZOZE1JVk5vdGNfYWRIRDVEMUVjZWUtMUs4Z010eTlvNmVsY0N6MGFHT011ckpFX3QxckJudU1ybG5yWmRLcVl2dVBRS0VZTjc5NC1teTdBSm5hZGFXaS1iaEVicjZ0dmRLRHd6UGVxd0tZSU1ackFrM2ppUFZpczRlWGVEVTQ3X21BdDlpZGhJTG41VTZBODU0bEFwcC1uajJXcHVaN1NsUVhhV3VKaTN5ZnVMX1QxOFVvZQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "AWS"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTmhqUEphTlphdnBZWXVaQ0xOZlhvVHp1UkZOLTE4LVdnSUpYMGxqcTRfRlQxdldWNUg2eFFfZnc2TDNMVFgxZUU3VEprSk1iOEdyQ25CczBNTnpmbmpwRXJscUV4QmtXd213SjlLOGxDRFdvdzFqTkNCUW5HN3pMSVZGLVlHNFdaX2RjbDZDOVluVFJoV09pYjE1X0dyT3ctSUptZG5hWEVFNVpxY19wNzNjUlo1NlBkOEgxOXpXMVN1MXd2Z1VYLW0tbS1aQm9Ia0Q5Q2VmRU1pdFBhcFkxWVhpaHlaMnpUSWdtMnFVdks1LU1Ia1AtZm8wb283cTRfSEZ3QVR2SXJtRjZhWGRHdS11TUNGUl9JSzFJdzJDVXVidHZhQ20zcEdYM1ZIbXhZUDhDNGVpS1ZoczhVZ2NlS3dKdnI3RUHSAcwCQVVfeXFMTXE4T0dWVVJuamxzUUlESUJKVE1WaWxkZWM0dWVoTWYzX3ktTXZSeXdQaFNsdm1qY0p3Nzk2NnZBdzNFcHo0UUJCVHpyRnd3MzNTM1o4N3BVU0kydzhZUDZORVpvNHNTay0wd1JaSnhGdWZHNlU0WmwzSW9paHlRNmNoZ2t3QnBmUUdIZUhaSWFxS3BDRVhXaUJmTmRNSVZOb3RjX2FkSEQ1RDFFY2VlLTFLOGdNdHk5bzZlbGNDejBhR09NdXJKRV90MXJCbnVNcmxuclpkS3FZdnVQUUtFWU43OTQtbXk3QUpuYWRhV2ktYmhFYnI2dHZkS0R3elBlcXdLWUlNWnJBazNqaVBWaXM0ZVhlRFU0N19tQXQ5aWRoSUxuNVU2QTg1NGxBcHAtbmoyV3B1WjdTbFFYYVd1SmkzeWZ1TF9UMThVb2U?oc=5",
    "matched": "Outage Today:",
    "brand": "AWS"
   },

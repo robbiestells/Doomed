@@ -1,6 +1,316 @@
 {
  "articles": [
   {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
+   "title": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired",
+   "outlet": "GeekWire",
+   "published_at": "2026-11-21T17:31:16Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
+   "title": "AWS outage on Nov. 15 disrupted 11 services in us-east-1 and went unnoticed",
+   "outlet": "news.lavx.hu",
+   "published_at": "2026-11-21T16:16:05Z",
+   "entity": "AWS",
+   "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVVhR3hmek1jTExReWNlTk4tRUNkVnh2dE9RalNmN0hLRVBvLTM5UWVuLUl4OEFMRFBweDAzaWQ5S3NzbFJsM1VVa2E0Y1M0a2VkVGdTeExMMXJWbG5xdkZqU3YzRTdnTUxvc3MybnM3emVoYnN2YTVicUQ0NTRJT2Vzb1ducW1hQlE?oc=5",
+   "title": "FAA Outage Triggers Nationwide Flight Ground Stop",
+   "outlet": "Wisevoter",
+   "published_at": "2026-11-21T15:48:13Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VGMzR05LMGZqQ1pmVjkyMFk5ZkpTQlNaMGJ4OTBmMDZnak1xVi00Q1hwc3YxWmdXZExzclljbGppMHA1Mm1kVEpNSW1XOERaYzM3cUZwUTRnaHcwZHQzOC1raFBFOEVzOUlVMjNRREc5STBod3M0?oc=5",
+   "title": "AWS got hit by an outage too. Here",
+   "outlet": "cedarnews.net",
+   "published_at": "2026-11-21T14:41:20Z",
+   "entity": "AWS",
+   "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXlBSFZUSWo1TVBlTTlRaTBPUFhGVU42RWJpY0YySlhpSG44emVVZTc1QnR1Z3oxVzN0NE5RSkJsUjdMNTFDaXBKQzUxRFJkNmU4bUUwSUJNTjdJOVh2cG9QLS1qQ2s2UzgwN25ldjZpYzQ5cXl1ZmUwMkNtTmxnR01INk1oZExFWlEzVHNUaVdhTDdZTXBSSTEwS0lpdklEWmFWYTZzcUVrNDZ0b0VxWC1McUV2UUhxOXN4OQ?oc=5",
+   "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+   "outlet": "The Register",
+   "published_at": "2026-11-21T14:35:00Z",
+   "entity": "AWS",
+   "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmVDdkdkhjMVlqc3c0Q21Tb0I0bi1TTHdvYVhDWm11X2t6eTBoUzlTWGlYLXpNTlp2bGNnQ3MzSVc0WnBQbkY3MHVzRVpRRHFQQWlEUXlOcE5yQUV2T2ZnVWxlQkt2andiXy1rSm5VTG9VamtvRUpLdjN6U2M3UdIBgwFBVV95cUxQZ1c5SEFMOURPekZKQURlaG9aTTdEVjZFRi1BMnBBUkl5Skh1d2JKY3d1bndKLUpXYVdtNWRHWEM5SHpEOVI4cnBheS1tZTl5cXpNRk53WXktSUlJcnRkTG9BMExxOXJ1QlpoMjdzblZJeTdWcXJ0c0p1MFdQR1VzQXhObw?oc=5",
+   "title": "Tech outages are fueling a new doomsday economy",
+   "outlet": "CNBC",
+   "published_at": "2026-11-21T13:00:01Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEV1cGJfMUVHR2x2UVcteFZiWktDWURvVG1qa2ZDT05kQVpqdmhVU0VFMmZhbmVvMmtWZGJBZ3gwVVhGNmdKVDFDNEtLVXRYaHRxUnBrTlNicnlxV0x5TFc1Q2NYNkZKOTBoRkkwUlJxT011eGdobjhoVmFSU24tLU9KUnZTa3hVeUtOeV90U1JSb3A3QXJ3YjJrYU5DdmQ4ak1pZ2l5dWNOSTQ3ZmhPcnlaVWxPT0hW0gHMAUFVX3lxTE9LQTdEMDE2bVYxUGQ4b0pZQUQxa1dvQzJ4djRBWlRKdE84cm5qMnVzYzV5R0p4bGJYLS1reFJHX3YzeWs4MWUyX2pvcEhuWVNQdjFCYW5CZFd3RWhnYldSTU04OHJveGl4bEk1bVJtRW9XZF9adXdIQ0VjM0RkNTNJQWZkVVlhbW1sVVFaZjhPUUVsT29RdHhObUVQX1g1RVdIUy01SVJ3NVpXdmcxdFQwYjUzZjMyYmJwR2s2SWZrdHdGZ1lSMks0TThXdA?oc=5",
+   "title": "Chase says customer emails were exposed days after a major banking outage",
+   "outlet": "Cleveland.com",
+   "published_at": "2026-11-21T12:53:00Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYUVxOEZrNjNwVDZ6R1NBdGxzXzYzcEl6OTVjc0htQjNUbGt6Y1h3VnBHbUJPZEhnSjN0di1qT3YyT204WFNGcWZfZTRzanZ0UUV5Q0hWclRYRGcxOUJuTG96R3VITFN3WmxCNHE4VVFKcUt0VGxKR0NtdDNwOG1nc3dTYTZUSFZnU0xqbFFzUzFfQ0MtelljY3Q1VFVVRk5uQm90ei1rLUF4N3BEb0t6VjJaVTFPeHJKSGxiVldwZlo4UkdxWHJaQkhMWHpKSVZoSDl6Tg?oc=5",
+   "title": "Digital Infrastructure Investment Opportunities After Recent Outages",
+   "outlet": "Bundle",
+   "published_at": "2026-11-21T09:43:05Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zbmlJX0hZMk9YOGp5MjI5Y1hRR0lYVG5TWVcwWk5lLU1fUlNzc1BVdzEyQ2RXc0Z4a1FpMzItQVNsWXhVTEFqbC1JazdvOV9yTEk5cGZvMnI1aVpCdHZLck5FaVhGM1FKWThfMHI5SC15d3F5Y1p6NC1IQ0dUZw?oc=5",
+   "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
+   "outlet": "The New York Times",
+   "published_at": "2026-11-21T07:59:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQWt4clF3aVRMX3hqbm1HR25IRGVzd0lVQzZUVWtGYVhXdlU5bnF6UXcxX2luTFI3MXo4ejJ3cmdCX2xOaGxsdFZTYmhKZzRlREJEN2s0VU1paUZablNYUW54ZkwxMXo3NGM5d256dXZTdC0tLVd3QklfMUpQaEpwXzBJNGZfZ1VFdk9qZUhsOGE3czZWT2xvamI0VlE0cUNucXZadUpaVVQzTElZWVhyY1NPbUlIOWZ2UWZfdVRXR3kzLWdMQUxHUzZYTDBLLWkwU0c2UThILVFPanpONmE0Y3MyM2gySUNJU3k3WWNYQzR5Wkp3eTF6REpleUtxQm1MYVBfdjRsa3I3S1d6RU15V3dHakd4SE1PQUV2MmN6NG01QQ?oc=5",
+   "title": "Ticketmaster outage leaves crowds waiting outside Caesars Superdome for Usher, Chris Brown concert",
+   "outlet": "WWLTV.com",
+   "published_at": "2026-11-21T05:42:16Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc0NxUVhBR3lrMTFPaHd3c0FWeGx4amNkR0xpMGlwbF80ZFdNNUN5OXFTV2U2b1NvbmdEUUhkZ3VPdk40V2pTOE1xeGFpRF9lZnpIdDZ1aDBMaW9yZEpXWHhSbG9rb1Zna2daSzkxbnJGNmFwZEVOYlR3VGE0ZmU0anMwMWhMbkpWZmk1Nnp5WjZIRlVxNnlRLVozMmd2Z1I2Tk1NZjZKRXg0QlRQQ1RWN3dIMlU1Nl96OUxxV0huS0lmTDU5WWgxN2w2ZC1mM2Q4bTFDOHBPZXlCX0J0X28xa1Qtb2E4eDJ2SHhKVkQ1cUVZeWIzc2V0dVFR?oc=5",
+   "title": "Thousands of fans enter Superdome after Ticketmaster outage delays Usher, Chris Brown concert",
+   "outlet": "WWLTV.com",
+   "published_at": "2026-11-21T04:30:26Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BRk9hUk9rNzU3dTNjd1ZvSEVDU2stRUpKbENvbHNkYUlvR2hvb0RlaURxSm1WZ0h3S3hKMnJyZlAybkFVR0lrb1RUaVJLaklZeUhjcXYwUVJEQjNWMVFBSzFVNHpsNGVOWTVWSlBmOUNGYUtMYkJDeQ?oc=5",
+   "title": "New Orleans Ticketmaster customers report outage during concert at Superdome",
+   "outlet": "WDSU",
+   "published_at": "2026-11-21T04:16:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUnVDcTB3X01HMVNkNWN0TlJvd3hyRUVIeXNnbW0zV1c4WDVFZklXRlBfOEdDQWtha1dKc1Zzc05iN0RJUTdSVjZuNzVYczROZG1SLU42WVdSZUlkQzdqbTE4ckxxZTRUUHc2c1R5UUY4QlFJWTJPMENfNS1HV3NieWE3dGJwUjhLVEhiRFM5NzVKM0ptY0lpc0NaSE1TNjhpTDA4bk9LekNXMUZ1UnpENFVkakJXMUdXeGNMQ2FzZEVSVXZSNTZFYUxn0gHeAUFVX3lxTE1KX1BiU0VFQ2QwOUlNN19nc25qc1NyVHRlV0ViQmlGTWRUelNnZ0pMVjNNemFhSUZ3eGdGSDEwVmVkb3RKdlUzbTc0RW5ERFRBeVFiR1J4M0JaOXZNbmpEUEdObUdZT1VlaWJvaDkwdExZX25obkdTbU85dWJaN1BzUE9YOFF0LTlrc0RSVExRX2RzVXVBaHFTMkJVWnlCWTB5U3NVOTQwUW5sV29BNjlIdTJLSnd1ZjNZY2RKcjdYMm5RLUExajhfem55N2JsWWxYdGZRRlRZZlZyc2U1QQ?oc=5",
+   "title": "Ticketmaster service restored after nationwide outage affected fans at Usher, Chris Brown concert",
+   "outlet": "FOX 8 Local First",
+   "published_at": "2026-11-21T02:56:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONDhMcmhYVFVlYWFVQzJMVFNKWTNUSE5mQlU3d0MtU0FQeEJFNXE2U0N2VnNWYWVpVVE2eUREQUMtbTQyclhsTVpscmRrWkF6QlNUd2VxYkVJUkZReDFGQkNQYVl3YnVkRXE5SkpmOGJLZ0prZ1ZzQXJkZnE1WHYwYldvQ29saWhlNW14LW1HUnhQT01nUUFOaUQzSElkZw?oc=5",
+   "title": "The Outage Flu of 2026: Why is everything breaking at once?",
+   "outlet": "CityNews Toronto",
+   "published_at": "2026-11-21T01:36:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTc0RWt2ODJlZXdjcUphbmMtLUtzREJza3hrckVaYVliX05IbkhNV0czM2NEYlhhY3RpVXEtYzlQVEhCTGhFWnFmelRNdWctb2pwVXJBdjJ4Z3dtcEdOUVNqXzlKT1pwWmZqUnhFMmdBWDJEbUN0S2pCc2JKM2pCQTFwVHNDekVRR1lwV3BsaFJZOEgyMzdqNVpnR0RybHVSN0NVa1A3TkRQVWJObGNQZw?oc=5",
+   "title": "Cyberattacks, AI and tech outages: Experts answer your questions",
+   "outlet": "Click2Houston",
+   "published_at": "2026-11-20T23:00:14Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWkdfdHNJMFVFcGxQVFJjYmNROEtaME04NGV5dmRJaGFrWlVUM2tkS3BBOVRkMVZxUm5uNHNzVW0yUVRpWnJLVnJjcGtIY3JvX0JpUWUtTzJNc25YYV9VcGozVEhZSko3MzJSY0NrMnhZc1l0VFlpaXFHXzlpZHhIck9BT1FuM0RDZkVyYXNBa1NEV19DbDlJdmJKS21tbDlJd0JRWmFiMHdlUTd5cjdiYkR4aVYzZ040TWdZR0tTNHZGdGYzNE0wRG1sYjZ5QzBPU25MRkZWdUk1UUVnb3A0NWd5NzNCRzZZVzBzdkYwaFowZ1RVSkdWN2U2aFhTVVZpck5Xd0RRNVZNZw?oc=5",
+   "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
+   "outlet": "Washington Times Herald",
+   "published_at": "2026-11-20T22:50:47Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UU0c1Tl96cjlSZDRscWdFVlFXelYzVXIwXzFIems2WC1GNW5peXZkdGdoZ1AwM2Y2b2hHekNVMmpOY0xHVVdvc1Zoal9EdHZSc29JdVZhQmNJQXPSAWBBVV95cUxNbHVSQjN0VGVOMURTUFVPbU5Cam9Gc1psY3o2blZBcmFlOWlVY3hlcll2aUttcGUwRHozX3hHRFdYMXRCZ0pmYWpRSTRUQlhHZzk5Ymt3c3RrS01yd0lZY2o?oc=5",
+   "title": "Enough Said: Vikings in Mexico City, tech outage uncertainty and Ant injury update",
+   "outlet": "FOX 9 Minneapolis-St. Paul",
+   "published_at": "2026-11-20T22:32:58Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjFfdzd4SkVGeXJ2RnJqTGtuUURqdHhEakVmNFk2M1A2bXFBSWtuT29HTTlpUk1GWERfY0FLS3ZNU3ktSDkzeTJSYXJCWUdOcFJnUUhEc1pldlNobmZjZktEZl9teWkxc20tcmJIQlFBM0NUS0tBNGpkTnJaajFrWmd2Q3RzUXcxV1B0YWYtVWJWRWlPaTI3alFkMjIydXhkQ1hSemYzY1hlYktRYlk4RWxxSzA?oc=5",
+   "title": "National outages, emergency alerts become fodder for doomsday conspiracy theories",
+   "outlet": "Stateline",
+   "published_at": "2026-11-20T22:20:47Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMncxcDVGZi1Pa09WWkZyU1NSeURmNEtsVGFoTVozSUZLZDEyVlM2R0FScmtEaUdodUcxRzlKc0tLblJudDhac3N2VlVRdFQ5TGpRMS0zNjhGNjZPQ0QwNHNFSkVXVzduSXNsMTJWWFkxSzByMXJoWUpsanNVRDVPYXhaeTVLVE9TNXV5S3JIUGdZdlM2VndrOWpIckFhTUVOY3pvNE1VcURwaVBfanpCcThiNjE4ZHZmMFoydUk1RXFOUUZVQmtaNl9ickFNNW05c3NKVDFkeE5vaHNQRmwzUU1RamZmZmRSd0dCNm1SOEhJbnhVTHY3UjFBRDFUaHhp?oc=5",
+   "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
+   "outlet": "Chronicle-Tribune",
+   "published_at": "2026-11-20T22:10:09Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa05zb2VURlZmTEdNRHpha1hRaUpvTG0tejhmLVMzNlhTSTd5UGxyU3Z3SnRNcm1ZRThXcmlMeUIxTkt2NHcxWmlpYjc0ZEJYUGozUHdabVoyRlBvMTk1blloTFdUam5yYzdoeTNUV2VDdl9HTll4UEw0NFp3UWV2S1lvZFAzTWp3MFRCNXhRNnNHT0pFNFZCYlIzZzhOc1lSVFItWE9B?oc=5",
+   "title": "Cyberattack or Outage? CFOs Face the Same Cash Flow Problem",
+   "outlet": "PYMNTS.com",
+   "published_at": "2026-11-20T22:01:02Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHJuNFJCeTE5SmRPUmt4MEVna2sxYnJZbjdPU29GRmtMWnpta2NCUF9QSXY2OG5LZ1RhMTZJd3c5eDNMY2xyd0ZacXIwNnNwbU53OFRzYzFzNExrcTJNbkdTd3puRUJBb0t5elR1R19kSjVKQXFPazB4ZEpPaTF3dW9Ic0JzbmR5ZnRvZ1Z4a0hZeHNoSFZkeG82VVc?oc=5",
+   "title": "FAA Narrows Cause Of Nationwide Outage, Congress Questions $50 Billion Funding Request",
+   "outlet": "Investor's Business Daily",
+   "published_at": "2026-11-20T21:34:00Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXhuQUFkMktaY1JPc0NnM3ZpTTJSeGh3TW1sZXNnTlE1REVRdnpUOE1MYTJJRDM4RzNKR0V3dlR1cEt1MGdCdGhtNDZEQmdPNThIXzBuc0o3Zk5HdkRLWjlSXzhIZG4zdWIxMlQ3WHFkS2tfV1lTSTE3cVJkQjg3SmdPWE1Pdw?oc=5",
+   "title": "Preppers aren't afraid of an outage",
+   "outlet": "NPR",
+   "published_at": "2026-11-20T21:30:58Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTG56c0JWQ3F0NTFabk5OVS1aSVE2TVpvVXA4RjMyRVlBcFBTaGtIUkUtTjBqWmJXY052aFNPQW1VZEQzeFBtX0xfaHdvZHYtbWN5ZVMxSmFYQl9TRXNmN1l2REc5azhqc0x6ZEp0UVpXMUxoMFhqTm9FaUI3SHoxT3B0M0pmdzQ?oc=5",
+   "title": "Being a prepper once came with a stigma. Recent outages are turning skeptics into believers",
+   "outlet": "NPR",
+   "published_at": "2026-11-20T21:30:58Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX2dDUEVYemdzajRrZTloZ00zajlCR3AyNG1qUzNrcUt3cFgtVzVGWldTczdkdXNHVWpRcVVrS3hlUWRSLXNxcW9qTFZqT1VHQ0xTdmt2b2lfMGRROE5DTVFJREEteFk2eFloWHNMZVVqbmxFSUZLeV8yMzNpb0NENlRUa01pS2xyUUdmaXd6X3RCSWxGOEhsN0dEUlliOVRpcXdqVEM2ZVFONkVGZVR0dkRR?oc=5",
+   "title": "WATCH: Cascade of tech outages \u2018separate events\u2019 and \u2018under control,\u2019 Trump says",
+   "outlet": "PBS",
+   "published_at": "2026-11-20T21:13:21Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbE5rUS1IR2hwZzFGSDB1SVBzTDlMTFNkd3FGQ1RNZUJlRVp1Tmh0V0RaT0FuSVp5a3g2Z3NTcmZMZjJvRjNMQjNheVlWMjB6NjVOTXAxVmptdzVkUW5NLVBKQ0piSHYxcnJoSXlSYVgwcmpUeHNUdmY4ZzhTMHNCWkNOdEtjV2pPd0pNTHdNWHFMT1FIVVpEOEtYLUR2bGZId1pPMVFSWXYyNWVwZkQtRVpkT1hGQVF6Y1pF?oc=5",
+   "title": "Mexican cell carriers facing widespread outages, users report",
+   "outlet": "Reuters",
+   "published_at": "2026-11-20T20:57:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jQ0gteEhIanBTVGJZN3JOeGg5OXZYbGR6SjhQOXBqNVBjTGx3aDc5aFNmRFZ0d2h2dDFVZmtPT0M2dkg0blNVdnJRS3QzMFhtM3R6SUdoUEloNDZoa2RwQzc0cWE5eGxkLXhmOXlJNEF5UDZ2WkpoMVEySQ?oc=5",
+   "title": "Outage left Bell MTS customers locked out of email accounts for more than 2 days",
+   "outlet": "CBC",
+   "published_at": "2026-11-20T20:41:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3RXNVdtTngxQXpJaDVnREZkLUlZV1g4d014bFdnWEdEd1BVRkFnSjJSM3F1RjlPSG5Qa25PTkR6a0l3c1pWZ2VPVl9XMWdmTW92WHBkTXoyNVN4MFJXQjU4Qko0REVwME5xWmctNEdWcVh6TUtsclhFZUxMamM2YXE0amJ2OGtFVUV2WERxTnJONVBVU2x4OXJHb2xSRFdRRnpZbDB5VnY5ZU0zNWFYdGdycVY2UFB4N2Rmb2VpeTVJMzI2QnZNY0RCR0RhZHdJTGUySWt2MklmcDNrWTJrd19BbllHSk1ISHZ4MWVSR0tCZU5OendMYkpmaW9oSFVtVmxMbjRQZGFUcGRiaVB4M1Frc21lRzk1aTl3dVh4TFZHRnVUcWVCdUhWbUMyY0xxeG5uUHhHaEhncjJOTjN5ek5aRzfSAcoCQVVfeXFMTy01cVFsYUNwWXRIZEUtRm9UdVZVeXNyZ05UbTM1U0JtVGJCRkFRenZyemxscURON0lVY2lRTjhNckQ3NmN3Z3F6QWNjdjhQQmdHdHhVOGNjQ2RNc0M0S2JDNUMtX3B2NjRpZU9IUndpMXltUTRMZjdoY2NMSDNETllsYUp6dHNySXBqa1NPNWhIVUJvN3RNVTIwVmRiR3BKTng5YThjWmZEQmNDZmstbXhkZDBEclJ4eXR2N0t1N3NGdXphZDNXWmxfYzNwYXZnbUx0WjNfZlFvRTlRU3I0dnRSV2lQMU92VWh2Vk94WnVoLU80aGxiczFXMGVnOU03Z1dkNXktNGkzSjVNWk81SjYtb0pWbmp1eExFZDV5S1pzN2xRYkVsLXcycXc3TXBZOFhDUjJlUXptR2FIWDQ0MnRHbFpnYVhkbVpR?oc=5",
+   "title": "Chase Outage Today: Is Chase Bank Down in the US? Users Report Online Banking, Mobile App Login, Account Access, Payment and Money Transfer Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "published_at": "2026-11-20T20:18:06Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYUU1V1QwejJVOGszMWhaRFYtLWtIa2NpVTNsdG5iWTBITjJ6c1VRZ1VHaExkZ0R0ZEVNRXYwX0NMckVlNnNtN21GRG5jY05FVWUzSmV0elIyZURCTEJQRzZiMlVpdXo0UWZnQUtueXlpRnVJWmY4NjVBSU0wU1lWTExfb3N5RE9Pc2NxcC1kb050YzdI?oc=5",
+   "title": "US Flyers Still Face Delays After Ground Stop as Orlando Lags",
+   "outlet": "https://www.thetraveler.org/",
+   "published_at": "2026-11-20T19:59:50Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQW9TN1hBSjdVeTlMUHRoUTliNmZIUDdaWVVTOGdLV2JRaV9jX21GeXpSVVdPZW1WUnNMbkpKSEVHY3BxN01pVFRPVzFUVXN1RDlCc1BmU1JzRGt1RDJmX3pvVk1WUDBkNjFzSklVMDNwb3lxVE1tRzJaOHpoZFJQTEVDYW9BZ0RIX0J3NHU2TlltNmc?oc=5",
+   "title": "Everything is down: What a week of outages exposed",
+   "outlet": "TechTarget",
+   "published_at": "2026-11-20T19:46:58Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFhhTkRBbEtCWHZ6NjIxMFpKUWFRMkRQV0hHZkk0MVAzWjhmR1ktUkFMSTRvQlFoMXZMV0FpeHRHR21TWkI3Z2M3S2J5WGxMcDhrbHBkQmFwakZFLU1yd2NTYVQ1ZkdTTVZsdXBJb2VBU3ZDS050MHVudDFpaWN4bzFCbDA1TDBOTHdQSlM5blViT21oY1pWQjhQN21iU3BsbzRZS3lR?oc=5",
+   "title": "Inova Health System reports brief connectivity outage",
+   "outlet": "WJLA",
+   "published_at": "2026-11-20T19:45:18Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "network",
+   "cause_evidence": "...Inova Health System reports brief connectivity outage..."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDNrd1NTSnpMSVFmR2JxVlZKV1hISEtBclMyRUhCTkFPQXdzT2ZJVVVuNl9JWm9wY0o2LS1BWnhQTXRJN2RnNWJiRjZ6Y2dpMGxqNGNfZjlrbUdkOUJ4ZEZSUkV4Ni0wUXR3NUgybWh6bFlNRnhUR0s0bERyYXV2bWVXMXo4TFc4YmFhczM3RVp6TGlzLUZYbGxCdDFpdXhZWkYw0gGoAUFVX3lxTE5rX0o4a2U0WU9UWElFNEE3azZmdjJZTU9ucFF5eW10aWQ3Znl3OGl1LTdnTHc4R0RqOFY0UGV6UTJSekw2MVl1X3VIR1NHX25aVXdLMlRHU3VYN2VpWElRdUx4cHFIZE9XUXByYUtHejNWeWVFQk55QzJoOEctS25GT1hIME9fTy1kNzh5RTUtbnl4VXJtdFVheFFKQTNOUV8zdkpTbGVKZw?oc=5",
+   "title": "Tech outage cascade exposes US vulnerabilities to foreign cyber threats",
+   "outlet": "Fox News",
+   "published_at": "2026-11-20T19:23:24Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTNKaHpvaEFLc0ZjRUtmMHdKbzhvdnJlUUZydE8tSXAzYXpGVzdCN1VMNTBnMDI4SWYyTFBfZFlpR1ZxNnUxS0h6N05Lc0JfenlwNXdub0F6RjZnVnBaWW51bkVqeGo3ZTE3b1NaaDl0dy1hMWdJc0RZUEszRWFWSVlOU3BYaTkxckEteWJ4eHZBdS1lRG9vTEFyelVRVGJ3VkNnVXFSa29TenI1VkRqZmpqOVdmSUdJaVFsejAwc3c?oc=5",
    "title": "USDA Confirms Cyberthreat on Loan Software Amid Widespread Systems Outages",
    "outlet": "DTN Progressive Farmer",
@@ -17,6 +327,16 @@
    "published_at": "2026-11-20T18:10:56Z",
    "entity": "Other",
    "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWFVhdGhCWUNSeTBBTTVzQm9fMmFTd3cxUkU0Mk1tQ2MxeTFEcmltc2hCWVR4SE5vc0ZEbnN2QkVSRVJmREtSYVBMOFlialhObEdCWXFuNGxRMEVKRERzOG5nNHpELUZteHpsLXh6NzVPNk9rejVfb01nZmkxdHpVeDgtNmNlcUE4UDJKazVOMnJsdmRNZ0hhNnpmT3JHeUZkRExiZU5xZ1FzN3RZT0NYbU5KRkpfVXpiTUpTZU9Ob0ZvdGRDcHFtNGNnSW1Ta1V3Vk5jVzN1SkF1U0RhQjVUclR4WHYxTVFXcTRYbFRRWmJ4amlkOGVyQUJWMkkxWHk1S280a1Y1enIxOVFpQU8wc01QbXVXSmI3aDNVdU1SNW9nNF8zcEt6eEFTeHZaaDdDOVNSQVBydW1KZ9IBvwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx3?oc=5",
+   "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive, SharePoint and Login Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "published_at": "2026-11-20T17:16:57Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -71,12 +391,62 @@
    "cause_evidence": "...Banks race to patch vulnerabilities amid amplified tech outage risk..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1JUZHUyNDFVX1NVQjRyUDk1dVh3RGtnMkhLWUUyWUhMWlZiSlpTeDQwRlpVRmNuTlVldHhmTkhQeXNWXzJoOVZVMldNTTc5clBDQ0VhaVFoSnNVeXRfSVVhMXhGb0JENnBZWXYzblVDYnhJT2xvdWhEX3BSck1BWGVqcUtyakx0TjhwZURCS1FIRG0wcHFDbFkzT0RvU0NQaS1waHhoRHl4a2pWZkE5ejZn?oc=5",
+   "title": "NSA\u2019s top-secret communications network restored after nearly 4-day outage",
+   "outlet": "New York Post",
+   "published_at": "2026-11-20T16:02:00Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnY0I5WkVaXzQ2dGQxdFZrZlhzX0kzYVNfVXZjT0J4eGRfUS04Ty04aHZoT202UmRXQkJRc2hrbW1FSHl6eld0d1JSRTFFRUQ5XzN1Rzl1WVItRU9oLUwtanI3cGR6a3dEVWlhVWFWRXNGU0VfQy11UXVGWjBoUUU?oc=5",
+   "title": "The balance of power: What\u2019s really behind recent tech outages",
+   "outlet": "VCU News",
+   "published_at": "2026-11-20T15:49:38Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BhX0M4aE5JR0YzcWFBYzZtc24tNHFxMWRzVmxPeEprXzRTWXcwVU4tcXlqV1RYa0IwMXlOUHBhd0lXT2wxNXV4NmhKZEJpcE90U2hPSWNHX0V4Q3ZWMXVqd2U0SzVmaG5CZnlmNjZ2VExuWVgyNGctVFZRMGNJYWZQVzJaQmd0OHJtRk1Sd0E?oc=5",
+   "title": "After Microsoft 365's nearly 24-hour outage, Satya Nadella warns AI could help attackers operate at nation-state scale",
+   "outlet": "Latin Times",
+   "published_at": "2026-11-20T15:37:58Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTE03TlNLUU15RTZ2OVVIS09Zb21lcUhWejNRTnZaeF9aRk82S0JhM180ZGxpR00wMmhHbGl5NTZ1YkdsckF2YmFjTWtneUdsUU82cmI2QzVWVWpYMVdhWER4OXVhN3Z0Qkh5VV9FYUp5RjE3UGxDX3RmdEg0T2JZMl9Db1hiVV9vcXZhRFhVR2dxeVB5NXNvbmljYUd2clFlR2xyWklqUG1oSDA3RXgxenRYUGQ4a3c3VUZHcHZ6Nm04SGhkN2U1STFXNk5uUHNH?oc=5",
+   "title": "Digital Infrastructure Investment Opportunities After Recent Outages",
+   "outlet": "Forbes",
+   "published_at": "2026-11-20T15:30:10Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNGItR1pxbTFyRkk4c3RrcC1KSktRWFdDejMzbXJmTkZqX0pDanVlRE9ybEQwVFh4NGxsRTRVTy1ZbFZHNFpkZzI4c0tYcHhpek9SVXZuTTNvRlZOb0lkcm1pS3V3UlE2V2otWnJHYm1ZYm5oa2R4Tkt3MTdLakJBN1BwbGJ2T2E1LU1ra0k3bkpUV1VOMm9jUVEzZmEwc3R4VU9MOW4wWThFaGprczNHZjNuT1EwQngyVUFSVXpQNEk3eDh3S25yWll5QVJtbnQwcEhmRzNVV0tHT2hUOVg0b0dEdkFCaE5vckY3ZWhwcEFRdko0WXhOR0RVVDBtUVJlNkxISzBxUXBac1BPVzdHMHNGR0ptU2ZuWlNNZUZ3?oc=5",
    "title": "Microsoft Outage and FAA Ground Stop Are 'Just the Opening Chapter' Top Cyber Expert Says as AI Gives Hac",
    "outlet": "Benzinga",
    "published_at": "2026-11-20T15:00:10Z",
    "entity": "Microsoft",
    "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY3RaY3RmTS1RYVozdlE0aHl0YUtIY0xQeVUzQi12QVV5LXF0S1dxNGdSalJaemVhVWVkcEFyalI2dXdlVVYzRGVJdDRmN1A4RVdoRU9LUzFtU2NVYzkzTGlNdmFBUUYtQlotdERVNV9PRkRkVHJ3elpBWlU1bzJDQlFRYlBjTVFhN2FQSG9lbG0zcjNqR1pQNXJlVDhzbGhDNnk2cmJmRUJROUhpOEpFRklSd1HSAboBQVVfeXFMTWFoX3BoNHVvb1gtVXZ1MmFpeW9TM1otMXE2MGNKOVNxcFpvWmNsOHo5QktORU1sR3ZSUlA4Y09LUmxwcjAzcVUwd2R3bUQ5OUFFYUxuSzRtV2dOZDF1ZlRxbkJUM241dFJjZVR1akJIYjBCei1vQTdpdFl3SmQ0V2JBUXByWU1oaGJhLVNiLUdodWtFQjByNkZJQmZzUDFXUDRBWmtiaHZLNHUtV3J3NUp2bEhiWEZSb2Z3?oc=5",
+   "title": "Outages in US cause worry, despite official attempts to downplay concerns",
+   "outlet": "Al Jazeera",
+   "published_at": "2026-11-20T14:40:41Z",
+   "entity": "Other",
+   "category": "other",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -131,6 +501,26 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbzd0ZEpxT0dTMXE3dm9jZTFzaU9vbWtZVzVsY21lTWJPSms0UkdadHBjbzR4dHBLd0RHZkJSSFpTZmlNaXVYRS1YcF9qYWlKZkctTGI4WFVZWDd6bldkLWM5X1RCaldOQUlLcFI2dTBQRWdYd2tobjRQc0VJV0FDb3pyVWtDSmFwQ0lXM1Nzc1FCLWIxaFRfNC05eV9LTlB4REZHVExNUWlxZEtqWWU4cldR?oc=5",
+   "title": "When Fixing the System Breaks It: The Hidden Risk Behind Major Outages",
+   "outlet": "Clearance Jobs",
+   "published_at": "2026-11-20T12:30:32Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcGVFTmNJS0RRQWRNTkZlc2hYZlMtSmxuc2MxZzhudUREV2xZYWctdzZMTXh3Q0dVRGdhOUZsNURELUN4NHVDZmhyaWcwSkhYSXVWN0hKT1R2dE5qTzZSSGk0d09sc2V6Wmh0TjJ2Qk1kQTlDSEYwd1FXb1BlUEQwSUEzNzRDRnl2cGpJcA?oc=5",
+   "title": "FAA to announce root cause of outage that led ground stoppage",
+   "outlet": "FOX 10 Phoenix",
+   "published_at": "2026-11-20T12:14:34Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX1BMZUpoVVpGVElZWnRCcjFMcUhOMzhnMEVKZVFFYjFjZGxmd3JuNThfN1lkcjIzQ1J5Q25yYXJBLXdHRHhhYlVlMVRFa0VxS2F3WjJLQ3REM19JWTk5dE5uQ0dKMk9GbVlsR2RCYXJzMHEzb2tNbllCYk9qbkRybDlUcEg1dFo5WGRCLVN6RWRDaEVkNGxLMGlnTThxZUZLdGh1cDJ3?oc=5",
    "title": "USDA suffers outage after reported cybersecurity incident",
    "outlet": "Syracuse.com",
@@ -181,10 +571,80 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzlIbV9MQWRvOUpCYnIybjFsMkRfaEN0VXoxQWxUalJjLVZZM0RzOW1NUzROYzU5Tld5RG9BallyanVwYkhfUHI5QWlKOG1mZUZJTXBfSUhqS2JmSFU2TGJNVE5DeGFsdUwyT1lzdExVOUVjdE5ORV9BbHBoaURkT2dNUmRtTDNUWkRTOVZtUGdRelctRWg1S0FrRWo0UGRxaHc?oc=5",
+   "title": "Global tech outages expose Cayman\u2019s digital vulnerabilities",
+   "outlet": "Cayman Compass",
+   "published_at": "2026-11-20T05:01:34Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WTlVHZEpTaUlMT2lXNS1GZTdHaWdhVlpGWGo0d3RiVGUtMGpJUUx5VEZmdGpjZzY4Y3FKZDIxOWxQWHR2T3V5VUxxQUxHZEVfWXY0WVNLZ241cl9iX2YxWmVpNzF4dXdEVmN0MXp2VXVRbjBzZ1NZ?oc=5",
+   "title": "Tech outages are piling up, and AI is raising the stakes. Could this be the new normal?",
+   "outlet": "Scranton Times-Tribune",
+   "published_at": "2026-11-20T04:12:55Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTl3U203dmE2YWNNcDYtNURYcGo1ak9udTl1QXV0Ti1GNm5XOXFQNGhuT3hfczVKaXpLN1F2T1FsVV9sTFNtNWl3MDhaOHZMVHdQVlhfbl9Ndkw3cGs1dUZXWGc3SGdZT0UzbmIxc1dMclRtWnhuZGI1dUl3djMzam9aT25uanBLb2F6TkNyYXdra1JkYmZwcDkzRDFGbTE2VnA0WVBmTGNGNkN1Q1pVbVBFYm5lUEgzaEJnSWszWG5MbU56Umh3?oc=5",
+   "title": "Chase now blames cyberattack for Monday banking outage",
+   "outlet": "KTEN",
+   "published_at": "2026-11-20T04:04:00Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDEzVVpPQlhEUkM4bUNyN3VkYkY2am1ZNE5sWi11MGtXUjZzekNCRTYtWWxQbnh5cGo0QTFjUE9JR3hFSV90TzNMdmt6dWU3TUtxWFNPY2VFSzVmRGZtY0Y4ZXNRbjRHWi11dkFoaVgtN25vdjBsMnR1VHRMQ3M0aDZRV3FSMjMwbm5kZnl4MFRsNlNFbFUwdFFUcFJ1V052UzdyMWVrel95bTVrcUJiNnlSX05tdDk2YXRIY1M5U0ZOeHpjTE1kWHRzZmFmNlhLYjk2WDZObXFUalJ3T2lzT1YyVXBDanBfU1RCTERR?oc=5",
+   "title": "NSA Classified Network Outage Disrupts Middle East Operations as FAA Ground Stop Exposes Serious Flaws in America's Critical Infrastructure",
+   "outlet": "SFL Media",
+   "published_at": "2026-11-20T03:23:50Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2doenBoTnFxMDJxQzY1UHctTkJYbExGbE02aVlJZno5eFIzWnhFNUxDdW1kQ3dVRjFtM09jWlQ3ZTRZdF96WWlBQTlvcXdxM0x3MENMQnNQc2g0ZTR4aHJYX0doOXMxU2FVazdjVzhUQTY1aVJXSzZHUFR0b21iM1cwa1d4NFVKek43QUJVb0tlNkMwSWdwYnBkU3UtRkhsT3JReVNHZFFnWTFJUFNz?oc=5",
+   "title": "Ticketmaster outage affects South Dakota state volleyball tournament",
+   "outlet": "Dakota News Now",
+   "published_at": "2026-11-20T02:17:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81QmQzZDBuVjVwcXBtU0RTcDI5MFpPSDF6bGZqRkpoYUNzUk1jeGYwS0dkV3c5OC13RnMtZ0JLdXB0cFpiRDlmS25PYnQwVUdyOXUtdnBJZ3FISldnazJiaEQ1RUlDN2E1UDhXVw?oc=5",
    "title": "Another tech outage? Here's what to do",
    "outlet": "KOCO",
    "published_at": "2026-11-20T01:44:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEM1eWJqRDV1dG5iSzNxNmhVaXZiRW5rd1UzOTIzSTlqeUhYU1lvUm9mdHpHRFBRemZKdlZ3a2lJaE1VcmV0ZzNyWTJ3Zy1qQlIyekFMbG1OYWVHUUFjTGRjTEREZ052M2FOVlQ0QW9TbHU5c2h2dU1wS3l0MS1yMHgxN1Z1aHRFWmw3UkJfWXBuU0pGTUtneERzb0VnUks3?oc=5",
+   "title": "Microsoft CEO Nadella faces uncomfortable reality after outage",
+   "outlet": "TheStreet",
+   "published_at": "2026-11-20T00:47:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HdmZ2M1NkaEFSMmdJNGg4ZUplSnF6OE9NWkt5TFFJbFZnWU1XUXpYbmhtWWo5QXdiT1hlWlR2bDVBYnZFZWVoRDRja2xRS0J2d2w2OWpyWS1TaXpKSGNMNVJwVTZBRXJRQ2c?oc=5",
+   "title": "PlayStation Network Restores Service After GTA VI Outage",
+   "outlet": "Demokratis.co.id",
+   "published_at": "2026-11-20T00:40:48Z",
    "entity": "Other",
    "category": "other",
    "cause": "unknown",
@@ -271,6 +731,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZnlVVUtyVTdHeFlFMFpuRW03NWlPd1JJRVRrbGs4bFdhd21Ga1h1QjZwdllnbGwza0Nob0h0ZlBNZ3hOcDdwTDMtN3BidDRwYmRZT2VpSFJpSGhTNnI1M0dKQmtxRjFjUHJsSExkNzM5YW0wUEh4WFM2Z3FBUVJvQ0VtWUJ5Y2pYUDhhYzdGZXoyajhRR2VmUHgwcVFhdWhiUEp4S0VuTWQxYms2UFhldHp4bjh2c1pYclRyQVpVZHVBcnZPek1uQ1ZzYnJteHl0eWNXTGZES1BjUTA?oc=5",
+   "title": "FAA outage reflects the delicate balance of bridging the copper legacy and next-gen fiber",
+   "outlet": "Lightwave Online",
+   "published_at": "2026-11-19T20:31:45Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "network",
+   "cause_evidence": "...alance of bridging the copper legacy and next-gen fiber..."
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlhUVE9IcTFrYXhmeGxmRGJ0blJ3aXF1eENNN1J6UlY3LU4xMkpqQS1PaEtMdGRTaEZGMEQtQ0lqZUthTzhlWjA1RHhfUGRleWNKcnNuNDlZdUlrdUI3STVoZks4bk0tUGZVNjBKTjNuVHFVR1pDcnk2RmtTQm9yT1diakZvX0xwcThsODlVMzNOUVA2YURsMWtwTWdGODR2bktzTmF3c3ZSZ9IBrwFBVV95cUxQaXdiRzhCeFgwVkYwRF9NbXoxZ0JRUWJxNDY5UEFVT09TSGt3TTFwUzg1RjRuRExyaldCWVlZbGNhR3J2dVFfVlpyc05uOHpJbjZydEtsbFJsekpuR2RibEh0Wlg0V3VMcDR1RFctWFNHaUFUOFR4NXBOTDZNYURxOUhHeTdzMFlKVU0zY19HYmlKTDdUWS1aVzVaMWMtYTlEZVlMSGNJbDlqNEh4SWl3?oc=5",
    "title": "Network connection restored after outage at city buildings in Wilmington, Delaware",
    "outlet": "6abc Philadelphia",
@@ -321,6 +791,36 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNHkxMmJ3WHBFTXRERWRQbFFfVVJlOGRqclFHaVBUZFdWVjNzb0RsLVQyY2RpSEMteWMxWjZZSWo2NG55U1FTcTN6NU9wd09YWi1HWGgxb3V0RUtfX1RnT1Vxbldvbmg0aVl4bE0wSmJaaWhBd2Z4VHMtRmpjYVZfUVlZTQ?oc=5",
+   "title": "Classified NSA network is still down, leaving some staff working from home",
+   "outlet": "AOL.com",
+   "published_at": "2026-11-19T19:26:27Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVHJuamlsVnpfNHpsczNWSmFLN0JwUHBBSzdRb05XS1FGdWhmckptdDhENU5vaUdzQ3NhYkRmWUZuYVpnemU4R1NObkxLM1EyUGFhVHhKM190c0gwVlUzWkVRRW5LdEpqa3ZxNHlyQ3dFSW1LazBUY0EyaUw4eHhUTzFOejR3Mk5PNWU3dEpVN2laSHhFWENXeFFLX3lwT0xrQUZlYnh6Tl82eDVsQ1diXzlVODRMY2VteVluV1c2b2VZMTFBVkdpTkR0MFFfbEhm0gHHAUFVX3lxTE5GcGRXOWR3RU5EV0xCS2xITEtUSFhmQXNhX0pSRTdoLXNnV1doZzQyb0tOWENDcmxJRDVXbWt1MEtlNUVNSzVFMjgwOEZqMlRHTnl1elNGbk56S2gyeHR5SmZNUXBBeG9hLWFEU2JJTlFZZ0kzVVQxSlVmdlVMS21fZkxMWE5vWkR3MnlXSjJNN1dTQVY1R2JnUGhLT1NaeDQzSXpDQ182ZnhDNXNpTFRLVm43SS1DblppYU4tWGhDUmlGVVZqUG8?oc=5",
+   "title": "Classified NSA network is still down, leaving some staff working from home",
+   "outlet": "NBC4 Washington",
+   "published_at": "2026-11-19T19:26:13Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjZtRXdnNW1XcGtDSVpfTUtfVk1YMmNkbUtHQ3lnMG1YSXg4MzV6UlBTQjdaRzk3Z3hTV2JGdFVmOWNpN082SXVGbW5ZTVN5N3FEZzJhVENKbzRFelM3bTI5ZWVncjNXWDIxYlo1OTlJcWNTSmFmcEN0NkpYaFlMWldaUUJTT1FqV2xXeTR1aVBXeG0yYnAw?oc=5",
+   "title": "Microsoft reveals 80% server failure behind global outage",
+   "outlet": "TheStreet",
+   "published_at": "2026-11-19T19:17:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdXNGc3l4Mko4YmZtR280Y2R5RHlkZi1KS3l3ME9fbFJyLVh6dV9oRzFTNTdDLXdpN1l4ZFFBLUhhT2pnMDJDR2FoYTdzaHozRVIxWm1PWTZibDZDSDlJMHp1MFdRU09DbWozY0VIRGxpREgwWmZnLW5qc0FjM3ExRHFZWHN5dzltVjVYd21IREF5eHBBNUY1TGR0TEtMTzBlZVByTGxVWjFERl9oeGtSWENROA?oc=5",
    "title": "Luke Kehoe: Microsoft Outage Exposes Concentration Risks in Digital Infrastructure",
    "outlet": "Broadband Breakfast",
@@ -355,6 +855,16 @@
    "title": "The Tech Outages Are Over (For Now). Why Are People Still on Edge?",
    "outlet": "U.S. News & World Report",
    "published_at": "2026-11-19T18:56:01Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00RGgyRkY3VHlTbFdwQldZa01EVGRQOWFZdU9LU3RkV3F6cmFTSTg0U0hTOTFDSlRWZlNhZzJOcEpKakJz?oc=5",
+   "title": "White House says there\u2019s no sign of a cyberattack behind US outage wave",
+   "outlet": "Digg",
+   "published_at": "2026-11-19T18:44:43Z",
    "entity": "Other",
    "category": "other",
    "cause": "unknown",
@@ -551,6 +1061,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnNXY2FoWkI1Y1RGTUI0R0tpSnNRdmZHNXdXWXNDRnpvS014YTlHUmNoMkhWR2NTajR6SjdJNk5mc29FanVfNWdKREZRTjdhTTZVWkZuNmYxcHpiVUZNMTVoUGRJS1V3WXI0bHVCcUl4QU9aZER2bEUtVE5TZEF3ZFpnajdFM0lkX0FhWndJenFUWUpyU1dN0gG0AUFVX3lxTE5NbjlEcXdjWE9BSW9tR2t0SVZseHprVE9fY0dBX0hrUG85Um1qOHhDbXdUSlhuWERhYU5xdWFHUDZrZ3lnV3JzX0FqQVB4LXl2RE5XRUdMd3BDVE56cWtpUXlHbXFGMklEYk5pVmtmVmVGeHo1SmFadENMcUVKQlgxa2NNQjZyNFVNLUVxR2pZUEgtc3V4ajMzV2lFU0pyLWxvR2ZBX3puRHhuMHhUbGJKdXpKMw?oc=5",
+   "title": "FBI Warns Of AI Hacking Tool Amid U.S. Outages: What To Know In IL",
+   "outlet": "Patch",
+   "published_at": "2026-11-19T15:22:12Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkFVTkZ0NnlSRVBueE96SUxCWnFKVHVQOGN1dmpoOVFpOU15QlRWUDNjZFdsSkFkbGpFQmhGZ2dOdjlRT0RPbDQtRzE5RGMzMWRwVWtBaUJyaW55TGcxWS1qVjkwYUJQMnEwYnNidUhRNUpHc3hMTE1ZRHprc3MzeV9yQ2M0YVRIQURVWERsYTRIMXU1c0RuZ0JsZkdETFpYN1JOX2JWYUt0SHdPdWFzc2lJRmQ?oc=5",
    "title": "Microsoft Outage Raises Questions Over UK Control of Critical Digital Infrastructure",
    "outlet": "Tech Policy Press",
@@ -601,6 +1121,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE9qYk4tam1zQ1ZOYTNUVEc5RG9ITXMzU0xKQ0NXVGRydzZ6dmFmM3VKZS1qSTdubkJNRTJYcXNMWjhwWG5DVnByZzgyZFNYZFkyLTVWZldFMEhOLTdOUUppOG9sQklKQUx0VmlFcGN0bzRTbnBVS1FWbER1cXZUdjBYN1piSjMxZXlIZGFMQXhSQWYwTGltYTR4SQ?oc=5",
+   "title": "Microsoft\u2019s CEO Says He\u2019s \u201cExtremely Sorry\u201d for the Outlook Outage",
+   "outlet": "Yahoo Finance",
+   "published_at": "2026-11-19T12:38:55Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQU5mb3lfUm10QlcyU0hXTjA0dXVDdXlIVHRET0ZMd1ZyTWhSSENKa01wM0ctR194NE4zdmdfLVhSTkRZRXpseDlUVVhRZ01mZWY2LVZIbTBXMDJOdHhIUG9KNUMwN3VvTTRNNzBzVVFVZlRCclFlbENPNHJJWVh5Z3Rmd0NKYVJhXzg4eGtEZnRZRjc1N2dnel9Va2JtcTZFbkdCQzMtbHNvQQ?oc=5",
    "title": "Microsoft\u2019s CEO Says He\u2019s \u201cExtremely Sorry\u201d for the Outlook Outage",
    "outlet": "24/7 Wall St.",
@@ -617,6 +1147,16 @@
    "published_at": "2026-11-19T12:02:19Z",
    "entity": "Microsoft",
    "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsbU4wc2ZKSnFFMXZtRkR1MHpjVmlneVpSbUVhekVzQjdaVFQ5UUNzVjNwaE9ZZzNZR0lRd28tNWFmOEUzVDFLVHA4LTFRSGZzVUpXVXBB?oc=5",
+   "title": "Report: NSA outage disrupts key Middle East intelligence hub amid US war with Iran",
+   "outlet": "Ynetnews",
+   "published_at": "2026-11-19T11:05:38Z",
+   "entity": "Government",
+   "category": "government",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -647,6 +1187,26 @@
    "published_at": "2026-11-19T10:00:00Z",
    "entity": "Microsoft",
    "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ1lrRWdjUHlmc0hZcVJkNV94RzI0WnRTSEN4R3hPNmtQYlVVVWFnam1jbTNldHpfX1hlSVZqcWIyZnZFTFdRTlUySTVESkRTREF3QV8zT2hoNllvZVBlTDFiTmhCRzduUFZvcjZ0ck9xTW5uMXVmVFEyenAxZy1wWm4yU2FyaGp4Q1NLb0psemI5cF9sVHcwU21WSQ?oc=5",
+   "title": "Rubio says \u2018We are not under systemic attack\u2019 after banking, flight outages",
+   "outlet": "Jefferson City News Tribune",
+   "published_at": "2026-11-19T10:00:00Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcDJjMDZWR2tLVUZIUS1IVzJiMXhWOFlFdDhxRUlhWE5pMXBZTlUxSVRfT0VIb1dpcVM5MlA0V2F2YkJjcjlSTkVFU0t6SnRHMWp6QnVrMDVzaFRfMERIQmhMNm1odHl3ekg5V1gwTVh0djRtajdlUm1BdFUyMGdTd2JoZHdxa0dZaUVFR1Z3RUhHYTN3MFRKd2RxUWtVMjdpVXB1Q1dVdTl2NjU0aDFreGpHVzF6Yzk5OGFKUGxPZ0w?oc=5",
+   "title": "State, Local Governments Can Take Lessons From a Week of Tech Outages",
+   "outlet": "Governing",
+   "published_at": "2026-11-19T07:52:37Z",
+   "entity": "Government",
+   "category": "government",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -685,6 +1245,16 @@
    "title": "Microsoft Outlook Outage: Nadella Admits Insufficient Testing, Isolation Mechanisms Fell Short",
    "outlet": "BigGo Finance",
    "published_at": "2026-11-19T06:25:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEl1RnVsVFNlRllQamcySnR3S1YzY2RBTjVHYktSX0JxcmJza01oY3EtYVRJU041bHpQbktjUDFpUkxHWnJLRGpCWlp6emJ1UEVJZ0Q0eXpRMG1jQ2lBOG5tVUYyOUt3QzJKc3RNR19lb3dDOHRjQXh5ckg5dTFqVWJKcDVUSVVaQ0VwVlpNNTBhUUd5ZGlSUWw3Ry1sa1RZRGNMQXFKT3pvdF93UHpQTkdrM1M?oc=5",
+   "title": "Microsoft could have averted massive Outlook outage, Satya Nadella admits",
+   "outlet": "NewsBytes",
+   "published_at": "2026-11-19T05:29:35Z",
    "entity": "Microsoft",
    "category": "saas",
    "cause": "unknown",
@@ -881,6 +1451,36 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHJFdUE5TjJ2OHJvcXhXNktFRVJVSFVRRTZQX0dJTDloYUw3LUlXRzQwZ3N3anU2TmZEOGM2SjgzMmw0R2xtdHl4SmFXSEd1bjVqNEY4MWdhTmdQbEZleG1OVnhpSmMtS1Rpdm8tc2I1X1B0ZnpXZ0RfaU92ci1FZHhHbV9OMzN2UnotRjdYOTJ5d1BneWt1T0FUM2x6VC1Vbm5PdUpsZWRtcndDRWNsaG5nZXpVWGdVU1E?oc=5",
+   "title": "Tech outages shine spotlight on infrastructure vulnerabilities",
+   "outlet": "Federal News Network",
+   "published_at": "2026-11-18T22:54:16Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0ZZZzFhSzZKeFpWMmE0djZ6Z1VYS3JyenpiVTd4WjJTcXR1T3FZMlJtTTZNd2xPeW1ESjhWSW56S1pzRjV1OGJNNTFIOTVsdEFXNjRxZlpfb1p1WEdIX3cwRmVJYlk5ZEY4VGxSdTNsX0cxZ1RSbVROYW5IaHp0c2E2b1E5bGtkSUZqamFxYVdldEl0?oc=5",
+   "title": "DHS pressed for answers amid outage wave",
+   "outlet": "WNDU",
+   "published_at": "2026-11-18T22:50:00Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWcyWE8td2w1WjNtMXA3WGJreDlrSlctS2VDRGY3dTItbElIRXRzek9jRGFYa2gwM2hsYUF1VEwzVWtwVjFwYzFycGVQVThBeTM0bG10RFEzTWpNTWo0aXlvcWFYRThQVWRzemZoenZ2V1ZzSUt4dnNheWtGU2hWT2RseFc5dGRa?oc=5",
+   "title": "DHS pressed for answers amid outage wave",
+   "outlet": "KKCO 11 News",
+   "published_at": "2026-11-18T22:50:00Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT3RkRUJsSXZLMkRERV9peFlGTThEem1Qb1NpcWdhcnhHT25KeDljQzVoN05UNkVWRjBfREJBa1BlcGoxVVFBVVI4OEc2elpTWmlhd3lEYVR1ZExXRXpNdDRqVDRxeW9DWDVVc1E0R1BqMXN1WGc1QWVIb0d2UjMzbTl3eHh5QWVncXQwVXZQeHVCZTFCTnFBZmhfZlJRajFoYkE?oc=5",
    "title": "Microsoft outage leads to cancellation of next City Council meetings",
    "outlet": "Colorado Springs Gazette",
@@ -1051,10 +1651,30 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNekcxVG9xT0xPRXVfYXl5am1qQm15allQVDVoWkl6dDYtclBEUDVadkdTNnZRdHFVeXFPU3RnRUMwUmVCZm1zdzRtM2pqZXBVVndhRUJqbHhNNkZsQmNkalJnaG1reEhzeEo5UmI5eU1ndnRWT3pVWDdXZXdTU2Y0MXFRbC1leE9qa0E?oc=5",
+   "title": "Why Software Updates Cause More Classified Network Outages T",
+   "outlet": "\u0418\u0424\u0417 \u0420\u0410\u041d",
+   "published_at": "2026-11-18T19:52:07Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1FFcGpwa0VKeExCckF4UThoVkRkcm1UMXoySkllV3gtZ082VlphWXNyOWljM0ZONHRrYXM0REkyUndUM285RHF1M0l6bTNxYkhDX0tsMk5hU2dNZl93ZFA1WU50NHVMMENMTkpoeU5iSUk5LTlMbGhpbzJHN1Z0MVk0OU1hczNzYzdkcTNwVG5QTHBIMW0xd0pLU3lZQ2NU?oc=5",
    "title": "EMU campus-wide WiFi outage disrupts morning happenings",
    "outlet": "The Eastern Echo",
    "published_at": "2026-11-18T19:46:24Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSTVoeTJoU0lTbGZHN0xaNVV0UTZpR1gtYzJNSHRjYmVDdXR0bG9oZENLVDQyLV9HallpMUJyRzdJcTB0U1hVOXhheHFFQXlzTGZfUmFiMllfMkNMVlRab0VySlRuSUREUnhhUTJXTXJIMnc3cFAySGpOVFNjeC1wR1lrcG9qVXhhWmNrV3FGMGtrSVJtNlRobDBWbjdWdENJZVEwb0EtSkFLQQ?oc=5",
+   "title": "Trump officials say cyberattacks connected to outages unlikely",
+   "outlet": "Yahoo",
+   "published_at": "2026-11-18T19:45:00Z",
    "entity": "Other",
    "category": "other",
    "cause": "unknown",
@@ -1211,6 +1831,16 @@
    "cause_evidence": "...Surge in software patches likely behind recent tech outages; bank regulat..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3RHQklVM2pOaEFxRmhnbnFROWRoZnlZZVlpVHBWUXE0eEIxNUpKb0F2MDF0Z1ZzT0toZkJpWlpHRkxoT1RkUHZpWnNfcFdFWDFJVmxBQy1kbHZmVHdUZ0pVQnk2OUk3NHB2aWFGdTF1aVVLel9WMUJkZkg5dElLN3A3RTdzUlo0TFJfd3liNA?oc=5",
+   "title": "Banks and the NSA reportedly blame US outages on patches for AI-found flaws",
+   "outlet": "The Next Web",
+   "published_at": "2026-11-18T17:09:03Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzN4eW9rc2o0RHdtXzdfVXhENy1HM3lVSlJzZWtDVHItNjgwa2I1Vkdtd2x6T2Fpc05meVlDYWstLWFlMk9zNEI1cV9CX0tlSVRkVHFEZDFXWUF4S0p4aW1WWjR0cWQtZC1FdW51cHN5SEVvUHdya0w2YnVwdWlkTVRnRDJGQld4Z2FuaWVZalphMk1EZDhXNWtrX3JWXzFjZ250UG9R?oc=5",
    "title": "Why so many critical tech outages are happening all at once",
    "outlet": "Scientific American",
@@ -1241,10 +1871,40 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5",
+   "title": "NSA network, Apple services go down in latest outage",
+   "outlet": "Heartlander News",
+   "published_at": "2026-11-18T16:15:01Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE94ajVvZndhOGw2TkUtMTFYQVNuRmctQXhGUDRXbDhXYVF2eUJiMGdEMldUQlQ0RDFEM3FmcVZwN1NYTzk5M01Md1JYUE5fTWxLZUhYRUw0b2t1MzBIZHFDVTRXWjdJUVBUMlNzaUxFdDJ6N3hweml30gF3QVVfeXFMT3hqNW9md2E4bDZORS0xMVhBU25GZy1BeEZQNFdsOFdhUXZ5QmIwZ0QyV1RCVDREMUQzcWZxVnA3U1hPOTkzTUx3UlhQTl9NbEtlSFhFTDRva3UzMEhkcUNVNFdaN0lRUFQyU3NpTEV0Mno3eHB6aXc?oc=5",
    "title": "Outage after outage: How to protect yourself when technology fails",
    "outlet": "CW39 Houston",
    "published_at": "2026-11-18T16:09:14Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUdIeHlYbjZwRXM4NjFDckxSdHhCcEZRTXp5b2dEVU5JT2EzbUNnWVg0WDNzX2lSS1pfYk5CZGVFMGt3eHNHNWR3Zm5CMm5UazZrT2I0Y3ZobkJZQjdmRUJjcEdCaElDanNjU3JjWHZXYUxaYXhHTm9oajF0aENiOFNn?oc=5",
+   "title": "JD Vance Cancels New York DealBook Appearance as Major Outages Disrupt US",
+   "outlet": "Newsweek",
+   "published_at": "2026-11-18T16:05:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR3huejRkQ09vOHBTQkh5SGlTNHN3cmloQVpJa1ZsalUxSlY4aEJ0eHZPZkREWk9iNUl2SndxQTVXZkkxd2VzdXF0bzR5Z25UUVRkWGxfREptSjBRRjVoak1WMXh4WE9GeUUyb3ZLQ1d6UHJrR3BCQ29KUHc2MC1RWTZ5WXF6TWl0ZmdhNDlrNnpZQXNLekRqME9ETE1tLUhRY2FoTUpTQTFEX0hmVTJV?oc=5",
+   "title": "EMU IT reports services restored following campus-wide WiFi outage",
+   "outlet": "The Eastern Echo",
+   "published_at": "2026-11-18T15:59:15Z",
    "entity": "Other",
    "category": "other",
    "cause": "unknown",
@@ -1257,6 +1917,26 @@
    "published_at": "2026-11-18T15:54:00Z",
    "entity": "Other",
    "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ09IcUxOLVBiSFFwc2N4aVE2SGQ3Q19kazdkdFRpWkV1OEZBYVJaNnhObUdqSkhVamRuZkpWSllheXVWcWpNSXF2TUhMNnFGaWZ2b3FMUnBxcEhQR3RON1h1TVJzNnJJRVhwaWRRWTVkUWlsTm9zNXZ1djMtTzlJVGo3WGFBQ1VBVmhYZUxYaDFIRVY4RFFXTDdZOUc2blVvdExpSHBGN3U5dVlDQzlqWVlFY21KdGRzbmZycA?oc=5",
+   "title": "Trump says rampant outages are 'fine.' Who is he kidding? | Opinion",
+   "outlet": "USA Today",
+   "published_at": "2026-11-18T15:52:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOFBiUUxxQkhFd3hSaXREMG1jV3AtWV9DRlVGTmdiQTAxQTA5azFPSUlWc1Fld01UY0ZXRFkxNGtEQThBeThDQ2h3MnJjS0tqWXN1OHdGakctT3VXS0xxTHNnLWFYMEhKVlFVeUk5djRDeUliXzdKRExFdlMtQWNaVG1HWmluTmN6YU1fQTF5MjMxSlk5SWgxaTFuWTJKdzAyektxeGJsRWFnQzI1bUppbjBiOFFPb2NlUWJxNg?oc=5",
+   "title": "Watch Cybersecurity expert warns FAA outage could be a dormant cyberattack - America's Newsroom",
+   "outlet": "FOX One",
+   "published_at": "2026-11-18T15:44:22Z",
+   "entity": "Airlines",
+   "category": "transport",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -1281,6 +1961,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzUta3ZrWWZrbGpSbl9mZmJEeExyZV9QTnlmZFVoUTBUYlN0NlFjNGl4ME5MSk5pM25qU0k5dUVOMUhOQXZiRUhZcThrWEpoUU95S2FTMnJ1ckFqU19fcjIyUFBMU2Z1QlJyUDFOVjFkLXVPbFdRQlBMMlBJNFBYdmdBNFc5M2F5WjJTbjZTTjJJT0VvOUdubjFfaU1IRUF6?oc=5",
+   "title": "Week Of Outages Exposes How Unready The Country Is For A Catastrophic Cyberattack",
+   "outlet": "StudyFinds",
+   "published_at": "2026-11-18T15:05:27Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxORG5pT3pQMVBsRVlXSzhPSTVpN0FVa0V3MUdnd3Z0QnNGdHNXYjhUMXR6dHJ5M2tZam1fY0paTUdtTFZ3MmZLUmt3bTRjMEotVUpzSjg4Zldqb2s2dVM4ekN3X1JkZ25LZHM1U2F1Q1BsaUZ0OTBUbEtFTE5YeU5QTGt0ZmRocTZ3SFV1Qi1tM211cmJsOFEwNlQ2YjlSMFVlVHJIOVRYc3RXODlXVVRLTHJZNWJQZGQwOE8wUTVnallwcHhpbkhVcVRKMm1YQUt3MmRDeU1CSXdEV1dtaC0wTHBnanBRTmt1ZER4LU5YSV8zTU1zcDBBdUpPYjhJOThNRnItZURzZk50Uk9rOHZUMGZnV29OU0FFRVhJ?oc=5",
    "title": "Pa. consumer advocate files complaint aimed at forcing data centers to cover grid upgrades, prevent outages",
    "outlet": "WFMZ.com",
@@ -1289,6 +1979,16 @@
    "category": "other",
    "cause": "hardware-datacenter",
    "cause_evidence": "...onsumer advocate files complaint aimed at forcing data centers to cover grid upgrades, prevent outages..."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTjNZZXVHNkFET2k1OUN6Q19iTFFzdkJrdVVPSlU0WG1PLWZxSllGWUpIRHNvTnVZTnlZcEZYUVloN28xRmdXMUg0Q3ByVlV4TVpOQWt6ckVud3R5Z2xDR0ZCNVJPc0VwRElGcVFwcjcwYXpfNm05TmRaczJlUzYya0xWeUJGa0x6Ulc2VkRWU2VYajFRcjJvY2hfMXhqd0NvUFFMcDc1S20xZllaODNSb0huMi1hTUludDNMdk14OTQ0YlBJMzVQMDUzVkvSAdIBQVVfeXFMTjNQR29NRWFiRUNrRkthaHN3OUtEeWpiUTZldWVtMUdWUmNtZjZOMUl0aGtkSVBXSlhMcFpBU01EZkd3aFp2dzBiNFpTbDhIeUdseU8xRUpjTDgxcmlmN0ROWmFBaVJfWlJ1SHp4YXBBTVMycDdSSFlZQno2YzFtNGhrbE5TMW1MWnlDNnd5VThfTkk3SXJ0bkxOdFJvQmdGSENoZGJXNjd5WDJvVVJxeHBqRnJiVkN1TVV2V1Q0SEY1MzVmY09Xb2ZWYXNxdnZERTNB?oc=5",
+   "title": "WATCH: Mullin defends Trump administration's messaging on spate of outages, flight to football game during ground stop",
+   "outlet": "PBS",
+   "published_at": "2026-11-18T14:56:22Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
   },
   {
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdDZXNGE0bGNjRkdmbUNCbkktZHNja0hKRVZyZXVscUEwNWUySEZPRVVrOTdUbHdYRWQyNFIwamFOa0V0Z3NfcDBHdDNCMWs2MmJWU0JnLVZlMlA2c2RUSzg1ZnNBM0xqaXRFckZTUEZuNjJUZVM5OXJpYWZBd0s4cGJERzR2NDlSNHp0OHVpb3BQZVE3eXlpRHNfZUl0U0tseFIzd3Nmd1dXT0dxeVRRZnJaVDhOcXF1U2gzWmotZGIzcThDNnc?oc=5",
@@ -1331,6 +2031,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GNl9kUk9ueTJrNmJ4cy1vVHhrUnhPNTAzenJVUmpOeTA4M042bG4ydmFLcDFFcEhKd05sU3JNbi1QUTlmcEV2ZDFQX3JiUTduRXFLTG5zN3RQOElUb044LWZwZUl1UdIBa0FVX3lxTE5ld3ZSUGxmcTh4dGtYRlpDMXRZbmZxemdlZS1Pd25xY2FHZlc1U3hOZkRuM05xcVNfRUJzZ21hT05abkZTSXdlODZ1c2JIbUI4ZkVqODZZUzY3Y2tQMUZrX296ZDRhblpWZlBj?oc=5",
+   "title": "Trump administration addresses widespread tech outages",
+   "outlet": "FOX 10 Phoenix",
+   "published_at": "2026-11-18T14:00:36Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFJKekUyRTBfNVQ1eVhseFZKTC1YR0tCQVRsMzN6ZnZkRWh5bUV4bGNDUmwxWlpEcVRBU1dkLXFTU0NtcXFmSm54c2YxTzZZZFNxWnNacFpRWTBQWGhvNF9kR1UtdWNqXy1XWXExTHlYNGo2YUF5Z0h1U2p6eFVodDlSLTlPS0hBSjNR?oc=5",
    "title": "Cloudflare CEO on what's behind recent tech outages",
    "outlet": "Yahoo",
@@ -1347,6 +2057,16 @@
    "published_at": "2026-11-18T13:54:42Z",
    "entity": "Banks",
    "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjR4blJjcW4yaDE1Y2RFMks4Y1BOX1Q1U3BBdnI2WGRPb0FVaE9IcjlmYzcxVHZlbUJldzQwVjVlU1NJN2l2Mkt2UXVuTllpUHZNblBEeGFfRHVwc3NlZUptc24tV3R2U2w5amFIWldGeW5ZV2ExQkE1bFJadG1ZODN2SU9INkhi?oc=5",
+   "title": "Apple outage disrupts App Store, Apple Music and iCloud after internal update",
+   "outlet": "Beinsure",
+   "published_at": "2026-11-18T13:44:18Z",
+   "entity": "Apple",
+   "category": "consumer-app",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -1381,6 +2101,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQW9NRmRpM05Yd0NZb1Z1UVMzRlNzNWpMMklpVGUyUkxha0IyVjJJclp5d3YwSTVvbGhCX0tTM1BoNUZuYXNTVHhmbGE1MVNEVU8yajltcktlUENjV0g4QzQza01JM0kyTmhrUjZPcFJDU1FDdGI3bGhwLVNfU0l3S0RyLWQ2VGhiN2FuU24zN2Y5Rlp0UUNhY0RzTkxVVks0VkJWSXkzNmtMV2RJME9rbzk3VQ?oc=5",
+   "title": "Will there be more tech outages? Officials say more patching is coming, starting with a Java flaw",
+   "outlet": "Nacionale",
+   "published_at": "2026-11-18T12:50:20Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSmktVlNzQ1NvVFNrYjR3eDVwUDZmWWtmSnluQU9iMmtySmJDcTJ3cGo4azR0Mk9qbG9vOFNsVnV1ak1jdm1PZGVxTFRUcVNSYThWak9zZkpiOG5GdzVpcVd6dVNhTFkzLXNEcTY1dDhBVkpMel9wTDFqOWZQVzEzc0hKN1d2akZEcUxBcTU5NV9lSzdGR3lBRGN4anpla095ZGtCbjdCT2hQSWNxY2JIaXdPZVZYWWV0S2poajltM3nSAcgBQVVfeXFMT2pqN3pwcGFuX0tsUktGdk9nTWd1M3p4dWxWcTktamNMQ3NYOG1HQ21oRGphNW1BYTM2andWMUZyeklqbjRsVzQ0QzV1T241UTNWR3RFeDQxbXJXRDdMLS1uZXVkaG9kbE9jM0w3QjZGbHF6VEJ5ZFAxVTNHMjNjNDlXMVcwYk5PWEpPYTBUWmR0SVdVaV9VZUswa0t0WUJPdzRveVFiNHBsTWVzQlJ2RVNoMHFNZ0RpdzFxVUdFWUF4cDJpRWpSNEY?oc=5",
    "title": "What's behind the recent wave of outages? A cybersecurity expert explains",
    "outlet": "NBC10 Philadelphia",
@@ -1397,6 +2127,26 @@
    "published_at": "2026-11-18T12:40:42Z",
    "entity": "Banks",
    "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMDNnSkNSQjY0OHFaLVNpZGlPY3NiSURLZW1YYUtkNllXa0FLTEY3Y29CdEFvMTZCcHVOQzFJY0tNdmpKaU5sM3Rnc0ZwLVQ2dVdmZnRYNjJXRHdiNHFTZ2ZVeEpsN3VId1JoS0M3ejZtcnRzUUNVM2VqUzBFUklHMGdjbV9MRzZfNEVqclVFSDBKVXRoQy1uQng3Y0JKRzhjN2xTQVZvOTExcmpOMWxxbWlCSjlqei1rTGJnMUNMdEpWSnRiTU5rTHdsMTBNODBfR2JWNDBOdnc?oc=5",
+   "title": "Widespread Service Disruptions in the U.S.: What Happened to Banks, Airlines, and the Internet",
+   "outlet": "UA.NEWS",
+   "published_at": "2026-11-18T12:40:02Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMGtZMEZyUmsxSmFaMjRpMHlPNUk4OWRhcTJ1NUh1UEJaNURXTmkwWW11c3JLWXFaU1FvaUdGVWZPUV9LZFJwZWpUdHBwY3FET2pwdTY2cDc2Um03dVpTc1ZOa1RCQVNIbVBrVVVfNERpeXV1cjRGbFk5OE9KR3lEcXVFb0syLUNJWi1QaW13?oc=5",
+   "title": "United Airlines Resolves System Outage Affecting Departures",
+   "outlet": "Travel Radar",
+   "published_at": "2026-11-18T12:09:55Z",
+   "entity": "Airlines",
+   "category": "transport",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -1461,10 +2211,30 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ0s3N3dfZlR0MVhZcnE2VElUTVFBdnlNNmdSNWhhNUptTGxTbmNoaWFoYnhjcjJmSWxvT2V2TDIzaEhqUmtkM2JFVElGa001bjlCb1ZSS2RNczVjZ0lzUFM0Y0Vtc1p6Y3cxR3owS0dJVjN4NDRjeDhsRTdEYTBRNmlIcFc?oc=5",
+   "title": "Apple Outage: Internal Update Blamed, Green by 5:46 p.m.",
+   "outlet": "shattered.io",
+   "published_at": "2026-11-18T11:11:04Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ1lxb1pFUmlyMENBMTllRm1iQlpsWkVNU0l0ZG1VX2lUYmtlMXBjTm5BLUkwQTdYbVc4YVdMSWlRd0ZSZTdlZndIZ3FNV0V2c3c3WFY1aUZYcHlMTzhEWWF3NVB2SFJQTHBfbnA5MXMtQk5KSFVTYjFNbUltTHVSTTVwZHR1OV84RGQxU3lwZDR6TDFOT3Bj0gGcAUFVX3lxTE1nVFNETnpaZUlEcGVTX3JiUnB6Z3dlSW9kZGNUUlJqM1RKZlhGUWxsY0dfN095RnV5bzREU05Dd2NhcURlc05pYTNiNHVrSUxQUU52TTI4dWdlbkV4bHA2Q3ItS3RULUxqQkxLUWE4ZzJjR3Y2QURDcjhMM3JzanNpX1o5R2kwY1RBU1NmLUxzeFBqUGVUNDAzWUszdg?oc=5",
    "title": "The outages America has suffered weren't an attack, but the next failure could be",
    "outlet": "Fox News",
    "published_at": "2026-11-18T10:50:32Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OcXNpSHc0dUNVQWtXbVdNMVp6T0huNVFNc0ZvUXB0TXJld0lQMjZFZVE0WVk3S3k2UHFwNHgyUVlMLWtXYXJGUmE2N1p0U2JWMHRDT0lvRTlFRmpWa0RvbGZlVjl4WnVvLUJrZGJKNXBuUHRxYVI3MFRMZjI?oc=5",
+   "title": "POLL: Which outage impacted you the most?",
+   "outlet": "KEYE",
+   "published_at": "2026-11-18T10:46:40Z",
    "entity": "Other",
    "category": "other",
    "cause": "unknown",
@@ -1487,6 +2257,26 @@
    "published_at": "2026-11-18T10:33:02Z",
    "entity": "Other",
    "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZmVWWS1nVjhrb0NidHhNUHl3U2s5ZW5vbzd5b09idm1QaFBQQTR1eE01Zm44eUJnSkU1QUVuWjN1VGhfUWtaQnhxR2lyanBvSHlUa0NmZUl1S2FPLXRzMnByT0laU2VWSnhzd1NKU0N3UU5rNHRUajdyU3lqMUdWSERqa3o?oc=5",
+   "title": "Apple Outage Exposes Growing U.S. Tech Disruption Risks",
+   "outlet": "SQ Magazine",
+   "published_at": "2026-11-18T10:29:32Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYW5kLTVpaHI0dEt6ZGk3aFV6Wi1fbWNoSWdTZ0xtdVo0WndrSENuYlpMQXYyUWt5X3NvMjVJSjRnNkhWRmpxTU9nYmxKcm1nZXNXRDlFUnMxOEpMcDJ5dnNRR1l0bGlVSnlLMWtsU3VkVU4taWtvOXVNTTRfM1Fib3FNSlQxYmNiVXhobGVrbWxheTdEd3VkLVlNUXd4a2hubWxEOU9zMlN1Y1RJcEdMamFMTGs0Yk1tOWN2ZlE0QlVMaXpaS3dscV9XNF9mYkFmMUh3NThNQ28xWmNiT2xkNTh4bXdwWWZmeUE2WVFub3UxQ3JNNUJYUVlzUFIzeG01S1Yta08zbk1tcTdOVnhheXhR0gGSAkFVX3lxTE9hbmQtNWlocjR0S3pkaTdoVXpaLV9tY2hJZ1NnTG11WjRad2tIQ25iWkxBdjJRa3lfc28yNUlKNGc2SFZGanFNT2dibEpybWdlc1dEOUVSczE4SkxwMnl2c1FHWXRsaVVKeUsxa2xTdWRVTi1pa285dU1NNF8zUWJvcU1KVDFiY2JVeGhsZWttbGF5N0R3dWQtWU1Rd3hraG5tbEQ5T3MyU3VjVElwR0xqYUxMazRiTW05Y3ZmUTRCVUxpelpLd2xxX1c0X2ZiQWYxSHc1OE1DbzFaY2JPbGQ1OHhtd3BZZmZ5QTZZUW5vdTFDck01QlhRWXNQUjN4bTVLVi1rTzNuTW1xN05WeGF5eFE?oc=5",
+   "title": "NSA Network Down Today: US Intelligence Agency Confirms Classified NSANet Disruption, Thousands of Employees Affected | Check Latest Update",
+   "outlet": "The Sunday Guardian",
+   "published_at": "2026-11-18T10:04:46Z",
+   "entity": "Government",
+   "category": "government",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -1531,12 +2321,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY09pejA4V2tNRlhEUDA5OGdTWFBKV0ozdnlmUnpKUVU4OHhzcF81el9jck9jYjlrUGtvMmNXLU5iX3RUeDhvMUxRMGV1dUpaZWtMMG5YRmpXd0Nfcjd4bHNyT1BTazg4QklHVUtnSmNYbTVqbEw4cTdpdkE3U1JpUk1OcTNwMlFxLVBucFV6OVFPYWhaemVRRmhsaEVfcFdlS3R6clZ2am1qS2ppYk9QNUlyRklsSHV3cWxTZVFHZw?oc=5",
+   "title": "Tech outage wave reaches US government, but Trump says all is \u2018fine\u2019",
+   "outlet": "Business Day",
+   "published_at": "2026-11-18T08:52:32Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONVBiZDlXcVMxenYtVEEzeTNkWFF3Sk1DSUJyRUtLYXM0Z2ZmM3FfNXZUS01MWldoNjRxMEJPaDE1NU4waGdtenF1ZXRraGVVUHczbkk0c1NjRS0ydGJfN1YzN3hHOUV6WXpsUUd3Nm52S014QjFYRzRqeE9ZekxmeUlfd2dPakM0Q3FrVUVDVV96SU1sLWFMMnI5Ukt5X3V5Uks1aFJ3c0Y2Mnc1Z1dSQWgzVVFsaHdINmg1Wl9adTNQWjdncUcwWmJqVXd5NmJ2WDJ4ck5oYWpYamvSAeABQVVfeXFMUHo3NGw0SnVjZWJ5dHpmZFJSU0xIQVlTWHQ4YkNuQ2JVVHlZWVBnUFVlbU1rQ1N0YkJiMWtaSDdzaTdXMTZ2ejdQQVF4RnN0SjVCWFlFekNrUm5qb05NUDl3QXpKSzNEVUY1SE9DSUFaRDBUaDYxaG1vSnlvT0d6YnctenNBckhOd2c1WFNkMkUyckdfYmNVZTcxa3dKOVVHdWU3RXozemtvcDlPdmJwbTRfOFNYTEN1eGRzcHBNc3VQdllpS3lGS0hzd2psT2pnY0dnV0ZrcmJPM2ZpWFluSDg?oc=5",
    "title": "Apple Services Down: iCloud, App Store, Apple Music Face outage; Check what happened",
    "outlet": "India TV News",
    "published_at": "2026-11-18T08:40:23Z",
    "entity": "Apple",
    "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrUWJVei1IZ0IzWjF0cy13bXlWbV9KR1UtZlJXOXRXekVRdzNCRlB4ZnJsVjROeGNOamllTkpoLVZHSjZYU2dhOUV0OXVfeWNPYmc?oc=5",
+   "title": "US outages not linked to cyberattacks, Rubio says",
+   "outlet": "Cybernews",
+   "published_at": "2026-11-18T07:27:32Z",
+   "entity": "Other",
+   "category": "other",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -1591,6 +2401,26 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdGV2Y0V6cUV5LUFnTG55V184SVliY1FEYXJ0RGRyY3NSZ2dHUU5fY3ZFUUtZcjM4TGNuU0xYeFRKSlNXRVh3Y2NmVjRnUnI5U19OaHFaZlhhQVZjVFEycUdWZXdQM1J3QTM5dWV2dWFzd1Y0Q2dQN0YzVkZ0V1dkcTA1aWpxS3lkeWtpM0RTVWtTMGN2dmlqRlZnSXBDSEVnUmlhTGo4RVY3M2tKaGdPLTVzTXJvQ1Nfbnd6S1VNWE9aN1E?oc=5",
+   "title": "Cloud Outages Are the New Normal: Here's How to Build Resilient Architectures",
+   "outlet": "Nasscom",
+   "published_at": "2026-11-18T06:01:09Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LMmQxM3NZZ2o2TTN2RWFYR2hvUWZwNV9sOTYtYzM1NXZFTFJiVTJGVXZRcHpESzVGTDBORUJBQzFVb09UT1JUcGtvRzZ2bi1vQW9kQUtpbi0yWFRSd2RWc2djRmZCTzRuekNJbndsMWhKQmpsclE?oc=5",
+   "title": "Rubio Says 'Zero Evidence' Links FAA, Microsoft and JPMorgan Outages to Cyberattack",
+   "outlet": "BigGo Finance",
+   "published_at": "2026-11-18T05:35:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOVZJUWRfMWRQZktSajFvMk9xaEVBbE80OS1UYzdFenRlRlc0dXB1UWtYbTE5YjBBTFdfQ2s3aXNLLWJkY2FYQ3hEUjY1MXB6ZHJPMW1LOFNSdEhBOVdzWmhYMkliZ2tmcmNKSXhUaElxaXNsLWtURWNrd0w0LWZtYzJ6YXhfWWhSTmxfWGt3UEpzNkhDVlNiT1otTThCa1BqNEQ5bDF6RFBnT1Y2LWhLdzRiZWgteXF4aDZCUUtwVFZWaEVmbWtQRUZoNA?oc=5",
    "title": "Cyberattacks, tech outages in 2026: Microsoft, AWS, Google; full list here",
    "outlet": "Business Standard",
@@ -1625,6 +2455,16 @@
    "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
    "outlet": "The Sunday Guardian",
    "published_at": "2026-11-18T05:12:24Z",
+   "entity": "AWS",
+   "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTmhqUEphTlphdnBZWXVaQ0xOZlhvVHp1UkZOLTE4LVdnSUpYMGxqcTRfRlQxdldWNUg2eFFfZnc2TDNMVFgxZUU3VEprSk1iOEdyQ25CczBNTnpmbmpwRXJscUV4QmtXd213SjlLOGxDRFdvdzFqTkNCUW5HN3pMSVZGLVlHNFdaX2RjbDZDOVluVFJoV09pYjE1X0dyT3ctSUptZG5hWEVFNVpxY19wNzNjUlo1NlBkOEgxOXpXMVN1MXd2Z1VYLW0tbS1aQm9Ia0Q5Q2VmRU1pdFBhcFkxWVhpaHlaMnpUSWdtMnFVdks1LU1Ia1AtZm8wb283cTRfSEZ3QVR2SXJtRjZhWGRHdS11TUNGUl9JSzFJdzJDVXVidHZhQ20zcEdYM1ZIbXhZUDhDNGVpS1ZoczhVZ2NlS3dKdnI3RUHSAcwCQVVfeXFMTXE4T0dWVVJuamxzUUlESUJKVE1WaWxkZWM0dWVoTWYzX3ktTXZSeXdQaFNsdm1qY0p3Nzk2NnZBdzNFcHo0UUJCVHpyRnd3MzNTM1o4N3BVU0kydzhZUDZORVpvNHNTay0wd1JaSnhGdWZHNlU0WmwzSW9paHlRNmNoZ2t3QnBmUUdIZUhaSWFxS3BDRVhXaUJmTmRNSVZOb3RjX2FkSEQ1RDFFY2VlLTFLOGdNdHk5bzZlbGNDejBhR09NdXJKRV90MXJCbnVNcmxuclpkS3FZdnVQUUtFWU43OTQtbXk3QUpuYWRhV2ktYmhFYnI2dHZkS0R3elBlcXdLWUlNWnJBazNqaVBWaXM0ZVhlRFU0N19tQXQ5aWRoSUxuNVU2QTg1NGxBcHAtbmoyV3B1WjdTbFFYYVd1SmkzeWZ1TF9UMThVb2U?oc=5",
+   "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "published_at": "2026-11-18T05:12:18Z",
    "entity": "AWS",
    "category": "cloud",
    "cause": "unknown",
@@ -1711,6 +2551,16 @@
    "cause_evidence": "...Apple services down: Outage caused by internal software update, company rules out cyberattack..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObk5wQmpUU0k5d3hxeHl2WnlMMUd1R3lpTHd4MlRabVFPWWd5Rm5idlZ0TkR1cUxzZjFqN0U0QVN5em1aeFFXak43TV81cUtQOG55SzlSczNjU0Z1cnQySGV4QkRxUENHX2ZreElMa0dBRWxMZEpTSVJWeU95SXk0NnUzM0FxME44dW5ub0ZoWDkyS2hYeTljVg?oc=5",
+   "title": "H-E-B Reports Isolated Store System Outages",
+   "outlet": "Wisevoter",
+   "published_at": "2026-11-18T03:52:17Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ3EzV0R0WnZEYVB3S1hWWjBEVXhNalFfdzJTT3ZLSFNWdE9jRDhuSzBaTmt5ZW9vNXFlVXB5WHAweUMyajZQcktBUXRfUzR6WWJBVXVrZVNNbGRpYmZPc21IZGRXV1d3OGUzclR1UjFxdWpfLTdxMnpyQU02NG9YdEF0bmdXZ0xRa2Q5a1Iza0tsdEVGZzFWdUVpOEFwSWFndE1icEt5WG1pMHlMdHZPejN3X29abXNlcEZyemk4OA?oc=5",
    "title": "Internet outages hit Apple, Google and government systems, but experts say incidents aren't connected",
    "outlet": "wtsp.com",
@@ -1725,6 +2575,26 @@
    "title": "Classified communications network at the National Security Agency goes down, defense official says",
    "outlet": "Federal News Network",
    "published_at": "2026-11-18T03:42:18Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZW9NVWNaRFVVc1JvT1E4b3FTeEVxMlBiVUJYMG5vN1laNlJXX05tenRGaTA5Uk1Qbm9LUkZoLWRaUm02ZUI1V29uci1Ibno5ZTl1bzJBeTNRclBsTVBhQ3REZ0RyRTlaTTBfT3IxWkwxdzBNTFpEU0trQktqY0tRTVQ0bWh3V3hPNV9ESjZjeFBETkY0TDZjVkFHamFLNk1WSGfSAaIBQVVfeXFMTnBhRkpOQUM5MVZvQmJvSnU4Qm9CRkdxV2NnakZ6S1pkNUlGbW94elowdzNoY3FjMW5qdUhrQ0RHN3JFeGVuUHMwY2xUMUR6SndESjdnZ1J0Q05OMWM3UENnM1llV2RfdEk1SFRfNnZFREtmY2lXSHhSdlJORUZPQ19JaTFMQ0RJcWlna0lXdXdfQzZHUHZfRUhuOU1fb2c3V1BB?oc=5",
+   "title": "When one gear slips: A week of U.S. outages exposes digital fragility",
+   "outlet": "Qazinform",
+   "published_at": "2026-11-18T03:05:42Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEEyNzloQTNiMU5LMzYwR1dnMTR2SWFEMjdiUG9NZVFwYXplQ1Z6LV93NkZ5Q0o5N0JNaXZ0bUxieHBHeGNiN2llektlMXZmUVVVNHFtZjA1VmpZLUYwMEIxLUVoYmhBQkVGNGZlaXNnb1lROTR4aWRjRGRzbFJFcUwybnJHVWdsUExWNUt3d3BKUFJPRXVQa1NhTFRyQ0FXcmVRbU1ibGNLczJzcUpCbzV2RQ?oc=5",
+   "title": "Tech outage wave reaches US government, Trump says all is \u2018fine\u2019",
+   "outlet": "Daily Maverick",
+   "published_at": "2026-11-18T03:00:41Z",
    "entity": "Government",
    "category": "government",
    "cause": "unknown",
@@ -1801,6 +2671,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeEd4RUlFVmpaZXZnY3dlbk51dG00amVONmdvck5sbUJTMUpjYzQ4VEJKWFRyOE9uLWlaZXhwb3RPM1NlaU15X3duenFFTGl5TFdEWkxmaTFZa0tqRXFmMVpMX1J1Q3YyNmRtTzZ2T0pJdjJncVFZR2Q5M2dSeDd0UlNqemhNZUh4dlo2TFZLWmtSZkJlOE1Tc3pVdThBYmVRVDN2T0JtZlRPU0hwUHRKcjlOTzRoQ2FpUG40ODZNWDJWZzTSAcMBQVVfeXFMTXhHeEVJRVZqWmV2Z2N3ZW5OdXRtNGplTjZnb3JObG1CUzFKY2M0OFRCSlhUcjhPbi1pWmV4cG90TzNTZWlNeV93bnpxRUxpeUxXRFpMZmkxWWtLakVxZjFaTF9SdUN2MjZkbU82dk9KSXYyZ3FRWUdkOTNnUng3dFJTanpoTWVIeHZaNkxWS1prUmZCZThNU3N6VXU4QWJlUVQzdk9CbWZUT1NIcFB0SnI5Tk80aENhaVBuNDg2TVgyVmc0?oc=5",
+   "title": "Rubio says \u2018zero\u2019 information that recent outages in US are linked or related to each other",
+   "outlet": "WDBJ7",
+   "published_at": "2026-11-18T01:29:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX09UZHFubGhkT2hxaHRwSk9IenFCbS1PUUp6Z0dWWkdFMVdmY1QzR3ZNajQwT1QyNW00UVZoNWhGNG1ZangxcVVSeEJBZWVFTFo5SWZQWXRrTHhQcDhXZWI5Vml0TmNHekc2eTN0THhmSE1Xb1NPSmM4ODh3TktSeXhJdlJlUWZJMk82clVaUEQzbVlIN3BnaGMzMFhmUjVhVTdGTnZtSlJjdHp2Si1jX3pvdG90WHlfNlgtSXR4LUtqSndPR2NtUWdvOGk1Z3ktQVHSAdcBQVVfeXFMT1VRWUFlNFBFc3Z3dzVtUENodUdqRjFDNDEwZU5JaEJtMXBWeTYtTjkyTEprTjNnajhjZVRXXzhoTmduNU8yQmw5WS15SUxVSGhvUlhHUjlZdXRpVDAxNEVNS1ZkR3VaaE4xZUtSalJ6Zm9KSVdTX2xhQUJQNTlrQjl0bUlxN0hzQVBLRDgxR1pqUTZIZUkwUEZjdmhCWk1yRml4VWhQNHJiUVc1LXNwUEZQQlVXaURnTV8tVUZTbDZSV0Q5VWpSblBSdXNfOTVtVFpfTmJGcEU?oc=5",
    "title": "Is NSA down? NSA communication network outage, Apple outage, Chase Bank outage raise concerns; no evidence of cyberattacks",
    "outlet": "ABC7 Chicago",
@@ -1865,6 +2745,16 @@
    "title": "Another network outage disrupts Iowa life: 'We rely a lot on our internet'",
    "outlet": "KCCI",
    "published_at": "2026-11-18T00:15:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNFJrdmtrNkZXb29hQk82cUd3MVBKeTBnQlEtZXJOMFNmYXJxMFpRck9sQVNXS3pqRDlaci14YVJZeTU1dmo4RHVPMVRmTmFuU0tTUWZQODBtRUNkbGZBVEVxVFpWc2psOEE0YXJvVXlBczNueGlvVFluQmtzQjJIT0FIODlCYWZSLVFLbFpEX05tT3dUVHMzVVI2eVVlSFVsNnBCTzE5cGNPUWZ4YkhzNVRVUFlBRElHMUlULVd30gHSAUFVX3lxTE5UTlV0SWdIV1JuZ2VSczAwY1ZXc0tyUGVtZm5WTXF5YXNLT1V6ZlBPUmZuMndtR1NKSEh1dW5WODh5RUNwYXA4LWtQRlJqS0Ziakp2cURZZ0VJZ0xWZGNwNmpWMUlYNUU0eXExWGFNTXhzREVmdVRyZlppMVplTGpwaTlRNU1QQWpPeEVNUzlwMUVFU2QxY2tseTA3aXJfN0Q1WTR3ckR6SmY4M1E2OTVNNE9WYkRlTndWRHJERHUzdkpjMXVYR2NabC1Bal9TVkxzQQ?oc=5",
+   "title": "\u2018Isolated events\u2019: Local tech expert says widespread outages are not signs of doomsday scenario",
+   "outlet": "WCTV",
+   "published_at": "2026-11-18T00:03:00Z",
    "entity": "Other",
    "category": "other",
    "cause": "unknown",
@@ -1991,6 +2881,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnVaYlpJdTNCMlkxZlRZT0FuQmpSSll1ODRlT0RPdnJPRFMzUXNSQUtJXzh2cjVKbHNRUXJMMnlmM2dUWGxWNzdnc3l5SDFWeWdUMENuTEczMFQ2clRWd3h3M2lPOUhtWWVRZTlnTG9BU01ISG02VU5YU1RMMnEwX2JCRFRKVWZRRWdXM2RJbVNidw?oc=5",
+   "title": "NSA Outage Sparks Debate Over Cyber Threats",
+   "outlet": "Wisevoter",
+   "published_at": "2026-11-17T22:35:32Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRU53VUdVa1k2VUkwZ3p5WEk2TWdzMW1RdDZxclRIalFfTGpmTFZvTnQ3WjQwcU1EcGI5V3Ixdmo3VWlNTDZBUlNSdUo2eWxpaXR5Vm5GREh0MzQxRWNuTU9BR004THYxVDFTejB1bWZiaXFsc2ZBU0M0dGVWNDA2dXloMEpFRDJwRWhLZGdPS2M5SkNBQ25yYlRn?oc=5",
    "title": "6 major outages in 6 days: From Outlook to the NSA, what we know so far",
    "outlet": "Politico",
@@ -2007,6 +2907,16 @@
    "published_at": "2026-11-17T22:18:00Z",
    "entity": "Other",
    "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWktmYjRMRmxKXy1CbTFPU0poNDNnT2VHVm1RbGRLYTFzRG50Wjg3STMxTUZwVXBqVDNXNnZJeU9nc3EzYlNoSlRfMUoyS0RITERlS1otZ0JRS0xvNVpNTE04OWZ3Y3U4bWpENjJhMS0wN0pMc1FudzJKX3NwWDhXY3l0VFpyMmdoS2ducmtRak9xSHpod0dqaHhWRjk0cGlrV0Y2aUU1QndMYU9YbGdKMHZpdlXSAcgBQVVfeXFMTV92VjItbVl0SjlXTG5feUxBWmJ6MVc0dzY5eDVNOGtvYTJCMUdEUUVPZTctYkJKdzlPaUZUUkcybE03MnEtRmhfc1NSNzhLRk9LR0FYQ1dmdGtiMjZOazJXczM2dmJINGFTOGFfTmpTc1FMVFFkWWY3N2hVOFBDaWJxbFFLR2M3M1hJblhsRDc3LVc5SWdjcWgxWjlBamxlR3pJTHk3OHRKMElmc0pldkJKRXNLQzBQQ3NtejRlTC1zX003NzQ5RXo?oc=5",
+   "title": "Apple Pay and iCloud hit by outage reports: What\u2019s happening today?",
+   "outlet": "Cleveland.com",
+   "published_at": "2026-11-17T22:09:00Z",
+   "entity": "Apple",
+   "category": "consumer-app",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -2131,6 +3041,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlFab3JjNDJKV3hRdjJud0xudUtjZDZ2WEdqVjNvbU03dU9PUDJkVUsxUmt4UzBUTE03c2oxNS0wQk9TaloxT3Uyc3JfUng5LUh6cnR5VjNpam5aV3R1Q0JlVzJ3YkZabll5WjZLeVFmWGM1ZHJOSmJWUURncW9udWhzSnh6blItWkpfNlllTUw?oc=5",
+   "title": "Apple Blames Internal Update for Outage; 16 Services Flagged",
+   "outlet": "FourWeekMBA",
+   "published_at": "2026-11-17T20:57:37Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fSjA4OWI3YlVWVXk4bzRGVC1sbnk0VDlGN2dXaFlIYXBsQUJGR3I0b1BuM0kxN0ZzYU8yNjNzajJUMXU1NHRsT2RKTzlzS1RjaElSNUt2ek9xWUd1VTZGQjhEOEZibm9NMnAtX09mOG9GZlhPWTdn?oc=5",
    "title": "Apple restores services after internal update caused outages",
    "outlet": "CBS News",
@@ -2147,6 +3067,16 @@
    "published_at": "2026-11-17T20:48:20Z",
    "entity": "Microsoft",
    "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON0c1VjBlNEhtQXNEdHRhQW9HUXdkb1NVZG9lQXB3aHc5SXE1bG5Qb25mSWR4VHVyR1ZleFNCcnNtLW04YUJZR3dTMDE5Q1pxTDA3OWVZU2pRZzYzLUZvZkpCQndFaEZHOHNVY3JaQ2p4QWhLVXFpeTdCVXg1eEJTblNXRnVzSjRoaERiOU5mZk1aeGp5Z1c1bkxCVlgzdm05MjZIQVNDTFpmdlVPLXZqTE8yb1kxSXhvcHBZS0R4cw?oc=5",
+   "title": "The U.S.\u2019s classified national-security communications network experiences tech outage",
+   "outlet": "MarketWatch",
+   "published_at": "2026-11-17T20:45:00Z",
+   "entity": "Other",
+   "category": "other",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -2232,6 +3162,16 @@
   },
   {
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck9TOUlKcXE3MGZqRmVaTUtFN1J0c0NIaFJ2aVp5TFRObzlhV2xhTWRjOGIzWkZ3UFphT0JveXB2Wk5RR19YZ0oxOE1mVlFpbHR3MXJHVF8zekl1dzFZbTRZMnd1OUZCSEdKNDRpWDBlMUZWUW9lWEdGOWx0cG9CUGdTSFJYUnliZVhyN0V5N2R5ZjM5R2p2c3lJUXhTdFFZSUdKUtIBqgFBVV95cUxNUkl3b0lZaG1zMEl5VnhrTEE5cHI1QkZ3OUJNQV92OVdjaXlNLTFXb2lSb1Vub0FMTktmSkM0MTFCcXJFU2V2LWFKQUloZFNkRXJRNFZ5VHdwem1GUXFNT19jYno0a2tUeU1KbUNQcl8tZnhZNy1KVWdMUExLcV9LVUdBaWVOcUoxcWtUODFuSnQtQi00azFXT1BNd25wQ0hWR2pCdlRkTENiQQ?oc=5",
+   "title": "Apple blames internal update for iCloud outage, denies cyberattack",
+   "outlet": "MacDailyNews",
+   "published_at": "2026-11-17T20:30:19Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQck9TOUlKcXE3MGZqRmVaTUtFN1J0c0NIaFJ2aVp5TFRObzlhV2xhTWRjOGIzWkZ3UFphT0JveXB2Wk5RR19YZ0oxOE1mVlFpbHR3MXJHVF8zekl1dzFZbTRZMnd1OUZCSEdKNDRpWDBlMUZWUW9lWEdGOWx0cG9CUGdTSFJYUnliZVhyN0V5N2R5ZjM5R2p2c3lJUXhTdFFZSUdKUg?oc=5",
    "title": "Apple blames internal update for iCloud outage, denies cyberattack",
    "outlet": "MacDailyNews",
    "published_at": "2026-11-17T20:30:19Z",
@@ -2411,6 +3351,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GSHBISzJHcHpzWFY4VVJDcUVfajBzQzl6RF8zSWJMSW1LeFctc2hRODduNC1fcWxKSmstRTBuNUoxUk1qV0Z4NkxoYjlBVUJNaGh1Y1ZKcWI?oc=5",
+   "title": "Apple outage disrupts iCloud sign-ins, App Store and retail transactions - International - World",
+   "outlet": "Ahram Online",
+   "published_at": "2026-11-17T19:38:24Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDV6dFR5bml5T202bF9vV216RVU5WGVjRHlGN0FfUDV6bFpjWXF6c0xYNjJBTDVhd1loVDBCaTBEc0dvdmotUndGTTFNMUdqc1Vld0FjQm1wN21vdVh6NDdkLUlua0FoMGUtV3RtX2E4eE9zTFgxLXUzX01TcVhLcnlBR29RVmx6UENUWlN2TjIxeHU5SjZNMHJSWVY?oc=5",
    "title": "iCloud And Other Apple Services Are Down In An Apparent Outage",
    "outlet": "Engadget",
@@ -2429,6 +3379,16 @@
    "category": "consumer-app",
    "cause": "unknown",
    "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZUNyQnppQk9qaFRjTmh6NWN6djRfTEdfODFsX1dBRUQtUUVwOHdkeHdibGcwaXlXUHZ3SWNveWdkV2pUQmRPMTFFNHVGTnlQVHZKdkhORGx0aEp3MmdyN1RBRDR3Qm5TeGR5N3Q1cTY5TV9KSS1HUzRnY285dFFsMTdPd0F6VWtfMjRGVzJtV1l4b0c4MGV6NGRsRjZLTmlqZk56dmZjbG9WckpvV3c?oc=5",
+   "title": "Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day",
+   "outlet": "Nacionale",
+   "published_at": "2026-11-17T19:30:18Z",
+   "entity": "Apple",
+   "category": "consumer-app",
+   "cause": "config-change",
+   "cause_evidence": "...Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day..."
   },
   {
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZlpiYW9LaUp5Q0M1TE83NFpfYTY4MzFLNVptQ3AyOFZmNW8yTXgwSUQ5eDctS0N1ZDlDa3pTZlNaU2k5ZWxEZFJSaFQ2aTZ2YmJVSFdPcHdDc1Q3UHJ6U3VrelFHa3MyUC1tSEYySjZtLWlITF9KZ3o5dGR1amhKVkNfNTgxdEN4eG1kaGdkdEZNZmRqUFFQcnpLVm5VbDVxZlR3RGNlcjBXTzdrN1pWNmljcC1FSFU?oc=5",
@@ -2467,6 +3427,16 @@
    "published_at": "2026-11-17T19:21:00Z",
    "entity": "Apple",
    "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUjd5UUxqWGhMYUREcXdpMkxQM0IwNlFSLXhDVUxhdUtXQWdneTF2Y2ZXaDF2a2dMRTRBaWJRSFpCSXZianAwWVhaRHFUQUdNSkwtU1EwYnFwX1NKdFdXODU4RC1jbUxRaU1EVzNoYkZwbTBLa3lHcmxrc0gwc3RNdWR3N2lvSzg4U0NHazRaUk9ma2FIOVFKNmx0azAwRW9fbGgtT1lNLXBySWhCMmpDUnZpMA?oc=5",
+   "title": "Classified NSA communications network down, people familiar say",
+   "outlet": "Government Executive",
+   "published_at": "2026-11-17T19:18:11Z",
+   "entity": "Government",
+   "category": "government",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -2571,6 +3541,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3ZWMi1tWXRKOVdMbl95TEFaYnoxVzR3Njl4NU04a29hMkIxR0RRRU9lNy1iQkp3OU9pRlRSRzJsTTcycS1GaF9zU1I3OEtGT0tHQVhDV2Z0a2IyNk5rMldzMzZ2Ykg0YVM4YV9OalNzUUxUUWRZZjc3aFU4UENpYnFsUUtHYzczWEluWGxENzctVzlJZ2NxaDFaOUFqbGVHeklMeTc4dEowSWZzSmV2QkpFc0tDMFBDc216NGVMLXNfTTc3NDlFetIByAFBVV95cUxNX3ZWMi1tWXRKOVdMbl95TEFaYnoxVzR3Njl4NU04a29hMkIxR0RRRU9lNy1iQkp3OU9pRlRSRzJsTTcycS1GaF9zU1I3OEtGT0tHQVhDV2Z0a2IyNk5rMldzMzZ2Ykg0YVM4YV9OalNzUUxUUWRZZjc3aFU4UENpYnFsUUtHYzczWEluWGxENzctVzlJZ2NxaDFaOUFqbGVHeklMeTc4dEowSWZzSmV2QkpFc0tDMFBDc216NGVMLXNfTTc3NDlFeg?oc=5",
+   "title": "Gmail, Apple Pay and iCloud hit by outage reports: What\u2019s happening today?",
+   "outlet": "Cleveland.com",
+   "published_at": "2026-11-17T18:58:00Z",
+   "entity": "Google",
+   "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEMtUGhaaFFhaGZZVjVQSWpZX011WmlQQlFrbUJfMi1kWmlXNzM3YlRSWmMyNlpyb1VPVjBmcW1hb094VFoxNEl2cEQxanZPeE1mQnUxNzVBbnY0OEtWd2RkdnFoaExjOGhIekJzUjQxNFYxWksydzMzUmNQbEZoQWpncUM?oc=5",
    "title": "iPhones Suddenly Lose Functionality as Apple Suffers Major Outage",
    "outlet": "Futurism",
@@ -2641,6 +3621,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVWJfYV9NblgtcDVrYmRtaFhLbG5iQVRJOHQ3VVJkTnpzTEMwaXY4MkZNejc4cjN4d1ctekxaUUkyRksxamYtZENreWlMbmY0MGFaU0tFTUduNUx3UGV3UnRMc2E3dXhDU0tIM1BuemwzS2lVU0NRVlp0QWZCYVY1WV9YVGpYRjUzLUJEREdoVkEtTkRNVk5MRkxqQS1nRGtmemw0LTJkVmxzam1Z?oc=5",
+   "title": "United Airlines Hit by Widespread Outage Days After Nationwide FAA Ground Stop",
+   "outlet": "Hoodline",
+   "published_at": "2026-11-17T18:48:53Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONVJXMklvLXNscm1ia2NxWW9ZTklKcXRUYzdGYWU1UmQ1SU1IZGhBWTlJZUd1WFdxaEhfZ254OFR6UGlXQkY5OUR0d1JfQXYxN0cyOHBBMldfZ18tN3dfbThGRVh1SjV6TVZtT0hrdE9IRlBRUWtERlhTcGJBcUNLWWM1OFRZdEl6ejJESFU1dG50bGd1M1NQOXgxZjdlSUU?oc=5",
    "title": "Microsoft 365 Outage Raises Questions About Africa\u2019s Digital Sovereignty",
    "outlet": "CircleID",
@@ -2657,6 +3647,16 @@
    "published_at": "2026-11-17T18:45:46Z",
    "entity": "Apple",
    "category": "consumer-app",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQanlLM0xJSDZQc0ExZk53b01XWXdNNTViNzh0WG1LbWk5a3N0RHZ1Sk9zLVIwTzVxUGVNQ1JDQkVjZXJGbllFQU1hRENmQm9FamtHX0pvMjRmMUdhRHBEa3Boa0hGWkxCQ1FmS1pTRlpac3RhR1R4TTlaT2ZVazdUZHpsaHEtWTktY0NyOHZSb0RWVXBrRWI5d3VjREpnQmw5LVBOX3Y4OVFGRzhpcEhYM0lYX1Z0T2sxVjdjeHd3RGpNQ24xZU9HMkxYWVpvUzZJcFpLcl9JeHZWZmI0bGlqSzBaRGNHSUx5R19N?oc=5",
+   "title": "NSA internal systems experienced outage following routine maintenance, US official confirms",
+   "outlet": "Western Mass News",
+   "published_at": "2026-11-17T18:45:00Z",
+   "entity": "Government",
+   "category": "government",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -2774,6 +3774,16 @@
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1huQ3dQWVFrNFRCb1lXRFBOX01ETnplTnlqMS1FUG9lTU0wSk05c2wwM0hPRENqZ1NRazQxcUxjd1pLWkZ0ZGduYXhGbE1DOG1yX1pBakkwd2tZc0dvWlMzU3dnWFJEbHIxYVdoOExibG5OcFNQLU1VMkFua045Tl9CWkh5NjNqZmxOSmI1VTNjN0l6OHIzbmxFbmdScXp2R0o4Rms0enRVbWdZeFNaZG93NlQzcjNBREM0NTVWSjNJRHpzRWl6N0psZmt0OEnSAdcBQVVfeXFMUHZia1gxRU9RUVBwT0xPMjdVT0FSX3FjYU5wZGsxZVJzaUdCOURkakF4MDVaNzNwN3I0Y3NWNU1mMjg1QjRVVUc1Q3VjMXliVXFLTXpSNGxOd2lXZzdQVW5fQTk2cUsxU0RoS2oxM1dkM1ZGemo0RW14WENxX29VbS1aLWlVX0NIdUkxQXZmc3RnRlEzV2c2cEdqNHFkdHEtWHJJajdnVGYtTWNfNzc5emFkTVZsazhfb0U2UDFfaGZpWjA5RWNBeE1tM2E3YnV1V0dmd2NSLWs?oc=5",
    "title": "Apple, Google and more services down in latest wave of widespread outages",
    "outlet": "NBC 6 South Florida",
+   "published_at": "2026-11-17T18:29:52Z",
+   "entity": "Google",
+   "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnZMRU9hSFhZV1VNRkRTVWhMRVM1eV9KSkNDR09vdnphZUFCcWRjdjhveU1VS0hCUkhJSDg2RVc4b1VlUUF3bUNDanNjU2wydU9yRHZpSElsbzA3dWx4WHIxVUltODctUGM2THNHQVE0UDZEdENYdHBLdVUzWlhNZW5rUDVmMkJWNkRXZ0c1UGVGNi0tWk11bTdjVDFYR0Y2MEFDVmJQNWRRNFFrVHdxQl9naEp3VkdtNWtld3J6ZHE0QjE1Tkt5alVyNkZkVThuS1FnUktub0k?oc=5",
+   "title": "Apple, Google and more services down in latest wave of widespread outages",
+   "outlet": "NBC10 Philadelphia",
    "published_at": "2026-11-17T18:29:52Z",
    "entity": "Google",
    "category": "cloud",
@@ -3091,12 +4101,52 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSVlTRUk2ZkpKeGZjQ3NnTTdpNjJ0NXBIQlRTR2lFRFpndkctRFNwbm5JaDFHUnhjblljajBMRVFTd203WC1EbUk1R3M3dkN4MkhrQlZNdzJiNHJoMFlhYVB1SHRpRnZRajFDMUJJMlpNWGNEOEhVeXUwaXFXM1lxdHRmQ25VOG13blJuZDk0MA?oc=5",
+   "title": "In Yet Another Outage, the NSA Is Down",
+   "outlet": "The New Republic",
+   "published_at": "2026-11-17T16:34:00Z",
+   "entity": "Government",
+   "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTVFKVXpRR2llVThaRW9Ba0JINnM0SHZ4VGtPYUJRQWRhbzQxVkJjaGdRUWNWNXU1S1RkR1Bib3lqT0ZlbEJyaXdpOWRKdWlsd3NpUXk4YjJvZU1aWHJ6TWVtUlJpblhfOGdBSUlXb1ZVNkQxcXRtOTdBbkQyeDBGZmFmNVlOTEs0eGtlbnM0UnNnWGFQblk1QmljODRUdHgtQWRUVUNldFRWREJyYnJBWjlUWDF4dzBYNnBwNjZ5Sk8?oc=5",
+   "title": "Highly classified US national security communications network goes down, sources say",
+   "outlet": "FOX 13 News Utah",
+   "published_at": "2026-11-17T16:25:34Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9naFVtdkhKNmNVX2pGRXIyQ1dJSXNNVHhTMThzcFdwZ0owWmlxQXVyX1RTdjBicTZEdTZfVGtteHRUR1VKTnVxSjRsb2Jjbjdr?oc=5",
    "title": "Report: Classified US Government Network Goes Down",
    "outlet": "JFeed",
    "published_at": "2026-11-17T16:18:00Z",
    "entity": "Government",
    "category": "government",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTRHRVlOcG1Wa1hDUzFKZUwwZnR6ZlNmeHkyRl9oTUtwVG9nSXhGc1Z6NElHZXVYZXZoQi11YUpKa211akZYXzJkTkxrc1JFRGlzbmRtRTFWV01oWWJzNERFRVUtaHN3c3pOMklEQ2l3cHNpLXZqRldQemF4LUEtVA?oc=5",
+   "title": "Microsoft 365 outage underscores enterprise resiliency issues",
+   "outlet": "CFO Dive",
+   "published_at": "2026-11-17T16:04:30Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmh2STIzN2p4ZFNURVN5eFVnUXlSa1VUWXBUZWQydllFQ2lTSWVCa2wxSG1sU1lGbER1cXVGaUpfQTFob2VhYVV4c1g5WUNPT3NjRDBoME5UYTNqSVpROVJoMmhqb0RnYzBoOGQ3Z1g3WGxpUWswd2ozMWdkNzZDNWtUR1NhcXR1eUdNRTd5X2JoT2tsMmdDU2hR?oc=5",
+   "title": "Microsoft\u2019s Outlook outage is over. The scams aren\u2019t",
+   "outlet": "PCWorld",
+   "published_at": "2026-11-17T15:33:36Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3121,12 +4171,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSXNLa193NTg1eC0xcUdhWVQ2MVp2Nk1RR2owOWpjVDFBeS1QQlprYlhHWFJXVnd2clBkS2JaOXVndjN3clFCV2pJVlloeGM4cXBibGhVZmxxWXF6aEZsTmNocC1SZzZjSzFXX1l5SlpoaHBEN3hqQUkxWWtvNE42MFlBaW1kcHBJMjBXYzB4SWw?oc=5",
+   "title": "Microsoft reveals three causes behind global Microsoft 365 outage",
+   "outlet": "Computing UK",
+   "published_at": "2026-11-17T15:27:04Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHJ0Nll1QmlzTUZwbzhfb21WdnBGaG01OUl0dERIVGtRUVowVFZKWTJuNVpDdzhZOXJickJxWXFyREJfWU5wUXFIdGJXQkZ6Xy1sVUVFeGR0VXd0VzZodXFxNjJXZG5xd2VOVU9mTUtJUHIzUmpncUR1cnp5VE5zaHotX2x6bXp6dkFlUVRnaDBadE1OWGE1M0JMa3N6QUI4UThFVXhIZ0NJZVU?oc=5",
    "title": "Bank outage leaves southern Arizona customers unable to access accounts",
    "outlet": "KTTC",
    "published_at": "2026-11-17T15:23:56Z",
    "entity": "Banks",
    "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tTzFYblozVWlGclZvTGtRZU1YOXliY1VGekM3OG9ZYkNtZXJyemNvYzE4X0tLcWNPOVppUWNaaTJoQlBtdm8tVFBuTnhhcGZRMG43bldn?oc=5",
+   "title": "Can the internet go down? 10 facts on how outages happen",
+   "outlet": "qz.com",
+   "published_at": "2026-11-17T15:23:52Z",
+   "entity": "Other",
+   "category": "other",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3181,6 +4251,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcnc5UXhQNTBMeHNCczhrcGFTdVllVEpjNGtfZ3JsaHBJeGxOc182OVJTM1hGczBscnVGbTdsSFhKTXJWY1dBVURmTk1HUDdtaVFzcUN2dThIZU5zTUZoYmcxSUNzWnZOY1hqblFlM0lEdmRyTUJJOGFLdDR1b1FBdC1nSzNhZWs?oc=5",
+   "title": "Chase Bank outage sparks issues for customers at several major US banks",
+   "outlet": "Yahoo! Finance Canada",
+   "published_at": "2026-11-17T13:58:33Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMUdtOWppRUF4RGN4cm10aU1PRTZZaWRVVGpoUFJjRFpFeW9BV3hEYm9zV0NMQ0djNDhIY2V6Mm9Zb3pWOXp0cHVjVUljQUdxeFhqdnhJRDRHNklJb0tWOWRoc1dNc1VoLW80Rm1tVl9vaHBjTTBFTGM1T1pIUzVUUW9JN1Q2Vm9aMGRaamdNalRnUQ?oc=5",
    "title": "Chase Bank outage sparks issues for customers at several major US banks",
    "outlet": "The Independent",
@@ -3197,6 +4277,16 @@
    "published_at": "2026-11-17T13:57:28Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb2twUGhycFlyTFg3NTRhWmlnOG1FNDAyc2xwcXFGYVA0bFJkMVhITU5QSmlkY2NtZVZsR1FWYk01N0VqNzBycmdCYVF0Rlo4eWVnQjNHZ0ZrdkhGdFF1WWhsRFBfejE3Q0xCSG8xZ0dWOWM1N25URjJ5S0FvV3U5bDFYMDV1R010akx5Nm5HTEVuZw?oc=5",
+   "title": "Microsoft outage a boon for America\u2019s enemies",
+   "outlet": "Washington Times",
+   "published_at": "2026-11-17T13:11:45Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3227,6 +4317,16 @@
    "published_at": "2026-11-17T12:39:00Z",
    "entity": "Microsoft",
    "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOY0p1QnJkdkxoQUtMZWlCSlZmNzU5OHVuVEhhaDJQZmF2UGxMTy12Tjd3TjY4UFBEenVxREgxMExjMU1aRUxFMEJic0t3ZjV3OWNrRHpUMndqOUwwNkZ6X0N5MHJlTjFPOFdOMk16ZzlpV1gtTGxPWHpGUWlvZFdVeXdFVVRJQQ?oc=5",
+   "title": "Iran Said to Be Planning Attack in DC, Systems Outages Continue, and FBI Hunts for NoVa Drone Bros",
+   "outlet": "Washingtonian",
+   "published_at": "2026-11-17T12:25:34Z",
+   "entity": "Other",
+   "category": "other",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3271,12 +4371,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWRHMEtKSS1SOVJ1UHRXQU1KdS1TNXJUaktXemRib2RDcFFldk9xc3Nna1lJSTktc0hmX2NVTWhKSng1WDBPdzRCRVJoczd1aEJDdTR0T01oQ1ZpR1ZqdkE0UjVCZDJPQ0VycVUteDZSUVE3R2EwQ3ZyMXhZbWc0V0llOVFLd0dYRG1BNGE4Vmw5TUJqNVg4SjRGYWo0RVZvdFZFbm4ydjQxWURJc3hn?oc=5",
+   "title": "United Airlines Outage Delays US Flights as Technology System Fails",
+   "outlet": "Rus Tourism News",
+   "published_at": "2026-11-17T12:07:24Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRURfSEdFcG9YcG02NWF1WVRCRlZvbDdUdXFLRUwyQV91V2dHWVA4MU85V0IyTTJsTlMtbklESVhaNDU0TjRVSU9WM1lQNzVBQVBOSU5GR1lzdnpMN0VzcWNpcVFjS3hYTnRFemJVMTVCSno0X3JCdWI3Y0VWVi1EelBwTlQ3ckk4Z3hRa01QaHd4Wk1TOER5bHowVE0?oc=5",
    "title": "United Airlines says it resolved a systems outage that delayed departures, days after the FAA\u2019s nationwide ground stop",
    "outlet": "Plataforma Media",
    "published_at": "2026-11-17T12:00:43Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWhiTDhwWWVEbVJIUTlWdkFXcTRqZmItYnBkcEFuVXBUZjdBU3pscDFPMUxXVDZWQmF6YjV4Z01NNnhQX1VqQWI1cVZleEVsSWMyWUlwdVR5SzZRQUVzSksxRnRPNVFmMExoNkhtT1pDcGRhZmN4aTdXRmxxRWJlY1lnVHQ?oc=5",
+   "title": "That Microsoft 365 Outage Cost a Packet -",
+   "outlet": "Insurance Edge",
+   "published_at": "2026-11-17T11:47:48Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3301,12 +4421,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2ZfOVhmVFBVZnRmT1JUWTNEZXJ0REpOZUVZUDFyeEZHblBEMXk2c2czOFR0NnVjemJiRTRsWUVTY3ZFQ1ZaQlgzR2l2ekpWUEVybWJMX2cwdXJPcnhhb1R1NGRndUNpSFZfbEd1a1pydlFRRXdlbEFIc0FWbWdwTmtCNS1UWmYxT3NOeWtUN1pxX2RoZG1IVDB4cWJreWVhQnhSak9ocmtHYk96WkdZTTQtRDM5dTlRX3F4QlJwb2vSAdQBQVVfeXFMT2JKSk1rU2tUeHJLeDlMc2s2aTkyTEpod1FEZklpTHkwSU14U0pMQUwzaUp2V0Rnb2VPZWJQT3R6a0N1VlhqbjlmQ2U5MDVXM19QRUVHVzVDWkNhYkZuWGs3aHZrQlZVM1lOWUVmSWdIUDlhTVVXYjYzMHZmdXduWTBDb3VkVW1QWS1vSHpQNmlYY3V0M19ta0JsMHR5dGlGTjk0UF84ZUlZQTZTaEFIY1FlallMeEZfMWxRQW9sVW1wMzdfOXE4ZEpQVW01U3NUUGY2NEc?oc=5",
+   "title": "United Airlines resolves brief system outage; flights resume",
+   "outlet": "WSB-TV",
+   "published_at": "2026-11-17T11:21:34Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTEd6WjZHX3ZGNU5Yc0N5azJsdUtYRG5xa1VET1YzS0JUTklDcmRtaFdzUWxVbUVGeVFXblo0d3RzMGZfcGRqWlMwZzhxbTlrX1ZxN25NNnFQUmpFUjd6WkhIZHJhUXRqY0RxQ0dTXzBRZHdORXdYYzJaejNVUzFwSE1wVzYtcVUySGd5NXBVUEN0YXFDNDA5SzV6RFZoY2pPamlCM1FCNTNGNXlUdkE?oc=5",
    "title": "Why are airline systems facing so many disruptions?",
    "outlet": "Spectrum News NY1",
    "published_at": "2026-11-17T11:20:00Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8xOGdxRm5QTkRmSjZXUWxRczR6c0J0NW5iV0oxdzBJdmxTNjV1Yi1hT1VYWnlaVVluT2QxOVB0c1BjX0J6Mmpv?oc=5",
+   "title": "Microsoft Outage Tests Healthcare Cyber Resilience",
+   "outlet": "Health-ISAC",
+   "published_at": "2026-11-17T11:14:43Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3345,6 +4485,16 @@
    "title": "Microsoft Explains Cause of Outlook and Teams Outage",
    "outlet": "TechRepublic",
    "published_at": "2026-11-17T10:29:13Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXV6NjBlTnkyUVh2V0J0UEFOZ2dNemg1akRIQ1lHS0VRZER6S0lPQnNGVnh2cm00OEFjMlhvS3U2Z1pjR3dHU2xYSjBpaV9SZUVnVlkxQnpqbVNGV1hLV0MtSE5NV1JxTnBXZXYxSGR5eUdGWkdMY0Y4RTdUMWN4QWFKTFl5aG01WkZpbUNSQ3MtTml2eHIyQUJlaGhTTmZrWmNVd1AtRmg?oc=5",
+   "title": "What Microsoft\u2019s outage reveals about the economics of prevention",
+   "outlet": "CIO",
+   "published_at": "2026-11-17T10:08:38Z",
    "entity": "Microsoft",
    "category": "saas",
    "cause": "unknown",
@@ -3491,6 +4641,36 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWWllck1TYTdTM1d0ZnM1T2UzdVdzWFgxb1l2bzgyTnpCSG1LUWd2b1lNTDVDQTdRM1g4Qk54S09IZjc0azBING5LbEdVYUNyak53TnNnWDdmTnBHbU1meFZsSDlMbXB2Snh1R0w3aVBxUzI0?oc=5",
+   "title": "Microsoft outage compensation: who can claim credits?",
+   "outlet": "Cybernews",
+   "published_at": "2026-11-17T08:00:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VTzdaLTNaU0stZ3BmX2RxTlVCZzM2Ymh0b2g4SUVxWWhXOXNSbTBGV2cwMVdmRmpkZFVQVXA4T0JGdV9wX2hKSERTYjNXMUctaWo0ejhyTnY0ZW45bDF4YVh0SFM1Z2RXdjZsZmlpcUw?oc=5",
+   "title": "The U.S. has an outage problem",
+   "outlet": "The Rundown AI",
+   "published_at": "2026-11-17T08:00:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGJDR3dTRXYxeWx0bmZKQ2UtUlp0OVhCWE5UejYwRXFQMzZxLWlEX1RzeEpEb0VxNkdBc0VHa1RSaXRaeFc4SWxnQVBvUnlBU0lfQk42Yy1YX1YyUDlOZ09QZmNOLTRnLWRmeFpIUHNJb2hzX1Bqak50cFZUaFZNNDhwQm9IWmhvN0drUFJRSVpMSDJZQ2pNWDRuVy1ROTVjbTVfOGhvZ0x1VHBhZjRGYVNXVVY4Q1QyYTdz?oc=5",
+   "title": "India\u2019s Digital Dependency Under Scrutiny After November 2026 Global Microsoft 365 Outage",
+   "outlet": "CXOToday.com",
+   "published_at": "2026-11-17T07:59:59Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "third-party",
+   "cause_evidence": "...India\u2019s Digital Dependency Under Scrutiny After November 2026 Global Microso..."
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CMWUxNmFHcUhHUUxlelZJc3lLazByZ2xBSWFrQlZCYkxoc2dQZW1YODhqNDdkaUdfNmRZUTE2dklTR3ZLdzd0NnJTczB1QzZzc2VOWmdwRFlyS0k?oc=5",
    "title": "South West organisations contemplate Microsoft outage effects",
    "outlet": "BBC",
@@ -3547,6 +4727,16 @@
    "published_at": "2026-11-17T04:32:01Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQzJHS2QzU0hpbnd5aFRXNzdacDZFWUxjSjhxSzMtY2xBeDVQeGNCZzdEeEd3UkNlNnNTaFFPUG1wcmw0LWo5ODg5cUVxQ3d6Y0xuZ2k5dVV0eVh0NFVMMmdxS3BmN1Z6eFJNQ2ZMRE1sMzQ0VzlFZFVISDN5S2NpTmdzYVltN08tODBXanpKZS01cXNzMjJtbTZ1b3RjcEVhcUJaenlzVl9OV3BuejZKdVhR0gG3AUFVX3lxTE5EaHZRSWRvLUNfMmwyYUx5OGtYOUYyV0JNVkJJY00xMFFhelliX2V5ejd5Q3QwY19fRTh3UVZlRGdlTWQyMEp4WURvanI1OEtLNkV3dHA0MndNMW5JYjVUWWFMWEt6TEtMcmVyM3c4VFdMRmpIQkpUWTcwN01ETzNVZkFmN0lNUVBST0ZuZWZUakxCSlF6T3NXVTdMbFNEYmtmMHJDZUNkV0wySWlzdzQzUkltYk05QQ?oc=5",
+   "title": "Major tech outages with Microsoft, FAA, and banking systems expose digital vulnerabilities",
+   "outlet": "ABC11 News",
+   "published_at": "2026-11-17T04:30:18Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3611,6 +4801,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVk5UVk0wUktJODF6XzNBaWpDRDJUcGRBc18zYUE1bmJ4RkxhY05YQk9Zc1V0czBhSE05ZklNVkwycFpDbmxwa2kwWk5vRUhELWFVbHhsajNSeF9yRVRnMHJPR1hNMFdNQnBRUkI0TTFfN2NjQzZrVl9DRFF3WGVheG9Pckh4ekhWNkhJelBKNFh6aXZQMjFaZlM3RVBhd2VrNFRKWlBydGZuWmprZFlWX3Z6Y1dxS0JVdi1lNEpSQUxSdnJ2a3hsRUlEYU43ZURGVDd3V3BRMHF2NE9NWEdHWGV1QVJyTjF0Z0xkRw?oc=5",
+   "title": "Microsoft, FAA and banking outages raise questions about technology failures and security",
+   "outlet": "WWMT",
+   "published_at": "2026-11-17T02:57:36Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQMW9nd0t6V0l1Z3VZdU5qb1VMeHBuWFhyLWZSX19YTXUzT2dUWHgza1U1a3pDR21pWVJGdW1KZmFEbXNvN3Y0RWVRLUVzSUhGQnpwMERFVVdWV3F4MFFBbTNpTlVNcFhKTXVtOC1kMjJTdHhVYmREZXNhYS14eU5iaE5icnhaOUdnMFF4VVNMcHZJc0xpY0pRRlFQMWVaamdlMnZKN3BtOWJsQVRtWENqWG42Wll6ZGJOZUdRM2JkNzFadTBQanBtUFMxbGR5WFU4eXBRZmp6T0dNSHoySWVmRXRza3RPNE1KTXg2ckthWHBva1o2Ni1IVE9KZEF0V3ctdVhpZ0t5VHdPR2Exb2czV0o3Y25wVm16YnpWSThUYVFqUHNaSmZ0bVBFdlQ5QmpZMEVHcw?oc=5",
    "title": "United Airlines confirms widespread 'system outage' just days after nationwide ground stop",
    "outlet": "WBFF",
@@ -3671,6 +4871,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQVy1XYWlwaWJNdVc3UVc0V3NES3VXV3pKU0lUX0NPTm1HUElvNzc0dm1xOGVmM3FqaktjUEZvbGxoLXB3UU9DbXR0YzJLcDdsY0tVRFEtbFk0cTFzZng5RjZaRFVQQktvU1pMLUxQZU5LR2NxeVJnZTAyR1BBNmpMcFhRWmE4Sm15M3ozQ1RTSWR3VlN2Tjk4Y3BkUy1zODR5cmdmTVJlWldoaGpkTHg5emh3QUwxTUJZT2ZzZDk5WG5NYWJpaWRlN3VKTmZ0endab3dqM2F2aXdscFhMM2RSUVMwRnBRQXR4Z2hDZnotaDlNb0hQZjkzZXZLSXg2VnVOZTlaTTJNVEdnZU1JeFRHNnNraVrSAZoCQVVfeXFMUEJuTXJJOWF6cThqNHlqVlF1cWNQbEtpRTZHbFRWcGFTYUoxd0pSaWRFNG84WFN3azJ5c2ZlZUM5UXE3QlFaU0RxQS0wU3M4SW1rZzBkUmN4VHFVZFVnOUZjZzdiUnFRalc0a09iMjJXRmhlbkI3VWtVNU13WTJrdzdfSUEwOU9OMUxrTTNFZU5JOVdIeEVzQnRLdkJOZzZjZHNRYVdKWFV1X0hHUjU2TEQxcjhzQmJYUFFGcUFtOTJtTDRKRnJ5Ml9Mek1CdlBxakxYNWNGYm9VVjFpSFJKRURoMXpKSFBjMTIyZ3YwRWhja1JBMWhMWkpYUXBSQjlrS0IzUEVwQWRkRFptZ3lfejFpSldVWDZpLVBB?oc=5",
+   "title": "'Please try back later': Major US banks face service outage days after nationwide flight disruptions and Microsoft global outage. What's happening",
+   "outlet": "WION",
+   "published_at": "2026-11-17T01:55:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjVLNl90RzI2YnVOcHJsLTRhQmJWYU9tM3V0dnk0a3FWbmdlaVJVZC04U2hfd3A5Z2JjT1l4MzZXZnNCRVE5a2FQU1lmZzAtVGVrZFRCN2ZYM0djRkNqNEZDcHY0UXgxRkFJbUJlaHRwaXNSRWY1UllmQ0RhTnJFbGxscnBlWWl4S0s5NXVCRndSRTc5T3liQVJqN0J0bVN5SmZN0gGrAUFVX3lxTE82MDdURnlndnMyVFM0N25Ga1h0a2w3TkpnS0plSGpCZXVFb1ljV3pYTjBESk5CTXJ6Z2x4ZDBxNzh5Y1NnTTc1WXAwUWVDdWRJWDl2MDdoTnFsd2RjQTltMHN1Vi1wQWRpUVoyZTc5aXVLWEZ5blBORWlELXNUMWFxTmI2MldQbVgyOUY0dVVFalR4U0FHdnp4cXU1c0FxRWpHaHVpeFNuRnp0RQ?oc=5",
    "title": "Bay Area travelers face flight delays following United Airlines outage, FAA ground stop recovery",
    "outlet": "NBC Bay Area",
@@ -3681,12 +4891,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2N1NExJLVFNVk96MzlvWTBRQTM3Q2R0Z3pHdW5rc0lvWmpTY2M1ZXFNZG5HMUhUY1VXa19fbGZLQkZmaFZWUzI2MkZleDVfVnQ4Sl93ZzNoTWFwNTVQVFlBemZTR1ZFMWdsZk8tQk9RVjhmbEp0NG5YcGZwdThtQXF0UEdMbE0zckJPZUFwQndRTm83QlBiTW1IMVd2YXgybjZ6NnBLdy1UQ0hIV3ZPaWthdm14bUE?oc=5",
+   "title": "After Binance hack and Credit Mutuel Arkea attack, US bank outage sparks cyber fears",
+   "outlet": "Newswav",
+   "published_at": "2026-11-17T01:41:33Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVXdmZkhrTWxsUTctLVRHNUVDUVFsb1FTbUxFWE56RkRXZjRpelVLa0VlajRxOVlhbW5PbUl3Q1I0S1FTbGxfX2pkSDhxQWtkWEJqQ2dGa1dVTVRrOXVCMkc3ZUdxYVBQY0I4a0FxTjhtNFVJdDR4S0N2RDktaGZ6b192WVVpd3pEUWo4YWd6clZiRTBsRmhJTkk4eVZRbTlaM3dqMGNRb18zenhxMHRGbnp6ODRLQU1tUUpTUjhoUFNHQQ?oc=5",
    "title": "Four major US outages in five days and none was a cyberattack",
    "outlet": "Insurance Business",
    "published_at": "2026-11-17T01:21:46Z",
    "entity": "Other",
    "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1piVFFicUx2OFdWa1N6aVJpUF9VY1hRalRWY3hmOUIwRjhfUkhPdmtIYkpnZmhTUzR5aEJrUU51MG1hY1NybVBWbTVJellaQ2ZKWVZQcjhSc005a2dZdGt3dHpxeWZMQnhnZTFlYWFyTnhOeFF4c2FFLW1rNzNvQ0x3MVZzNXloQzY2QTRsTmxzbjZRMUxBbUcxQQ?oc=5",
+   "title": "How worried should you be over Microsoft, FAA and Chase outages?",
+   "outlet": "The Independent",
+   "published_at": "2026-11-17T01:18:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -3741,6 +4971,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOekJBa0p4Mk00amFkeUotVWJVQ2lsNkUtSWM5dVNEWmhsUV80RklZWHJxbmwwLVJSdGdjdVpUZVFvVW1FdkNrZU9UYTRaQ240VUlReXY1UnhxSkM4eWR5cjg2ZzhaREN3SFJHa290cHJSS055M1pTSUYwSXFhREZLc0pmVGRrN2hPeDF6YW5pX2I1NVdoZl8xZjRvVF94N1U1Z0g1dHg0QUQzcVZpNnpnMWhlSWtSRHlxRDNDV2NOXzlhNVFYWm5JcXNldWFBcndLUUtwSWdhaU8yckJndTNVeU9CNkJjZUNiSTNKVDE1SkR3Y0xDVktIR0RSbVFRbGd5TFlfOU5jWGhzcXc5QUdJbU1YODBCd2hrVTRLWEhScnNfZDhJTlJZYVd1anFKbjlrUUpkU2xnaU5qYmtEekhXYWJOaFNxMzQ?oc=5",
+   "title": "United Airlines confirms widespread 'system outage' just days after nationwide ground stop",
+   "outlet": "WCYB",
+   "published_at": "2026-11-17T00:52:18Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNZk11UFgzc2dBdkZmXzVrdElmVzdpOVZXWDhFTFZaYVNfd1NSRXNERVlWeEF3OVRJOEtQYjZ6emxLS3ZtdVlJcFBQS0dGNTNpYnFLa282Zm1yM2YxOHYtak43a2h0X3p5dGJXd3c0SEJOZEZnZ2JHLVBwYkJIUzhiS2h3Z2hfR0JIZUYxeVc3bXlORzk5c1lyMlozOTRVWU52UzJzcGtrV25HUElMU2NYWFF5eUFYdVhtNkJzRE5mcjZ0QXRuSFEyQm8wc21rMHBIU0cyTkdHU0ROcWVVYkszbFhSQ3BkRGlMb2pjUmMzaHNxYzR0QVppUXNOMEhBYURuUXc?oc=5",
    "title": "1.5-hour-long system outage forces United Airlines to delay departing flights",
    "outlet": "Oskaloosa Herald",
@@ -3775,6 +5015,16 @@
    "title": "Bank outage leaves southern Arizona customers unable to access accounts",
    "outlet": "WDBJ7",
    "published_at": "2026-11-17T00:24:27Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUnUxVF9HcnNncTFfVy0wR2dVOHo2MnN6SDVvbHI5djYzcmhqVi1taGtYb1VHYjlWTDd3d0RDdjVkbFRHMUtxbUlkMHFNWkJKaXNBUWFBOTdRWEhRX0E2T0dTLTA5c0NhOHdwaS1OeXQ5elJ3TUtnVU9zX3QtTERtelExVl9vZ1BlUWc3ek14R3ZubF9sVG9ZUGF5bmNCZmtnRXdTS1NuUjZLX3M?oc=5",
+   "title": "Bank outage leaves southern Arizona customers unable to access accounts",
+   "outlet": "WCAX",
+   "published_at": "2026-11-17T00:23:13Z",
    "entity": "Banks",
    "category": "bank",
    "cause": "unknown",
@@ -3821,6 +5071,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS3FfRUNwQXZianFySVhNUnp4cFhPd0tDRVFKUFdvcFcyeWt0X0VuaktxenEyNWxaWjhPVjl5WS1BWmNaY0VrbTg1MGdkeGhndUVITTF5S3BtazV6bHJZVnJ1eFdFdlBId2ZTNFpiX1dObmxISnExVGxOWVgzMGNIZVl3QlFmZm43TWV5SzJFcnpDTDdvVVozeWxyT2dBbVhkWXJCSTJmWnRGUTBUSnRQYTNDTzZKb2pHQWR4UU90TVo?oc=5",
+   "title": "Microsoft outage: A cascading failure that started with an undetected bug",
+   "outlet": "Computerworld",
+   "published_at": "2026-11-17T00:00:01Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "software-change",
+   "cause_evidence": "...cascading failure that started with an undetected bug..."
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNenhETG5sUHRpbUxSdnVlcGRKWHB3b3pnaWtDM0hSdjBEMjltcWdkZDhqQXVBQXdKUTZ4MUVBVzltTHFkSkJGVTNpdTBuQTV4X2FQT0N5UXFQMUZNTzdnOVM2VWIzcVItZ3JudGRtM2NsNmRSaTk3TW42UGFlS3N5UldTUmo3U3p4enllOEZsOA?oc=5",
    "title": "United Airlines says tech outage disrupted departures, no signs of cyberattack",
    "outlet": "Yahoo",
@@ -3837,6 +5097,16 @@
    "published_at": "2026-11-16T23:58:21Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWVYQ3Bsa3JJQmI3cDBSbUlVeDdabnItdGZacVNpc2hnb1V2T3dWUmlDb3FkU04yaDVPQ1lOZm55VkZNRllfQ1E3NXE5aDVDMnM3bGhHWTNGeTZRam1QNzJxSFhaQzFMVmF4Y3hKVUVfd0tUaUxMWnhwVU9GeU16eERLSl9aRkdqamYxVjBqcUtpTkhEd2ROY0JfTUFRUjNIUnY2VVBwV1BmQnFrMjlQeUJQNmloakNaMG5RaVkxRQ?oc=5",
+   "title": "Why Chase, Microsoft and United are facing crippling outages \u2014 and it\u2019s likely to get worse",
+   "outlet": "New York Post",
+   "published_at": "2026-11-16T23:56:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -4017,6 +5287,16 @@
    "published_at": "2026-11-16T23:11:15Z",
    "entity": "Banks",
    "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3NnQ0hCMHFIU3h0UnB1R3V6VjB2NWZzT3NySkNhV2Y4NEFFNWZaaDI3VVR0MkdwVC1EX09CemVIQnVJTUJOdXJ3czYwYjgzNFpOM0s5U3VlVmM0TjB3a055Q0dGN19GMWxkWFlWMVV6MEliaXRlZ09zS3hHMkd6aEtkdVc0RGVSODNaMXh2LUtHWEE5ZDRMX09IMWlfVXVTdVA4Vl8ycnFPX19LNEVRVDhIMjd6QQ?oc=5",
+   "title": "Microsoft, FAA, Chase: The succession of tech glitches rattling everyday life",
+   "outlet": "NBC News",
+   "published_at": "2026-11-16T23:11:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -4257,6 +5537,16 @@
    "published_at": "2026-11-16T22:22:22Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHMxZEZmZmItTnVuOHJ2UFM1TnFqMGp0Rzk3LUF3LWhrdlp5amZQN1BRSDJ4Mml0cExFNHdlNWk4VHMyNXVZaUpKTnFDNE9STXFKYVktQnRwQmRaSXlJWUJEMktsYkl4Ylh1cmlOTkxDSGJhRWdZMjR2WFh5dlFBbVI3emVQaE5jRTNUNE1zbWlNOC11MDFKS3BEakM5aS03ZDJoelJjUFJJOFlvT29mZndwV3RVZGZqYV9temFPbGlTSkVpNWlvcXZpNW9sQ2hMRl8xa1h4bzlnYXdoVjNsU1ZnREc?oc=5",
+   "title": "Could technology outages become the new normal? Expert explains what's happening and how to prepare",
+   "outlet": "Click2Houston",
+   "published_at": "2026-11-16T22:22:11Z",
+   "entity": "Other",
+   "category": "other",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -4621,6 +5911,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnltSHZmZExjeWlQTzdUd3hUd1J0Zi1yTE4ycFhrOUVTaUxHUGhjWVYxNXlDNzFFbHpwUW1OQzBvdzZvZG9fUjVsZXpJZW13WW5iaTM3SGFCVnN1Z0ZWcWdib3RxSkpqWVIwTzQ2OVBoS2pKNGtvTVNuWmgwNk5hM0lLZ1lwU2FrS0kybjdES3hvaW54MHRr?oc=5",
+   "title": "FAA, Microsoft outages show the perils of system upgrades",
+   "outlet": "American Banker",
+   "published_at": "2026-11-16T20:43:24Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnhDdm9nemFDeE9EbzVSRUgtcHFSS1RpdDVrMFp2OEg0WG1VSUhlVWcyX1BvUFp0NU85RDUzM1ZoMGZHUURQZkg3YVdJR2F6S213NzJZVHMtdGZ5aTVFVHgxdlJCQU1mNmRUMk5OYjVTOTllTml1ZW9yb21GTGtJMTRmdTFSc3hWQXJuRzhSVm9JY1g1dktBVEJxdklqeU4tNV9LOTM5YjhucTdZTEdhU3hreDd1cll1S1hvTmJhSmk2VTA3RmtRMnVWT2t4enZGakYteUpNMnZwb0plLTVJ?oc=5",
    "title": "Bank of America, Chase and others are reporting outages across the country according to Downdetector. See link below \u2b07\ufe0f \ud83d\udcf8 Andrew Dolph, USA TODAY Network via Reuters Connect",
    "outlet": "Facebook",
@@ -4761,6 +6061,26 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vSEhtNzFBeFgzT1N5d0lsWWpROTBBQlkzV08yOC01a0VaeVgxZ19ldS1ybWtfMUNZUzh2aDZCRHM0TEVMQTZaNGQ4QVgyODBoQzFvWDhnckpDNXc3TGV0VTM0ODVrZjZRNGVhMGV1d21oMFhwV1lCN1A1VnlJUQ?oc=5",
+   "title": "Microsoft Apologizes for Massive Global Outage and Says It Was Caused by 3 Main Factors",
+   "outlet": "People.com",
+   "published_at": "2026-11-16T18:35:17Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRjNkRk1WTGZpOHFMekZkYzZjQWxkdjlwWkRwNEZ3dXNJWXJnY0ZMR1Bhd0JDQzd3STFrS0p3SUh0TFB4OGZfUEdBY0tQM1dwaV9lYnZqbWhrMGphNlVIX0tQY05FR2xEd1V2OVVrMkdLMkxJS3FpRktaWm5rRjlTUUhaNU5ZcVZNeHdEd1VUYURZMkpqakE?oc=5",
+   "title": "15 hotel guests were injured by chlorine poisoning due to Microsoft\u2019s global email outage",
+   "outlet": "The Verge",
+   "published_at": "2026-11-16T18:29:55Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdTRSY08zVTludHI1dWYtX2F2RUFBbnNSa3VoMnVVV3NTcXdOeHN0Y3NJZFpzd1NXOHZtYU1iT2xIZnQyMzQ3cnNsQmp6SzdGbDhBbThfODAxUVFLRlRlbG9oMlhSUUFXV2ZDLUk3UzlRbDJZbkMtd1p4S2dzNjdORHVNZDUwbTFtdUszVThGanhwdjEwN2JJcURXeDhKZ9IBowFBVV95cUxOV282UjRoNjdrWHQzc3RadFV6NGlzMVFPTmlZaFRqbWhNdGg3WE5xMllURW5fdFFlOGx0SmtLLUJIekljNEFOd0xxNDNaYTFscWlVRGJaOHdEQzZtQ1cxY2dWVFBfMVBRdnowWWdIZWhWdzZlTWdGRnRGSEVkdjBzT19SdE5qNjB0dDRScnkwWGV2TjBPcUNpbUdLVjQ4RUQxUGt3?oc=5",
    "title": "America rocked by another mass outage as banking giants hit with 'technical bug' just days after nationwide flight shutdown sparked travel chaos",
    "outlet": "Daily Mail",
@@ -4807,6 +6127,16 @@
    "published_at": "2026-11-16T17:17:05Z",
    "entity": "Airlines",
    "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTklJVHd1LXEydlFrOE92ZGdqT1N5NXN2MzNOeExGX3hyYXFQT1dWTml5eVF0Nk96dlNSYUVOS2RMWUFNbnJCRWZMYVhtZzVyelIxbXpIRmpITmZSNEQ3Mm14aG9jY3JfeTlFMU92anJ5bUxIeEl3ZW9sZkVCdWtEY3piNnVLOG9iekVxYg?oc=5",
+   "title": "Microsoft outage: Three times a failure",
+   "outlet": "Computer Weekly",
+   "published_at": "2026-11-16T16:57:15Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -4861,6 +6191,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWh2YXVGVGduSHl5RVhuZmJ0d3BvNWtaTmxoYUR0bDZMZVF0YmZYb1o1Mk9RR1B1a1FqQThkZm5EZnRGWi1FQ2Q3eGNfeFNROF9Xb3NwZndvMjZzUUNRNzdFdDhfYzNqdS1zZjBtMmNyWjZNUmpfOWt5bTJZRGFUSHN4TzJpdjNDcGwtZmNqYS1jY2VVTEFIWFVB?oc=5",
+   "title": "Microsoft 365 outage blocks hotel chlorine alarm email",
+   "outlet": "Meteora Web",
+   "published_at": "2026-11-16T15:33:58Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHNCbmEwSTZ3SzlIVTlYR2VVVENPZGpOUGFiX053MHlEM1dydXVSbzRNTE0wdS1xaTl6eUlDdk9xeVZ3NkJhUE01RGdZamY0cm9LUi1UejJ6Vlg4c1Y4V05MR2lzLTE2MUY4WU1UNTFxUmhqMlVYd2dWZWNleWNiQ2JTNUxsNjN2S2tVM20xZXRhVlJwaFJRZTlVWjBGTmZsU3FmOC10YjY3ZmtuUzBENjlSTGU2UkVpQ2N1Z1V1WQ?oc=5",
    "title": "How could a bug hide since July before the Microsoft outage? Why dormant bugs wait for months",
    "outlet": "Nacionale",
@@ -4869,6 +6209,16 @@
    "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUJlVG04Y2lpRmN2MnotaG0tR1NxM1dnV0lQOUw5SFBVc25ldUxiLXZ1TlE3aDA5MnZUbmpQbnBRRTU4aTdkcXpsOXhLWGIzMHV6T20yUG50b0Z5WW5YVHRuVXI2MkxkYmFRXzV3eElVNWw3Y1Y2bGVaNEh2ZXRTVGl2Q05SOEJoVEptc25XcUYxTHpuNkQ2Uk03TktKQml1aGJYSHZLQUwybl9mZF9aTTl6ODktUVMwcHg0ZTNPakxPbEd0SHFSREtlZ0pGaFo0TWfSAdcBQVVfeXFMT08yam1ucHNIa0JCRHpQZ3g2NjV3TTI5c0p0RFJqdXZoRUozVTJnSENYNE1BblFVV0Uzd21ZbG01Z0xKVjFhNUs4YmJhMlFKM2NrbXVKOEJKWk5nMnI5d2dyUEdzbnpfYXNRSUNFX3RuRTJfYklNRnNHb0M5THV3VDZiVzZTNjhrYmlCX1QtQ3hWazAtWmxXUXlYd3VTZDRFTEotcnVVUFNMbDdfcmFqVjN3WlhoaTMtM3hUcWVaNTFBbGJSMUMwb0FiTVYxNVgwamRiTDVlNjQ?oc=5",
+   "title": "Microsoft Reveals Root Cause Of Massive Microsoft 365 Outage, As Months-Old Windows Bug Crippled Over 80% Of Servers",
+   "outlet": "Wccftech",
+   "published_at": "2026-11-16T15:21:47Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "software-change",
+   "cause_evidence": "...ssive Microsoft 365 Outage, As Months-Old Windows Bug Crippled Over 80% Of Servers..."
   },
   {
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRGtLV1ZxNlZBNGVzUFoyQ1dWYmxlYnBSaUczajZDVXpjVm5BalNaSklBTUxMRldwbUZNeDNJRWZrU3IxbGt1VkRmckUzYTl1UFVCbFZRaVRfZ0JJRHZFdjJELVYwTU5JTGN5cWk5Y0dFRDJJSzdUaUVFeUkya1hheVhwOW8zT3NJQXVtdE9wU3Q1UDh3TVFaczE5SUlPM1FLdk5FNjF3NFN5MXdHOGJMMGdLOHZRNGl3djk1QWhnRHJodGgtQUdlelloMkI?oc=5",
@@ -4905,6 +6255,16 @@
    "title": "Microsoft outage saw 80% of servers fail \u2013 here\u2019s what happened",
    "outlet": "9to5Mac",
    "published_at": "2026-11-16T13:43:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hU0pzNVFrZVFKQVZEb2xRRV91eElrTmhmUDFuOHB2TUZBaFlpNmIwV2FGTWUzQk9wbVdDQkR3cTNOWFhrNEVoZmZobDZES1FTR2wxQmoxcjBxUkNoc2FsRHE0bGwxQTBQR2dweHRfTUQ1VmYyZHc?oc=5",
+   "title": "Microsoft outage blocks chlorine warnings, sending hotel guests to hospital",
+   "outlet": "Cybernews",
+   "published_at": "2026-11-16T12:34:50Z",
    "entity": "Microsoft",
    "category": "saas",
    "cause": "unknown",
@@ -4951,12 +6311,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeTQ4OGo4Q0xxQmhhNDBONEVXb2xKMGpfYmhTbUF5RFNjb0tCRjg3QkZfLUFGMXBGZWlRRTNscDFRcWdsVUtHanNKbEhGRFhfMWx5TE1mR09mRzAwQ3FkQkJrcERfcV9OVDNoeGFFRGtYVEE5UExRcmtnN1B0UFVYX3hFTENrLXpwSnRqZkZyOWRRVGRReFE4Zmx2NmlNazB3NXk0?oc=5",
+   "title": "What caused the global Microsoft outage? Why Outlook went down \u2013 and how the issue had been hiding for months",
+   "outlet": "The Independent",
+   "published_at": "2026-11-16T10:33:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lYjVxVFUza1RZRl9uVUNJM2EyMEw5WWJ5Y3RKZkNTSlFkMVBqME1nVlVvN3NRSEZuNkdYYzdyTHlCY2ZQNlIybFlyRmMyR3FNNG5HbGc2MktwRmdIZm5uRkZXLWs4Y2phLXfSAW9BVV95cUxPd3dJa2JCUXNoOG5hb05UdzJDUjFpLWNsLTZfM01RaVZkV3ZXaHo2OEtTQUlZWVFGS0JfTkxPc0RlZzdZZlpreEhMem5yNi01dldDRllRSUhjcktUMFRmaTM1Rk45VG45T0F5cTFaRTA?oc=5",
    "title": "AWS Confirms Major US-EAST-1 Outage Disrupted 11 Cloud Services Before Full Recovery",
    "outlet": "GBHackers News",
    "published_at": "2026-11-16T08:56:35Z",
    "entity": "AWS",
    "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUC1TdHhwNnVCRnRwcXZsREVFeVpNalg0dkZ0UUJvNTdlYlJGLVhLTnFYQ0FYZXJ4bTBvaG9GckstYk1mRXFOUFp4Rkttb0JQZS1pWklwX0VBU1NDYlY3NDVPNVRUdl9LQy1aclpvbkRnVlpCdW5GSmFCUUlpX1Y0SHNVcVlULVdLb0YxdnFHVTM?oc=5",
+   "title": "Outlook Outage: Price Bailey Offers Some Insights -",
+   "outlet": "Insurance Edge",
+   "published_at": "2026-11-16T08:47:51Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -4981,6 +6361,36 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MajZ1LU91a0FFM3hUWllLdy10Z0Vuem5tYmJWTm1DdmtTMnlrVEY4YXJBaDFzSHlwZXNMNzM3aU1Wampnd2JpdlJEOWFfZ3lHa0E?oc=5",
+   "title": "Chase outage and 6 bank failures in 2026: what each cost customers",
+   "outlet": "qz.com",
+   "published_at": "2026-11-16T08:00:00Z",
+   "entity": "Banks",
+   "category": "bank",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZmZCcS1rWDBlU1EtNTRYbFY4TE00cEVObWk3ak9jcnNsaWtabW83MjNuemxSUk1WWXZ5Q2VubUtCZ2Y5YnZkN2dNR3htVEhHUkpPbjNuczc0VmpDb1dIZ0Z3TVFaTW43Z1hrc00tTWFQQ0M5cFd4SUd6TG1ldw?oc=5",
+   "title": "Microsoft Service Restored After Widespread Outage, Company Says",
+   "outlet": "WSJ",
+   "published_at": "2026-11-16T08:00:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWEJfV21haXpneld6cDBuakxMSkthMDlzUnJ0QTE2NHRYV2gyMWpxY2sxQ1VLOXFxVS1WVDEtYUp1enJUbWtjZGtvbWlITVI2dlU2MVZXclV5SGc5WXlwVmlRN005OW5VamR3TnQtMjNUN0pJcnlQX1FweU5lRTl1OXpwaUtYZERqYzdDaWJkZ2tLWFZwVDVnT096OWdvaWEtS1E?oc=5",
+   "title": "Microsoft confirms all services are restored after global outage",
+   "outlet": "Sky News",
+   "published_at": "2026-11-16T08:00:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUmYzZDR4NjcwczNodks1N0tFUXkwWm5HYm9TYnQxV294ei1Mek11VkFROFZUQzdqLWJGV1FKUWZtd2tPeXRIVFZRaXNhOUxUYnBKTWIteXlmaDdPaTlfUk16SmxqNnZlXzRlWEEyOTM3TnNpeXllREtNdjFDZnRzb0lqUWk5aTMwMDl0ZVVHa1ZraDBpSTVkV1o4X1hnZw?oc=5",
    "title": "AWS outage in US-EAST-1 hits 11 services, sign-ins and sign-ups fail for over two hours",
    "outlet": "Pasquale Pillitteri",
@@ -4989,6 +6399,16 @@
    "category": "cloud",
    "cause": "unknown",
    "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUTJEVmU5NkZhOHVsZVBSaUl3LWstOTRTcUp2MXJZM0c1a21aX3NmRWxDZUFLSGxDQ3ZhWk9Dai0tbXBVN2piUW9yMXl5YUxuUVZXek1ubWdoY0JGOUNLTko1VzJfZXR3c09EUllEekdKVFVBcFpBT3RLbFpVTGJXdUxBNi1FckNkamNzUWd2TE5FMUJ6aU9mT3pUMXc4NkphdmhOUnkzRk1CZ2lnWlNRYlh4RjVEXzQ?oc=5",
+   "title": "Call 999: Singapore Police Force website down due to \u2018intermittent connectivity\u2019 issues",
+   "outlet": "Newswav",
+   "published_at": "2026-11-16T06:31:48Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "network",
+   "cause_evidence": "...re Police Force website down due to \u2018intermittent connectivity\u2019 issues..."
   },
   {
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CbzJta1VYa291ZTVud08xV1FCOFR2OERubVd5NGpKUHpkb2Jsd3lkR1dJcGlKMFNDTVVIX1FzVF9lbzY2ZmRNYkZmSGhMa05SWDUtRW1QVnpXUFVNWGNIVTBIZ1RSZ3FGZndB0gFrQVVfeXFMT0JvMm1rVVhrb3VlNW53TzFXUUI4VHY4RG5tV3k0akpQemRvYmx3eWRHV0lwaUowU0NNVUhfUXNUX2VvNjZmZE1iRmZIaExrTlJYNS1FbVBWeldQVU1YY0hVMEhnVFJncUZmd0E?oc=5",
@@ -5031,10 +6451,30 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96UHFCZjljMDZvYk5DYkxzT2tTVFVnVWVGMlVVczc5Tl9uSnNpQ1JZTEFybXdla21yY0F3X2NIN2N5LXRLQnJhcHdycUxSUUtkN0ROSmRuT2F3MW1XSnpNb2F4N2h4TGM3NTZsaEZpQkJKTTlRSHd3?oc=5",
+   "title": "Microsoft Says Services Fully Restored After Outage Roiled World",
+   "outlet": "Insurance Journal",
+   "published_at": "2026-11-16T01:28:23Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMXZDUzYyMy05RHpGay1vQ2xxU3phZ0pZeUJlbktWTjZySVN5Mzd3VjNGdHhHT1VRemVlOXZIRjV0YlpGczlxdElqeHNTZ2F0STZSTlpsbkR0SG5qQmVMQ2Z3QUNJOFF6NWZ5ZTFva1BBczV6LWJ1RWdqVW44SzdZcVc0U1lfQ0RqNXYzN0xrclEtZHlueEdPVThjQ25zRkxYNUlCLXRKN3FUQQ?oc=5",
    "title": "Microsoft outage shows that big tech can\u2019t be treated as too big to fail",
    "outlet": "The Conversation",
    "published_at": "2026-11-16T01:27:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ3FhQnBLU0VLVUlWMGpYWE9iR0hzNnNLWHR0Nncwd3hLXzYyV0syakduQzdRWk0yejRvcmE5WkZrazZhVWwwR3VzWGM1dnJEbUp2TVBROHNDTmFiWXZXcnZEZEQ3Q1pfRTRzak1mX0czNnRMVFVWQkVNZ2V5N2g0WUpoOFRQVlV3SFByQ0tZclA5TlVmeXF5R1k1OThlcUl1bS1kMDV2V01GeUVoUEZHatIBtgFBVV95cUxOeE1aS3JkZEtPemFkM09mWjNVSkZMaGRzWTdQSGduMGloaVdtSWtxVlJCYjZkVjZfQi1QMHEzQlhFd2FiNXJSRGRQN20yVnpHSEpmNXhzaElDak54YWt2RGlKV25KaXBnRmxkTVFVX1pyeXJqYS10Sy00cFJQNmdLS19KV1FLUjJDMjA4Z0R4UnVLU1o2bzRHY25yUDBqN1JjM3ZOQnVCRW1jNXNydXNjQ0J4TFNJdw?oc=5",
+   "title": "The Microsoft Outage Left 15 Hotel Guests Poisoned by Chlorine",
+   "outlet": "Security Affairs",
+   "published_at": "2026-11-16T01:11:11Z",
    "entity": "Microsoft",
    "category": "saas",
    "cause": "unknown",
@@ -5061,12 +6501,32 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFFFS3EtR2VqUFJNWDdWUUVqTk9wc0pac0xrbjBWTFJtTlhvVU5TWTVpdDRDTmxJM05JWjdLelJVdzA3T1N1bmFFckdVcDA2eWY3RW1jLTFyOVRFZ2F5ZkZJR1RTMHNNTWV6WnZCMmlIZ3psYm53REhpV3dNRXdUeTdjNFI2ZmVfU2hYTEZweFJ1a1VNU25OMTVNdjl0UVd5QW1GRFhzUUMxZG5jcThGUlU0bjZrUQ?oc=5",
+   "title": "Has AO3 been attacked before? Yes: a 2023 DDoS attack took it offline for about 28 hours",
+   "outlet": "Nacionale",
+   "published_at": "2026-11-15T19:44:13Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVE5tR3hwWWt5NXhGVTlFckxCR2V3dnF4aWg4cXZ6SmZDNENDcnZtVlZ0Z3c2d3dnQl9HTnc5b3drdG5xWjYxUnZCUHVaN0ptODZfR25OOGNNa2FFRmRVc3dJWWpxZnhxVnI2bmVHeTJMT1FsRG9IY2JPdVp2NURBNVU3a0poZS1Da0NmZndtZnJpQkZoX3YyYjZTRUJ2eGRzRzIyam5YVDRUck9DLVdldUZFczR5dEUwMUl5ZnFDNUxValkzUXNMcU0yNUpLbVpiOXcwYTNoUGV3dVlYUUxEdzZrV056cXJaTzJiS21WZWpYQjNZQy1hemdiQ3NEbWJ5MUpJTG9VaWZwVVFJV3dWclpR0gGXAkFVX3lxTE1DZ1B0REdyNUxVUkNSNHUwcl91c2o0bElBdGkwaVdJRjlpS0lKR0dnbzZ1aFYyNHpoM2hBWGljNkY1V2xLbkNsZ0NQYnpIUWRnMW85UG1YS0hodW9JdXRodlMxcHp0a2tGOEFZc0E5V0U0RHBSbUZoSVp5M203OXNUaWNZdmhIcnY2Q2J1Q0xNZFJGdGhXanFwWDR6OEF4TXZFUkN4OHh1c2hYM1lMeGNQalkzODRHTTRLdlJQQWprNWxZRlh6ZlpaU0w5OWQwLUtGSDBWa1J2R2hsMjV3U3UwMFl4d0xvd05YNUQyZnUwODVwQkpKOEJlRGFtQ0FtMVprZHhkb3B5c2trNGp1YldCU3hiS0tQcw?oc=5",
    "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App, Login, Shopping, Payment & AWS Issues | Amazon Downdetector Status",
    "outlet": "The Sunday Guardian",
    "published_at": "2026-11-15T19:04:41Z",
    "entity": "AWS",
    "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHlBTjc5WHBiMUo3b2tzRWFQY1dKYXpvbkx4ZFlEeU42Z1BmdjdfakxKQnhaRmZKMnhGVktfSnFwVzRvQkJkMGlSWGFMb2VRZmNLQnBCU255UGpLajBVbFdrbzAtOHp3ZXh2RktPcDFzcVJyMHZ3SlJXaDljaE1iNVZ2eHVFckk4aWNEMGxjS0g?oc=5",
+   "title": "Outlook outage blocked a chlorine alert at Phantasialand, 15 guests hurt",
+   "outlet": "Pasquale Pillitteri",
+   "published_at": "2026-11-15T18:34:09Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -5101,6 +6561,16 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1lxSnU0dkJVSHdKLVlTMmFnS05lWG42V055TDIzdW1SNVU4U0IzSEoxenFYSWVXMXVldkpCWlJBLU5yN0Y3MmhxbXktMFl5dFluRVUtcG9BaVgzdXVpTFJ4cVJiQkx2ZURybEMwMjdpeFpJYU4yTi1GQ24tYnItdkV0SWotX0pDOWxtTHU0ZjJUSlZFSEJ0UGdOSDJVUQ?oc=5",
+   "title": "Duffy Sees No Sign of Foreign Cyberattack in FAA Outage",
+   "outlet": "The Defiant",
+   "published_at": "2026-11-15T16:17:04Z",
+   "entity": "Airlines",
+   "category": "transport",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPNUtBYWlURV9kUWtiR2FoOVdHZGtDRXIxQTBDejk2cDhLQVZxTFpGN21uS1ZuZXRNTW41QUc2Y1o3YUphV2NkbWJwV3RRMUZMdlhPMGlMQkRjeDFqTlphRnhwalpEMFdDYV9QMXV6UHU2REJleEJHcFdOVGZ2Y0lUYlZ2d01seHF3UFhaTndVUzRxTUVCQ1AtdWZ5OWY0bnVsNlJUQU1GZ0dfSVVQNjgyZ2lfXzNxMEVkYXBlQ0hQWjJtUnRjOG5mUDNzYUJTbWtuVE5jTjdqdzRrVnliVnBJQnlkRUxDaU1YLTJJdkkzNm41QzB5RVlDcC1jMWpHZHpLd0VKR19RdlV0OFp3am4xRU9rdU95bUUyTGdkY1cwTWFKN0gzR1lZVXFoN2JudE9UUlJzeERpQQ?oc=5",
    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests \u2014 email warning system fails, 40 first responders deployed for triage, four taken to hospital",
    "outlet": "Tom's Hardware",
@@ -5111,12 +6581,72 @@
    "cause_evidence": "...\u2014 email warning system fails, 40 first responders deployed for triage, four taken to hospital..."
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPck9kdEVBMFpHZGNSR0xLS0RTaTJYQkR1NDQtYmVyRm9UY3hNczAtSUxZUFRCcHFnNnpyWk04dmE4VzZjcWJ2Y1BJc1FNZnJVeUFvblVWcXlEdl9ySHpSOWFNbHR4ejNsS25sRjJVOFVmLVVIMUM1cTN5cmxiU2ZkNTdLTEtKdU5Dd2htQk9aWnR6TU91WnNXY2QxMkZQZ2M2RVJBMEdtN1V1alF4TmwySWJ5R3dEXzRVQnJvNU9EQ2pqT1M1YzlvMjFnc9IB2AFBVV95cUxNVlgwcnBBcjdXdkZjd25ZMFk3U2JtdWZvb0laYmVaUmVLazJqd3EtZWdOcWQwdEdJQTZLSXl3VWlVb2VkYlRYblQ5U3RzeVZEekFla0NHWUMwVldsX0tsMnBjTFJFTEs5SmtycVlzU2hYN1VjYXJ1Qjh6YUc5b3E2T2pFNFZPM3pxV2dNMXlfMHNUNUlnSXZ1TVVFbVNZbDhBaXAwLWw2Y3N3OGxMSFNJWktyaVU0QjZLaDlEamVsVnJieG8tc0xBQVhBM1hIdlhBeE9YTjdHLTM?oc=5",
+   "title": "Microsoft 365 outage: How a single tech failure can disrupt businesses worldwide",
+   "outlet": "DhanamOnline",
+   "published_at": "2026-11-15T14:51:27Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVnNBRFVIeHJYMGU4dEZ6UFBwVm9DSll2NmNoUVJFVE1wRUtQOU5UX3pGQ2o4M2VjT2dUazlhVTRGVDhSUFBGRFJCRWRSMmpLUTVsUXZycWIyWl9USzRndzF5N3Z1Tk9ZaGdZTlR4WXFqUWpJX0hVMnNmMmdONHF0cmZrbERmS2N6T1E4NVRn?oc=5",
+   "title": "Microsoft 365 Root Cause: Latent Bug Behind 36-Hour Outage",
+   "outlet": "FourWeekMBA",
+   "published_at": "2026-11-15T12:54:51Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "software-change",
+   "cause_evidence": "...Microsoft 365 Root Cause: Latent Bug Behind 36-Hour Outage..."
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWjNzWmhna3VaaHZ2RFQ3bEtUSmZuempWbXgyWTdDMzFuMUpJQllDY3BkYjFTaGRuMmF0ZHkzVThLbUkyX0xTVUYtd0xCWk1Sd3kza1VZdFpEdEo1d0FidHlwNlRmckZIeHdSMzJhVzBtWlNyaWFjbTZSNE1QVXpRcjJhVk0zZUpFQlkySVVKMGF4RFBwNkNheWJCWFZyeUlaMG92QjMzbG5XNS12eXNOX2VSaVVxdkZIS0RTUnVaeDg?oc=5",
+   "title": "Editorial: An Outlook outage brings pain for Microsoft, chaos and relief for users",
+   "outlet": "Chicago Tribune",
+   "published_at": "2026-11-15T11:00:48Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS3NzckdXN1NZaDVfbk84ZjBvUjRIa3V1TmVEenJnQ1BmWkQwTks3a0RwZHF6Z2NSNWI1c1Z0eFhpYkhJZGpfSVBWQmJrMU9LRW5rTlBIWlYzakJPT3JMeEg3OVdicFpqRjI5LWxPdHg3bWpGaHJXaFJFem52T1RCWGJGdUI1V3V3eFYwMVBVTmZlb3B0cGlnTV9xX3k3MDJKa2lWNVFRSnNtSmPSAbABQVVfeXFMTmJUZDJ3UGpuVGtZQU04QzN4N2JybEQ4bDIyN2dWTGlMMHVQa1BfQ2Q4QUdycUxzcVBpaExzTVE2RzQ2Ukd0ZWQ5Q3QwWkZvWldNbUJWOXJIbk1KYzR1aDRadmpXb0xUQUNpb01qaXMtZEs3T3ppVy12U1NPTEpoTmRSWmRqUUdIQ1BUdEdPMmFoRlZ5eF9MTC1aMTJOcDJsV1ZRa3JBSnI2QXY4TjBLdkI?oc=5",
+   "title": "What were some of the biggest tech outages before Microsoft 365? | Microsoft on Saturday restored all services | Inshorts",
+   "outlet": "Inshorts",
+   "published_at": "2026-11-15T10:33:26Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPb1ZHTW5LOXhqVTZrd3UzQnpyY0pNLTg0eFVCVVFVc2NBTnZiQWJabWxMdmx1N2ZwVXk1RDhpM3ZlYkR1SFpQWVFwaXlQNVdxNktwVDNjdTF1ZzZTMklqZUhPZVVoQ0Nnc1F0TndCeXo2YTNfeklyQk9kQjRQNzYza3dDQ1ZBOUI1cWtvaVhuOUoxMVZQcHBhNlRsN2pFRkUtSFk0YUtlODA0bTJHRkgyZWZHOGtZTTRoYUJZM2REYkpoVDBiU3B5T2N5dnh1OFFBc1ZhUEFNV09FNUt1Nmg0OTZxT0V3RzV3V0UzaEZaTnZUUnVYR2VsZjZR0gH_AUFVX3lxTE00c0Nrd0VOeVpIbFhscHdEU3B4VjA0UDV4ZW1pM2tjcENmdk1hV1VNRVhNZVhKZ3FVc2pWaU9LV2o1b01hc00zMzM4Q1VwQWFkWWowcGxrQVZKV0FzR2oxY0R4a2Faci1pS3Z1ejd4WkRndmY2WldXa1Yya3F5eUdfb2pEdzk0MUp4UG5Mc1ZvR0ZDMzcyNU9oOWJ3cDBmdlFlbnE2YTJBRzIzVWh4VlRzakd4Sk1MekZhVzJVWWdJSDN0UmYzY09UcGNFeUJScFRqa0hNdFg3aEVSQ0ZZNFIxdVFpZ3E1Nk1yaGozSkU1VXNUbTZzOFVkTDBYaUliUQ?oc=5",
+   "title": "From Microsoft 365 to CrowdStrike - Biggest tech outages that almost brought the world to a standstill",
+   "outlet": "Livemint",
+   "published_at": "2026-11-15T08:28:42Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05Qk9QamNNejJiaDE1QVJCQlgzTzh2eE9mSm9Md2M3Z2EzUEFXRW1hUG5DcENPZS1LUkgwbG8xLWR5NEhDZnFESHF2QkJXMWVnLWlxOHFqRnhYOThETlptck04cWxha0ptLVQ4eFNnTF91WGhoeUI1X0dB?oc=5",
    "title": "Google Cloud Outage Hits 7 Services, Revolut Down [2026]",
    "outlet": "shattered.io",
    "published_at": "2026-11-15T08:00:00Z",
    "entity": "Google",
    "category": "cloud",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWJ3V2hTUXNWcFdGRV9VLUt5WjFuYjV2T1g4QVJKbmVmNXYxSXZnV0tDWWh6RWdpVnJVa0tjMGJ3UHJOaXg3T2diS1J1RTBMQTVhV2lENG40WDZPRzA4S3B2YWxBTW92Y3VqQ28tZTJsTUpLcW5mbVNWZ1JmQW9oNHE3bDFRaFVlOElVRVNjb3hDQk5fSEU4SFhDem9SSnVmcElxSQ?oc=5",
+   "title": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated)",
+   "outlet": "Reuters",
+   "published_at": "2026-11-15T07:59:24Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -5141,12 +6671,72 @@
    "cause_evidence": null
   },
   {
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1d3VFZ3Z0JMZkQxdXB3S2oxbmhMWDZDRUM2X1hHMWljOVhoV28wQ1VkMkZIMFBuRWl6MWFMSEY1OUNjN3dYQ2V4NHZfWnA5Qm9EMEdJaERlN0hrRFdWeHpoZUR4emF1TXhlSDFsS3d0VVBXTElaTklCa19hZlBCZlJnSjJPV1BmeUpJbEI5MjhvZDE2YWRDVlZDQnZxbjhyZndySF9wOU12dW9fOGRXaHdxZzZwUVE?oc=5",
+   "title": "Outlook went down, then air traffic systems. It\u2019s been a bad week of outages.",
+   "outlet": "The Washington Post",
+   "published_at": "2026-11-15T02:42:31Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BwaGNac0VESjJsbHppTjVuN2syUTNyNWZrZlhsUDU2S2N6TFlTZWpQbXlqQVFFdFNibVdraDRsb19TRTNVbzdfbXlpSldua3pmS3NDZEp6R3dSRTk4ZGhLNDA4QzJQTUtpY0tVTXVIR3p4Wl9rVlg4ZUJpN2dnQmhRTmVmTkF6SWg3THBoOGVKMy04Z3F0Tkd2YmF6STZ6ZENXNlJuNS1HZVRtTlE?oc=5",
    "title": "Outage That Swamped Air Travel Blamed on \u2018Routine\u2019 Work to Replace Copper Wire",
    "outlet": "WSJ",
    "published_at": "2026-11-15T00:18:00Z",
    "entity": "Other",
    "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVl3QVg5ZHFBRHJCdWxtT1dTNU1fTEZqa21BLS0zN1dGakNkd2pBbWRadU90WGhyWEhwZlpVRzZ4OXRYQzBnZWJOcjRTaDVMSTd1UWNlUXNWUFZlM3RCUnhidy1OZ2pKV2FrMkxpMzRYUFlCa05hTEJDaVhTb0tYVDJaRlV2cHdHUzBmNHBkMXFfWlVFM2dzVHU3ZDNXQzdjV1E?oc=5",
+   "title": "Microsoft says all services restored after global outage",
+   "outlet": "The Washington Post",
+   "published_at": "2026-11-14T22:00:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM01adi05T1FWTGJmNVNsa01HekdoeU5rOHVxU2I3Unl0Q2FUWkdINGZNN3dGR2VtRDdPbzdJSERCTGRtaTNtcU5vckE4UEpZaGVYTS1SX3Q3cWJUcXNZTWZTSHB0RXY3VHdIYnEybWR6UmNoZUJEOFJSTVppYTM5Zk81akdsV0ZoTVZCUFNCYkd1N2ttWU5TZVFZQzh1VDNxbFY4WjdkNHLSAa4BQVVfeXFMT0NZNF9hWmdNVU80RE5mQzk1eW45WDJhUDBqclRMUG5UckoxZ2NzcEwwT25yYzM5Z2NaVEpfRk53azFnNkZJSzFyZHBUV3ZzQi1WZDlxTHpWMGRDc3ZMOE1VNldfSjlMbGI3bzYtYmw4WU1lQjFmVFotTlFGUkhsUHgyY0NvYlBKWE5GUGstRnhxc3RYUFZaVjdPRlNwZkMxTWVUbzUzdFpjY3dhMndR?oc=5",
+   "title": "Microsoft services fully restored after global disruptions",
+   "outlet": "The Hill",
+   "published_at": "2026-11-14T21:39:00Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43WUVhSWpuaWN2ZjlBYjF0Y1BYS3VXOV9LYjV2anF2VDlGVHd6ZVRVTnNXQWp1VUlJdXdBTk9zUVFQNGtwUGhZMVpYOU02Y3M5MUZzMm1UV2prc1VDSnJQYnVJSFlmX21ZZVVWV2lydDVBcDEt?oc=5",
+   "title": "Workday's Backup Test Took Payroll and Timekeeping Offline",
+   "outlet": "UC Today",
+   "published_at": "2026-11-14T21:06:00Z",
+   "entity": "Other",
+   "category": "other",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUUh3Rzd5T28yYTE1U29maFNoQmJqQmk2bDdDZ2JnMm45N2FWRjRDX2g2YlhmUTd6aHltSVI2eDNxeU84TVl4NzBCbnZ6Ynd0dzNTd0RLVUlpUWlmYjAycVRZM1BZQTRPcGt5MWRFTmMtYmhzRDBZZk00STRqS1AyX0k5OURYanJmV2plTUwycWtMdG9GcURRbjZvMDM4OVBqT0N2NW1xMC03STBCcURnM1ZjbS0xU1JSWUNudEtZNl9mOVNQTlVNYlp5a3NwS2x1bFRFbC16OUlSempxcTFRZmZqY1IxMDg2azQ3VjFubw?oc=5",
+   "title": "Microsoft exec reveals details of outage",
+   "outlet": "News.com.au",
+   "published_at": "2026-11-14T20:51:49Z",
+   "entity": "Microsoft",
+   "category": "saas",
+   "cause": "unknown",
+   "cause_evidence": null
+  },
+  {
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUU84V3lpV3NzZ19YbndTb3I1RGJtU1V6eExMaWlvUFpyZVVOaE9oV1pVMG05dVQ3NmwxLWhGVXp6bi1MOUNiWnFwZ2Jabm0zWXoycG5IR1V0SnNYcHEtNng0akhPek4xNGpXMllDMGxyc2RYdmV5S2xoLXZucHZmWnFxQ0ZaVFVZd0U5bTBKMVFDRjZpZlA2d2ZR?oc=5",
+   "title": "Emirates Pokes Fun At US\u2019 Aviation Disaster From Ground Stop & Microsoft Outage",
+   "outlet": "Simple Flying",
+   "published_at": "2026-11-14T20:10:27Z",
+   "entity": "Microsoft",
+   "category": "saas",
    "cause": "unknown",
    "cause_evidence": null
   },
@@ -17375,27 +18965,119 @@
   {
    "entity": "Other",
    "category": "other",
+   "date": "2026-11-21",
+   "articles": 8,
+   "outlets": 7,
+   "headline": "Tech outages are fueling a new doomsday economy",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmVDdkdkhjMVlqc3c0Q21Tb0I0bi1TTHdvYVhDWm11X2t6eTBoUzlTWGlYLXpNTlp2bGNnQ3MzSVc0WnBQbkY3MHVzRVpRRHFQQWlEUXlOcE5yQUV2T2ZnVWxlQkt2andiXy1rSm5VTG9VamtvRUpLdjN6U2M3UdIBgwFBVV95cUxQZ1c5SEFMOURPekZKQURlaG9aTTdEVjZFRi1BMnBBUkl5Skh1d2JKY3d1bndKLUpXYVdtNWRHWEM5SHpEOVI4cnBheS1tZTl5cXpNRk53WXktSUlJcnRkTG9BMExxOXJ1QlpoMjdzblZJeTdWcXJ0c0p1MFdQR1VzQXhObw?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Other:2026-11-21"
+  },
+  {
+   "entity": "AWS",
+   "category": "cloud",
+   "date": "2026-11-21",
+   "articles": 3,
+   "outlets": 3,
+   "headline": "AWS outage on Nov. 15 disrupted 11 services in us-east-1 and went unnoticed",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:AWS:2026-11-21"
+  },
+  {
+   "entity": "Microsoft",
+   "category": "saas",
+   "date": "2026-11-21",
+   "articles": 1,
+   "outlets": 1,
+   "headline": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUzVEMnFIMDdJN1RyQl9kaVpBTHBVdnVKZlFaVmV4blRXNWRBNW9FS1dETkF2Q243b3NxR2U0c0FiVXd0Qm9wLXpab1dBQnRVSlNiZzJOMEhYRGlPbklPSWZmNTlLMmZ5RUg4VVRsWG1saW9XZ0FOLWlCaFdHTGdiZ1VDeGtWZGxYaWI4T2xtenpwUzRyU051Y3BCTG1haDd4aHVVQ1Zlc0EyYnNtNVhyQzhvdDdWU3lvbjR2NQ?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Microsoft:2026-11-21"
+  },
+  {
+   "entity": "Airlines",
+   "category": "transport",
+   "date": "2026-11-21",
+   "articles": 1,
+   "outlets": 1,
+   "headline": "FAA Outage Triggers Nationwide Flight Ground Stop",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUVVhR3hmek1jTExReWNlTk4tRUNkVnh2dE9RalNmN0hLRVBvLTM5UWVuLUl4OEFMRFBweDAzaWQ5S3NzbFJsM1VVa2E0Y1M0a2VkVGdTeExMMXJWbG5xdkZqU3YzRTdnTUxvc3MybnM3emVoYnN2YTVicUQ0NTRJT2Vzb1ducW1hQlE?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Airlines:2026-11-21"
+  },
+  {
+   "entity": "Banks",
+   "category": "bank",
+   "date": "2026-11-21",
+   "articles": 1,
+   "outlets": 1,
+   "headline": "Chase says customer emails were exposed days after a major banking outage",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEV1cGJfMUVHR2x2UVcteFZiWktDWURvVG1qa2ZDT05kQVpqdmhVU0VFMmZhbmVvMmtWZGJBZ3gwVVhGNmdKVDFDNEtLVXRYaHRxUnBrTlNicnlxV0x5TFc1Q2NYNkZKOTBoRkkwUlJxT011eGdobjhoVmFSU24tLU9KUnZTa3hVeUtOeV90U1JSb3A3QXJ3YjJrYU5DdmQ4ak1pZ2l5dWNOSTQ3ZmhPcnlaVWxPT0hW0gHMAUFVX3lxTE9LQTdEMDE2bVYxUGQ4b0pZQUQxa1dvQzJ4djRBWlRKdE84cm5qMnVzYzV5R0p4bGJYLS1reFJHX3YzeWs4MWUyX2pvcEhuWVNQdjFCYW5CZFd3RWhnYldSTU04OHJveGl4bEk1bVJtRW9XZF9adXdIQ0VjM0RkNTNJQWZkVVlhbW1sVVFaZjhPUUVsT29RdHhObUVQX1g1RVdIUy01SVJ3NVpXdmcxdFQwYjUzZjMyYmJwR2s2SWZrdHdGZ1lSMks0TThXdA?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Banks:2026-11-21"
+  },
+  {
+   "entity": "Other",
+   "category": "other",
    "date": "2026-11-20",
-   "articles": 12,
-   "outlets": 11,
-   "headline": "USDA Confirms Cyberthreat on Loan Software Amid Widespread Systems Outages",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYTNKaHpvaEFLc0ZjRUtmMHdKbzhvdnJlUUZydE8tSXAzYXpGVzdCN1VMNTBnMDI4SWYyTFBfZFlpR1ZxNnUxS0h6N05Lc0JfenlwNXdub0F6RjZnVnBaWW51bkVqeGo3ZTE3b1NaaDl0dy1hMWdJc0RZUEszRWFWSVlOU3BYaTkxckEteWJ4eHZBdS1lRG9vTEFyelVRVGJ3VkNnVXFSa29TenI1VkRqZmpqOVdmSUdJaVFsejAwc3c?oc=5",
+   "articles": 33,
+   "outlets": 31,
+   "headline": "Cyberattacks, AI and tech outages: Experts answer your questions",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLTc0RWt2ODJlZXdjcUphbmMtLUtzREJza3hrckVaYVliX05IbkhNV0czM2NEYlhhY3RpVXEtYzlQVEhCTGhFWnFmelRNdWctb2pwVXJBdjJ4Z3dtcEdOUVNqXzlKT1pwWmZqUnhFMmdBWDJEbUN0S2pCc2JKM2pCQTFwVHNDekVRR1lwV3BsaFJZOEgyMzdqNVpnR0RybHVSN0NVa1A3TkRQVWJObGNQZw?oc=5",
    "ev": {
+    "network": "...Inova Health System reports brief connectivity outage...",
     "third-party": "...pects more outages after reported cyberattacks on third-party service providers..."
    },
-   "cause": "third-party",
+   "cause": "network",
    "cause_basis": "press",
-   "cause_evidence": "...pects more outages after reported cyberattacks on third-party service providers...",
+   "cause_evidence": "...Inova Health System reports brief connectivity outage...",
    "key": "news:Other:2026-11-20"
+  },
+  {
+   "entity": "Microsoft",
+   "category": "saas",
+   "date": "2026-11-20",
+   "articles": 6,
+   "outlets": 5,
+   "headline": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive, SharePoint and Login Issues | Check Latest Downdetector Status",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOWFVhdGhCWUNSeTBBTTVzQm9fMmFTd3cxUkU0Mk1tQ2MxeTFEcmltc2hCWVR4SE5vc0ZEbnN2QkVSRVJmREtSYVBMOFlialhObEdCWXFuNGxRMEVKRERzOG5nNHpELUZteHpsLXh6NzVPNk9rejVfb01nZmkxdHpVeDgtNmNlcUE4UDJKazVOMnJsdmRNZ0hhNnpmT3JHeUZkRExiZU5xZ1FzN3RZT0NYbU5KRkpfVXpiTUpTZU9Ob0ZvdGRDcHFtNGNnSW1Ta1V3Vk5jVzN1SkF1U0RhQjVUclR4WHYxTVFXcTRYbFRRWmJ4amlkOGVyQUJWMkkxWHk1S280a1Y1enIxOVFpQU8wc01QbXVXSmI3aDNVdU1SNW9nNF8zcEt6eEFTeHZaaDdDOVNSQVBydW1KZ9IBvwJBVV95cUxORTJBeTIyNmx1MVdBeEYtc1ZOblRScFRlXzhRenZKXzVVamw3ZXI3NS13Q0IyQXFaNjhScUpUX2JtQzZUY2Z4X0J2dTFmMHVHX0ZpR2g3UUE3VXkzOUdjSXBzaUZPdExXb3E3SW9pX1dJZ1JKcTFBdVhCYVE5R05wbG5kYk5NbzlhSm9yck5ENVNLMjZjdGhSTENLLVBjeFZjWjhpdDhoUVd6aGdrNEppdURPUWI3SnBiMmV1ejBmekRrRk1JQVZiR0QtRV83ZVlSaWJudF95Mm1PNFlINlBSZkZDZThrWkM0b3I2VC1wZm92emk1a3VFczMyZmVUMWV1N2E4bjZvYjFhQV9yeE1DVkNPWmZFSWdDN08xMlZHaE1sZzNLYkpSYmJOTk1OTW0zU1d2NjhwZlkwWWtYVEx3?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Microsoft:2026-11-20"
+  },
+  {
+   "entity": "Airlines",
+   "category": "transport",
+   "date": "2026-11-20",
+   "articles": 5,
+   "outlets": 5,
+   "headline": "1.5-hour-long system outage forces United Airlines to delay departing flights",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWkdfdHNJMFVFcGxQVFJjYmNROEtaME04NGV5dmRJaGFrWlVUM2tkS3BBOVRkMVZxUm5uNHNzVW0yUVRpWnJLVnJjcGtIY3JvX0JpUWUtTzJNc25YYV9VcGozVEhZSko3MzJSY0NrMnhZc1l0VFlpaXFHXzlpZHhIck9BT1FuM0RDZkVyYXNBa1NEV19DbDlJdmJKS21tbDlJd0JRWmFiMHdlUTd5cjdiYkR4aVYzZ040TWdZR0tTNHZGdGYzNE0wRG1sYjZ5QzBPU25MRkZWdUk1UUVnb3A0NWd5NzNCRzZZVzBzdkYwaFowZ1RVSkdWN2U2aFhTVVZpck5Xd0RRNVZNZw?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Airlines:2026-11-20"
   },
   {
    "entity": "Banks",
    "category": "bank",
    "date": "2026-11-20",
-   "articles": 3,
-   "outlets": 3,
-   "headline": "Banks race to patch vulnerabilities amid amplified tech outage risk",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGtTVERnNDZDcVloVmxJNS1tb0U0SWZqUk8weWlqTFUxTW4yYjZFdkQwNFZhNFc3WlFscVQwSHNCVnZsSU5aYnhEMWo3RVJUc0gxWVZvYzE5UUJhc2d1aTRvWmk4UTBId3hQN0hmcGFyMHhLUm1na1NZTUJsd3ItRFhhY2tWTTI4SDBUdXJCeFRqWmdKcmkwRXh2QVdSbTZhV09DTUpIMkE?oc=5",
+   "articles": 5,
+   "outlets": 4,
+   "headline": "Chase Outage Today: Is Chase Bank Down in the US? Users Report Online Banking, Mobile App Login, Account Access, Payment and Money Transfer Issues | Check Latest Downdetector Status",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3RXNVdtTngxQXpJaDVnREZkLUlZV1g4d014bFdnWEdEd1BVRkFnSjJSM3F1RjlPSG5Qa25PTkR6a0l3c1pWZ2VPVl9XMWdmTW92WHBkTXoyNVN4MFJXQjU4Qko0REVwME5xWmctNEdWcVh6TUtsclhFZUxMamM2YXE0amJ2OGtFVUV2WERxTnJONVBVU2x4OXJHb2xSRFdRRnpZbDB5VnY5ZU0zNWFYdGdycVY2UFB4N2Rmb2VpeTVJMzI2QnZNY0RCR0RhZHdJTGUySWt2MklmcDNrWTJrd19BbllHSk1ISHZ4MWVSR0tCZU5OendMYkpmaW9oSFVtVmxMbjRQZGFUcGRiaVB4M1Frc21lRzk1aTl3dVh4TFZHRnVUcWVCdUhWbUMyY0xxeG5uUHhHaEhncjJOTjN5ek5aRzfSAcoCQVVfeXFMTy01cVFsYUNwWXRIZEUtRm9UdVZVeXNyZ05UbTM1U0JtVGJCRkFRenZyemxscURON0lVY2lRTjhNckQ3NmN3Z3F6QWNjdjhQQmdHdHhVOGNjQ2RNc0M0S2JDNUMtX3B2NjRpZU9IUndpMXltUTRMZjdoY2NMSDNETllsYUp6dHNySXBqa1NPNWhIVUJvN3RNVTIwVmRiR3BKTng5YThjWmZEQmNDZmstbXhkZDBEclJ4eXR2N0t1N3NGdXphZDNXWmxfYzNwYXZnbUx0WjNfZlFvRTlRU3I0dnRSV2lQMU92VWh2Vk94WnVoLU80aGxiczFXMGVnOU03Z1dkNXktNGkzSjVNWk81SjYtb0pWbmp1eExFZDV5S1pzN2xRYkVsLXcycXc3TXBZOFhDUjJlUXptR2FIWDQ0MnRHbFpnYVhkbVpR?oc=5",
    "ev": {
     "software-change": "...Banks race to patch vulnerabilities amid amplified tech outage risk..."
    },
@@ -17405,17 +19087,17 @@
    "key": "news:Banks:2026-11-20"
   },
   {
-   "entity": "Microsoft",
-   "category": "saas",
+   "entity": "Government",
+   "category": "government",
    "date": "2026-11-20",
-   "articles": 3,
-   "outlets": 3,
-   "headline": "Microsoft Outage and FAA Ground Stop Are 'Just the Opening Chapter' Top Cyber Expert Says as AI Gives Hac",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQNGItR1pxbTFyRkk4c3RrcC1KSktRWFdDejMzbXJmTkZqX0pDanVlRE9ybEQwVFh4NGxsRTRVTy1ZbFZHNFpkZzI4c0tYcHhpek9SVXZuTTNvRlZOb0lkcm1pS3V3UlE2V2otWnJHYm1ZYm5oa2R4Tkt3MTdLakJBN1BwbGJ2T2E1LU1ra0k3bkpUV1VOMm9jUVEzZmEwc3R4VU9MOW4wWThFaGprczNHZjNuT1EwQngyVUFSVXpQNEk3eDh3S25yWll5QVJtbnQwcEhmRzNVV0tHT2hUOVg0b0dEdkFCaE5vckY3ZWhwcEFRdko0WXhOR0RVVDBtUVJlNkxISzBxUXBac1BPVzdHMHNGR0ptU2ZuWlNNZUZ3?oc=5",
+   "articles": 2,
+   "outlets": 2,
+   "headline": "NSA\u2019s top-secret communications network restored after nearly 4-day outage",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1JUZHUyNDFVX1NVQjRyUDk1dVh3RGtnMkhLWUUyWUhMWlZiSlpTeDQwRlpVRmNuTlVldHhmTkhQeXNWXzJoOVZVMldNTTc5clBDQ0VhaVFoSnNVeXRfSVVhMXhGb0JENnBZWXYzblVDYnhJT2xvdWhEX3BSck1BWGVqcUtyakx0TjhwZURCS1FIRG0wcHFDbFkzT0RvU0NQaS1waHhoRHl4a2pWZkE5ejZn?oc=5",
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
-   "key": "news:Microsoft:2026-11-20"
+   "key": "news:Government:2026-11-20"
   },
   {
    "entity": "Apple",
@@ -17431,24 +19113,11 @@
    "key": "news:Apple:2026-11-20"
   },
   {
-   "entity": "Government",
-   "category": "government",
-   "date": "2026-11-20",
-   "articles": 1,
-   "outlets": 1,
-   "headline": "Outage at NSA\u2019s highly classified communications network has been resolved, sources say",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOck9MTGhNNDNhVTQzZ2R1NkV2T1FpY1lrYmFfYUNRUE8wenByZGJhRHF5clMxNkh3Qmd3NmtkVjRxREYwYjZJdERnczcwT0FrZ0s0MFkxRlF1bFI5eFVDbktpdnY0Y3VsRTRPbFVvTVJoblQyYWNfVWVtTno0M0ZSaTY0YVI0R25TbUt5TWRn?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Government:2026-11-20"
-  },
-  {
    "entity": "Other",
    "category": "other",
    "date": "2026-11-19",
-   "articles": 27,
-   "outlets": 24,
+   "articles": 29,
+   "outlets": 26,
    "headline": "Maine businesses roll with tech outage impacts",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdzh5YjZLek9Ncm9YVHByODcwZDZheXRnYmR3dnpqeTBrUHZ4d1hrdTJnNmQzVzJod1hJSGdGclVTNnRVOVQyVzNkT0hyZkFFTi0zNVRpWnZEVzRGejRkNDRLeXdUNHM4cXRMT2JJZ3E1UzFBb1NsTnVmcEk5RFNfQ3otM0xOLWtYakEyc3pXUQ?oc=5",
    "cause": "unknown",
@@ -17460,8 +19129,8 @@
    "entity": "Microsoft",
    "category": "saas",
    "date": "2026-11-19",
-   "articles": 22,
-   "outlets": 21,
+   "articles": 25,
+   "outlets": 24,
    "headline": "\u2018The whole internet screams at once\u2019: Downdetector logged 6.4 million U.S. outage reports in a week as Microsoft, the FAA, Chase, and Apple went down",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaS15THU3NWZJcTNpQWktQUN0ZTNrOHZwcEdBYjV3UlpUMWE5bGtCNEJzcW5sWGU0NkE1Z2d4anMzaUx3ZmVLLWlUSWU5WkltLWZ1YU9JYkF4MzVyLWVVbERQSjZTV2RzQmh6RzF2SmZKZHhkeE5HS2Z2R09MVkh1dlc3NF8zVDF6alYzaDU1cWlRSTdCbGJPRWdB?oc=5",
    "cause": "unknown",
@@ -17470,11 +19139,24 @@
    "key": "news:Microsoft:2026-11-19"
   },
   {
+   "entity": "Government",
+   "category": "government",
+   "date": "2026-11-19",
+   "articles": 7,
+   "outlets": 7,
+   "headline": "Classified NSA network is still down, leaving some staff working from home",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUhNaFQwOXBDZG8xaUU5Z19RdWdYYUhzTjd4aXcwYkJGMkctSU1nRHdZcnR4MjRGdURBQjU5OVVLYnNsYm9UeFpZNllEb0psVU92SVNzdWhZb2J4bFVxcHEtLUpnd01uUkNrQzRkSVJtS09GNmNSTk1JUFNWdDlBT2pwakdEbGNZN21ZNlY5aUlGNjFwRE5VU3F5VUZYVEhRYWdkWUgtelgxSDV3SXk2QThTa3JGWVBP?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Government:2026-11-19"
+  },
+  {
    "entity": "Banks",
    "category": "bank",
    "date": "2026-11-19",
-   "articles": 5,
-   "outlets": 5,
+   "articles": 6,
+   "outlets": 6,
    "headline": "Amid recent banking outages, should you start carrying cash again? Top advisors weigh in",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DalhWWFlHdGFKeEVaZWhNMTBRcm82Nm5pYjR2N0hVVktIMk8tc296d05SeWF3VmJaYUdzOTU4QkFScXZwbmpHdkpEZnRPcUZfQVF5MEpyM2RoNGJZNzZlUWtDclpfMHpRMFVZNDczVXFoc0NyaEHSAXtBVV95cUxONmJJX1lnU0N1eWR1TllvNmh6SmROQXdYNGRBODNhc1d6enRwYnNXb2lVckFsX2RxODAyN0l6elNKbTlTYjVUN3doRlRaTVBadDFvSDRMQmdPUVpHMFZOMC1KS19FRFFsdWY3N3pyV25ISjc1SUNWc2pxQUU?oc=5",
    "ev": {
@@ -17489,27 +19171,17 @@
    "entity": "Airlines",
    "category": "transport",
    "date": "2026-11-19",
-   "articles": 4,
-   "outlets": 4,
-   "headline": "Fact-checking Mullin\u2019s House hearing on FAA ground stop, outages and dirty bombs",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOG5mS0FVVEIycnJNd2NLZXhvOHB2Q0YwN0w1dDAzZG5kX250ZWdHVXJkN3NJREVHM1BBczZPVUlLakZob1R1djRBUnJ1RFBUNGhqMkxibzhRTlRrSTQ1SFZBUzVSVTJ6dUMzbEsxaFhibGg4U0t5LXFrTnZWazJkdkxhR3NoZEZFWXJSWXJuMVQ5TFFoTUpfVDhwZTVnSVctXzJrM19sbVlRTDVEeE1ISEF0V2Fxcms?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "articles": 5,
+   "outlets": 5,
+   "headline": "FAA outage reflects the delicate balance of bridging the copper legacy and next-gen fiber",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZnlVVUtyVTdHeFlFMFpuRW03NWlPd1JJRVRrbGs4bFdhd21Ga1h1QjZwdllnbGwza0Nob0h0ZlBNZ3hOcDdwTDMtN3BidDRwYmRZT2VpSFJpSGhTNnI1M0dKQmtxRjFjUHJsSExkNzM5YW0wUEh4WFM2Z3FBUVJvQ0VtWUJ5Y2pYUDhhYzdGZXoyajhRR2VmUHgwcVFhdWhiUEp4S0VuTWQxYms2UFhldHp4bjh2c1pYclRyQVpVZHVBcnZPek1uQ1ZzYnJteHl0eWNXTGZES1BjUTA?oc=5",
+   "ev": {
+    "network": "...alance of bridging the copper legacy and next-gen fiber..."
+   },
+   "cause": "network",
+   "cause_basis": "press",
+   "cause_evidence": "...alance of bridging the copper legacy and next-gen fiber...",
    "key": "news:Airlines:2026-11-19"
-  },
-  {
-   "entity": "Government",
-   "category": "government",
-   "date": "2026-11-19",
-   "articles": 3,
-   "outlets": 3,
-   "headline": "Classified NSA network is still down, leaving some staff working from home",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTUhNaFQwOXBDZG8xaUU5Z19RdWdYYUhzTjd4aXcwYkJGMkctSU1nRHdZcnR4MjRGdURBQjU5OVVLYnNsYm9UeFpZNllEb0psVU92SVNzdWhZb2J4bFVxcHEtLUpnd01uUkNrQzRkSVJtS09GNmNSTk1JUFNWdDlBT2pwakdEbGNZN21ZNlY5aUlGNjFwRE5VU3F5VUZYVEhRYWdkWUgtelgxSDV3SXk2QThTa3JGWVBP?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Government:2026-11-19"
   },
   {
    "entity": "Telecom/ISP",
@@ -17528,8 +19200,8 @@
    "entity": "Other",
    "category": "other",
    "date": "2026-11-18",
-   "articles": 50,
-   "outlets": 42,
+   "articles": 67,
+   "outlets": 57,
    "headline": "Reports: PlayStation Network outages spike during 'Grand Theft Auto VI' release",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZm1FbzlacGNWWTEtZ0FBaFVfbnJXdnU2RWNBTGtpc2tEaUpzRFpZY2tweHVVMzRuajZITThhSEpQMDJQZzRpM2RHTmJxclA4WDAwcnhoYUxlLU9wUHB1TzFGUUR2SFN6TWw1YTVtbS03MTRxd2ptM3dndzZmTDNWc3FMX2hwamdDNzk2YXdVNU9xNHVTTkJ0bWtWSzRqS3BrMlpEcTM1OC1hVjZnY2MwMFp4aw?oc=5",
    "ev": {
@@ -17545,8 +19217,8 @@
    "entity": "Microsoft",
    "category": "saas",
    "date": "2026-11-18",
-   "articles": 20,
-   "outlets": 17,
+   "articles": 21,
+   "outlets": 18,
    "headline": "A.I. Makes More Tech Outages Likely, Microsoft\u2019s Chief Warns",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSzIwNVFQYVRJeDNJaWFLUUlpV0hRNEpaZ05ISnJYelI3dWJsbWNzallzNkR3eGJCRlpZcE43ZlRaQmJIWThMbkd5VnJtZTd6S1hFWDFHUXJJQXBSeEJNQ0l5M1JRQjZjR0F3eGI2RTQtLWlmOWJIUXB2YmFzamZ2cGtsM3MxVnQxUE5vUzgtWWNUU2lxNk1n?oc=5",
    "cause": "unknown",
@@ -17558,8 +19230,8 @@
    "entity": "Government",
    "category": "government",
    "date": "2026-11-18",
-   "articles": 10,
-   "outlets": 9,
+   "articles": 15,
+   "outlets": 14,
    "headline": "Sources: NSA outage disrupts key hub that supports Middle East intel and operations",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSTJnb05uY0hBejZ5OHNKOTBoQ1ZyYVZHOEpHYXhzX1dnYmtXbjJteVZfakJjdTNyVnkzOUhxbGRHX3JWQm5hU1FWSmUtOXVrVFFPbmZ4ZGN2TEhZVF8xRmd3ZllMWXg1RUp0cFNfYm5DLUhCWUI0RmRIWHlDcndfLVk1RGZUNG1Cdmlad3NB?oc=5",
    "ev": {
@@ -17574,8 +19246,8 @@
    "entity": "Banks",
    "category": "bank",
    "date": "2026-11-18",
-   "articles": 9,
-   "outlets": 9,
+   "articles": 11,
+   "outlets": 11,
    "headline": "Thousands of users report Wells Fargo services are down in latest outage",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaWdrX1hvMGVUdC1NTkRDVnpHOVlCclFCamRCZUNDZ0NwUFFUcFFXdllGOGdLVENCd2czU0lhZ05QbFNTeEZPUnh3NndjU0F0b3huQzYtOUI5cE8yaUFVWFFVa3V5VWNIUEw1RVp1ZWtnZl9RdXh5VXBXa01CYXVBd2YxZVptSFFyZDJmcW4wSW12OWZJaDYzNg?oc=5",
    "ev": {
@@ -17590,10 +19262,10 @@
    "entity": "Apple",
    "category": "consumer-app",
    "date": "2026-11-18",
-   "articles": 7,
-   "outlets": 7,
-   "headline": "Apple outage affecting iCloud, Apple Pay and other services appears to be resolved",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTXlSYms4U0dyYmVKNnlYSTFHVmFCWWt2XzZ0Zkp5TmV2N1lta3VRN3hJN3I4ZHd2dS1VdzBMMGZyUDFFcXBCbzdvZ1c2NFRRd2tMQTJ2dlVzdXVZRklhTGNFZ1E2bkVjUzVrVjIzTWZzTkc4Tk9kTE9OTF9wLXRpTWF0MzIyRi1oZktobTEwOVdTSHRBdWVqLWgyUlFxTUI0SWJoM2NWTkJMQ0hxTEE3TG5VZFlsNXF0bmVzRmM0RC00UFQ0Y3RYRmJUeDUxcWgtMUNDaDVZTHJlRW9rN012NGZWMzk3NnZTNVZJNzFXS2FuM01ZeWc?oc=5",
+   "articles": 11,
+   "outlets": 11,
+   "headline": "NSA network, Apple services go down in latest outage",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzFDNGZZM293cXB0SDFIVXo0LWlLYTFTWVpoMDlyTmlOT2tFZUdqdTJ3Rk9xNVNwXzZGcUR2eWN3UnQyNW9QUlFMbTdqRlEzNEV3OG5Oa0htU3hLN0hmdlJkeFlYRnpLdzBxenYzSEdhTWstVlZxa1lZYnRCcG5tcXZfdDA2dFE?oc=5",
    "ev": {
     "software-change": "...Apple services down: Outage caused by internal software update, company rules out cyberattack..."
    },
@@ -17606,8 +19278,8 @@
    "entity": "Airlines",
    "category": "transport",
    "date": "2026-11-18",
-   "articles": 3,
-   "outlets": 3,
+   "articles": 5,
+   "outlets": 5,
    "headline": "US Sen. Tammy Duckworth, Democrat from Illinois, seeks answers after FAA outage as officials rule out coordinated cyberattack",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQczBrVlBwMkxPalR3VTlNeEdjbUdEZVM0N1M1T3JJUWdPQnFKZk9PQk1QTjBPdWZBeWF5XzVvRHE0VnIwTlZlNjMzMFFhVHBTQ0VGQWpGQU5RUlI1WjRSQ3N6Nm9FR0lNVHBhR3R1X1MyaVpLX2NSUU1FQWRQWEQ4ZWZjUlh6ejBZbFl5YTR1Skd0ZnpmZlVtcnhzd0VUNWVZYUZsLUIxQ1VsaFpwa2VybnFNNktVaWtpRHpLU0JQcEhabC1TTzJ0LXE0VVlkRDl2eUxkM1N2NS1yaUXSAeABQVVfeXFMUE9uYWZ1dlJKX2dQc0E0WjdXRUlNNDhXbk9jZkRGVDhXUVI0WlFmTjU0NjJHU3ZRQnVBWEdzTndQVzZDaWhXYXNUNWM0Tk1HSTR0ZlBzS3NGdTZKQ0l6b1BUSjJEcEVfZFpTZ29TNnNSUVVWRjJoWFVjeWR3TkdQcVluOUdWZjZMMDBvWmo4dGpSUU9iMk1vRTlxODhCLWhxeUhCSEdmR3RTSFJDZlNmTWFjNU1kWDZDX2R6d1U5bWRyeER3N3V0RkJWQ090LXBjUDBaNE9jcVlLdWk4WmlHdEs?oc=5",
    "cause": "unknown",
@@ -17645,7 +19317,7 @@
    "entity": "AWS",
    "category": "cloud",
    "date": "2026-11-18",
-   "articles": 1,
+   "articles": 2,
    "outlets": 1,
    "headline": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
    "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNcThPR1ZVUm5qbHNRSURJQkpUTVZpbGRlYzR1ZWhNZjNfeS1NdlJ5d1BoU2x2bWpjSnc3OTY2dkF3M0VwejRRQkJUenJGd3czM1MzWjg3cFVTSTJ3OFlQNk5FWm80c1NrLTB3UlpKeEZ1Zkc2VTRabDNJb2loeVE2Y2hna3dCcGZRR0hlSFpJYXFLcENFWFdpQmZOZE1JVk5vdGNfYWRIRDVEMUVjZWUtMUs4Z010eTlvNmVsY0N6MGFHT011ckpFX3QxckJudU1ybG5yWmRLcVl2dVBRS0VZTjc5NC1teTdBSm5hZGFXaS1iaEVicjZ0dmRLRHd6UGVxd0tZSU1ackFrM2ppUFZpczRlWGVEVTQ3X21BdDlpZGhJTG41VTZBODU0bEFwcC1uajJXcHVaN1NsUVhhV3VKaTN5ZnVMX1QxOFVvZdIBzAJBVV95cUxNcThPR1ZVUm5qbHNRSURJQkpUTVZpbGRlYzR1ZWhNZjNfeS1NdlJ5d1BoU2x2bWpjSnc3OTY2dkF3M0VwejRRQkJUenJGd3czM1MzWjg3cFVTSTJ3OFlQNk5FWm80c1NrLTB3UlpKeEZ1Zkc2VTRabDNJb2loeVE2Y2hna3dCcGZRR0hlSFpJYXFLcENFWFdpQmZOZE1JVk5vdGNfYWRIRDVEMUVjZWUtMUs4Z010eTlvNmVsY0N6MGFHT011ckpFX3QxckJudU1ybG5yWmRLcVl2dVBRS0VZTjc5NC1teTdBSm5hZGFXaS1iaEVicjZ0dmRLRHd6UGVxd0tZSU1ackFrM2ppUFZpczRlWGVEVTQ3X21BdDlpZGhJTG41VTZBODU0bEFwcC1uajJXcHVaN1NsUVhhV3VKaTN5ZnVMX1QxOFVvZQ?oc=5",
@@ -17658,63 +19330,24 @@
    "entity": "Apple",
    "category": "consumer-app",
    "date": "2026-11-17",
-   "articles": 53,
-   "outlets": 48,
+   "articles": 58,
+   "outlets": 50,
    "headline": "What to Know About the Apple Outage",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xOEdxWVBiSmpISmRJSnIxTUlKVGhXcnZhTHJWMk4tbjlNb3MtdmdSZ0h2NUI5ZElVV1RKdGVYNzh3aEJFaWc3MW50dTlGQkN3RjNmS2V4M0VkMGFNeHl5b19nSUxfS2VTVjhwUXRhd2JtRlh3dnc?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Apple:2026-11-17"
-  },
-  {
-   "entity": "Banks",
-   "category": "bank",
-   "date": "2026-11-17",
-   "articles": 33,
-   "outlets": 30,
-   "headline": "A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes.",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2gtTHEyb0xaMnRtRXNJeU95SkNPZEpkV2hvUmVyc0lnQk9wc1ZnSDNfczVqZkVrcGU4Sjh0MkVSZTBzTS1RYTh2MEVlaDZvdHkydFhETjdKa05sSUU1RFg4b0poeHZVRmVyX1hYOWtqWDVVNVF0VUpfY0JWYzVDa0EzMXlidlpRYndXT0NVcnhqaXlNOHNZ?oc=5",
    "ev": {
-    "software-change": "...ays issues are resolved, blames internal software bug for transaction delays..."
+    "config-change": "...Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day..."
    },
-   "cause": "software-change",
+   "cause": "config-change",
    "cause_basis": "press",
-   "cause_evidence": "...ays issues are resolved, blames internal software bug for transaction delays...",
-   "key": "news:Banks:2026-11-17"
-  },
-  {
-   "entity": "Airlines",
-   "category": "transport",
-   "date": "2026-11-17",
-   "articles": 33,
-   "outlets": 32,
-   "headline": "United Airlines Outage: What Passengers Can Claim Under International Law",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2MUMtcWxxcHNwVW1mQ0pQdDk0ckNoTmlWNHd0Mm5tR0pyT2lzN3NfdEVRMHRtUXJkRVFZemItb1BXaDBhcjR4RkQ3cUM3Nm9wVmNsMEppYnRsbjBYUEVvTTJqRGo2bTZvSzk0?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Airlines:2026-11-17"
-  },
-  {
-   "entity": "Other",
-   "category": "other",
-   "date": "2026-11-17",
-   "articles": 30,
-   "outlets": 27,
-   "headline": "When tech goes down, is Austin ready?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44U0NMLVRENExhaW1PYURnc0Z1cmZaQjAwVFRXWVFwZmdTU2d6UmhLYXpPaV9mdkhBcVlNYUtyLThUOWpQdjhPaFp4NnhGajI4YlUwakljWXp3MDFSQUFKaTZ4ZWRQQjlPV001M0wtRml1bEtubkM0?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Other:2026-11-17"
+   "cause_evidence": "...Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day...",
+   "key": "news:Apple:2026-11-17"
   },
   {
    "entity": "Microsoft",
    "category": "saas",
    "date": "2026-11-17",
-   "articles": 24,
-   "outlets": 23,
+   "articles": 38,
+   "outlets": 36,
    "headline": "Apple, Microsoft, Chase: What to Know About the Latest Tech Glitches | National News | U.S. News",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMGljUzdZNWF6TzRDOWpOYUlhTElzamJWcEpUN3Q0RVo1MEFiMkN3OG5kc0w4MHRsazVuRlgzc3h3clcyT2ZTaDlPMHlDR0tRWE0wTjZSS2Y2a2ZwS2pCdnJlMl9NdkVkOGliZkVKZGp6Wl9tZTBycjNpblA2c3FzN1FfX1MtU3YwbDhnRkVPWDVfdFpfeGR0aGMycy15TnVzN1M0djZJc2dJYVBCMmwxdHJvTUt0S1d4NExRejJ0R3FUeUlyMlE?oc=5",
    "ev": {
@@ -17727,11 +19360,53 @@
    "key": "news:Microsoft:2026-11-17"
   },
   {
+   "entity": "Airlines",
+   "category": "transport",
+   "date": "2026-11-17",
+   "articles": 37,
+   "outlets": 36,
+   "headline": "United Airlines Outage: What Passengers Can Claim Under International Law",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2MUMtcWxxcHNwVW1mQ0pQdDk0ckNoTmlWNHd0Mm5tR0pyT2lzN3NfdEVRMHRtUXJkRVFZemItb1BXaDBhcjR4RkQ3cUM3Nm9wVmNsMEppYnRsbjBYUEVvTTJqRGo2bTZvSzk0?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Airlines:2026-11-17"
+  },
+  {
+   "entity": "Banks",
+   "category": "bank",
+   "date": "2026-11-17",
+   "articles": 36,
+   "outlets": 33,
+   "headline": "A string of tech outages disrupted flights, banking, and major apps. Here's what officials have said about the causes.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2gtTHEyb0xaMnRtRXNJeU95SkNPZEpkV2hvUmVyc0lnQk9wc1ZnSDNfczVqZkVrcGU4Sjh0MkVSZTBzTS1RYTh2MEVlaDZvdHkydFhETjdKa05sSUU1RFg4b0poeHZVRmVyX1hYOWtqWDVVNVF0VUpfY0JWYzVDa0EzMXlidlpRYndXT0NVcnhqaXlNOHNZ?oc=5",
+   "ev": {
+    "software-change": "...ays issues are resolved, blames internal software bug for transaction delays..."
+   },
+   "cause": "software-change",
+   "cause_basis": "press",
+   "cause_evidence": "...ays issues are resolved, blames internal software bug for transaction delays...",
+   "key": "news:Banks:2026-11-17"
+  },
+  {
+   "entity": "Other",
+   "category": "other",
+   "date": "2026-11-17",
+   "articles": 35,
+   "outlets": 31,
+   "headline": "When tech goes down, is Austin ready?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44U0NMLVRENExhaW1PYURnc0Z1cmZaQjAwVFRXWVFwZmdTU2d6UmhLYXpPaV9mdkhBcVlNYUtyLThUOWpQdjhPaFp4NnhGajI4YlUwakljWXp3MDFSQUFKaTZ4ZWRQQjlPV001M0wtRml1bEtubkM0?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Other:2026-11-17"
+  },
+  {
    "entity": "Government",
    "category": "government",
    "date": "2026-11-17",
-   "articles": 19,
-   "outlets": 17,
+   "articles": 23,
+   "outlets": 21,
    "headline": "Classified US national security communications network hit by outage, NSA says",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
    "ev": {
@@ -17746,8 +19421,8 @@
    "entity": "Google",
    "category": "cloud",
    "date": "2026-11-17",
-   "articles": 4,
-   "outlets": 4,
+   "articles": 6,
+   "outlets": 6,
    "headline": "Google joins the tech outage trend by announcing it\u2019s not having one",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdWdvVHFuUFFrS2p1WE9hdC1ObUxWNEY0SUYteF9MdDRXZUxYZDVqczRQMk9WVjd2clpVbkszOEtNR190aGdlOUJKTF9UT1RzU2NfUE9pcVZxcWVoa0ttQnUzNUpUTnpWQWRVM002MGJ6clZBUUlELWVEZFdXYi12QjdlLWpwS0xVTmFVVjFFWEVDR2Q1NXZLSmRWdDEyTDB0Mmc4Yw?oc=5",
    "cause": "unknown",
@@ -17769,10 +19444,26 @@
    "key": "news:Airlines:2026-11-16"
   },
   {
+   "entity": "Microsoft",
+   "category": "saas",
+   "date": "2026-11-16",
+   "articles": 36,
+   "outlets": 34,
+   "headline": "Why Chase, Microsoft and United are facing crippling outages \u2014 and it\u2019s likely to get worse",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWVYQ3Bsa3JJQmI3cDBSbUlVeDdabnItdGZacVNpc2hnb1V2T3dWUmlDb3FkU04yaDVPQ1lOZm55VkZNRllfQ1E3NXE5aDVDMnM3bGhHWTNGeTZRam1QNzJxSFhaQzFMVmF4Y3hKVUVfd0tUaUxMWnhwVU9GeU16eERLSl9aRkdqamYxVjBqcUtpTkhEd2ROY0JfTUFRUjNIUnY2VVBwV1BmQnFrMjlQeUJQNmloakNaMG5RaVkxRQ?oc=5",
+   "ev": {
+    "software-change": "...its Microsoft 365 outage on a dormant July update defect..."
+   },
+   "cause": "software-change",
+   "cause_basis": "press",
+   "cause_evidence": "...its Microsoft 365 outage on a dormant July update defect...",
+   "key": "news:Microsoft:2026-11-16"
+  },
+  {
    "entity": "Banks",
    "category": "bank",
    "date": "2026-11-16",
-   "articles": 22,
+   "articles": 23,
    "outlets": 21,
    "headline": "Chase says transactions back to normal after outage online and at some branches",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2ZFaDJ5aHZleEgtcUx0MG00LWlha2hRUVZlUUQtMXFSSmhMM2FCSEVTaW5tUG14M0l4VkVWblFTSVNXX05QVkhOdHpjVVpscHlrRmpMcFdqaGlWc2hSS25JdTdXMEQtNEx1SkxldjNkOTVmTWI4NkRlWlZmdVdJRFotLThHUmRZNnV6bXEtdmxONGdm?oc=5",
@@ -17783,22 +19474,6 @@
    "cause_basis": "press",
    "cause_evidence": "...mass outage as banking giants hit with 'technical bug' just days after nationwide flight shutdown spark...",
    "key": "news:Banks:2026-11-16"
-  },
-  {
-   "entity": "Microsoft",
-   "category": "saas",
-   "date": "2026-11-16",
-   "articles": 21,
-   "outlets": 20,
-   "headline": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbUFCdzU3WWxqWDJyOThxR0pfSENwbHdjWE50LVZfX0xSUUZFZnpTemtWN2RRckNlOW56TnZwT2pmUHpPYnU0cGtiaUJ4aFpzLXZ4OHN0a3UxVEpNenFlc0VETFE2UDJkdy1Ld0ZSU2V2MHJxNE9WN3VFMjA2U1lLRThOdE5kSWk2UVdpektzb00yV3ZjUjhOeWpiNA?oc=5",
-   "ev": {
-    "software-change": "...its Microsoft 365 outage on a dormant July update defect..."
-   },
-   "cause": "software-change",
-   "cause_basis": "press",
-   "cause_evidence": "...its Microsoft 365 outage on a dormant July update defect...",
-   "key": "news:Microsoft:2026-11-16"
   },
   {
    "entity": "AWS",
@@ -17817,21 +19492,24 @@
    "entity": "Other",
    "category": "other",
    "date": "2026-11-16",
-   "articles": 3,
-   "outlets": 3,
-   "headline": "The internet is an ocean of moving parts and outages can be tricky to avoid",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2J2MTFrNDRHYnJrRUVBSU02eXV6a3RHQVJZWDJHYnp6cHdabjViXzZlckx4N2psWGR3NXltNTJUUkQ4ajJvbnBybXZ6cVdWdkpJTi15N0RRbklMbUNKLXZsMVZ3aG5fTlBTU0U4a1d3Y1FWM2tBQlM3aVJlLXQ1NVNaVjdySEU4N2hCRS1tRXluM3E5X05JdndR0gGuAUFVX3lxTE5FQjJNSHE3dzd6M2RmdkNZSi1Rb0lpNE5BU0c3Y1hhX3hZNFo3MnY1LTN0WHRRSERDUm1EaUY2V1pmbFc2aUFGY085dE0wc0dWRzR1TFJoODVQMkQ1Uk5vSGk5VEIzX2ctTXpuMzlaS1gtdmExR0MyTFpGZ3Fwckx5MmVpcFRUaUVzblViTVNuNjREdmtQLWdrZ2xxWFlsSm1vdTRFTjFlUGlSV29Kdw?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "articles": 5,
+   "outlets": 5,
+   "headline": "Could technology outages become the new normal? Expert explains what's happening and how to prepare",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORHMxZEZmZmItTnVuOHJ2UFM1TnFqMGp0Rzk3LUF3LWhrdlp5amZQN1BRSDJ4Mml0cExFNHdlNWk4VHMyNXVZaUpKTnFDNE9STXFKYVktQnRwQmRaSXlJWUJEMktsYkl4Ylh1cmlOTkxDSGJhRWdZMjR2WFh5dlFBbVI3emVQaE5jRTNUNE1zbWlNOC11MDFKS3BEakM5aS03ZDJoelJjUFJJOFlvT29mZndwV3RVZGZqYV9temFPbGlTSkVpNWlvcXZpNW9sQ2hMRl8xa1h4bzlnYXdoVjNsU1ZnREc?oc=5",
+   "ev": {
+    "network": "...re Police Force website down due to \u2018intermittent connectivity\u2019 issues..."
+   },
+   "cause": "network",
+   "cause_basis": "press",
+   "cause_evidence": "...re Police Force website down due to \u2018intermittent connectivity\u2019 issues...",
    "key": "news:Other:2026-11-16"
   },
   {
    "entity": "Microsoft",
    "category": "saas",
    "date": "2026-11-15",
-   "articles": 6,
-   "outlets": 6,
+   "articles": 14,
+   "outlets": 14,
    "headline": "Microsoft Outlook and other services down; company says it\u2019s investigating",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhNclJqVDVBWEZzTDI5UllfN2NLMVNxVlpSdVRjN09GNEk3eWJ1MDRSUnhMZUQ3b1BfR3pkNU9NbVd1YVNHdVFHT0xQUVg3MWs0TTZGRnZoZ2dOZkVNcU1Ec21ZRnQ2bUhFQTJhbTdYeU9ySndBeXMzZnlkRmF6LVBLTVBUNURHRmNmbEI3TXZpTzF5N1hPQTROYUZFaHVVa0dfazQ1U24zaVJuSnZnUUxEY0wxT2hTRHVUZ1c2R1F1MGNRakRvSENyNy03aWRGMERxdzF1SQ?oc=5",
    "ev": {
@@ -17841,6 +19519,32 @@
    "cause_basis": "press",
    "cause_evidence": "...\u2014 email warning system fails, 40 first responders deployed for triage, four taken to hospital...",
    "key": "news:Microsoft:2026-11-15"
+  },
+  {
+   "entity": "Airlines",
+   "category": "transport",
+   "date": "2026-11-15",
+   "articles": 2,
+   "outlets": 2,
+   "headline": "Americans fear the worst amid Pentagon doomsday prepping, Black October, email outage, airport chaos",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWg3RWFHYkVmR1J0SEltSWIxX2xnMnZLS3F4dHlyVWhSaElzb21veUxtT3VGQVJWaVN5cTEyUE95ek1RLWJJMzlMX1pRM1g4b0VrR193VFdUaWprZkllSXgyMWRiWmlncnpiQ295VGF4aGliRnBPOF9lcGZSVUN0VlFqYVgxR01RcUZzR1gwcnJzcW9vNWNfbWNaUzVHZWNTQzdxbjA2NmttdThxOTRETVlEcjBIMm1oYVU0S2xhQkhUR0ZaQzlhUU1EbHQ4VFVaVXcyOWpCdXVWaVhBSU1ETnpDNHVTVVYtTWlZ?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Airlines:2026-11-15"
+  },
+  {
+   "entity": "Other",
+   "category": "other",
+   "date": "2026-11-15",
+   "articles": 2,
+   "outlets": 2,
+   "headline": "Has AO3 been attacked before? Yes: a 2023 DDoS attack took it offline for about 28 hours",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFFFS3EtR2VqUFJNWDdWUUVqTk9wc0pac0xrbjBWTFJtTlhvVU5TWTVpdDRDTmxJM05JWjdLelJVdzA3T1N1bmFFckdVcDA2eWY3RW1jLTFyOVRFZ2F5ZkZJR1RTMHNNTWV6WnZCMmlIZ3psYm53REhpV3dNRXdUeTdjNFI2ZmVfU2hYTEZweFJ1a1VNU25OMTVNdjl0UVd5QW1GRFhzUUMxZG5jcThGUlU0bjZrUQ?oc=5",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "key": "news:Other:2026-11-15"
   },
   {
    "entity": "AWS",
@@ -17856,19 +19560,6 @@
    "key": "news:AWS:2026-11-15"
   },
   {
-   "entity": "Airlines",
-   "category": "transport",
-   "date": "2026-11-15",
-   "articles": 1,
-   "outlets": 1,
-   "headline": "Americans fear the worst amid Pentagon doomsday prepping, Black October, email outage, airport chaos",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWg3RWFHYkVmR1J0SEltSWIxX2xnMnZLS3F4dHlyVWhSaElzb21veUxtT3VGQVJWaVN5cTEyUE95ek1RLWJJMzlMX1pRM1g4b0VrR193VFdUaWprZkllSXgyMWRiWmlncnpiQ295VGF4aGliRnBPOF9lcGZSVUN0VlFqYVgxR01RcUZzR1gwcnJzcW9vNWNfbWNaUzVHZWNTQzdxbjA2NmttdThxOTRETVlEcjBIMm1oYVU0S2xhQkhUR0ZaQzlhUU1EbHQ4VFVaVXcyOWpCdXVWaVhBSU1ETnpDNHVTVVYtTWlZ?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Airlines:2026-11-15"
-  },
-  {
    "entity": "Google",
    "category": "cloud",
    "date": "2026-11-15",
@@ -17882,26 +19573,13 @@
    "key": "news:Google:2026-11-15"
   },
   {
-   "entity": "Other",
-   "category": "other",
-   "date": "2026-11-15",
-   "articles": 1,
-   "outlets": 1,
-   "headline": "Outage That Swamped Air Travel Blamed on \u2018Routine\u2019 Work to Replace Copper Wire",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1BwaGNac0VESjJsbHppTjVuN2syUTNyNWZrZlhsUDU2S2N6TFlTZWpQbXlqQVFFdFNibVdraDRsb19TRTNVbzdfbXlpSldua3pmS3NDZEp6R3dSRTk4ZGhLNDA4QzJQTUtpY0tVTXVIR3p4Wl9rVlg4ZUJpN2dnQmhRTmVmTkF6SWg3THBoOGVKMy04Z3F0Tkd2YmF6STZ6ZENXNlJuNS1HZVRtTlE?oc=5",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "key": "news:Other:2026-11-15"
-  },
-  {
    "entity": "Microsoft",
    "category": "saas",
    "date": "2026-11-14",
-   "articles": 24,
-   "outlets": 23,
-   "headline": "\u2018I hope this email finds you\u2019: Microsoft declares outage over as the world digs out of its inbox",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSHZ0eG5kcWJxVUFHSV94eDM1TTNsRFprbXgxQzlHRzNpZmgxRUV3eWEtTGIxUDNMeHlxbDJmWXE4aTdPTm5ORFVhRS10YktldjllUzhsNE5ROHA3cWc5TzRURzN6SVJrWHlXeWtzVm45cTBVQk9wYkVQSU8tMGNkcFZ2bGQ1TkdrSVdENlMwRE9PNXpueWlxQVdGaExWNWJyRW1lLU5SN1ZIbVBLT3hveUNSeGx6blljVGIxSTVaTDJmZw?oc=5",
+   "articles": 28,
+   "outlets": 26,
+   "headline": "Microsoft says all services restored after global outage",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOVl3QVg5ZHFBRHJCdWxtT1dTNU1fTEZqa21BLS0zN1dGakNkd2pBbWRadU90WGhyWEhwZlpVRzZ4OXRYQzBnZWJOcjRTaDVMSTd1UWNlUXNWUFZlM3RCUnhidy1OZ2pKV2FrMkxpMzRYUFlCa05hTEJDaVhTb0tYVDJaRlV2cHdHUzBmNHBkMXFfWlVFM2dzVHU3ZDNXQzdjV1E?oc=5",
    "ev": {
     "network": "...Microsoft Outage Cause: A Network Upgrade, Not A.I....",
     "capacity-overload": "...rosoft's Azure Math: Two Bulls, One Outage, and a Capacity Clock That Won't Stop Ticking..."
@@ -17915,10 +19593,10 @@
    "entity": "Other",
    "category": "other",
    "date": "2026-11-14",
-   "articles": 3,
-   "outlets": 3,
-   "headline": "2 Outages, 14,000 Canceled Flights, 0 Cyberattack Proof",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRExhS3M0NWgxN3ZyZmVUUXBNOUoxZVZzdXBKeVk1U2dEYUlsYmtTQ2tzWUNkZ0NnU2JBNVNyQ1hqRXkwZkpBcV9NS1ZJeVNkQzdBSk9xa0NQcVpBQ0trQ2pDcXZQWDQ3ZVVhNVVUQ1NpeGI5WElJbkc5VDJwdlFGUmxwS3J4UkZIdUpIQ3NEX2hCV2htNmJ4OHlLbFlfQlkw?oc=5",
+   "articles": 4,
+   "outlets": 4,
+   "headline": "Workday's Backup Test Took Payroll and Timekeeping Offline",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43WUVhSWpuaWN2ZjlBYjF0Y1BYS3VXOV9LYjV2anF2VDlGVHd6ZVRVTnNXQWp1VUlJdXdBTk9zUVFQNGtwUGhZMVpYOU02Y3M5MUZzMm1UV2prc1VDSnJQYnVJSFlmX21ZZVVWV2lydDVBcDEt?oc=5",
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,

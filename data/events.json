@@ -1,7 +1,40 @@
 {
- "generated_at": "2026-11-21T18:06:11Z",
- "count": 280,
+ "generated_at": "2026-11-21T18:13:57Z",
+ "count": 281,
  "events": [
+  {
+   "key": "news:AWS:2026-11-21",
+   "brand": "AWS",
+   "category": "cloud",
+   "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+   "first_reported": "2026-11-21",
+   "last_reported": "2026-11-21",
+   "articles": 3,
+   "evidence_pages": 0,
+   "outlets": 3,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VGMzR05LMGZqQ1pmVjkyMFk5ZkpTQlNaMGJ4OTBmMDZnak1xVi00Q1hwc3YxWmdXZExzclljbGppMHA1Mm1kVEpNSW1XOERaYzM3cUZwUTRnaHcwZHQzOC1raFBFOEVzOUlVMjNRREc5STBod3M0?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXlBSFZUSWo1TVBlTTlRaTBPUFhGVU42RWJpY0YySlhpSG44emVVZTc1QnR1Z3oxVzN0NE5RSkJsUjdMNTFDaXBKQzUxRFJkNmU4bUUwSUJNTjdJOVh2cG9QLS1qQ2s2UzgwN25ldjZpYzQ5cXl1ZmUwMkNtTmxnR01INk1oZExFWlEzVHNUaVdhTDdZTXBSSTEwS0lpdklEWmFWYTZzcUVrNDZ0b0VxWC1McUV2UUhxOXN4OQ?oc=5"
+   ],
+   "service": "AWS",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-21T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "dropbox:h0w7s25x3j7z",
    "source": "dropbox",
@@ -172,10 +205,10 @@
    "category": "consumer-app",
    "title": "PlayStation suffers major outage hours before \"GTA VI\" launch",
    "first_reported": "2026-11-18",
-   "last_reported": "2026-11-19",
-   "articles": 5,
+   "last_reported": "2026-11-20",
+   "articles": 6,
    "evidence_pages": 0,
-   "outlets": 4,
+   "outlets": 5,
    "cause": "unknown",
    "cause_basis": "override",
    "cause_evidence": "...etwork outages spike during 'Grand Theft Auto VI' release...",
@@ -222,20 +255,20 @@
     "manual",
     "news"
    ],
-   "articles": 21,
+   "articles": 33,
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-17",
    "other_industry": true,
    "urls": [
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUZZMWx4elhMTUhLNG82TldaUUUzY2dqWG1EMlhDRWVYTmRUVmIwZ2ZLZW15Uy0tVV80bXBFZTdNdE0xY2Jubll3Q0w0VENPaGpxT0RPdWMwcGhMRmQyNWlyTDZwWEx0RTVSbTVNZW1sRWhWcWhKS0hlMG1lYW1wejB4dkRGdHQxN01oTHhOR3l2WGpuSnAxbVRLVUo3OERWUnY4NHB0NkxQbTBpekNlY0RFTUlSSFVjOVNNS05YeFhsa3NS?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnVaYlpJdTNCMlkxZlRZT0FuQmpSSll1ODRlT0RPdnJPRFMzUXNSQUtJXzh2cjVKbHNRUXJMMnlmM2dUWGxWNzdnc3l5SDFWeWdUMENuTEczMFQ2clRWd3h3M2lPOUhtWWVRZTlnTG9BU01ISG02VU5YU1RMMnEwX2JCRFRKVWZRRWdXM2RJbVNidw?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRU53VUdVa1k2VUkwZ3p5WEk2TWdzMW1RdDZxclRIalFfTGpmTFZvTnQ3WjQwcU1EcGI5V3Ixdmo3VWlNTDZBUlNSdUo2eWxpaXR5Vm5GREh0MzQxRWNuTU9BR004THYxVDFTejB1bWZiaXFsc2ZBU0M0dGVWNDA2dXloMEpFRDJwRWhLZGdPS2M5SkNBQ25yYlRn?oc=5",
-    "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWVZfRDdobUd2YU5uRDQxTV95aWJzTjFNRnFmUzEtRzNSaWNKajVMZFh0VEhEU3RMYURKWkh5YXZ2MUdDLTF0dmI4YzFxR3pmdHpPX1ktYldMYWRVSHF2aENFMkRnRFdWMkFQSFJKbVYyOVhxWTFaSEY5Rm56VXROQi1JdllZUkltM0hrSUNRV1lCallST3JQd2JYcExKZ2RGOTRRS0JkQmZaMFpza21URGtnbzhQRk5LX1g3SXFpYkhSdTZNR3pkdlJxSF9RazdfQlBGV3p6TktNVGJTYkJ3RlpKeWpxT2RqNGI0SEJLcjhBQTA4U3pEeDEzWHB6RVZfdlQ4T0Jn?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUmppTlJ1YWR6NmdXOGRWaXlWVU1HYUQ4Z01vVGh2aWRDVVNKSGNJTmtTNHZZNklpZ2FVaWJfM09Wek9ZZC1IbTRseFcwWlA4NXFOQWFqU0p3ZDBoZW1wNFZ6MThEMmpmenJRYjNqLUpHcmtRT0twOHZMQ2dsY1NQcXZRWDBDdW1pZHRGbHFveXp3VzVaUTRMZVpGX0g1ejV0d2lQY2FlNGczMmQyYm1vbjlNX01VLWF2dHhnaWFHMnpQV28xNEYyMmJWOHJNRnlBSHNVcFZBcjRiUHlmTzFmMG5rbHBEWEJleHc?oc=5"
+    "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWVZfRDdobUd2YU5uRDQxTV95aWJzTjFNRnFmUzEtRzNSaWNKajVMZFh0VEhEU3RMYURKWkh5YXZ2MUdDLTF0dmI4YzFxR3pmdHpPX1ktYldMYWRVSHF2aENFMkRnRFdWMkFQSFJKbVYyOVhxWTFaSEY5Rm56VXROQi1JdllZUkltM0hrSUNRV1lCallST3JQd2JYcExKZ2RGOTRRS0JkQmZaMFpza21URGtnbzhQRk5LX1g3SXFpYkhSdTZNR3pkdlJxSF9RazdfQlBGV3p6TktNVGJTYkJ3RlpKeWpxT2RqNGI0SEJLcjhBQTA4U3pEeDEzWHB6RVZfdlQ4T0Jn?oc=5"
    ],
    "cause_evidence": "...NSA classified network outage linked to software update,...",
-   "ai_link": "none",
-   "ai_evidence": null,
+   "ai_link": "speculated",
+   "ai_evidence": "Banks and the NSA reportedly blame US outages on patches for AI-found flaws",
    "ai_service_affected": false,
    "life_impact": "daily"
   },
@@ -291,12 +324,12 @@
    "title": "Apple works to restore services after outage caused by internal update",
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-20",
-   "articles": 47,
+   "articles": 56,
    "evidence_pages": 10,
-   "outlets": 43,
-   "cause": "software-change",
+   "outlets": 47,
+   "cause": "config-change",
    "cause_basis": "press",
-   "cause_evidence": "...Apple services down: Outage caused by internal software update, company rules out cyberattack...",
+   "cause_evidence": "...Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day...",
    "other_industry": true,
    "ai_link": "none",
    "ai_evidence": null,
@@ -304,8 +337,8 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS01oRGJLdFFiNUtzYUdLbTJHTGlFNTJsVkRudElwQjJWMU8teDQ1bUpONW5NMlBXTUZWeUxockJMVjN0bHNmdXZhWHlBbHY1STk3Zm9zcmdVcTVKbmxfM0dLdVR4SU5idUwwZjAwczFxNkNKVVpoZnctb0M3TG5xVjJpdHBGbDhKaERscDFOTDNQbE9UU2hLeGwyNHMzSmdkSmhxWg?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUThycDdKR05TZEhCTDZIaWxmNTdqeWt2a2hxdFVKeGxpUXFJdmJDSDZ6YU9iTmRWSGI0MkxJR1pWa216UVNydF9NdUdmd3g3LUlibEFfZnFyR2E0dHV1NHVkVjFDTGpkdkl4OWsxeDNXZW5lQ0FfR0lzaFVkNnl4NWtTbHlIRzRY?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVdkd0RiSEp5RzQ2WmNEZWNRM1JoYlhOekYzajU3amxGNXJLa2xVUUdFLUYtTmEyMTZqQXpfZk9KbExPbXYtZ1cySjlKQkdNOU1Wdkc1N19XOVV0d2dFUGJCNklJTVFxa0lEd1l3aDdZZE9ONWFDZW9CbjVqeUFHaw?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTUdweVBsZU9TQVNRbnhaTHN3Q3YyMHFjTnhLRTFOWVY2eVEwd0xzS2IyR1pQTFlsX1ctanFPTDM3d29Va0RLcHhzX3psd1ZOOVZwb0VpYl90RVZTMTc0OWlnX1VnbTBuSUV6amVoOXg0T2RwN3lpRTl5WjB3SXBRTE9LSjZpUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWktmYjRMRmxKXy1CbTFPU0poNDNnT2VHVm1RbGRLYTFzRG50Wjg3STMxTUZwVXBqVDNXNnZJeU9nc3EzYlNoSlRfMUoyS0RITERlS1otZ0JRS0xvNVpNTE04OWZ3Y3U4bWpENjJhMS0wN0pMc1FudzJKX3NwWDhXY3l0VFpyMmdoS2ducmtRak9xSHpod0dqaHhWRjk0cGlrV0Y2aUU1QndMYU9YbGdKMHZpdlXSAcgBQVVfeXFMTV92VjItbVl0SjlXTG5feUxBWmJ6MVc0dzY5eDVNOGtvYTJCMUdEUUVPZTctYkJKdzlPaUZUUkcybE03MnEtRmhfc1NSNzhLRk9LR0FYQ1dmdGtiMjZOazJXczM2dmJINGFTOGFfTmpTc1FMVFFkWWY3N2hVOFBDaWJxbFFLR2M3M1hJblhsRDc3LVc5SWdjcWgxWjlBamxlR3pJTHk3OHRKMElmc0pldkJKRXNLQzBQQ3NtejRlTC1zX003NzQ5RXo?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVdkd0RiSEp5RzQ2WmNEZWNRM1JoYlhOekYzajU3amxGNXJLa2xVUUdFLUYtTmEyMTZqQXpfZk9KbExPbXYtZ1cySjlKQkdNOU1Wdkc1N19XOVV0d2dFUGJCNklJTVFxa0lEd1l3aDdZZE9ONWFDZW9CbjVqeUFHaw?oc=5"
    ],
    "service": "Apple",
    "kind": "news",
@@ -374,16 +407,16 @@
     "manual",
     "news"
    ],
-   "articles": 18,
+   "articles": 25,
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-16",
    "other_industry": true,
    "urls": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWVYQ3Bsa3JJQmI3cDBSbUlVeDdabnItdGZacVNpc2hnb1V2T3dWUmlDb3FkU04yaDVPQ1lOZm55VkZNRllfQ1E3NXE5aDVDMnM3bGhHWTNGeTZRam1QNzJxSFhaQzFMVmF4Y3hKVUVfd0tUaUxMWnhwVU9GeU16eERLSl9aRkdqamYxVjBqcUtpTkhEd2ROY0JfTUFRUjNIUnY2VVBwV1BmQnFrMjlQeUJQNmloakNaMG5RaVkxRQ?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2ZFaDJ5aHZleEgtcUx0MG00LWlha2hRUVZlUUQtMXFSSmhMM2FCSEVTaW5tUG14M0l4VkVWblFTSVNXX05QVkhOdHpjVVpscHlrRmpMcFdqaGlWc2hSS25JdTdXMEQtNEx1SkxldjNkOTVmTWI4NkRlWlZmdVdJRFotLThHUmRZNnV6bXEtdmxONGdm?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3NnQ0hCMHFIU3h0UnB1R3V6VjB2NWZzT3NySkNhV2Y4NEFFNWZaaDI3VVR0MkdwVC1EX09CemVIQnVJTUJOdXJ3czYwYjgzNFpOM0s5U3VlVmM0TjB3a055Q0dGN19GMWxkWFlWMVV6MEliaXRlZ09zS3hHMkd6aEtkdVc0RGVSODNaMXh2LUtHWEE5ZDRMX09IMWlfVXVTdVA4Vl8ycnFPX19LNEVRVDhIMjd6QQ?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnhDdm9nemFDeE9EbzVSRUgtcHFSS1RpdDVrMFp2OEg0WG1VSUhlVWcyX1BvUFp0NU85RDUzM1ZoMGZHUURQZkg3YVdJR2F6S213NzJZVHMtdGZ5aTVFVHgxdlJCQU1mNmRUMk5OYjVTOTllTml1ZW9yb21GTGtJMTRmdTFSc3hWQXJuRzhSVm9JY1g1dktBVEJxdklqeU4tNV9LOTM5YjhucTdZTEdhU3hreDd1cll1S1hvTmJhSmk2VTA3RmtRMnVWT2t4enZGakYteUpNMnZwb0plLTVJ?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzYyRGtEbWZCYXVaVm9zMVgzN1VkUFJNaHM0dHBpUHdZeU4tazRGOGhoQmxBWnd6U2xPWFpjQ3M5aHVhOXJ4NGoxREpFak1wWlMyRWJ6TE1RekFzSVl6aGNNdUp3SmJacUh4eXNDdUpMTzhOUjM1UjBENVFLbTV6NXBEVDZqR2pQOE94OTFfVWZHcTNldUpWMlRuYjltaEN4S2Q4Y0ZsWEJVTDR6Z0lLcXlSaFBhLW5oeGp6SjU1bXF4dFdkbVVrRlFLckhjbWs?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOQV9vWjg1QTJHZUJKM3RCMUw5cjY5dGhDUE5YdFduZlRjaEJ5MEQ1V1kzNDRBcHFaRU1vSU1sQ25ia3lOV1pwdDJJbmYtc1BBcy1sQUpZNTNNVHZ2LUtibnRpdDYzNE1YYWl1SERadEdLcTJOclNia1RRWnVYZXJqM1ZOeTdsaG9yUEdwWFZwSmNNbTFJUkZvd1B1clBXZw?oc=5",
-    "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuSm1XN242SkdHeHpLRmZtelVmT19GMkxLb1JnZlRIRUNnNlpDS09ETXo1djMxSV91NFNCUEE0bFJKWDk5b0x3MWx0MGFVdjFzRUFEX2hJaXh4SDVRNFVJemN3bXdxcmp1cTdFbzRfR21UQWR6TVd4Uw?oc=5"
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzYyRGtEbWZCYXVaVm9zMVgzN1VkUFJNaHM0dHBpUHdZeU4tazRGOGhoQmxBWnd6U2xPWFpjQ3M5aHVhOXJ4NGoxREpFak1wWlMyRWJ6TE1RekFzSVl6aGNNdUp3SmJacUh4eXNDdUpMTzhOUjM1UjBENVFLbTV6NXBEVDZqR2pQOE94OTFfVWZHcTNldUpWMlRuYjltaEN4S2Q4Y0ZsWEJVTDR6Z0lLcXlSaFBhLW5oeGp6SjU1bXF4dFdkbVVrRlFLckhjbWs?oc=5"
    ],
    "cause_evidence": "...JPMorgan Chase says vendors hit in cyberattack, not related to earlier outag...",
    "ai_link": "none",
@@ -447,9 +480,9 @@
    "title": "United Airlines outage: System restored after flights delayed in Chicago",
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-18",
-   "articles": 101,
+   "articles": 106,
    "evidence_pages": 0,
-   "outlets": 92,
+   "outlets": 97,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -589,20 +622,22 @@
    "category": "transport",
    "title": "FAA ground stop sparks cyberattack questions. Here\u2019s what officials are saying",
    "first_reported": "2026-11-13",
-   "last_reported": "2026-11-14",
-   "articles": 3,
+   "last_reported": "2026-11-21",
+   "articles": 12,
    "evidence_pages": 0,
-   "outlets": 3,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "outlets": 12,
+   "cause": "network",
+   "cause_basis": "press",
+   "cause_evidence": "...alance of bridging the copper legacy and next-gen fiber...",
    "other_industry": true,
    "ai_link": "none",
    "ai_evidence": null,
    "urls": [
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZVA3S1RzQnl3QjRCaW1MMlJ4ejh0bEY2ZjdjVTZYS244OFdSNUN5UmdFQ2hVUFFSU2Z5Q2ZSVUpPbDVISUdGekJ3d0FQUXR4QzI4a2RsVHdVVzR5TWxjODNRY1ctdnRWZWt2VHVYSG1WR1QtX09mSFA5VGpwN1BxbE1sVFJkblhJYWtTQzBpbWhaN3czWDZsUjlUNGhhaUpZSGRvWEZlcEdFdXVBXzZPUVZGYnlNaTh6MksxRNIB0AFBVV95cUxPTTdBbDFCOXFrNm9nbXFBR3loZzN5M2ZNVUY2b2ZjaUdFWlBuWVdnLTNKVmk0SkNKWWFFMXFxVTB5aHIyYXhGNnJyS0t2OHZWM1VvZC1VLVExOTN5Y2xyTldGcHFDLTlPQjFrV3pBUHlwWVlfVWZ4WHhOdjV3RkFHNmY2d050RzVpR0Z6TUZEbHlTSExrWTNtdzFsNVBvWDV0ZjBJekpBencwaWRzd256eDhVa0RyclRjejJMZTUyQUZDcjR0WmZOeko3cHVBZTlz?oc=5",
     "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaSWNTSW04MGV3d2hOSXdvNmVnRC1lemI4eE1jMy1KcWdKWlYwUTgtTjhaX1NJb1I4MGxmYXFTeFZlOGxtUlNZaVJpY1B5bEtEb3dsN0VPa1FqVC1vSnlPSEp30gFnQVVfeXFMTnZoYjh6WHJtU0UxdzlLLUpaeHpaQ1N3WHpHRm9NSWRpZWl0RVB1NHhpYzZCUU1feU1iVGp2LTJzSXIzMzZzWm50dTVWQ1J4dXhEQVBqbnZ6QklNLVdwV0NMbGcydFVPOA?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcy1ERmp3Z0tNWEJISkU5eGxQRlR3TmRZWmpvUk4zdGR1X1BVaFVzbFQ2NGl1VjhSVVduVHhzdjktU3VCWWpCLVFXYndBZUtSYzJXeUpuMnRYR053N3EwbHRpRHRkQ0VEdnNzQngzdmNHQ3ZRbTNNTmFmenpieFJJLWZDa0RGSjBxTzBPaEQ4VlVibkNtSGRUSnVPUGtmYUpFcjQyM0ZjZG4wdVVURjNXUG5RMzl4cVB5?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcy1ERmp3Z0tNWEJISkU5eGxQRlR3TmRZWmpvUk4zdGR1X1BVaFVzbFQ2NGl1VjhSVVduVHhzdjktU3VCWWpCLVFXYndBZUtSYzJXeUpuMnRYR053N3EwbHRpRHRkQ0VEdnNzQngzdmNHQ3ZRbTNNTmFmenpieFJJLWZDa0RGSjBxTzBPaEQ4VlVibkNtSGRUSnVPUGtmYUpFcjQyM0ZjZG4wdVVURjNXUG5RMzl4cVB5?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOT1lxSnU0dkJVSHdKLVlTMmFnS05lWG42V055TDIzdW1SNVU4U0IzSEoxenFYSWVXMXVldkpCWlJBLU5yN0Y3MmhxbXktMFl5dFluRVUtcG9BaVgzdXVpTFJ4cVJiQkx2ZURybEMwMjdpeFpJYU4yTi1GQ24tYnItdkV0SWotX0pDOWxtTHU0ZjJUSlZFSEJ0UGdOSDJVUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0xFOWZkSzhLR2RhVmZRTFo1dFJjM0lvOVRtcF9xaUtxRF9OWktfdlZKNnI1Qmg0UGpZSE4yWkxxclVhVTNiU0NtQkQ0TjEwdjVhQkpHd1dYSTNud282VVhtUU1IU2lGalRoZWR3ejJ1VGNwYkYzTXhIVDU3YVRMbXkxaG5leHZjYWo3MA?oc=5"
    ],
    "service": "FAA",
    "kind": "news",
@@ -675,7 +710,7 @@
     "manual",
     "news"
    ],
-   "articles": 185,
+   "articles": 229,
    "first_reported": "2026-11-12",
    "last_reported": "2026-11-14",
    "other_industry": true,
@@ -5488,6 +5523,40 @@
    "life_impact": "daily"
   },
   {
+   "key": "news:AWS:2026-07-24",
+   "brand": "AWS",
+   "category": "cloud",
+   "title": "PlayStation Network Goes Down Worldwide as AWS Outage Cascades Across Gaming Services",
+   "first_reported": "2026-07-24",
+   "last_reported": "2026-07-25",
+   "articles": 4,
+   "evidence_pages": 0,
+   "outlets": 4,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVF93UXBxU0M2dm1DU2R1SWR3MHplZGVNR1IzRGw1U2NlaTJUeVV4YzNnS0xmeDRFSUdXME5ORFRpNW52ZmZEa3VkY1Yxc2NGYWo0RUFfeXpRMHBxTDNjUFZnN29OUnpuMkR2S19yb1c2WkltMTl6ZW02NGxVTGktTWktREN2cGtiZ25EVVREVkdhQXJSLV9EczJPemlPdTlxMDM5WUhZSWVNRE12T01SbWc3STMydEUzU2Z0WDA2SjByVlg3cW9RQkpUUDhKYVVjbDgw?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmlGUGw4bk9TZ3R0T1VTWmZtNGMyU1dvSXJyLXd0dGh0NUUxTE9TdFNuU3NLSDhscndQRkFiUDBjcFZsS2dHTUI5S2J3TDczdTB1NUJKWU8tXzF5czh6dl9PYjByXzhqc082MHU3dWN3WUQ5UGFnM2RQdHNEMWt6SzAwWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDNGWnJxN3VrTDFNUE9oZkF6LTZ5NE9GLVZYaTd0ajNJMjlOSmJfbG5pYzlseWRlaGdPTC1veWlGZWI0d25kMkEzalVPLS12RGRSR2ZTTnVJNVM4NU1nQnBMb0IwNmg0WkR3UDlnSUJ0SWdDZTJwUl9BcVJyMUhKTmtZT3NSWmZQZG9LV21abzU5SG5XdmtpeVRBV0RVY0pmMFdIblRjYzc4MXp2aFE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUNmtkd3Jia3hob2pPY0RXeFFhQ3YxNWhmamFOSzdCU0c0R2tDR3cyZEFNMC01UXZOem5NR0YwdEJhRkNscEZJTXFVUW9RZWgxV195azlHQlZZYlVNRjRFbHpvZ011dEE?oc=5"
+   ],
+   "service": "AWS",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-07-24T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
    "key": "news:Apple:2026-07-24",
    "brand": "Apple",
    "category": "consumer-app",
@@ -5552,40 +5621,6 @@
    "time_precision": "day",
    "ai_service_affected": false,
    "life_impact": "daily"
-  },
-  {
-   "key": "news:AWS:2026-07-24",
-   "brand": "AWS",
-   "category": "cloud",
-   "title": "PlayStation Network Goes Down Worldwide as AWS Outage Cascades Across Gaming Services",
-   "first_reported": "2026-07-24",
-   "last_reported": "2026-07-25",
-   "articles": 4,
-   "evidence_pages": 0,
-   "outlets": 4,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "other_industry": false,
-   "ai_link": "none",
-   "ai_evidence": null,
-   "urls": [
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVF93UXBxU0M2dm1DU2R1SWR3MHplZGVNR1IzRGw1U2NlaTJUeVV4YzNnS0xmeDRFSUdXME5ORFRpNW52ZmZEa3VkY1Yxc2NGYWo0RUFfeXpRMHBxTDNjUFZnN29OUnpuMkR2S19yb1c2WkltMTl6ZW02NGxVTGktTWktREN2cGtiZ25EVVREVkdhQXJSLV9EczJPemlPdTlxMDM5WUhZSWVNRE12T01SbWc3STMydEUzU2Z0WDA2SjByVlg3cW9RQkpUUDhKYVVjbDgw?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmlGUGw4bk9TZ3R0T1VTWmZtNGMyU1dvSXJyLXd0dGh0NUUxTE9TdFNuU3NLSDhscndQRkFiUDBjcFZsS2dHTUI5S2J3TDczdTB1NUJKWU8tXzF5czh6dl9PYjByXzhqc082MHU3dWN3WUQ5UGFnM2RQdHNEMWt6SzAwWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMDNGWnJxN3VrTDFNUE9oZkF6LTZ5NE9GLVZYaTd0ajNJMjlOSmJfbG5pYzlseWRlaGdPTC1veWlGZWI0d25kMkEzalVPLS12RGRSR2ZTTnVJNVM4NU1nQnBMb0IwNmg0WkR3UDlnSUJ0SWdDZTJwUl9BcVJyMUhKTmtZT3NSWmZQZG9LV21abzU5SG5XdmtpeVRBV0RVY0pmMFdIblRjYzc4MXp2aFE?oc=5",
-    "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUNmtkd3Jia3hob2pPY0RXeFFhQ3YxNWhmamFOSzdCU0c0R2tDR3cyZEFNMC01UXZOem5NR0YwdEJhRkNscEZJTXFVUW9RZWgxV195azlHQlZZYlVNRjRFbHpvZ011dEE?oc=5"
-   ],
-   "service": "AWS",
-   "kind": "news",
-   "severity": "reported",
-   "sources": [
-    "news"
-   ],
-   "started_at": "2026-07-24T00:00:00Z",
-   "resolved_at": null,
-   "time_precision": "day",
-   "ai_service_affected": false,
-   "life_impact": "work"
   },
   {
    "key": "box:p8jg1sgbmk4n",
@@ -9471,41 +9506,6 @@
    "life_impact": "work"
   },
   {
-   "key": "news:Cloudflare:2026-02-20",
-   "brand": "Cloudflare",
-   "category": "cdn-network",
-   "title": "List of sites down after Cloudflare outage with Bet 365 among those affected",
-   "first_reported": "2026-02-20",
-   "last_reported": "2026-02-21",
-   "articles": 7,
-   "evidence_pages": 0,
-   "outlets": 6,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "other_industry": false,
-   "ai_link": "none",
-   "ai_evidence": null,
-   "urls": [
-    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UeE1MNldSZ2s1cUZ5REJ1RUNzVkduRFZRN090V24yVjFscjY1WXF5Ti05R0VoOHRGd09LcnZZMnBvSG1FdldkeW8xbHBWdW51d3VnNnNEMjRnUkNjOFdSb0gzdHJJNnZXd2Y1ZndoT0s?oc=5",
-    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlZ1U1Rhc0l6d25fcVprQ3Bib1RDUGtmc254VHI3eUUyeVJrTU1ISEdPZXBibXoxSnc0UmpYYmJBOFhGNEQ0R3JNT0xITXRYazk4QnFBZklpRTczMVNscmZHeXozbE0waGhJcVpLZ0ZCeFlEVGlabEZUQmZyQlBOTkRvWVRCc05BQUE?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEJKOHdmUEl1Z2ZmOGNXMWtwYVRjcm9TZURzRk5OSlhUTVRUMkpDa00yaFc2MXUtTXZMNVFkUXlDdmF5SEprbU8zQ0JncjUzd1NzMERySGxsMkxOVFRXVGN0Q0tMbTlRTXV6UjhuUm54V0tvNHNJXzBoSDFadjZSTEtUcVA0QmpqeVBkc0t4U2JJd1pCTldoV0MzY1hnM2c?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1V5MnY3RGpFcTZRTk5QLVItTlFjUlRwRktseXFZdFZJVzdKd3c4VzlpaUlxcnhhWG1LdWI0Vjh2Y3QzSU9pSE9CSWVUQkJLc1JBUk1NZkZBS2tUYkdqWkZoQXR2cmNxV3IzMVN5bDF5RGNiMG1vWHRkR1Q2RGxvVzRlVTgxQWZIQnZUc21MdWM4Y0lDMU9RSg?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0w4MTNnaXZ1WjZ1bGVJZjFnQzI2TV9hVEdGb3o3V3VJUnMtdTY4WUxRMHFwYUkyWUFuM29WUmh1OWYwTjJGSWlxWnZlQUpmbDNQTHJwbU1IMUVjVHpWSWJrckJRNy13bFJDVC0xeDdZZ1FPOFl1cmt3T0NOT0p6RWJGQVQxYTNHcGJIdm4tRW54aWZwRjFXNWk4YVdxN2w4ZlJvLURvQzlORVNvMVhWeNIBtgFBVV95cUxPckR1Z2w1SG9ySHJ2OC1WX1o1YzhEb29sRUVQa1JCVk04OXE0MkduaFRzcXhfdUMyQnJaWkY3WXFQaTB1Y2hiMlhiVlladG9SMEgxRnlqeU9jZlRiS3BzN0NjekFuUldrQkdyNjZjcUJ0d2ljWDNkdDZ5ZHUzRFpGNVlVdmVRWGJVamstUEJlWnRPaXRIYTJEcDZVWmx5ZGxyLXNWWGRvWWtFZEZhRmlVbG8wcHRuUQ?oc=5"
-   ],
-   "service": "Cloudflare",
-   "kind": "news",
-   "severity": "reported",
-   "sources": [
-    "news"
-   ],
-   "started_at": "2026-02-20T00:00:00Z",
-   "resolved_at": null,
-   "time_precision": "day",
-   "ai_service_affected": false,
-   "life_impact": "work"
-  },
-  {
    "key": "news:AWS:2026-02-20",
    "brand": "AWS",
    "category": "cloud",
@@ -9529,6 +9529,41 @@
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjJpc3N5VEZMVndHMmhwbktOWW40ZWtpV056T0pBdDJUSHFUZmM5UWFmYndRWGVEY196R2tBSGVSRE5mZ3hkMDRGUEV2R2xPdDNuV0tPMkRNeWU5WlV2VWlERFR6MDJjUUoyVlVUQkdRaHNkbVVGelFOdVlxXzRVWGdTNnU3WlpMcmRYdW9wU1dwa1dFMjNTb3Y4b3lWQQ?oc=5"
    ],
    "service": "AWS",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-02-20T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
+   "key": "news:Cloudflare:2026-02-20",
+   "brand": "Cloudflare",
+   "category": "cdn-network",
+   "title": "List of sites down after Cloudflare outage with Bet 365 among those affected",
+   "first_reported": "2026-02-20",
+   "last_reported": "2026-02-21",
+   "articles": 7,
+   "evidence_pages": 0,
+   "outlets": 6,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UeE1MNldSZ2s1cUZ5REJ1RUNzVkduRFZRN090V24yVjFscjY1WXF5Ti05R0VoOHRGd09LcnZZMnBvSG1FdldkeW8xbHBWdW51d3VnNnNEMjRnUkNjOFdSb0gzdHJJNnZXd2Y1ZndoT0s?oc=5",
+    "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNlZ1U1Rhc0l6d25fcVprQ3Bib1RDUGtmc254VHI3eUUyeVJrTU1ISEdPZXBibXoxSnc0UmpYYmJBOFhGNEQ0R3JNT0xITXRYazk4QnFBZklpRTczMVNscmZHeXozbE0waGhJcVpLZ0ZCeFlEVGlabEZUQmZyQlBOTkRvWVRCc05BQUE?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEJKOHdmUEl1Z2ZmOGNXMWtwYVRjcm9TZURzRk5OSlhUTVRUMkpDa00yaFc2MXUtTXZMNVFkUXlDdmF5SEprbU8zQ0JncjUzd1NzMERySGxsMkxOVFRXVGN0Q0tMbTlRTXV6UjhuUm54V0tvNHNJXzBoSDFadjZSTEtUcVA0QmpqeVBkc0t4U2JJd1pCTldoV0MzY1hnM2c?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1V5MnY3RGpFcTZRTk5QLVItTlFjUlRwRktseXFZdFZJVzdKd3c4VzlpaUlxcnhhWG1LdWI0Vjh2Y3QzSU9pSE9CSWVUQkJLc1JBUk1NZkZBS2tUYkdqWkZoQXR2cmNxV3IzMVN5bDF5RGNiMG1vWHRkR1Q2RGxvVzRlVTgxQWZIQnZUc21MdWM4Y0lDMU9RSg?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0w4MTNnaXZ1WjZ1bGVJZjFnQzI2TV9hVEdGb3o3V3VJUnMtdTY4WUxRMHFwYUkyWUFuM29WUmh1OWYwTjJGSWlxWnZlQUpmbDNQTHJwbU1IMUVjVHpWSWJrckJRNy13bFJDVC0xeDdZZ1FPOFl1cmt3T0NOT0p6RWJGQVQxYTNHcGJIdm4tRW54aWZwRjFXNWk4YVdxN2w4ZlJvLURvQzlORVNvMVhWeNIBtgFBVV95cUxPckR1Z2w1SG9ySHJ2OC1WX1o1YzhEb29sRUVQa1JCVk04OXE0MkduaFRzcXhfdUMyQnJaWkY3WXFQaTB1Y2hiMlhiVlladG9SMEgxRnlqeU9jZlRiS3BzN0NjekFuUldrQkdyNjZjcUJ0d2ljWDNkdDZ5ZHUzRFpGNVlVdmVRWGJVamstUEJlWnRPaXRIYTJEcDZVWmx5ZGxyLXNWWGRvWWtFZEZhRmlVbG8wcHRuUQ?oc=5"
+   ],
+   "service": "Cloudflare",
    "kind": "news",
    "severity": "reported",
    "sources": [
