@@ -1,7 +1,49 @@
 {
- "generated_at": "2026-11-20T21:13:56Z",
- "count": 1005,
+ "generated_at": "2026-11-21T02:29:08Z",
+ "count": 1006,
  "incidents": [
+  {
+   "key": "twilio:dmqm37tmnv87",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Twilio Help Center Chat Creation and Retrieval Failures",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-20T22:23:54Z",
+   "resolved_at": "2026-11-20T23:56:28Z",
+   "duration_min": 92,
+   "components": [
+    "Customer Support Center"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-20T23:56:28Z",
+     "status": "resolved",
+     "body": "We have monitored and resolved the issue with Twilio Help Center. All services are now operating normally at this time."
+    },
+    {
+     "at": "2026-11-20T23:24:24Z",
+     "status": "monitoring",
+     "body": "Our engineers have mitigated the issue and are monitoring system performance. Chat creation and retrieval in the Twilio Help Center have returned to normal, and customers who still cannot continue an existing chat may start a new chat. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T22:42:19Z",
+     "status": "identified",
+     "body": "We have identified the issue of chat creation and chat retrieval problems for Twilio Help Center Chat. We are working toward a fix. A portion of chats may continue to be affected. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-20T22:23:54Z",
+     "status": "investigating",
+     "body": "We are experiencing chat failures from our Help Center Assistant. Our engineers are working to resolve the issue. We expect to provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/spcg4b2l7fhg",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:akjr7qn5o622",
    "source": "cloudflare",
@@ -10,14 +52,24 @@
    "kind": "feed",
    "title": "Cache Purging Delays in Milan",
    "severity": "none",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-20T20:51:40Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T22:25:16Z",
+   "duration_min": 93,
    "components": [
     "CDN Cache Purge"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T22:25:16Z",
+     "status": "resolved",
+     "body": "This incident is now resolved."
+    },
+    {
+     "at": "2026-11-20T22:03:50Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are currently monitoring the results."
+    },
     {
      "at": "2026-11-20T20:55:47Z",
      "status": "identified",
@@ -106,14 +158,24 @@
    "kind": "feed",
    "title": "SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to CTBC Brazil",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-20T19:53:26Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-21T01:07:04Z",
+   "duration_min": 313,
    "components": [
     "SMS, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-21T01:07:04Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery receipts from a subset of Twilio Phone Numbers to CTBC network subscribers in Brazil are operating normally."
+    },
+    {
+     "at": "2026-11-20T22:55:30Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Phone Numbers to CTBC network subscribers in Brazil and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-20T20:54:24Z",
      "status": "identified",
@@ -358,15 +420,30 @@
    "kind": "feed",
    "title": "Degraded Performance - Global Derivatives Trading",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-20T16:30:04Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T22:32:54Z",
+   "duration_min": 362,
    "components": [
     "International Derivatives",
     "Deribit - Website"
    ],
    "updates": [
+    {
+     "at": "2026-11-20T22:32:54Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T21:43:36Z",
+     "status": "monitoring",
+     "body": "Trading on Global Derivatives has resumed. We are continuing to monitor and will update here if anything changes. Thank you for your patience."
+    },
+    {
+     "at": "2026-11-20T21:26:04Z",
+     "status": "identified",
+     "body": "Global Derivatives will enter a pre-open period at 21:25 UTC, and trading will resume at 21:30 UTC. We will confirm here once trading is open. Thank you for your patience."
+    },
     {
      "at": "2026-11-20T20:46:11Z",
      "status": "investigating",
@@ -9770,12 +9847,27 @@
    "kind": "feed",
    "title": "Delayed Sends and Receives - Sonic Network",
    "severity": "none",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-03T14:21:54Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-20T22:48:35Z",
+   "duration_min": 24986,
    "components": [],
    "updates": [
+    {
+     "at": "2026-11-20T22:48:35Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-20T22:48:32Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-20T22:48:29Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
     {
      "at": "2026-11-03T14:21:54Z",
      "status": "investigating",
