@@ -1,7 +1,79 @@
 {
- "generated_at": "2026-11-21T23:25:34Z",
- "count": 1006,
+ "generated_at": "2026-11-22T06:59:32Z",
+ "count": 1008,
  "incidents": [
+  {
+   "key": "twilio:ytyy9mbkhchr",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Gateway API (Lookup API) Failure Increase in Canada",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-22T03:50:54Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Lookup Line Type Intelligence [Legacy API]"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-22T04:51:30Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions in Canada. Our team is actively investigating the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T03:50:54Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions in Canada. Our team is actively investigating the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/tsp4vmj649hp",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:d2m4kw94ut4f",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Network Performance Issues in Chicago datacenter (ORD)",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-22T00:32:59Z",
+   "resolved_at": "2026-11-22T01:11:58Z",
+   "duration_min": 38,
+   "components": [
+    "Durable Objects",
+    "D1",
+    "Chicago, United States - (ORD)",
+    "R2"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-22T01:11:58Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-22T00:44:11Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-22T00:32:59Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with network performance in Chicago datacenter, ORD. We are working to analyze and mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/d2m4kw94ut4f",
+   "cause": "hardware-datacenter",
+   "cause_basis": "provider",
+   "cause_evidence": "...gating issues with network performance in Chicago datacenter, ORD. We are working to analyze and mitigate this..."
+  },
   {
    "key": "twilio:dmqm37tmnv87",
    "source": "twilio",
@@ -1350,6 +1422,11 @@
    ],
    "updates": [
     {
+     "at": "2026-11-22T06:01:43Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
+    {
      "at": "2026-11-21T06:00:50Z",
      "status": "monitoring",
      "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 24 hours or as soon as more information becomes available."
@@ -2673,8 +2750,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Data Localization Suite",
     "Zero Trust",
+    "Data Localization Suite",
     "Cloudflare One Client"
    ],
    "updates": [
