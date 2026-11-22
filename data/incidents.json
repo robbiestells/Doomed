@@ -1,7 +1,44 @@
 {
- "generated_at": "2026-11-22T15:26:09Z",
- "count": 1008,
+ "generated_at": "2026-11-22T18:39:26Z",
+ "count": 1009,
  "incidents": [
+  {
+   "key": "twilio:w9sbvqq9sdw0",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays and Failures from Twilio to Telekom Germany",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-22T15:55:48Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-22T17:18:23Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Telekom network subscribers in Germany and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T16:17:03Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays and failures from Twilio to Telekom network subscribers in Germany. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T15:55:49Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays and failures from Twilio to Telekom network subscribers in Germany. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/n2v7hjb36sg2",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:ytyy9mbkhchr",
    "source": "twilio",
