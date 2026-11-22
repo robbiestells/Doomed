@@ -1,7 +1,34 @@
 {
- "generated_at": "2026-11-22T18:39:26Z",
- "count": 1009,
+ "generated_at": "2026-11-22T21:52:44Z",
+ "count": 1010,
  "incidents": [
+  {
+   "key": "cloudflare:5siv904vn94q",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Single-File Cache Purge Delays",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-22T19:21:00Z",
+   "resolved_at": "2026-11-22T20:21:00Z",
+   "duration_min": 60,
+   "components": [
+    "CDN Cache Purge"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-22T20:21:00Z",
+     "status": "resolved",
+     "body": "Cloudflare identified an issue that delayed a small subset of single file cache purge requests between 19:21 and 20:21 UTC on November 22, 2026. Affected requests were submitted through Cloudflare data centers in parts of Europe, the Middle East and Africa. For these requests, cached content in other Cloudflare data centers worldwide could remain stale for up to approximately 60 minutes before the purge completed. \n\nAll delayed purges have since completed, and this incident has been resolved."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/5siv904vn94q",
+   "cause": "hardware-datacenter",
+   "cause_basis": "provider",
+   "cause_evidence": "...fected requests were submitted through Cloudflare data centers in parts of Europe, the Middle East and Africa...."
+  },
   {
    "key": "twilio:w9sbvqq9sdw0",
    "source": "twilio",
@@ -18,6 +45,11 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-22T19:18:54Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Telekom network subscribers in Germany and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-22T17:18:23Z",
      "status": "monitoring",
@@ -55,6 +87,11 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-22T19:11:42Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions in Canada. Our team is actively investigating the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-22T11:11:01Z",
      "status": "investigating",
@@ -2797,8 +2834,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [

@@ -1,20 +1,20 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 81,
- "per_week_avg": 6.3,
+ "total": 80,
+ "per_week_avg": 6.22,
  "by_service": [
   [
    "GitHub",
    20
   ],
   [
-   "Box",
+   "Discord",
    12
   ],
   [
-   "Discord",
-   12
+   "Box",
+   11
   ],
   [
    "Vercel",
@@ -76,7 +76,7 @@
  "by_category": [
   [
    "saas",
-   34
+   33
   ],
   [
    "developer",
@@ -106,7 +106,7 @@
  "by_week": [
   [
    "2026-W35",
-   5
+   4
   ],
   [
    "2026-W36",
@@ -164,7 +164,7 @@
   ],
   [
    "software-change",
-   29
+   28
   ],
   [
    "capacity-overload",
@@ -183,18 +183,18 @@
    2
   ]
  ],
- "cause_known_pct": 48.1,
+ "cause_known_pct": 47.5,
  "by_weekday": [
   [
    "Wed",
    23
   ],
   [
-   "Mon",
-   17
+   "Fri",
+   16
   ],
   [
-   "Fri",
+   "Mon",
    16
   ],
   [
