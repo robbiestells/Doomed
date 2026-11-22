@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:59:32Z",
+ "generated_at": "2026-11-22T15:26:09Z",
  "count": 1008,
  "incidents": [
   {
@@ -18,6 +18,16 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-22T11:11:01Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions in Canada. Our team is actively investigating the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T07:03:04Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions in Canada. Our team is actively investigating the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-22T04:51:30Z",
      "status": "investigating",
