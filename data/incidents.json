@@ -1,7 +1,129 @@
 {
- "generated_at": "2026-11-22T21:52:44Z",
- "count": 1010,
+ "generated_at": "2026-11-23T02:52:25Z",
+ "count": 1013,
  "incidents": [
+  {
+   "key": "cloudflare:pnfv9wfy2q4y",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Increased HTTP 5xx Errors in Brussels",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-23T02:34:56Z",
+   "resolved_at": "2026-11-23T02:46:14Z",
+   "duration_min": 11,
+   "components": [
+    "Network",
+    "Brussels, Belgium - (BRU)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T02:46:14Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-23T02:35:17Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-23T02:34:56Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating an increased level of HTTP 5xx errors in Brussels, BE. \n\n\nWe are working to analyse and mitigate this problem.  More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/pnfv9wfy2q4y",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "zoom:h4wq81g6whn4",
+   "source": "zoom",
+   "service": "Zoom",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Service Degradation Affecting Zoom Phone tab on desktop clients",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-23T00:22:55Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Zoom Phone"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T02:39:59Z",
+     "status": "monitoring",
+     "body": "The issue affecting the Zoom Phone Tab on Desktop Clients has been successfully resolved. \n\nOur team will continue to monitor the situation closely and keep you informed of any further developments."
+    },
+    {
+     "at": "2026-11-23T01:00:53Z",
+     "status": "identified",
+     "body": "We have successfully identified the root cause affecting the Zoom Phone Tab on Desktop Clients. \n\nOur team is actively working on a resolution, and we will keep you informed with timely updates as progress is made. \n\nThank you for your patience."
+    },
+    {
+     "at": "2026-11-23T00:22:55Z",
+     "status": "investigating",
+     "body": "We are investigating an issue affecting Zoom Phone on desktop clients\n\nOur team is actively working on a resolution, and we will keep you informed with timely updates as progress is made. \n\nThank you for your patience."
+    }
+   ],
+   "url": "https://stspg.io/dqmw1j2fr2wy",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:wp5h8ggpfh2k",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Telekom Srbija Serbia",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-22T22:10:38Z",
+   "resolved_at": "2026-11-23T02:30:20Z",
+   "duration_min": 259,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T02:30:20Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Telekom Srbija network subscribers in Serbia is operating normally."
+    },
+    {
+     "at": "2026-11-23T00:06:02Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Telekom Srbija network subscribers in Serbia and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T23:49:03Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Telekom Srbija network subscribers in Serbia. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T22:48:00Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Telekom Srbija network subscribers in Serbia. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-22T22:10:38Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from Twilio to Telekom Srbija network subscribers in Serbia. Our team is actively investigating this issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/ftmn1nwjd3f9",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:5siv904vn94q",
    "source": "cloudflare",
@@ -37,14 +159,19 @@
    "kind": "feed",
    "title": "SMS Delivery Delays and Failures from Twilio to Telekom Germany",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-22T15:55:48Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-22T22:16:16Z",
+   "duration_min": 380,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-22T22:16:16Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Telekom network subscribers in Germany is operating normally."
+    },
     {
      "at": "2026-11-22T19:18:54Z",
      "status": "monitoring",
