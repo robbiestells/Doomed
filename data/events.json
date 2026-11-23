@@ -1,17 +1,85 @@
 {
- "generated_at": "2026-11-23T13:00:34Z",
- "count": 282,
+ "generated_at": "2026-11-23T22:55:26Z",
+ "count": 284,
  "events": [
+  {
+   "key": "shopify:m1grsygpsdbb",
+   "source": "shopify",
+   "service": "Shopify",
+   "category": "commerce",
+   "kind": "feed",
+   "title": "Errors at Online Store Checkout and Point Of Sale Checkout",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-23T17:54:00Z",
+   "resolved_at": "2026-11-23T18:47:12Z",
+   "duration_min": 53,
+   "components": [
+    "Checkout"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T18:47:12Z",
+     "status": "resolved",
+     "body": "Between 17:40 UTC - 17:57 UTC , we experienced issues with completing checkouts on both the Online Store and Point of Sale. A fix was implemented at 17:57 UTC which resolved the issue. The monitoring period for this issue has ended and no further impact has been observed."
+    },
+    {
+     "at": "2026-11-23T18:28:50Z",
+     "status": "monitoring",
+     "body": "This issue for POS (as well as Online Store checkout) has now also been resolved and is being monitored."
+    },
+    {
+     "at": "2026-11-23T18:21:02Z",
+     "status": "investigating",
+     "body": "Some merchants may still be seeing issues with Point of Sale card readers and associated checkouts. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-23T18:13:19Z",
+     "status": "monitoring",
+     "body": "Between 17:40 UTC - 17:57 UTC , we experienced issues with completing checkouts on both the Online Store and Point of Sale. A fix was implemented at 17:57 UTC which resolved the issue. The monitoring period for this issue has ended and no further impact has been observed."
+    },
+    {
+     "at": "2026-11-23T18:02:11Z",
+     "status": "monitoring",
+     "body": "This issue has been resolved and is being monitored."
+    },
+    {
+     "at": "2026-11-23T17:57:53Z",
+     "status": "identified",
+     "body": "We've identified the problem impacting checkouts and we're working on a solution."
+    },
+    {
+     "at": "2026-11-23T17:54:00Z",
+     "status": "investigating",
+     "body": "Merchants and buyers may see errors completing checkouts for Online Store and Point Of Sale"
+    }
+   ],
+   "url": "https://stspg.io/3hqwrkt6w96w",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": null,
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-23",
+   "last_reported": "2026-11-23",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "daily"
+  },
   {
    "key": "news:Delta:2026-11-22",
    "brand": "Delta",
    "category": "transport",
-   "title": "Delta Air Lines experiences delays after system outage ahead of holiday travel",
+   "title": "Delta Air Lines delays over 1,300 flights as latest outage snarls air traffic",
    "first_reported": "2026-11-22",
-   "last_reported": "2026-11-22",
-   "articles": 23,
+   "last_reported": "2026-11-23",
+   "articles": 66,
    "evidence_pages": 0,
-   "outlets": 22,
+   "outlets": 65,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -19,11 +87,11 @@
    "ai_link": "none",
    "ai_evidence": null,
    "urls": [
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanBLd21tN1lPWkh4UUxMRHVaTEZGSTdqN19hYnk4NDZzZ2p3WklmMFR0VXFNdWhLTGt0ZEpYX2VfcjRyVTNzVWRweGhwT1FYWm1ZaTVWQ3JZN21TZlE1TFhRa3F4MGVkMUppQUFwTy1DMkJoc2ZLSXhRZC14Nm5meHlkcFpiOGtfRFJvYktET2dFbDI2ZmVJWWI3VlluR0Fub1YzX0RVWVlhVjFzOEJGWUdfWGxfazBO?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTdZWml2MENubWM0dzYta3FFYVlBUUM4WjVzbFpHbmE1TTh0bWd4Wk5PMEQ4dWJPR3VYelFuY3BGT0hsaDk3dy00MEVCTXNCbTJRMVVyQklaMFZvYmpvNkZwWHNvcWlaTTRoU0FoZnUxNklqR245UE9SNjEyOUJ2NFpVU1FodjJ2YTBDdVA0dmdwdw?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDI0ZWk4YVg5cnhzaU5oRnVMcjZrNFRUemhlVHh5OTk5aEJMeWxjdVNTcHFvbHc2ek8wQmZBWUFnZVpPTzN1MTlxNHVEWmJ2OUE1QVRvbXVSTENhMDQxTDNQZVVoTDFud3dSa1pTdlZZa3BFZHl0c1FOTTZ6czlsMm1QU2lFaDQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1R5aV84YWhfd29PekNxUm1UdExTcEdGbjViZGFCS3VBeTU1cjAyaURTcG1iQXhlbEdnT3JFOHVmLW1HYUVscGc2aFBCRGZxT19ObGU2X0VGNE9STGFMbm41cXJ3TDg3TWpVdnhrRUpKejR4TXhDU0Zvc25CbHdVSzVHS2I2ZkkyeGtV?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWEE5M2c3Zm1GTV96bnZ4WE8xOGk3cjRyWDVZZXh2T25BN3plRXFWZWx6VTVzcm5fcWFhR1JGR1RicG5lVE1pa09GUkgtLWV1TEE1eUhhMVEwX0hlZ2tWc3Y4S0djZ2w0Z25mOTZyaktlWnRmYmVYRm9rS3pBaWNLZUdtZ1poTjJKZjRReG1wRmRwcEIxaVpsWndZX3IyWEQ0TmRPVTRvSlZOTUV2OVE?oc=5"
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWVjWEwyYUlvMVowUUtnLWt5Q3NlUkg4V2FPc21BZXNST1hZSTlaSzRNVmNLcGtIUFB5Z3djM1U2aUVXdlJUYlplYk5xWkFKc0loYnJOM0JtanpUVHZSS3EwMndCUzFSR1ZKYWYzdFFEWng2RzFGZk01MmJoZ0JwUUJpMF94VmhjeDVaMlczNXR6QlJ6amcyYXV3?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNjcHozY1hpYnNhcncxaW5aOG5mQmJudWFZc3BXU21jT1Utd05aNndQZGhDUWlLTC1rVUxVNmdhZHlnT2hkLTM2ZjdmbURHeFBQVWM2X1BlUnpQekMxc0RHN3NaS29uNmFMM3I1MmFENVlhZ3JwS3p2M3NRaEpaUkFIZ3dCMFFkX3Q3Nl9vbHIzS295Tmg4Sld5RjAwMVE3SW8tYkJQSzRfUXlISUU3ZkZaZmF4T29Rd3JrV2ZB?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSG1SbDYxUi1nQkJCcnQ5MFJmU29DTGxlRFNJSjhMSlRJS2VVcVFwZVd6eHNKWDFtSkdKX3Zpc0FvUmdQbGw0cmhEOXExd3ZCVTRzQVl3bWJIamtQcjhTU1prOVMtaXIybGlzTHpZd0lQSnh2cHhEcEdqRVYyUHJXbEViZUNnYTJoLUtBdXFwRG00NUZGdV9KX2lDWGJ2Q3VxcUNrOWN5Z2ViZExxc2pLSi01Y3ZnS1NEZkRyb2Fpa3hGcnJuX2FnYmJPME5JMlRCYnlQRzRSNi1NcHduLXdZ?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjRySjVvZW5kZ1BTTHZIdDByaV9uMmYyV2Via0xuRFNMN1JSYXBvVnlhRmNxLVgxamFmYlF5YmtBUXZqQTlXblJfdmoyZ1JtNV9ybUJsQ09lSTZYT1NSd0JLTkczcFdKQWpyNFVPN1ZIX0VqV1ZyaGxIX2tNcXF3d3NPak45OWlHbl9hRG1kRWpHaVo2VDdkZUZaaFhxUGs5VXdqRGtSa3V2YVFDSUFLYmNxR09YRmhLTzNsV2V6WQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2lqamtTX1BRSVlJWTBhOUJEQW5yaUlLNmRrZ2ppa0pSQm42aXVESlJQbnRkZEg4WHdjZmZlRTZpNTZfdndUUkFvcUkwYjFwcFRuNEo3c05rcXNhbjN4SVJ6ODJweXB5d3BhZzdJUTM3aGIwcVdrRUNjTTIyTURQb1JWTVYtTDdpbzVFQkdjN19GQ181OGxPbnVjSlZXTlBLQlRjMlcxNmdFTjVsbFQzNHFocWViYlho?oc=5"
    ],
    "service": "Delta",
    "kind": "news",
@@ -291,7 +359,7 @@
     "manual",
     "news"
    ],
-   "articles": 34,
+   "articles": 41,
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-17",
    "other_industry": true,
@@ -300,7 +368,7 @@
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVUZZMWx4elhMTUhLNG82TldaUUUzY2dqWG1EMlhDRWVYTmRUVmIwZ2ZLZW15Uy0tVV80bXBFZTdNdE0xY2Jubll3Q0w0VENPaGpxT0RPdWMwcGhMRmQyNWlyTDZwWEx0RTVSbTVNZW1sRWhWcWhKS0hlMG1lYW1wejB4dkRGdHQxN01oTHhOR3l2WGpuSnAxbVRLVUo3OERWUnY4NHB0NkxQbTBpekNlY0RFTUlSSFVjOVNNS05YeFhsa3NS?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnVaYlpJdTNCMlkxZlRZT0FuQmpSSll1ODRlT0RPdnJPRFMzUXNSQUtJXzh2cjVKbHNRUXJMMnlmM2dUWGxWNzdnc3l5SDFWeWdUMENuTEczMFQ2clRWd3h3M2lPOUhtWWVRZTlnTG9BU01ISG02VU5YU1RMMnEwX2JCRFRKVWZRRWdXM2RJbVNidw?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRU53VUdVa1k2VUkwZ3p5WEk2TWdzMW1RdDZxclRIalFfTGpmTFZvTnQ3WjQwcU1EcGI5V3Ixdmo3VWlNTDZBUlNSdUo2eWxpaXR5Vm5GREh0MzQxRWNuTU9BR004THYxVDFTejB1bWZiaXFsc2ZBU0M0dGVWNDA2dXloMEpFRDJwRWhLZGdPS2M5SkNBQ25yYlRn?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmZ0dC1nOGh2aWYtVnlrVnd5dm5DMEk5OHE3V19IT2lhRXRtb0ZTOWczeHlxdUpndUR2SkxFbmRmUENuNE9sMUFOVkVkZFRmUFNwLXBxbExhWVU3UVk0MEpsMFhqcWtHQU9xY0xHd0lCVTBURGRZbXZGeG5hdi0wNzREWmhZTTF40gGcAUFVX3lxTFA5SHZLZFZRM0NVaEczZ0R2bEUzS3Npc1BIYUt0TlpLSHhUUE1tY1Uyc3NuakxwWHpfeDRxWEVDekktcFBNaTFZWDZnREY0QThCb0tKNGRydV82dlZmSHlMYi1DM0MyZS1CeWFPbGgta0F2dl9xbGgxUFhwSXBYV1o4ZE1wbUNZdTV2UVNMNU1OQ1RVUzl6VzJtUTNpQQ?oc=5"
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd3lucnBFeE5GTS0wWm0tV2RVdlBMYS01VFN4ZWRxeTVkVG1ENjVVTFdfMXNvekJSdjlrWm5LNDM0VkRPRktITFBtMGZVcE8xU1BZN1VUbktZVE5kOHh4bVRvbFo4VnpIejZiSEsxRG9ReHgtYTcwTlUwMDMwUlUxZzJKRTVfckpyaHBCT0dvWV96NFMzZkxEYkVCWFNySy1fZUlBdm05bVZrcmZNSUdkSDRua28yQ2lGWEVzckZoZ9IBxAFBVV95cUxQOEdNMVdEYTllYnFZRUpaaUpyLXc3TUNNam9tQXFiM0tRLUN3MkI2RG0yenVtaXRXN0VqNzhrT0xQaFFmdVFySVpwR3ZFbk9FX1c4dHJUclVxTTd1bG43ZGR6blJLVk56LWd0ay04VmFsazQ4YjlkaVlCX2xSaERkaTJlSkJrT2U1aUxORXhuNEc3Z1IySjdrZEhRcjNxMVNBNFBFNkwxOWNGN2M1VEZZZDRSd2VIQ08yQ3ZRVXJEWWlqcGVM?oc=5"
    ],
    "cause_evidence": "...NSA classified network outage linked to software update,...",
    "ai_link": "speculated",
@@ -360,9 +428,9 @@
    "title": "Apple works to restore services after outage caused by internal update",
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-20",
-   "articles": 56,
-   "evidence_pages": 10,
-   "outlets": 47,
+   "articles": 58,
+   "evidence_pages": 12,
+   "outlets": 49,
    "cause": "config-change",
    "cause_basis": "press",
    "cause_evidence": "...Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day...",
@@ -371,10 +439,10 @@
    "ai_evidence": null,
    "urls": [
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS01oRGJLdFFiNUtzYUdLbTJHTGlFNTJsVkRudElwQjJWMU8teDQ1bUpONW5NMlBXTUZWeUxockJMVjN0bHNmdXZhWHlBbHY1STk3Zm9zcmdVcTVKbmxfM0dLdVR4SU5idUwwZjAwczFxNkNKVVpoZnctb0M3TG5xVjJpdHBGbDhKaERscDFOTDNQbE9UU2hLeGwyNHMzSmdkSmhxWg?oc=5",
+    "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sd1JTSWpWRlNCV2Vya1lqRWhZeVF2ZVF4OEVMcUoxVW5tak80LU9YM0txOGtsY0VvazNndUxDT3VUdF9VTm05bjBJR3Y5UlFxN1ZNV1dZMWx1bm9SZkZYcDYxNkJIRUF2UXVvM0x3YXZXQVM3Smc?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUThycDdKR05TZEhCTDZIaWxmNTdqeWt2a2hxdFVKeGxpUXFJdmJDSDZ6YU9iTmRWSGI0MkxJR1pWa216UVNydF9NdUdmd3g3LUlibEFfZnFyR2E0dHV1NHVkVjFDTGpkdkl4OWsxeDNXZW5lQ0FfR0lzaFVkNnl4NWtTbHlIRzRY?oc=5",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWktmYjRMRmxKXy1CbTFPU0poNDNnT2VHVm1RbGRLYTFzRG50Wjg3STMxTUZwVXBqVDNXNnZJeU9nc3EzYlNoSlRfMUoyS0RITERlS1otZ0JRS0xvNVpNTE04OWZ3Y3U4bWpENjJhMS0wN0pMc1FudzJKX3NwWDhXY3l0VFpyMmdoS2ducmtRak9xSHpod0dqaHhWRjk0cGlrV0Y2aUU1QndMYU9YbGdKMHZpdlXSAcgBQVVfeXFMTV92VjItbVl0SjlXTG5feUxBWmJ6MVc0dzY5eDVNOGtvYTJCMUdEUUVPZTctYkJKdzlPaUZUUkcybE03MnEtRmhfc1NSNzhLRk9LR0FYQ1dmdGtiMjZOazJXczM2dmJINGFTOGFfTmpTc1FMVFFkWWY3N2hVOFBDaWJxbFFLR2M3M1hJblhsRDc3LVc5SWdjcWgxWjlBamxlR3pJTHk3OHRKMElmc0pldkJKRXNLQzBQQ3NtejRlTC1zX003NzQ5RXo?oc=5",
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVdkd0RiSEp5RzQ2WmNEZWNRM1JoYlhOekYzajU3amxGNXJLa2xVUUdFLUYtTmEyMTZqQXpfZk9KbExPbXYtZ1cySjlKQkdNOU1Wdkc1N19XOVV0d2dFUGJCNklJTVFxa0lEd1l3aDdZZE9ONWFDZW9CbjVqeUFHaw?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWktmYjRMRmxKXy1CbTFPU0poNDNnT2VHVm1RbGRLYTFzRG50Wjg3STMxTUZwVXBqVDNXNnZJeU9nc3EzYlNoSlRfMUoyS0RITERlS1otZ0JRS0xvNVpNTE04OWZ3Y3U4bWpENjJhMS0wN0pMc1FudzJKX3NwWDhXY3l0VFpyMmdoS2ducmtRak9xSHpod0dqaHhWRjk0cGlrV0Y2aUU1QndMYU9YbGdKMHZpdlXSAcgBQVVfeXFMTV92VjItbVl0SjlXTG5feUxBWmJ6MVc0dzY5eDVNOGtvYTJCMUdEUUVPZTctYkJKdzlPaUZUUkcybE03MnEtRmhfc1NSNzhLRk9LR0FYQ1dmdGtiMjZOazJXczM2dmJINGFTOGFfTmpTc1FMVFFkWWY3N2hVOFBDaWJxbFFLR2M3M1hJblhsRDc3LVc5SWdjcWgxWjlBamxlR3pJTHk3OHRKMElmc0pldkJKRXNLQzBQQ3NtejRlTC1zX003NzQ5RXo?oc=5"
    ],
    "service": "Apple",
    "kind": "news",
@@ -422,6 +490,39 @@
    "life_impact": "work"
   },
   {
+   "key": "news:Cloudflare:2026-11-17",
+   "brand": "Cloudflare",
+   "category": "cdn-network",
+   "title": "Cloudflare CEO on what's behind recent tech outages",
+   "first_reported": "2026-11-17",
+   "last_reported": "2026-11-18",
+   "articles": 3,
+   "evidence_pages": 0,
+   "outlets": 3,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PM3BrcS0tSUMySzhlN3ZQWVROT0VDWWhNRE1DNjAzZjlNaDZKbzhOSmh1UFVZdG56TFRSVFpYV3RsQkR5T2U3RFE2ekwwLXhsTFN5MUc3WUl3VHVsc05udl9mMnM?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFJKekUyRTBfNVQ1eVhseFZKTC1YR0tCQVRsMzN6ZnZkRWh5bUV4bGNDUmwxWlpEcVRBU1dkLXFTU0NtcXFmSm54c2YxTzZZZFNxWnNacFpRWTBQWGhvNF9kR1UtdWNqXy1XWXExTHlYNGo2YUF5Z0h1U2p6eFVodDlSLTlPS0hBSjNR?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzNVNnhEeXhzQmZYRWF5WVRBYUZKMXZJUTIyZGdWNnkyQkFpSVp3ck1IdzNkS3pkNUtBZHFwRTNSVnhwdV8zejVEYUlyTlJhVEVlRS1RSWlORmJ5TklYcUtyV1RGN0Rxbm81WHBLeHFNSUVKcWNiN3VQUEp6bzFuQl9aVHFzdmZ1?oc=5"
+   ],
+   "service": "Cloudflare",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-17T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
    "key": "manual:2026-11-16-us-banks",
    "service": "Chase / Wells Fargo / Bank of America",
    "category": "bank",
@@ -434,7 +535,7 @@
     "online banking",
     "transfers"
    ],
-   "cause": "third-party",
+   "cause": "software-change",
    "source_url": "https://www.fox29.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack",
    "time_precision": "day",
    "cause_basis": "press",
@@ -443,7 +544,7 @@
     "manual",
     "news"
    ],
-   "articles": 28,
+   "articles": 38,
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-16",
    "other_industry": true,
@@ -451,10 +552,10 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMWVYQ3Bsa3JJQmI3cDBSbUlVeDdabnItdGZacVNpc2hnb1V2T3dWUmlDb3FkU04yaDVPQ1lOZm55VkZNRllfQ1E3NXE5aDVDMnM3bGhHWTNGeTZRam1QNzJxSFhaQzFMVmF4Y3hKVUVfd0tUaUxMWnhwVU9GeU16eERLSl9aRkdqamYxVjBqcUtpTkhEd2ROY0JfTUFRUjNIUnY2VVBwV1BmQnFrMjlQeUJQNmloakNaMG5RaVkxRQ?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2ZFaDJ5aHZleEgtcUx0MG00LWlha2hRUVZlUUQtMXFSSmhMM2FCSEVTaW5tUG14M0l4VkVWblFTSVNXX05QVkhOdHpjVVpscHlrRmpMcFdqaGlWc2hSS25JdTdXMEQtNEx1SkxldjNkOTVmTWI4NkRlWlZmdVdJRFotLThHUmRZNnV6bXEtdmxONGdm?oc=5",
     "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX3NnQ0hCMHFIU3h0UnB1R3V6VjB2NWZzT3NySkNhV2Y4NEFFNWZaaDI3VVR0MkdwVC1EX09CemVIQnVJTUJOdXJ3czYwYjgzNFpOM0s5U3VlVmM0TjB3a055Q0dGN19GMWxkWFlWMVV6MEliaXRlZ09zS3hHMkd6aEtkdVc0RGVSODNaMXh2LUtHWEE5ZDRMX09IMWlfVXVTdVA4Vl8ycnFPX19LNEVRVDhIMjd6QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnhDdm9nemFDeE9EbzVSRUgtcHFSS1RpdDVrMFp2OEg0WG1VSUhlVWcyX1BvUFp0NU85RDUzM1ZoMGZHUURQZkg3YVdJR2F6S213NzJZVHMtdGZ5aTVFVHgxdlJCQU1mNmRUMk5OYjVTOTllTml1ZW9yb21GTGtJMTRmdTFSc3hWQXJuRzhSVm9JY1g1dktBVEJxdklqeU4tNV9LOTM5YjhucTdZTEdhU3hreDd1cll1S1hvTmJhSmk2VTA3RmtRMnVWT2t4enZGakYteUpNMnZwb0plLTVJ?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUzYyRGtEbWZCYXVaVm9zMVgzN1VkUFJNaHM0dHBpUHdZeU4tazRGOGhoQmxBWnd6U2xPWFpjQ3M5aHVhOXJ4NGoxREpFak1wWlMyRWJ6TE1RekFzSVl6aGNNdUp3SmJacUh4eXNDdUpMTzhOUjM1UjBENVFLbTV6NXBEVDZqR2pQOE94OTFfVWZHcTNldUpWMlRuYjltaEN4S2Q4Y0ZsWEJVTDR6Z0lLcXlSaFBhLW5oeGp6SjU1bXF4dFdkbVVrRlFLckhjbWs?oc=5"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVdlb1VvajJMQVpZRVNmb1JSa3lsVnVjRmdEY0x3LVVoUU0tN2hFMzZCYWx5LVZEakxLS1A1RTlCYnVOOWpKR2JzNlRLclczYUdVQUdKTy1FSkFsc1JzLU82bjJaSUFXZXdHd3pUVTFuc3hxNnQ4cHZ6b1FJUm5HeU81X2UzbW82UnNFdy1rNjJhS3puWXhpQXJhMnRLSGIyVTBGRjR0YklrU0xyMWRsckFJLUR6OXBsWGJZdTByNDhHQdIBygFBVV95cUxNcXlsV2pmWlpqQm5INzNhUjdvLWZLSDQtd2w4VjA0WmZCVTZqc1BRc1RfTjZrSmNyc1QzX243YUFCeVJQZURkeEtvLXQwMmVYa0V5THVxenl6TE83TmtFc1g5d1VHQzhQY3lXc0pfZVFIS0tld3d3a2doNEpNS290SU1iYnpLbWdZUU1QSV9EWm9sRDBNb0xiSElnbm9xLVE0dWpXTXMwOU9MVVJtcEduei1xMzdmTWtXdGNFNTNHUGVpUGstZjE2RmZB?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnhDdm9nemFDeE9EbzVSRUgtcHFSS1RpdDVrMFp2OEg0WG1VSUhlVWcyX1BvUFp0NU85RDUzM1ZoMGZHUURQZkg3YVdJR2F6S213NzJZVHMtdGZ5aTVFVHgxdlJCQU1mNmRUMk5OYjVTOTllTml1ZW9yb21GTGtJMTRmdTFSc3hWQXJuRzhSVm9JY1g1dktBVEJxdklqeU4tNV9LOTM5YjhucTdZTEdhU3hreDd1cll1S1hvTmJhSmk2VTA3RmtRMnVWT2t4enZGakYteUpNMnZwb0plLTVJ?oc=5"
    ],
-   "cause_evidence": "...JPMorgan Chase says vendors hit in cyberattack, not related to earlier outag...",
+   "cause_evidence": "...FBI says Chase outage tracks back to software release,   activity...",
    "ai_link": "none",
    "ai_evidence": null,
    "ai_service_affected": false,
@@ -516,9 +617,9 @@
    "title": "United Airlines outage: System restored after flights delayed in Chicago",
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-18",
-   "articles": 109,
+   "articles": 111,
    "evidence_pages": 0,
-   "outlets": 100,
+   "outlets": 101,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -598,7 +699,7 @@
     {
      "at": "2026-11-13T18:29:31Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 16, 2026, between 09:30 and 15:55 UTC, some pull request merges on GitHub timed out. On average, 2.9% of merge attempts timed out, with a peak of 7.1% at 15:17 UTC. Some GitHub Actions workflow runs triggered by pull requests were also delayed. Git operations such as push and fetch stayed available, with higher latency. This was a repeat of a shorter event on November 13, between 13:15 and 17:50 UTC, when 1.7% of merges timed out.<br /><br />Both events had the same cause: some of the storage servers that hold Git repository data reached their disk read bandwidth limits. A merge must be written to every copy of a repository, so one overloaded server slowed merges for every repository it hosts. Read load on these servers had been growing as part of a planned move of repositories to new infrastructure. A disk configuration setting on those servers also made them read far more data than necessary, which cut their usable bandwidth roughly in half. We mitigated the incident by correcting that setting and moving some load away from the busiest servers.<br /><br />The corrected setting is now applied permanently across our storage fleet. We are adding storage capacity in the affected region and alerting on per-server disk bandwidth so we catch saturation before it affects customers. Sustained merge timeouts will now page our on-call engineers directly. We are also adding capacity checks before moving repositories or traffic onto new infrastructure."
     },
     {
      "at": "2026-11-13T17:46:11Z",
@@ -637,9 +738,9 @@
     }
    ],
    "url": "https://stspg.io/qzj7qjdcr8jc",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ove of repositories to new infrastructure. A disk configuration setting on those servers also made them read far...",
    "brand": "GitHub",
    "sources": [
     "status-page"
@@ -746,7 +847,7 @@
     "manual",
     "news"
    ],
-   "articles": 237,
+   "articles": 281,
    "first_reported": "2026-11-12",
    "last_reported": "2026-11-14",
    "other_industry": true,

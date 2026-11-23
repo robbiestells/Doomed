@@ -1,6 +1,13 @@
 {
- "dropped_count": 47,
+ "dropped_count": 50,
  "dropped": [
+  {
+   "published": "2026-11-23",
+   "title": "Delta outage snarls Thanksgiving travel in latest tech issue to plague US",
+   "outlet": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQmlzTTdrbmRDQkxSekFSclE1YWM4SjJLTXlLUmFHRk56MG9TOXBOOHhfR3BRRzEwNlk0ZExRU2pGZGdhRk5JTmRGWnZpdUI4eThLbWlNT19HYW1MVVBJMDJaVUFJYU82bklGZy1hVS1EX2FFeURHQ0dWS2xabGZ5eHZJMFBWTGhDcEpoWW5LcmlQWlZJVU5Jdlc0NmJ6YnFWOExpQkhRZF9PU01zdFdnTDdUSGdTUQ?oc=5",
+   "matched": "latest tech"
+  },
   {
    "published": "2026-11-20",
    "title": "FAA Narrows Cause Of Nationwide Outage, Congress Questions $50 Billion Funding Request",
@@ -170,6 +177,20 @@
    "matched": "Trump"
   },
   {
+   "published": "2026-11-17",
+   "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
+   "outlet": "CNA",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRl9zRE9MYkZEdUFqc016Z09xYXI2andUMXhNbDNkdVlRN2lzSGFtVkVjUE5yQXNZN0xvMXFPN0NOSmRkQnhPZWRFUmh5YVpTWW5WWlAwV01fRWNNMWNYR0lEYURaXzI4ODZEUUNiejQwWkR2UWJHcTY2MGVHeEFaczdkS1dPdExVTy1MTHlMU2RUbERocnRYajhLaUxMNEMw?oc=5",
+   "matched": "everything be broken"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Will the bank outage cost me a late fee? How to get fees reversed after the Chase problems",
+   "outlet": "Nacionale",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZUw0MkcxN243SnVLb2wtNnJtOFRmalYzV0lFRWhaZUJlSi11SUtXYlM5SE1GRmQxbkhBNkdleHdfVHVJeE5DRkRQaFM1ZWw5dDRTblFmUEJkSmpTUUprNlpTNTFUajFZWnhuWGp0YlllMXNreDJsM21zWXFPVmg1VVdhSnptQjNVeDJGQmE4eUJHU1JxNFlFRy1QbXE2QlAyZVU5c29CMA?oc=5",
+   "matched": "How to "
+  },
+  {
    "published": "2026-11-16",
    "title": "Could everything be broken? Grounded jets, bank trouble, Microsoft outage, AI chaos make some wonder",
    "outlet": "AP News",
@@ -331,7 +352,7 @@
    "matched": "How to "
   }
  ],
- "evidence_only_count": 80,
+ "evidence_only_count": 83,
  "evidence_only": [
   {
    "published": "2026-11-20",
@@ -386,6 +407,14 @@
    "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
    "outlet": "The Sunday Guardian",
    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTmhqUEphTlphdnBZWXVaQ0xOZlhvVHp1UkZOLTE4LVdnSUpYMGxqcTRfRlQxdldWNUg2eFFfZnc2TDNMVFgxZUU3VEprSk1iOEdyQ25CczBNTnpmbmpwRXJscUV4QmtXd213SjlLOGxDRFdvdzFqTkNCUW5HN3pMSVZGLVlHNFdaX2RjbDZDOVluVFJoV09pYjE1X0dyT3ctSUptZG5hWEVFNVpxY19wNzNjUlo1NlBkOEgxOXpXMVN1MXd2Z1VYLW0tbS1aQm9Ia0Q5Q2VmRU1pdFBhcFkxWVhpaHlaMnpUSWdtMnFVdks1LU1Ia1AtZm8wb283cTRfSEZ3QVR2SXJtRjZhWGRHdS11TUNGUl9JSzFJdzJDVXVidHZhQ20zcEdYM1ZIbXhZUDhDNGVpS1ZoczhVZ2NlS3dKdnI3RUHSAcwCQVVfeXFMTXE4T0dWVVJuamxzUUlESUJKVE1WaWxkZWM0dWVoTWYzX3ktTXZSeXdQaFNsdm1qY0p3Nzk2NnZBdzNFcHo0UUJCVHpyRnd3MzNTM1o4N3BVU0kydzhZUDZORVpvNHNTay0wd1JaSnhGdWZHNlU0WmwzSW9paHlRNmNoZ2t3QnBmUUdIZUhaSWFxS3BDRVhXaUJmTmRNSVZOb3RjX2FkSEQ1RDFFY2VlLTFLOGdNdHk5bzZlbGNDejBhR09NdXJKRV90MXJCbnVNcmxuclpkS3FZdnVQUUtFWU43OTQtbXk3QUpuYWRhV2ktYmhFYnI2dHZkS0R3elBlcXdLWUlNWnJBazNqaVBWaXM0ZVhlRFU0N19tQXQ5aWRoSUxuNVU2QTg1NGxBcHAtbmoyV3B1WjdTbFFYYVd1SmkzeWZ1TF9UMThVb2U?oc=5",
+   "matched": "Outage Today:",
+   "brand": "AWS"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Amazon Outage Today: Is Amazon Down Today in the US? Users Report Website, App Problem, Login Error, Shopping Issues, Payment Failure & AWS Updates | Check Latest Amazon Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOTmhqUEphTlphdnBZWXVaQ0xOZlhvVHp1UkZOLTE4LVdnSUpYMGxqcTRfRlQxdldWNUg2eFFfZnc2TDNMVFgxZUU3VEprSk1iOEdyQ25CczBNTnpmbmpwRXJscUV4QmtXd213SjlLOGxDRFdvdzFqTkNCUW5HN3pMSVZGLVlHNFdaX2RjbDZDOVluVFJoV09pYjE1X0dyT3ctSUptZG5hWEVFNVpxY19wNzNjUlo1NlBkOEgxOXpXMVN1MXd2Z1VYLW0tbS1aQm9Ia0Q5Q2VmRU1pdFBhcFkxWVhpaHlaMnpUSWdtMnFVdks1LU1Ia1AtZm8wb283cTRfSEZ3QVR2SXJtRjZhWGRHdS11TUNGUl9JSzFJdzJDVXVidHZhQ20zcEdYM1ZIbXhZUDhDNGVpS1ZoczhVZ2NlS3dKdnI3RUHSAZsEQVVfeXFMTnpPYTdxbzRENzlkWkdwRFQ3ZldMR0p2NHRsMVYxLUpyQmR1bU9LMWZnNG5ReUdGRUVMSW1kSjNFQjMyU2xJdVhUcHFiVnlVbjlYYlVrVlI4YlRUdDhtcnRMVjFIX05BS2hZWVlMNndBb0VzejU1WkkzZWZxUzVnd2dTcnEtNlE5V01WQTNfc09xTDZzZ2xJNjhOR1dDcUNObHMtaG5xSjdjaUFFT2dSdkZZdFlHWm94SENORloycnpuUGM4NS1lTDBRQkVncERwbE1FR0wtQV9uZUJpZndEdnhEMW1NMlcwMmlHczdCYjZtVzhzYzhPSUFmUF9mZWZpNk5nNlE4ZllwMG5qajgtT19iYm9ya2Vla2ZHQ0UtcU5ETWhKUXB5WmJlSHZGY011T19IakczUmdabU5EWms5NS1sV3RxOW13c3pvcFM3WUpndzN6M1lEVnJHWnlQWjBzMllPb2FIODZSSjZmMGxpZldmdGNlUzBidDVSbmtFbXg1ZjY5OHFpOF9yWkdSOHNKdkpmcDJvUENwajRNTU5YOURseHVZZ3ROV0Q0NkJZc3BwT3NzRnVTckx5MmN5b08tNlppS0RESS1ySHRfTTRPVW1VdjhPX1E4U1BwZHdzeUhFaEVTeXNMejg0UHBtUWhjcURoekkxTnZfNVJGdTZ3R0tBY0dOUXpEV0RiUjJYc1ZfUGFMaE9Tc1JnQ1E?oc=5",
    "matched": "Outage Today:",
    "brand": "AWS"
   },
@@ -459,6 +488,22 @@
    "outlet": "WBFF",
    "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOOHRuUk5wQWx1ZW9WbE0yV3pOZnBpdzAtMkNIcWNZOUhzRkxBQ0tCTHFrd2dkWjNWdWs5Q2NoYUc5Zkd0Mlc0WHhCMVpBWGVrZHZQc3J2Sl9MLVZscFI5c21wRER1NGlFd3ZlVWxXVFlfZWpPM2s4Mmd3OXBOV29melp5VVZfTGltOHNYVFR4TkJWMm9MLTZ3SU9YNUdSTjZlaExPazJPTi1fX0NTazhhQ3d4TFpKQ1o0Mi1CYWxOVnh2ZklsSWJjUFZ4SDJnakZJaGFscVRrZGRNaTdNZTBSZHJUeWFMMHJFcjBSTEw0cGlsQ3JSOXdjWE45bFp3NkZjZXBNTDhZYmFkTFZWSzFxQldDRlpUZmxpMFI2SWxCeWZ3UF9lUnhjanlhb1JrUEtDd1lPSFFIcmlqMXdhc1pSbHBLS3NDQQ?oc=5",
    "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Is Apple down? Company says 'internal update' behind outages on services like iCloud",
+   "outlet": "National News Desk",
+   "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTmVXbmV1TElaWlVEZ2w5c2ExMXpIeU9uWTVlX0VzMXl6Q1NOVFBlaEtfTEFramtfd2l3SkR5dURWMzIxUUoxTHR3NzRLRDhkMXd3VWtWbndCZUotakVSV05XVEdwVXFKNldPUEtydGFhM0FMSUR6NjdERHNBZDBwX1VkNGlUU1ZnUkx5SVU2QTdXMElhcjdlcXRJOHRoMHYyT25QTkxuYkliZXh1SWJfb1M2cFNyeHpWN0p6cHdEalpMeWt6bndLVGhQRnlJemxSMGpUMGhRLUVuZ0d0YWZRcWdRbHE0eXBmMm5EdVN2VVJkSWE1b1hiZ29MRVh2cUVkcm1CVmY1MVczclFud0ZPeThYaVBlS1JIVXFxWl9qam1TYkhpV3JKUmFLQVhyU3Z2Q1BhNktEaDZTRzd0LVRoN3VKYTBNc2d4blhyQ1ZzRU0?oc=5",
+   "matched": "Is Apple down?",
+   "brand": "Apple"
+  },
+  {
+   "published": "2026-11-17",
+   "title": "Apple outage today: iCloud, App Store, Apple Music down Nov. 17",
+   "outlet": "Bergen Record",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0lCdXhTWTYzeUpjNFU3LXg1MW1raklBNjRpZVQ3a1M2R3prcjNJZGdNd0tXX0hIeUZSSC1QclNhenR2LXdTT2JhMjZPV295SnRELXYyaGpOT1I0bjdMVmVTc2ZJT1pmaDlWV0k2NXpMWkZpMEpIdEpBTFZNWTc4RnZXWEdpaUVxM0xmSlhmZlFhV3BSWm1Hc2JEd1oza08waHRGS2hFNVN5V3JVUmthMEpBU29OY2pBUnpLQkkxUnRfNmFBeFBfcUlIWHZWRXlOYnc?oc=5",
+   "matched": "outage today:",
    "brand": "Apple"
   },
   {

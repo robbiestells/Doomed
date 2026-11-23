@@ -1,7 +1,290 @@
 {
- "generated_at": "2026-11-23T13:00:34Z",
- "count": 1017,
+ "generated_at": "2026-11-23T22:55:21Z",
+ "count": 1024,
  "incidents": [
+  {
+   "key": "twilio:13bsyxhr1v1l",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Intermittent 403 Errors at the Email API",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-23T22:17:34Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "API v3",
+    "SendGrid API"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T22:27:17Z",
+     "status": "investigating",
+     "body": "Our engineers are investigating an issue with the Email API. Users may experience failed API requests due to 403 errors. This does impact the mail send API. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T22:17:34Z",
+     "status": "investigating",
+     "body": "Our monitoring systems have detected a potential issue with intermittent request failures affecting mail send API requests. Our engineers have been alerted and are investigating. We will provide an update when we have more details."
+    }
+   ],
+   "url": "https://stspg.io/zmn4n7p9kjtg",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:ss96fj960ls6",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Email Authentication Errors Affecting Mail Send",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-23T18:16:45Z",
+   "resolved_at": "2026-11-23T20:47:22Z",
+   "duration_min": 150,
+   "components": [
+    "API v3"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T20:47:22Z",
+     "status": "resolved",
+     "body": "Engineers have verified the fix and all systems are operating as normal."
+    },
+    {
+     "at": "2026-11-23T19:48:37Z",
+     "status": "monitoring",
+     "body": "We have continue to see recovery in all systems. Engineers are monitoring the fixes. This does impact mail send. We will provide another update in an hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T19:09:16Z",
+     "status": "monitoring",
+     "body": "We have started to see recovery in all systems. Engineers are monitoring the fixes. This does impact mail send. We will provide another update in an hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T18:36:28Z",
+     "status": "investigating",
+     "body": "There is an issue affecting mail send and any requests that require authentication. This does impact mail send. We will provide another update in 45 minutes or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T18:16:45Z",
+     "status": "investigating",
+     "body": "We are investigating an issue with transactional email sending. Users may experience elevated HTTP 5xx status codes when sending transactional emails. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/m0r4pj2z77m1",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "shopify:m1grsygpsdbb",
+   "source": "shopify",
+   "service": "Shopify",
+   "category": "commerce",
+   "kind": "feed",
+   "title": "Errors at Online Store Checkout and Point Of Sale Checkout",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-23T17:54:00Z",
+   "resolved_at": "2026-11-23T18:47:12Z",
+   "duration_min": 53,
+   "components": [
+    "Checkout"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T18:47:12Z",
+     "status": "resolved",
+     "body": "Between 17:40 UTC - 17:57 UTC , we experienced issues with completing checkouts on both the Online Store and Point of Sale. A fix was implemented at 17:57 UTC which resolved the issue. The monitoring period for this issue has ended and no further impact has been observed."
+    },
+    {
+     "at": "2026-11-23T18:28:50Z",
+     "status": "monitoring",
+     "body": "This issue for POS (as well as Online Store checkout) has now also been resolved and is being monitored."
+    },
+    {
+     "at": "2026-11-23T18:21:02Z",
+     "status": "investigating",
+     "body": "Some merchants may still be seeing issues with Point of Sale card readers and associated checkouts. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-23T18:13:19Z",
+     "status": "monitoring",
+     "body": "Between 17:40 UTC - 17:57 UTC , we experienced issues with completing checkouts on both the Online Store and Point of Sale. A fix was implemented at 17:57 UTC which resolved the issue. The monitoring period for this issue has ended and no further impact has been observed."
+    },
+    {
+     "at": "2026-11-23T18:02:11Z",
+     "status": "monitoring",
+     "body": "This issue has been resolved and is being monitored."
+    },
+    {
+     "at": "2026-11-23T17:57:53Z",
+     "status": "identified",
+     "body": "We've identified the problem impacting checkouts and we're working on a solution."
+    },
+    {
+     "at": "2026-11-23T17:54:00Z",
+     "status": "investigating",
+     "body": "Merchants and buyers may see errors completing checkouts for Online Store and Point Of Sale"
+    }
+   ],
+   "url": "https://stspg.io/3hqwrkt6w96w",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:40yqdkh8kxj6",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Vodacom South Africa",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-23T17:37:31Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Middle East & Africa"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T20:55:15Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T18:54:24Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T17:50:03Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T17:37:31Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/91mvmds8qz4y",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:llqf69fxcqvm",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SIP Domain Emergency Caller ID Configuration Issues",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-23T16:28:12Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Console"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T17:38:23Z",
+     "status": "identified",
+     "body": "We have identified the issue of phone numbers not appearing in the Emergency Caller ID selection for SIP Domains. This affects numbers with emergency calling configuration enabled more recently, while previously configured numbers continue to appear. We are working toward a fix and will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T16:36:52Z",
+     "status": "identified",
+     "body": "We have identified the issue of numbers not appearing in the Emergency Caller ID dropdown for SIP Domain emergency calling configuration in Console. This affects numbers with emergency configuration enabled more recently, while previously configured numbers continue to appear. We are working toward a fix and will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T16:28:12Z",
+     "status": "investigating",
+     "body": "We are investigating an issue with configuring SIP Domain emergency calling in Console. Users may experience missing phone numbers in the Emergency Caller ID dropdown when emergency configuration was enabled more recently, while numbers configured earlier may still appear. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/cvjkwmkmx7d3",
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ains. This affects numbers with emergency calling configuration enabled more recently, while previously configure..."
+  },
+  {
+   "key": "openai:01M84HKHX73RF7HTVZQ2A9GFXP",
+   "source": "openai",
+   "service": "OpenAI",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Elevated errors with GPT-6 conversations on paid ChatGPT plans",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-23T15:50:14Z",
+   "resolved_at": "2026-11-23T16:38:46Z",
+   "duration_min": 48,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-23T16:38:46Z",
+     "status": "resolved",
+     "body": "All affected services are operating normally again. We\u2019re sorry for the disruption, and we appreciate your patience."
+    },
+    {
+     "at": "2026-11-23T16:12:58Z",
+     "status": "monitoring",
+     "body": "We\u2019ve applied a mitigation and are monitoring the affected services to confirm recovery."
+    },
+    {
+     "at": "2026-11-23T15:58:23Z",
+     "status": "identified",
+     "body": "We\u2019ve identified the issue causing intermittent errors in GPT-6 conversations on paid ChatGPT plans.\n\nWe are working on implementing a mitigation."
+    },
+    {
+     "at": "2026-11-23T15:50:14Z",
+     "status": "investigating",
+     "body": "We are investigating intermittent errors affecting GPT-6 conversations on paid ChatGPT plans."
+    }
+   ],
+   "url": "https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:00dp7cliyqqt",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-23T13:52:11Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Workers"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T13:52:11Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating an issue affecting the Workers API and Workers configuration in the Cloudflare dashboard. \nCustomers may see out-of-date or inconsistent information when viewing or managing Workers. \nFor example, recent deployments or configuration changes may not show up right away. \nWorkers that are already running in production are not affected. \n\n\nWe are working to mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/00dp7cliyqqt",
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...viewing or managing Workers.  For example, recent deployments or configuration changes may not show up right a..."
+  },
   {
    "key": "zoom:qgp8bvxhl8g0",
    "source": "zoom",
@@ -88,14 +371,24 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Cell C South Africa",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-23T07:04:31Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-23T14:29:32Z",
+   "duration_min": 445,
    "components": [
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-23T14:29:32Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from a subset of Twilio Long Codes to Cell C network subscribers in South Africa is operating normally."
+    },
+    {
+     "at": "2026-11-23T13:43:02Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from a subset of Twilio Long Codes to Cell C network subscribers in South Africa and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-23T10:06:13Z",
      "status": "investigating",
@@ -1777,7 +2070,7 @@
    "kind": "feed",
    "title": "Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Phone Numbers",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "identified",
    "started_at": "2026-11-18T15:56:21Z",
    "resolved_at": null,
    "duration_min": null,
@@ -1785,6 +2078,26 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-23T21:30:28Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing silent and one-way audio for voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T17:29:49Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call silent and one-way audio from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T15:23:53Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing silent and one-way audio on voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T14:15:48Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call silent and one-way audio from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-23T06:02:20Z",
      "status": "monitoring",
@@ -2103,7 +2416,7 @@
     {
      "at": "2026-11-18T09:34:15Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 18, 2026, between 08:29 and 08:56 UTC, GitHub Copilot experienced degradation affecting the MAI Code 2 Flash model, causing elevated error rates for users. No other models were impacted, and users could continue using Copilot by selecting another model or Copilot Fusion.<br /><br />The degradation was caused by an infrastructure issue following a configuration change made while addressing an issue with an upstream model provider. We mitigated the incident by rebalancing load within our infrastructure, and service was restored by 08:56 UTC. GitHub is working to further improve the resiliency of the service to prevent similar incidents in the future."
     },
     {
      "at": "2026-11-18T09:34:07Z",
@@ -2132,9 +2445,9 @@
     }
    ],
    "url": "https://stspg.io/3sbmvyy2ctyx",
-   "cause": "third-party",
+   "cause": "config-change",
    "cause_basis": "provider",
-   "cause_evidence": "...The issues with our upstream model provider have been resolved, and MAI Code 2..."
+   "cause_evidence": "...was caused by an infrastructure issue following a configuration change made while addressing an issue with an ups..."
   },
   {
    "key": "twilio:br82nbf55nll",
@@ -3119,8 +3432,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [
@@ -5458,7 +5771,7 @@
     {
      "at": "2026-11-13T18:29:31Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 16, 2026, between 09:30 and 15:55 UTC, some pull request merges on GitHub timed out. On average, 2.9% of merge attempts timed out, with a peak of 7.1% at 15:17 UTC. Some GitHub Actions workflow runs triggered by pull requests were also delayed. Git operations such as push and fetch stayed available, with higher latency. This was a repeat of a shorter event on November 13, between 13:15 and 17:50 UTC, when 1.7% of merges timed out.<br /><br />Both events had the same cause: some of the storage servers that hold Git repository data reached their disk read bandwidth limits. A merge must be written to every copy of a repository, so one overloaded server slowed merges for every repository it hosts. Read load on these servers had been growing as part of a planned move of repositories to new infrastructure. A disk configuration setting on those servers also made them read far more data than necessary, which cut their usable bandwidth roughly in half. We mitigated the incident by correcting that setting and moving some load away from the busiest servers.<br /><br />The corrected setting is now applied permanently across our storage fleet. We are adding storage capacity in the affected region and alerting on per-server disk bandwidth so we catch saturation before it affects customers. Sustained merge timeouts will now page our on-call engineers directly. We are also adding capacity checks before moving repositories or traffic onto new infrastructure."
     },
     {
      "at": "2026-11-13T17:46:11Z",
@@ -5497,9 +5810,9 @@
     }
    ],
    "url": "https://stspg.io/qzj7qjdcr8jc",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ove of repositories to new infrastructure. A disk configuration setting on those servers also made them read far..."
   },
   {
    "key": "twilio:hv25yyc4z5bl",
@@ -10157,7 +10470,7 @@
    "kind": "feed",
    "title": "[Minor] Issue with Box AI",
    "severity": "minor",
-   "status": "resolved",
+   "status": "postmortem",
    "started_at": "2026-11-04T05:48:44Z",
    "resolved_at": "2026-11-04T09:07:24Z",
    "duration_min": 198,
@@ -10165,6 +10478,11 @@
     "Box AI"
    ],
    "updates": [
+    {
+     "at": "2026-11-23T13:41:09Z",
+     "status": "postmortem",
+     "body": "_Notice and disclaimer: Box is providing this preliminary information subject to further review and analysis. To the best of our knowledge, this is the current state and we may update as more information is confirmed._\n\nBetween November 3, 2026 at 7:40 PM\u00a0PT and November 4 at 12:30 AM\u00a0PT, some users\u00a0may have experienced delays or no responses when using Box AI, with streaming answers remaining on a loading indicator until a page refresh. This affected Box AI user availability for some customers and manifested as elevated latency and delayed answer delivery.\n\n# Analysis\n\nThe incident was triggered by a recent client version upgrade that caused an unexpected surge in long-lived connections and amplified retries, which overwhelmed a capacity-limited service. We reverted the client change and disabled the retries, and by November 4 at 12:30 AM\u00a0PT\u00a0Box AI user availability had recovered.\n\n# Corrective Actions\n\nWe are reviewing our deployment and connection-handling practices to help prevent similar incidents in the future.\n\nWe are conducting a full engineering postmortem and our overview is subject to change with further analysis and findings. In the event our continuing investigation yields further substantive findings, we may publish additional analysis after the conclusion of the full engineering postmortem.\n\nWe are continuously working to improve Box and want to make sure we are delivering the best product and user experience we can. We hope we have provided some clarity here and we would be happy to answer any questions you may still have regarding this matter.\n\n\u200c\n\nSincerely,\n\nThe Box Team"
+    },
     {
      "at": "2026-11-04T09:07:24Z",
      "status": "resolved",
@@ -10187,9 +10505,9 @@
     }
    ],
    "url": "https://stspg.io/hg22gsr327kn",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...ered.  # Corrective Actions  We are reviewing our deployment and connection-handling practices to help prevent..."
   },
   {
    "key": "github:13b6lyl8d7bz",
