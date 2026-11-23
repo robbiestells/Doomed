@@ -1,8 +1,8 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 80,
- "per_week_avg": 6.22,
+ "total": 79,
+ "per_week_avg": 6.14,
  "by_service": [
   [
    "GitHub",
@@ -14,7 +14,7 @@
   ],
   [
    "Box",
-   11
+   10
   ],
   [
    "Vercel",
@@ -76,7 +76,7 @@
  "by_category": [
   [
    "saas",
-   33
+   32
   ],
   [
    "developer",
@@ -106,7 +106,7 @@
  "by_week": [
   [
    "2026-W35",
-   4
+   3
   ],
   [
    "2026-W36",
@@ -168,7 +168,7 @@
   ],
   [
    "capacity-overload",
-   4
+   3
   ],
   [
    "network",
@@ -183,7 +183,7 @@
    2
   ]
  ],
- "cause_known_pct": 47.5,
+ "cause_known_pct": 46.8,
  "by_weekday": [
   [
    "Wed",
@@ -199,7 +199,7 @@
   ],
   [
    "Tue",
-   12
+   11
   ],
   [
    "Thu",
@@ -216,7 +216,7 @@
  ],
  "median_duration_min": {
   "Dropbox": 59,
-  "Box": 74,
+  "Box": 88,
   "Cloudflare": 28,
   "Vercel": 82,
   "1Password": 56,

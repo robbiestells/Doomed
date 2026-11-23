@@ -1,7 +1,150 @@
 {
- "generated_at": "2026-11-23T02:52:25Z",
- "count": 1013,
+ "generated_at": "2026-11-23T13:00:34Z",
+ "count": 1017,
  "incidents": [
+  {
+   "key": "zoom:qgp8bvxhl8g0",
+   "source": "zoom",
+   "service": "Zoom",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Service Degradation Affecting Zoom AI Companion Web in US Region",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-23T10:47:20Z",
+   "resolved_at": "2026-11-23T11:00:49Z",
+   "duration_min": 13,
+   "components": [
+    "Zoom AI",
+    "Zoom AI"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T11:00:49Z",
+     "status": "resolved",
+     "body": "This incident has been resolved and the affected services have been restored."
+    },
+    {
+     "at": "2026-11-23T10:47:20Z",
+     "status": "monitoring",
+     "body": "On 11/23/2026, Between 08:33 UTC to 09:25 UTC, Users may have experienced issues with Zoom AI Companion Web in US Region.\n\nThis incident has been resolved and the affected services have been restored."
+    }
+   ],
+   "url": "https://stspg.io/cpwwrn251g9v",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "anthropic:yzs0s90d8fm8",
+   "source": "anthropic",
+   "service": "Anthropic",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Elevated errors for multiple models",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-23T09:49:22Z",
+   "resolved_at": "2026-11-23T11:07:41Z",
+   "duration_min": 78,
+   "components": [
+    "claude.ai",
+    "Claude API (api.anthropic.com)",
+    "Claude Code",
+    "Claude Cowork"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T11:07:41Z",
+     "status": "resolved",
+     "body": "The issue affecting Claude services has been resolved. Impact occurred from 01:39 PT / 09:39 UTC to 01:56 PT / 09:56 UTC."
+    },
+    {
+     "at": "2026-11-23T10:07:23Z",
+     "status": "monitoring",
+     "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery."
+    },
+    {
+     "at": "2026-11-23T09:56:38Z",
+     "status": "identified",
+     "body": "We have identified the cause of elevated errors on requests to Claude Mythos 5.2, Claude Fable 5.2, Claude Opus 5.5, Claude Sonnet 5.5, Claude Haiku 5.5, and other Claude models and are working on a fix. We will provide an update as soon as possible."
+    },
+    {
+     "at": "2026-11-23T09:49:22Z",
+     "status": "investigating",
+     "body": "We are investigating elevated errors on requests to Claude Fable 5.2, Sonnet 5.5, Opus 5.5, Mythos 5.2, Haiku 5.5 and other Claude models. We will provide an update as soon as possible."
+    }
+   ],
+   "url": "https://stspg.io/q2ptbwdjx31m",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:bmn4zx64y60q",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Cell C South Africa",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-23T07:04:31Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Middle East & Africa"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T10:06:13Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Cell C network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T08:05:46Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Cell C network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T07:04:31Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Cell C network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/zj30ygk0tt90",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:nosp2iizzvc7",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Elevated latency in Frankfurt",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-23T04:18:00Z",
+   "resolved_at": "2026-11-23T04:28:00Z",
+   "duration_min": 10,
+   "components": [
+    "Network",
+    "Frankfurt, Germany - (FRA)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-23T04:28:00Z",
+     "status": "resolved",
+     "body": "Between 04:18-04:28 UTC some customers reaching Frankfurt, DE may have experienced elevated latency."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/nosp2iizzvc7",
+   "cause": "network",
+   "cause_basis": "provider",
+   "cause_evidence": "...ching Frankfurt, DE may have experienced elevated latency...."
+  },
   {
    "key": "cloudflare:pnfv9wfy2q4y",
    "source": "cloudflare",
@@ -48,14 +191,19 @@
    "kind": "feed",
    "title": "Service Degradation Affecting Zoom Phone tab on desktop clients",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-23T00:22:55Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-23T02:56:24Z",
+   "duration_min": 153,
    "components": [
     "Zoom Phone"
    ],
    "updates": [
+    {
+     "at": "2026-11-23T02:56:24Z",
+     "status": "resolved",
+     "body": "This incident has been resolved and the affected services have been restored."
+    },
     {
      "at": "2026-11-23T02:39:59Z",
      "status": "monitoring",
@@ -214,6 +362,11 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-23T11:12:23Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions in Canada. Our team is actively investigating the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-22T19:11:42Z",
      "status": "investigating",
@@ -1173,10 +1326,10 @@
    "resolved_at": "2026-11-19T12:33:38Z",
    "duration_min": 37,
    "components": [
+    "Zoom Whiteboard",
     "Web Portal",
     "Web Client",
-    "Zoom AI",
-    "Zoom Whiteboard"
+    "Zoom AI"
    ],
    "updates": [
     {
@@ -1632,6 +1785,11 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-23T06:02:20Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers and are monitoring service stability. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-22T06:01:43Z",
      "status": "monitoring",
@@ -2961,8 +3119,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Data Localization Suite",
     "Zero Trust",
+    "Data Localization Suite",
     "Cloudflare One Client"
    ],
    "updates": [

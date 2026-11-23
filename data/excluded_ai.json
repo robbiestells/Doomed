@@ -1,6 +1,12 @@
 {
- "count": 42,
+ "count": 43,
  "events": [
+  {
+   "key": "anthropic:yzs0s90d8fm8",
+   "service": "Anthropic",
+   "title": "Elevated errors for multiple models",
+   "first_reported": "2026-11-23"
+  },
   {
    "key": "openai:01M7T8MRF9SDBDNQ62Z6V156ZZ",
    "service": "OpenAI",
