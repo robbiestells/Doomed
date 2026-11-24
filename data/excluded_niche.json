@@ -1,6 +1,12 @@
 {
- "count": 30,
+ "count": 31,
  "events": [
+  {
+   "key": "vercel:l0msz49j1f81",
+   "service": "Vercel",
+   "title": "Errors when starting Sandboxes from private Container Registry images",
+   "first_reported": "2026-11-24"
+  },
   {
    "key": "vercel:c83fx5n8008f",
    "service": "Vercel",

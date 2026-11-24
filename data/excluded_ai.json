@@ -1,6 +1,18 @@
 {
- "count": 43,
+ "count": 45,
  "events": [
+  {
+   "key": "anthropic:fbvlx4wx4zx5",
+   "service": "Anthropic",
+   "title": "Elevated errors for Claude Haiku 5.5",
+   "first_reported": "2026-11-24"
+  },
+  {
+   "key": "anthropic:3vbyqgnswwxq",
+   "service": "Anthropic",
+   "title": "Claude for Microsoft 365 add-in missing for some users",
+   "first_reported": "2026-11-24"
+  },
   {
    "key": "anthropic:yzs0s90d8fm8",
    "service": "Anthropic",

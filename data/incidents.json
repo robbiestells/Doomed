@@ -1,7 +1,327 @@
 {
- "generated_at": "2026-11-24T11:02:46Z",
- "count": 1028,
+ "generated_at": "2026-11-24T21:20:00Z",
+ "count": 1037,
  "incidents": [
+  {
+   "key": "twilio:bt3k6hkjlh01",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Some calls not branded or receive Spam likely labels",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-24T21:03:06Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "PSTN US1"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T21:03:06Z",
+     "status": "investigating",
+     "body": "Due to a data inconsistency issue affecting some phone numbers, some customers might have calls not branded or receive Spam likely labels on calls made from these phone numbers."
+    }
+   ],
+   "url": "https://stspg.io/fpn8qm3pmhry",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:cblwj02x20d6",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Voice Call Failures from Twilio Phone Numbers to Ireland",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-24T18:41:18Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Voice, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T20:02:36Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call failures from Twilio Phone Numbers to network subscribers in Ireland. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T19:02:07Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call failures from Twilio Mobile Numbers to network subscribers in Ireland. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T18:41:18Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing voice call failures from Twilio Phone Numbers to Meteor network subscribers in Ireland. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/pcr7x9y24trq",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "anthropic:fbvlx4wx4zx5",
+   "source": "anthropic",
+   "service": "Anthropic",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Elevated errors for Claude Haiku 5.5",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-24T17:19:31Z",
+   "resolved_at": "2026-11-24T17:50:42Z",
+   "duration_min": 31,
+   "components": [
+    "claude.ai",
+    "Claude API (api.anthropic.com)",
+    "Claude Code",
+    "Claude Cowork"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T17:50:42Z",
+     "status": "resolved",
+     "body": "The issue affecting Claude services has been resolved. Impact occurred from 09:09 PT / 17:09 UTC to 09:27 PT / 17:27 UTC."
+    },
+    {
+     "at": "2026-11-24T17:27:14Z",
+     "status": "monitoring",
+     "body": "A fix has been deployed for the issue affecting Claude services and we are monitoring for recovery."
+    },
+    {
+     "at": "2026-11-24T17:19:32Z",
+     "status": "investigating",
+     "body": "We are investigating elevated errors on requests to Claude Haiku 5.5. We will provide an update as soon as possible."
+    }
+   ],
+   "url": "https://stspg.io/n7769lzz1dvy",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "github:d56dzxzzlw0b",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Degraded Availability for MAI Code 2 in Copilot",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-24T13:44:07Z",
+   "resolved_at": "2026-11-24T14:14:05Z",
+   "duration_min": 29,
+   "components": [
+    "Copilot AI Model Providers"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T14:14:05Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-24T14:05:23Z",
+     "status": "monitoring",
+     "body": "The issues with our upstream model provider have been resolved, and MAI Code 2 is once again available in Copilot products and IDE surfaces.<br />We will continue monitoring to ensure stability, but mitigation is complete."
+    },
+    {
+     "at": "2026-11-24T14:04:47Z",
+     "status": "monitoring",
+     "body": "The degradation affecting Copilot AI Model Providers has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-24T13:46:53Z",
+     "status": "investigating",
+     "body": "We have been working with the upstream provider and applying mitigations, and are seeing improvement in availability for MAI Code 2 across Copilot products and IDE surfaces.<br />We will continue monitoring."
+    },
+    {
+     "at": "2026-11-24T13:44:27Z",
+     "status": "investigating",
+     "body": "We are experiencing degraded availability for the MAI Code 2 model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting \u2018Copilot Fusion\u2019 to continue using Copilot."
+    },
+    {
+     "at": "2026-11-24T13:44:07Z",
+     "status": "investigating",
+     "body": "We are investigating reports of degraded performance for Copilot AI Model Providers"
+    }
+   ],
+   "url": "https://stspg.io/d5wbprv122kh",
+   "cause": "third-party",
+   "cause_basis": "provider",
+   "cause_evidence": "...The issues with our upstream model provider have been resolved, and MAI Code 2..."
+  },
+  {
+   "key": "cloudflare:x5ma22sji8wi",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Issues with Email Routing in France",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-24T13:38:40Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Email Routing"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T14:50:35Z",
+     "status": "identified",
+     "body": "We are continuing to work on a fix for the issue."
+    },
+    {
+     "at": "2026-11-24T13:38:40Z",
+     "status": "identified",
+     "body": "Cloudflare is investigating issues with Email Routing in France. Some SPF records may intermittently fail to resolve. Impact is restricted to email forwarding functionality and does not affect any connectivity, security, CDN or Area1 functionality, nor does it affect Email Routing outside of France. We are working to mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/x5ma22sji8wi",
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...Cloudflare is investigating issues with Email Routing in France. Some SPF records may intermittently fa..."
+  },
+  {
+   "key": "coinbase:kb17f50vp0tb",
+   "source": "coinbase",
+   "service": "Coinbase",
+   "category": "bank",
+   "kind": "feed",
+   "title": "Delayed Sends/Receives - VARA",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-24T13:26:26Z",
+   "resolved_at": "2026-11-24T18:02:57Z",
+   "duration_min": 276,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-24T18:02:57Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-24T18:02:52Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-24T18:02:47Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-24T13:26:26Z",
+     "status": "investigating",
+     "body": "We are aware that some users may be experiencing delayed sends and receives on the VARA network. Buys, Sells, and Fiat withdrawals/deposits remain unaffected. We are working on this issue and will provide updates as the situation changes. Rest assured your funds are safe."
+    }
+   ],
+   "url": "https://stspg.io/6zg70w5tjqfn",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "vercel:l0msz49j1f81",
+   "source": "vercel",
+   "service": "Vercel",
+   "category": "cloud",
+   "kind": "feed",
+   "title": "Errors when starting Sandboxes from private Container Registry images",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-24T13:00:00Z",
+   "resolved_at": "2026-11-24T13:00:00Z",
+   "duration_min": 0,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-24T13:00:00Z",
+     "status": "resolved",
+     "body": "Sandbox creations or resumes using private VCR images returned a 404 error for teams that previously had access to those images, between 13:10 and 13:56 UTC. This issue has been resolved."
+    }
+   ],
+   "url": "https://stspg.io/txm5qwd8t2p0",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "hubspot:xb1v7891574z",
+   "source": "hubspot",
+   "service": "HubSpot",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Some HubSpot tools may be unavailable for some users",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-24T12:03:31Z",
+   "resolved_at": "2026-11-24T12:37:44Z",
+   "duration_min": 34,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-24T12:37:44Z",
+     "status": "resolved",
+     "body": "Between 11:30 AM GMT (UTC +00:00) and 12:00 PM GMT (UTC +00:00) on Nov 24, 2026, many customers in Europe experienced slow loading and errors in customer platform tools, including CRM index pages and search. This was caused by an unusually broad set of queries from a single account, which placed excessive load on our search infrastructure.  As of 12:00 PM GMT (UTC +00:00), our customer platform tools are working properly and the incident has been fully resolved.\n\nHubSpot conducts a thorough review after each incident to understand the cause and prevent it from happening again. Learn more about HubSpot\u2019s commitment to reliability at www.HubSpot.com/reliability.\n\nThe information on this page reflects our understanding of the incident and impact at the time of the update."
+    },
+    {
+     "at": "2026-11-24T12:22:18Z",
+     "status": "identified",
+     "body": "We are seeing improvement in the EU region and the affected HubSpot tools are recovering. We are continuing to investigate the cause and monitoring closely, and some users may still experience intermittent issues. Other regions are not affected."
+    },
+    {
+     "at": "2026-11-24T12:03:31Z",
+     "status": "investigating",
+     "body": "We are investigating an issue impacting some HubSpot tools. We will provide an update when we have more information."
+    }
+   ],
+   "url": "https://stspg.io/w3mn9cgjgyqj",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:no721jcnlrbh",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Magic Transit Degraded Performance",
+   "severity": "major",
+   "status": "identified",
+   "started_at": "2026-11-24T11:29:22Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Magic Transit"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T12:58:11Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-24T11:29:22Z",
+     "status": "investigating",
+     "body": "Cloudflare is currently investigating issues related to Magic Transit. A subset of Magic Transit customers have a Cloudflare-managed setting enabled that clears the Don't Fragment (DF) flag. For these customers, the setting is not currently taking effect. As a result, packets with the DF flag set and larger than the tunnel MTU may be dropped.\nWe advise customers to set an MSS clamp on their egress traffic in order to ensure ingress traffic is correctly sized."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/no721jcnlrbh",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:drcczltslqdc",
    "source": "twilio",
@@ -10,14 +330,34 @@
    "kind": "feed",
    "title": "SMS Delivery Delays and Failures from Twilio to Telekom Germany",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-24T10:24:03Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T15:13:50Z",
+   "duration_min": 289,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T15:13:50Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Telekom network subscribers in Germany is operating normally."
+    },
+    {
+     "at": "2026-11-24T13:12:11Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Telekom network subscribers in Germany and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T13:09:02Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays and failures from Twilio to Telekom network subscribers in Germany. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T11:24:32Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays and failures from Twilio to Telekom network subscribers in Germany. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T10:24:03Z",
      "status": "investigating",
@@ -79,7 +419,7 @@
    "category": "ai",
    "kind": "feed",
    "title": "Claude for Microsoft 365 add-in missing for some users",
-   "severity": "minor",
+   "severity": "major",
    "status": "investigating",
    "started_at": "2026-11-24T00:10:40Z",
    "resolved_at": null,
@@ -315,16 +655,26 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "SMS Delivery Delays From a Subset of Twilio Long Codes to Vodacom South Africa",
+   "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Vodacom South Africa",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-23T17:37:31Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T14:35:19Z",
+   "duration_min": 1257,
    "components": [
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T14:35:19Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa is operating normally."
+    },
+    {
+     "at": "2026-11-24T12:33:56Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T09:02:58Z",
      "status": "identified",
@@ -446,7 +796,7 @@
    "kind": "feed",
    "title": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
    "severity": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-23T13:52:11Z",
    "resolved_at": null,
    "duration_min": null,
@@ -454,6 +804,11 @@
     "Workers"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T19:25:51Z",
+     "status": "monitoring",
+     "body": "Fixes have been deployed to production and inconsistent reads no longer appear to occurring. Continuing to monitor throughout the remainder of the day."
+    },
     {
      "at": "2026-11-24T01:28:49Z",
      "status": "identified",
@@ -840,6 +1195,11 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T11:14:04Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team is actively investigating the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T05:55:48Z",
      "status": "investigating",
@@ -1683,7 +2043,7 @@
     {
      "at": "2026-11-19T16:37:00Z",
      "status": "resolved",
-     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+     "body": "On November 19, 2026, between 15:38 and 16:18 UTC, GitHub Copilot requests using the GPT-6 Luna model experienced degraded availability. During this time, an average of 45% of GPT-6 Luna requests failed, peaking at 63%. Copilot Fusion Max was also temporarily unavailable during this incident. Users could continue using Copilot by selecting a different model.<br /><br />The degradation was caused by an issue with an upstream model provider. GitHub engineers detected the issue through automated monitoring, worked with the provider to resolve it, and restored full service. Error rates returned to normal by 16:18 UTC, and Copilot Fusion Max was available again by 16:25 UTC. We are working to improve the availability of Copilot Fusion against such model provider outages in the future."
     },
     {
      "at": "2026-11-19T16:28:40Z",
@@ -1704,7 +2064,7 @@
    "url": "https://stspg.io/vv0kzmyd9wqs",
    "cause": "third-party",
    "cause_basis": "provider",
-   "cause_evidence": "...and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolv..."
+   "cause_evidence": ".../>The degradation was caused by an issue with an upstream model provider. GitHub engineers detected the iss..."
   },
   {
    "key": "twilio:q8sh3cw55b17",
@@ -3627,8 +3987,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [
