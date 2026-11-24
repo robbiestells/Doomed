@@ -1,8 +1,8 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 80,
- "per_week_avg": 6.22,
+ "total": 79,
+ "per_week_avg": 6.14,
  "by_service": [
   [
    "GitHub",
@@ -18,7 +18,7 @@
   ],
   [
    "Vercel",
-   8
+   7
   ],
   [
    "Notion",
@@ -92,7 +92,7 @@
   ],
   [
    "cloud",
-   8
+   7
   ],
   [
    "bank",
@@ -114,7 +114,7 @@
  "by_week": [
   [
    "2026-W35",
-   3
+   2
   ],
   [
    "2026-W36",
@@ -172,7 +172,7 @@
  "by_cause": [
   [
    "unknown",
-   42
+   41
   ],
   [
    "software-change",
@@ -195,11 +195,11 @@
    2
   ]
  ],
- "cause_known_pct": 47.5,
+ "cause_known_pct": 48.1,
  "by_weekday": [
   [
    "Wed",
-   23
+   22
   ],
   [
    "Mon",
@@ -231,7 +231,7 @@
   "Dropbox": 59,
   "Box": 88,
   "Cloudflare": 28,
-  "Vercel": 82,
+  "Vercel": 81,
   "1Password": 56,
   "GitHub": 75,
   "Notion": 160,

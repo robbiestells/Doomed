@@ -1,7 +1,77 @@
 {
- "generated_at": "2026-11-24T00:59:11Z",
- "count": 1026,
+ "generated_at": "2026-11-24T11:02:46Z",
+ "count": 1028,
  "incidents": [
+  {
+   "key": "twilio:drcczltslqdc",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays and Failures from Twilio to Telekom Germany",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-24T10:24:03Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T10:24:03Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays and failures from Twilio to Telekom network subscribers in Germany. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/038c3lcnyw43",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:idlaxmxz4unz",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Increased Errors for Durable Objects in Seattle",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-24T07:25:34Z",
+   "resolved_at": "2026-11-24T08:26:20Z",
+   "duration_min": 60,
+   "components": [
+    "Durable Objects",
+    "Seattle, United States - (SEA)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T08:26:20Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-24T08:07:37Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-24T08:06:50Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-24T07:25:34Z",
+     "status": "investigating",
+     "body": "Cloudflare is aware of, and investigating an issue with Durable Objects which potentially impacts multiple customers in Seattle. Durable Objects are experiencing an elevated level of overload errors in the aforementioned region. We are currently investigating this issue."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/idlaxmxz4unz",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...ble Objects are experiencing an elevated level of overload errors in the aforementioned region. We are curre..."
+  },
   {
    "key": "anthropic:3vbyqgnswwxq",
    "source": "anthropic",
@@ -19,9 +89,14 @@
    ],
    "updates": [
     {
+     "at": "2026-11-24T01:31:04Z",
+     "status": "investigating",
+     "body": "We are continuing to investigate an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. Work and school accounts do not appear affected. We will provide another update as soon as possible."
+    },
+    {
      "at": "2026-11-24T00:10:40Z",
      "status": "investigating",
-     "body": "We are investigating an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint for users signed in to Microsoft Office with a personal Microsoft account. Work and school accounts do not appear affected and core Claude functionality is unaffected. We will provide an update as soon as possible."
+     "body": "We are investigating an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. Work and school accounts do not appear affected, and Claude's other apps are unaffected. We will provide an update as soon as possible."
     }
    ],
    "url": "https://stspg.io/ffdq2qfv8frk",
@@ -37,14 +112,24 @@
    "kind": "feed",
    "title": "SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to Telstra Australia",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-23T23:12:33Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T03:26:34Z",
+   "duration_min": 254,
    "components": [
     "SMS, APAC"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T03:26:34Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery receipts from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia are operating normally."
+    },
+    {
+     "at": "2026-11-24T02:40:49Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T00:34:56Z",
      "status": "monitoring",
@@ -230,7 +315,7 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "SMS Delivery Delays from a Subset of Twilio Long Codes to Vodacom South Africa",
+   "title": "SMS Delivery Delays From a Subset of Twilio Long Codes to Vodacom South Africa",
    "severity": "minor",
    "status": "identified",
    "started_at": "2026-11-23T17:37:31Z",
@@ -240,6 +325,11 @@
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T09:02:58Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T00:56:30Z",
      "status": "identified",
@@ -356,7 +446,7 @@
    "kind": "feed",
    "title": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
    "severity": "minor",
-   "status": "investigating",
+   "status": "identified",
    "started_at": "2026-11-23T13:52:11Z",
    "resolved_at": null,
    "duration_min": null,
@@ -364,6 +454,11 @@
     "Workers"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T01:28:49Z",
+     "status": "identified",
+     "body": "Multiple fixes are underway to address the underlying problem."
+    },
     {
      "at": "2026-11-23T13:52:11Z",
      "status": "investigating",
@@ -735,7 +830,7 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Gateway API (Lookup API) Failure Increase in Canada",
+   "title": "Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada",
    "severity": "minor",
    "status": "investigating",
    "started_at": "2026-11-22T03:50:54Z",
@@ -745,6 +840,11 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T05:55:48Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team is actively investigating the issue. We will provide another update in 5 hours, 17 minutes or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-23T11:12:23Z",
      "status": "investigating",
@@ -2169,6 +2269,11 @@
    ],
    "updates": [
     {
+     "at": "2026-11-24T05:30:55Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing silent and one-way audio for voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
+    {
      "at": "2026-11-23T21:30:28Z",
      "status": "identified",
      "body": "Twilio customers may be experiencing silent and one-way audio for voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
@@ -3522,8 +3627,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Data Localization Suite",
     "Zero Trust",
+    "Data Localization Suite",
     "Cloudflare One Client"
    ],
    "updates": [
