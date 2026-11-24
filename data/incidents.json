@@ -1,24 +1,109 @@
 {
- "generated_at": "2026-11-23T22:55:21Z",
- "count": 1024,
+ "generated_at": "2026-11-24T00:59:11Z",
+ "count": 1026,
  "incidents": [
+  {
+   "key": "anthropic:3vbyqgnswwxq",
+   "source": "anthropic",
+   "service": "Anthropic",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Claude for Microsoft 365 add-in missing for some users",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-24T00:10:40Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "claude.ai"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T00:10:40Z",
+     "status": "investigating",
+     "body": "We are investigating an issue causing the Claude add-in to disappear from Excel, Word, and PowerPoint for users signed in to Microsoft Office with a personal Microsoft account. Work and school accounts do not appear affected and core Claude functionality is unaffected. We will provide an update as soon as possible."
+    }
+   ],
+   "url": "https://stspg.io/ffdq2qfv8frk",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:zv1172k6tkkq",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Receipt Delays from a Subset of Twilio Phone Numbers to Telstra Australia",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-23T23:12:33Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, APAC"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-24T00:34:56Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery receipts from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T00:13:37Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T23:12:53Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia. Our team has identified the cause, and is working to resolve the issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T23:12:33Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery receipt delays from a subset of Twilio Phone Numbers to Telstra network subscribers in Australia. Our team is actively investigating this issue. Message delivery may succeed, but delivery receipts may be delayed. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/3b33tn8vdlk0",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:13bsyxhr1v1l",
    "source": "twilio",
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Intermittent 403 Errors at the Email API",
+   "title": "Intermittent 403 Errors at the Email and Programmable Messaging APIs",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-23T22:17:34Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T00:22:45Z",
+   "duration_min": 125,
    "components": [
     "API v3",
+    "Programmable Messaging API",
     "SendGrid API"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T00:22:45Z",
+     "status": "resolved",
+     "body": "The Messaging and Email blocking issues have been resolved following a rollback of recent changes. Users should no longer experience failed API requests or 403 errors impacting the Messaging API and Mail Send API. The system is now operating normally."
+    },
+    {
+     "at": "2026-11-23T23:40:11Z",
+     "status": "investigating",
+     "body": "After a rollback of recent changes, the Messaging and Email blocking issues have been mitigated. Users should no longer experience failed API requests or 403 errors impacting the Messaging API and Mail Send API. We are now monitoring the system to ensure stability and will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-23T22:57:14Z",
+     "status": "investigating",
+     "body": "After further investigation we have identified impact to the Messaging API in addition to the Email API. At this time users may experience failed API requests due to 403 errors. This does impact the mail send API. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-23T22:27:17Z",
      "status": "investigating",
@@ -31,9 +116,9 @@
     }
    ],
    "url": "https://stspg.io/zmn4n7p9kjtg",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...il blocking issues have been resolved following a rollback of recent changes. Users should no longer experie..."
   },
   {
    "key": "twilio:ss96fj960ls6",
@@ -155,6 +240,11 @@
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T00:56:30Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Long Codes to Vodacom network subscribers in South Africa. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-23T20:55:15Z",
      "status": "identified",
