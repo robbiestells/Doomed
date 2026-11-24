@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:20:00Z",
+ "generated_at": "2026-11-24T21:32:11Z",
  "count": 285,
  "events": [
   {
@@ -117,12 +117,12 @@
    "key": "news:Delta:2026-11-22",
    "brand": "Delta",
    "category": "transport",
-   "title": "Delta Air Lines delays over 1,300 flights as latest outage snarls air traffic",
+   "title": "Delta baggage system outage adds to delays as Thanksgiving travel ramps up",
    "first_reported": "2026-11-22",
-   "last_reported": "2026-11-23",
-   "articles": 66,
+   "last_reported": "2026-11-24",
+   "articles": 87,
    "evidence_pages": 0,
-   "outlets": 65,
+   "outlets": 80,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -130,11 +130,11 @@
    "ai_link": "none",
    "ai_evidence": null,
    "urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaF92d3VOZ1NfZ01qMTV3b0tMeVp5dnlhVkY1cVNaTGNIT0c1LU81N2dabDEtelBmUmRKOXBCcHJzalBCWU9vS0dvbFhKVWFybi0tcjRmdTM0UlJqZzlXc2RDRmU0UlFrSThxM1N1LUtWWnhva0xLLUtHU25XcWlwODVSWnRBaVQ2ejZhdVNDQUlsQUg4SEo0?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU3p4aFNQcUtvdTRtUk9ydGNpUzQxTVJCbGl4cVFmVVJyUE1VVGVlbXNNOXVydkJlakowSGhncHZqZTAwS2ZiRUpxMlB4QjBxbWhWTHk4WlR5ZElpWW1OWVV0akRSMG1YVkt0ZkVFZmttdFVNb2RwbmdqQ3l6cXV1TTVSYlhsUQ?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWVjWEwyYUlvMVowUUtnLWt5Q3NlUkg4V2FPc21BZXNST1hZSTlaSzRNVmNLcGtIUFB5Z3djM1U2aUVXdlJUYlplYk5xWkFKc0loYnJOM0JtanpUVHZSS3EwMndCUzFSR1ZKYWYzdFFEWng2RzFGZk01MmJoZ0JwUUJpMF94VmhjeDVaMlczNXR6QlJ6amcyYXV3?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNjcHozY1hpYnNhcncxaW5aOG5mQmJudWFZc3BXU21jT1Utd05aNndQZGhDUWlLTC1rVUxVNmdhZHlnT2hkLTM2ZjdmbURHeFBQVWM2X1BlUnpQekMxc0RHN3NaS29uNmFMM3I1MmFENVlhZ3JwS3p2M3NRaEpaUkFIZ3dCMFFkX3Q3Nl9vbHIzS295Tmg4Sld5RjAwMVE3SW8tYkJQSzRfUXlISUU3ZkZaZmF4T29Rd3JrV2ZB?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSG1SbDYxUi1nQkJCcnQ5MFJmU29DTGxlRFNJSjhMSlRJS2VVcVFwZVd6eHNKWDFtSkdKX3Zpc0FvUmdQbGw0cmhEOXExd3ZCVTRzQVl3bWJIamtQcjhTU1prOVMtaXIybGlzTHpZd0lQSnh2cHhEcEdqRVYyUHJXbEViZUNnYTJoLUtBdXFwRG00NUZGdV9KX2lDWGJ2Q3VxcUNrOWN5Z2ViZExxc2pLSi01Y3ZnS1NEZkRyb2Fpa3hGcnJuX2FnYmJPME5JMlRCYnlQRzRSNi1NcHduLXdZ?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcjRySjVvZW5kZ1BTTHZIdDByaV9uMmYyV2Via0xuRFNMN1JSYXBvVnlhRmNxLVgxamFmYlF5YmtBUXZqQTlXblJfdmoyZ1JtNV9ybUJsQ09lSTZYT1NSd0JLTkczcFdKQWpyNFVPN1ZIX0VqV1ZyaGxIX2tNcXF3d3NPak45OWlHbl9hRG1kRWpHaVo2VDdkZUZaaFhxUGs5VXdqRGtSa3V2YVFDSUFLYmNxR09YRmhLTzNsV2V6WQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON2lqamtTX1BRSVlJWTBhOUJEQW5yaUlLNmRrZ2ppa0pSQm42aXVESlJQbnRkZEg4WHdjZmZlRTZpNTZfdndUUkFvcUkwYjFwcFRuNEo3c05rcXNhbjN4SVJ6ODJweXB5d3BhZzdJUTM3aGIwcVdrRUNjTTIyTURQb1JWTVYtTDdpbzVFQkdjN19GQ181OGxPbnVjSlZXTlBLQlRjMlcxNmdFTjVsbFQzNHFocWViYlho?oc=5"
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSG1SbDYxUi1nQkJCcnQ5MFJmU29DTGxlRFNJSjhMSlRJS2VVcVFwZVd6eHNKWDFtSkdKX3Zpc0FvUmdQbGw0cmhEOXExd3ZCVTRzQVl3bWJIamtQcjhTU1prOVMtaXIybGlzTHpZd0lQSnh2cHhEcEdqRVYyUHJXbEViZUNnYTJoLUtBdXFwRG00NUZGdV9KX2lDWGJ2Q3VxcUNrOWN5Z2ViZExxc2pLSi01Y3ZnS1NEZkRyb2Fpa3hGcnJuX2FnYmJPME5JMlRCYnlQRzRSNi1NcHduLXdZ?oc=5"
    ],
    "service": "Delta",
    "kind": "news",
@@ -353,9 +353,9 @@
    "title": "PlayStation suffers major outage hours before \"GTA VI\" launch",
    "first_reported": "2026-11-18",
    "last_reported": "2026-11-20",
-   "articles": 6,
-   "evidence_pages": 0,
-   "outlets": 5,
+   "articles": 7,
+   "evidence_pages": 3,
+   "outlets": 6,
    "cause": "unknown",
    "cause_basis": "override",
    "cause_evidence": "...etwork outages spike during 'Grand Theft Auto VI' release...",
@@ -367,7 +367,7 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOEIxazZvTmpHRUkydGM4LVhPbUVCemZwNTFEcWlXbVRUWV9iMGhQbmh6Yk83NzhLNXFaRlMxS0hPdjdTbEpHbFJ6dXAyVlVuS0pORXZ4M1pla3lLZFl2MUNBMTBHSnJiZUZtalVGUnNuMTFXaFNzajdJZmxmTE94RnhhZmZZMlB6Tm9nXzdBUVBtQm9MWmVtOE8wNXZMRmhENmZVY055bWh1YWNzYkRSVE5UTXdMZVFIaTEtZUFvTTY?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQNTFaWVRIZThxdFBhZ1RkZ25zRmlfNzRic0xyZndFZ2lrU3kwYlI0WlJGU2lvdGtEb05mV2huVnFIaXB0MV9lc1BGM3JwdXREQXpqUFhNWXcxT0w2NnFPMGtGQXpWdlA5TEpvWjk4dGJFYWFhNWRwM3ZhbUhZV0tWVDFWRGZLd1FWTjE3MWF1S2NJVDlwQ1pMZF96eFpOQQ?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zb2xPNUJXUVhsZ3VnZk9zcDBUaXN2QlRIWHY5bldCMkJidjBRVDAwenRIekhkX1o5dHcxYmVnZ2RFVFU4clVMNXhoZFVBTzdtTE1rbFRGYnJ5cHZNeFgwUzJpclpwQjl3TGZ0c3lxWQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQM0g2WTlLMWRqRDZ5Skt3V1JtYnJHejJiY2cxUlozWWp4S0hMeGJ1WTMwbnBlMExyMXpMSm8yRE93MkotNHBVSHQ5SE5mbUtpY01pRFVnY0FZR1VEczd3bWxjU3llSW9tWkZjNTdkanJKOV9aZnA3MENZSWJNWFZpYWExYUlGQkJKVzlOOVlVRF84QW5zT3BlbEl1eGl3ejRocVdjX2ZNX1JtdGZ2ZklqSGZjTFZTUjdBajktTVhuenVRXzltemc4elhnU0pJbEtpU0NLZ3RzTmtNaklaUy1FSnd3a2gtWW04cHVzX0xMdWVYRWotcnlqeg?oc=5"
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTFZZTjJnaUZTM3Q3Z2ZoTlREOF9saE9NblQtMzBZekRaelRmMGZGa2E0Z2ZHaWhPb2xTaFVYVmhPUUNHVnU2eXc4YWJSQmREb2YxSUpHSE1SbGVOdjVmOEMyTHlPYWo4UGVTYWc1TXJRYzlibENLREM3d1A5X2VwYkdCaDZaRVdsQVU5UUJvMDlnamlxdlBicnVUN0pockRrZDI5Z3hPQmJ1Z0dO?oc=5"
    ],
    "service": "PlayStation",
    "kind": "news",
@@ -402,7 +402,7 @@
     "manual",
     "news"
    ],
-   "articles": 41,
+   "articles": 45,
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-17",
    "other_industry": true,
@@ -468,12 +468,12 @@
    "key": "news:Apple:2026-11-17",
    "brand": "Apple",
    "category": "consumer-app",
-   "title": "Apple works to restore services after outage caused by internal update",
+   "title": "Gmail, Apple Pay and iCloud hit by outage reports: What\u2019s happening today?",
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-20",
-   "articles": 58,
+   "articles": 68,
    "evidence_pages": 12,
-   "outlets": 49,
+   "outlets": 59,
    "cause": "config-change",
    "cause_basis": "press",
    "cause_evidence": "...Apple has had big outages before: a 2015 DNS error took the App Store down for most of a day...",
@@ -587,7 +587,7 @@
     "manual",
     "news"
    ],
-   "articles": 38,
+   "articles": 42,
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-16",
    "other_industry": true,
@@ -890,7 +890,7 @@
     "manual",
     "news"
    ],
-   "articles": 281,
+   "articles": 335,
    "first_reported": "2026-11-12",
    "last_reported": "2026-11-14",
    "other_industry": true,

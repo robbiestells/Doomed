@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:20:00Z",
+ "generated_at": "2026-11-24T21:32:06Z",
  "count": 1037,
  "incidents": [
   {
@@ -2618,7 +2618,7 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Phone Numbers",
+   "title": "Voice Call Silent and One-Way Audio From Colombia to a Subset of Twilio Phone Numbers",
    "severity": "minor",
    "status": "identified",
    "started_at": "2026-11-18T15:56:21Z",
@@ -2628,6 +2628,11 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T21:31:48Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call silent and one-way audio from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T05:30:55Z",
      "status": "identified",

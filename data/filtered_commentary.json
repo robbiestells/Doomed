@@ -1,5 +1,5 @@
 {
- "dropped_count": 50,
+ "dropped_count": 51,
  "dropped": [
   {
    "published": "2026-11-23",
@@ -63,6 +63,13 @@
    "outlet": "ABC7 Chicago",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQczBrVlBwMkxPalR3VTlNeEdjbUdEZVM0N1M1T3JJUWdPQnFKZk9PQk1QTjBPdWZBeWF5XzVvRHE0VnIwTlZlNjMzMFFhVHBTQ0VGQWpGQU5RUlI1WjRSQ3N6Nm9FR0lNVHBhR3R1X1MyaVpLX2NSUU1FQWRQWEQ4ZWZjUlh6ejBZbFl5YTR1Skd0ZnpmZlVtcnhzd0VUNWVZYUZsLUIxQ1VsaFpwa2VybnFNNktVaWtpRHpLU0JQcEhabC1TTzJ0LXE0VVlkRDl2eUxkM1N2NS1yaUXSAeABQVVfeXFMUE9uYWZ1dlJKX2dQc0E0WjdXRUlNNDhXbk9jZkRGVDhXUVI0WlFmTjU0NjJHU3ZRQnVBWEdzTndQVzZDaWhXYXNUNWM0Tk1HSTR0ZlBzS3NGdTZKQ0l6b1BUSjJEcEVfZFpTZ29TNnNSUVVWRjJoWFVjeWR3TkdQcVluOUdWZjZMMDBvWmo4dGpSUU9iMk1vRTlxODhCLWhxeUhCSEdmR3RTSFJDZlNmTWFjNU1kWDZDX2R6d1U5bWRyeER3N3V0RkJWQ090LXBjUDBaNE9jcVlLdWk4WmlHdEs?oc=5",
    "matched": "seeks answers"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "NSA Classified Network, Apple Services Go Down In Latest String Of Outages",
+   "outlet": "tippinsights",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVowZDJmOHhONjFzSnNjdE40eGV1aFl1WlNHQlVGMzZRTzJBVWtUVDZHdUJwclQ0VEpLSmFLbGt5RGluNGN2cWFvdVNqMllHeGJzZ3AtYlRhRnVzV19IRDFfNVlMVnBScllKVmxPYkp3Q1N2djZxMHZKaDdUZVdwQ3hPcjhMTHgzZUY1RVhSX2lCcWU3S0lNZFlfNlVmZzR2?oc=5",
+   "matched": "String Of"
   },
   {
    "published": "2026-11-18",
@@ -352,8 +359,24 @@
    "matched": "How to "
   }
  ],
- "evidence_only_count": 83,
+ "evidence_only_count": 91,
  "evidence_only": [
+  {
+   "published": "2026-11-23",
+   "title": "Gmail Outage Today: Is Gmail Down in the US? Users Report Email Delivery, App Login, Website, Inbox and Sending Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQOXkxWFZJeUo2SG9QTkxhb1FYazB3ZUFRNjZmaDczLW5vNmtJMmtDOUdLTTlRUDFvSkZsMTVlcnVSRHZodnlwd0ZPeHFEOVJOcDhscVVkNURhNUZrUnRydDV6SlVOaWdvZllnT0dQVTJ3TTE2VWxnZHBaM1N4eTZYOEZKc1VQWEJWcTJ3bXN1emphbGdBM2NSbTNqSVJvNWJkTjR5MEdaZXdSVVNvcmVLWUdDUnVWYjBaMHFTMVVRbnVHOFoxQ0h4dTFwNDJzV3BBSG91SDc5WGY0NzNfRDlxVnNyQzdGazNrdVhmSE5UV0h0OU9nMlR0Uk5uS01zUVMwU1ZvX1htUTNETnVNTGNhOVFxWVZ4aG9nUmdQX0cyWdIBpAJBVV95cUxOUE5rdldJa0FYOXpVajZHc0RyYTZ2MDNFYkdoOEcyOXdZWjVHWmV5RmVicjhOWGc0eFdQVGwwa3dMU3U4QmdJR1ZFODlqMUdaYkdUMjlmSWpKeExwX25pN1RudzRreUExQVBCbS1jb3VOOGZ2TWtWeGozZlo2dGlWOUdiM3ZMc2JEZ1JMRGVUQTRuOXppaFEydjAxSjFpZ0FmWlJjbkdLQmpZSUtsOWN0dElOX2F2X1JlbnJoRXM5ckFDR014YndmWFJsc3ZudTctQmFFYVoxTkJXa29KNlotTWlyRld3a2c5TGtUSWpsMGEtaUlpZ3ZOQWZfd1JpcTJNUFNFeFJBc3NKNExaLTFKazIweWQ2QVJaX3JUZVVTTi1PaDh6?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Gmail"
+  },
+  {
+   "published": "2026-11-23",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Sending and Receiving Messages Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQUmdUNmRVZ2JxRm8taUxRTDNGd042dEhwVVBLNU1IelhxQy1xVnlsWEVva2tJcFpWa0xGYjJQVWJyYkxGVGJEOTN1X0V3bVJ1QnpBYnl0aEZNa05HUkFBcFBPV1c2OFlmZTNrdkROakdFZWd3MVNXVjJ6a0FTbDJkdnR6bGdaZnpzcVMxUmdBTUg4ZHpKN2xXVmVFQXpGRWtxRGQxQ3FWLW96Z2pmQXNEQ2VKQzBWWHJJczQxUWowVDVWWWtlVW11bFFIQmlyakllcEJKOGhlTE5ENUlueTRCdTJkNXVVYzNDX2x5LWdOclJtUDlwZHZyZWJ5dHpaTk5GODdXUFFNcUZtSHNfd0VsZDdjQkFMVzRjeUJEVE9yVXE3M1lINW43TWpKMWZ4dDNMdC1DQm5jQdIBvAJBVV95cUxOcnVkNFZ5S3BoYnNzMWl1dW1mTFFBak9fMUxpUXFjaWR0UGx0QjdtcWFtTGdnNk9HNlZDVGNHM0hiRmpEc0ptYk1Wb0FUMTJ2VjFQUWJoemdRR05CRzR5UHdxMjFHLVpQa1BCc2FMeXk2NVcwajQzSWxXQ3VtMVg1MER4Zk1hUnV5amptM3FOZ0gwRUVaYmJlcmxlbkpiSndDU0FtemRTN0tiR1dNQ0F6b0I5YlBTd0dqcDNfRDNoZWJSOEVNT1Zfd1VxMnJXUWY2YWkzcnNJZW15TXhBN1gwNzJIMGMxSl9ydXZwTm1EMVlqa1hBS0Vyb3VSMnhTeUhWYzVxQWxJbklxV2xiT1ZQZ1hNVG9tWjJQSlQtdHB3REVocXVnZzFJZ2NXcG5DWFJMQnR2M213ZEhvOThV?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
   {
    "published": "2026-11-20",
    "title": "Chase Outage Today: Is Chase Bank Down in the US? Users Report Online Banking, Mobile App Login, Account Access, Payment and Money Transfer Issues | Check Latest Downdetector Status",
@@ -379,6 +402,38 @@
    "brand": "Microsoft"
   },
   {
+   "published": "2026-11-19",
+   "title": "PlayStation Network Outage Today: Is PSN Down in the US? Users Report Gaming, Server Connection, App Login and Online Multiplayer Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPODZ0NEpuVmt0VWdTT1RTU0VWbVFpWGpONlF4dE9feXNnSjFFTTdZTmZYWW5LREFxUkZyZ1MwZXVGdWd3RXVPakpiaVFyai1WQmM2UDNiU3hxM3IyaGpKTFQzS09ReXlFLWVsNXJ4YXFDc3dJRUJQVmRxajBQQ1BFOHRSXzJYYWZfYUtQcllsd3JxOG1ydTE3QVZ2cDlQU2M3d214T1Z1VXlzSVVaeWlXenp3aElyLXBCbDJ6enBIamlhaUxiVWpaNDZOWE5pa2I4aG91SFd4NDRMb09KTDJ0OWl5R0dkWnhOdlJrY2tMMGRSWHh1Umd1QWItWmM4blNvWHR3aHV3bTRRY2U0SGgxYVFYTkQ1ZjQ5TGdGUlYwMkdsWm5iYzNuMDNDLV8xUUJXWE5OcXZXaS3SAb4CQVVfeXFMTWVvZkYyN3M0aXpzYVYxQ3k1VTVOYTBaZURhVkFLTWRZT1ZHN0dBODk1bU8zcTdpNU04elBiWUVTMFFlWEZpeWtxZ3o1dGhQVktybmdncnhOVmF6OV8zanF2Sk1wRGQ5RTVRRG5kajIyb3ZLZ29yR2dBR0Q4ZWRWa041anZaMHZUc010bmxOTG9pSXVPemVOcVpxNlkxODNyZXg1Yk54N2VBSTg0YzZxcEdRUEdSNDZ2cHNhdTlCUjJzTGFla0NlTHRPRFlTM3IyVG5ZdlhrRjgyNEZmdE9zb1FpSUdtLWZQbUFRV19YVmdvSHNOYUZsc21TMWZFdFFWUTAwRDJBMElzTnNsOElEZU9Bdy1RTWdid0JDRDN2T3lXRnViZDZ2aXVtQjJxN205SkZoeW1mdVhtY2RIVGdB?oc=5",
+   "matched": "Outage Today:",
+   "brand": "PlayStation"
+  },
+  {
+   "published": "2026-11-19",
+   "title": "Microsoft 365 Outage Today: Is Microsoft 365 Down in the US? Users Report Word, Excel, Outlook, Teams, OneDrive and Login Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOcENiTmV5Vk9VMnRXNVY5dU5mbWREVXFpSWh0Z3ZickdpTUhLSktTNmt2RzRwNFdhMVFncGFweVo3RWNKa05MakdUdk9iblRqNU04ZGVySnJoX2NiNnVodmhWd01oS2tJUmEzS0g4NGVndEM1X2Z0UVExc2JDZmxMV0pLVWkyLWZMZjdqR2FYOWRBZE5MVTVPOHFReHd3VnI1MkJJbTQtS0tLUXdkY2dXWEVUZ3Y0SUJJVGxxX2YzS3RORUZFMm1hdjRGVWRiYTA1aUVlTk4yQnFxUnpMZDRNMFVKZ2dma3JoSk9ITm1pQjlVTkEyU1cxNU13UGc0ak1TaWc3MTBXMWZ6bUhZNHJsSEt4ZFJDOHlHT2RMTDI4UG1EZ2N5R1hVWDRXb9IBsAJBVV95cUxPLVNNUy1MTlRwb1JxQ2FucTJQc0tEZnJnTVFfNURXc2dJR2pDN0dnU2YtRlVvYUQ2eEFKbWVkTHZlU0FDQXAyWi0td1dES21MOGR1THVka2kzZEhJaEwtMzRiVS1XUXdmVFV0WWN4RzNTWXh0STNDaEktSzVBWFROZjVqOTFwa0x2YjFHdE9DY2tTNGhpYWM3ZXotdEkwTWlSbWNiTXpOUFlSVDEteUlVSVlSRlBKZ2Y1eDhnb1FPdnNOdUVZRzVpTkZTWXVfLUkzZFBwUlNwUk82QVQ4NS1VVlhWbHd2WWhjZkhqSXBOX05WZ2dmSnJjSHFSVWRfNzdqd29pUFVBRkV3WFZoaVY0MF84VnpUbUpYTW9YUDI5ajQ0cXBadC10eUVUa0Q3cjI4?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-11-19",
+   "title": "PlayStation Network Outage Today: Is PlayStation Network Down or Not Working? Users Report Login, Server Connection & Download Issues \u2013 Check Services Affected & Latest Downdetector Update",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaHZzemtFbFdDZk00Q0otcUZQbHRpOTZrd0FxNGgxdkxyTkNaVDYxZkdqTkE1VUZwbkxXeVN6N1lGRE44VURIVnpxWW8tWlh4WnBuTUh3cHJ2Y0w2d292dHl4UGtid2JVOUJGSGktM0MwMnplQ0E1OGtPWHZCT3ZCYjNvb0dVVnBuZWRKYnM3NVhJQUVRX0dEcGFhMDJkN0tkWnk5bWxua2t2ZXp5LVJOT29NZ1lWY0hGbFhoRFNYTE9oOWNQbFItX0Y3c2FneVNpYTNCOTNQRnMycktQQ0xXMGF4YU9Td1YwelRueEdobFA4amN1ZkltTkdxc2dEUnlnWVpqc05RSzB0ZHNEb29CV1o4VmpycXhMR0JLdjluVGRYZi1CSlVtQ3lXUTVZLXdlZUpLY0N5dWpTR0N5OUtWNkpyelNYOUHSAcwCQVVfeXFMTnhzOWtWSVBySkVpeUxjLVg5M004VnAyc2dIOU5mZTlkem1zdHZwYjNrY016c2NMaEdXUlBWNnlxaDU3VktQb1FFeEJuOE1ncWtwd0I3bm9qdWxGVmxGcVE3SzMwOGhNNWJLX2duVW5lVTZvYW0tYWVKaXpRSkEtZm9QRDBmOVRlak9GNUNqV1ZrMUVrWXRPanpJZ0VUbThNZUltbTRPeUJXNWctb2hoSThTNWpUWjFRSHAzcjIxc3ZlWWl6TndCWjdTaFZKMXZ2Y1Z5ajI2UFFWWlJmLXdMZGNCWDZILVlWY1dlZFZCQV9xRjNWMTlfR1hCaktFMTFIQ3ZGVDZaaTZuWmkyWXpGckxBUWlJUi1qQlJfWmttb0NvdnlYSmRmYm5aTzVscThVZWZQaUZJRDNXU19TemVPQkFnMEZyUy1xT0IybS0?oc=5",
+   "matched": "Outage Today:",
+   "brand": "PlayStation"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Wells Fargo Outage Today: Is Wells Fargo Down in the US? Users Report Online Banking, Mobile App Login, Account Balance, Payment Transfer & Transaction Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNQ1RJa2Fyb20zaFNjck9rZ3FSV3lGbXByOTBVQk9BbWpkZl8tTFEtUUkzTVVrU2o1SllsazVzTE85UjVUNkdnRWxOM0hKbjJlUFBSNU5fdmNUMW54TkFNVnJwZUFfNTRTMFh0UlVocVh0ekZQbnJYNW9lV3lBNm9ZbHJGeHQyWll1VkRRdXdlOS02c3R2QjlPSTJKM01fTlR3U1F0Zy1OcFFnQWdYVFBFZmJmaC1yb1VyUWJzaGRyMlJqZmxna2NuSmpuNm10SUhDZ1RsT1VhRjJKRzI0aTV1MmNyYlZxeFdKM0V6MVRIN0NnS2V4NFNDa0U0SllFd0JvV21PQWFzVkpKSTg1RU0yVEc5ajNITklBVXplbnFCanNCMW1hcElISW9tdkp0SDF1cFJjSTd5RmJyanBJTkJmbHBZZ0JMWUUwbEtaeXFTMWNFQdIB1wJBVV95cUxPT2Z1OC1BV2k3OGozamNWVDN5dmZuQmNFRE5qMTM3V3dLNEdZUzMxSTRsR0FtTVRKX2lBNTdSdGhrMVh5aGx2Rm5TNkVReXlqOHY4b0dPN0tBU0U2elVKMEJDQVRFMExoMVJ4REs1aWxlR25DY250eF9kczFPSHc2b3ZHVF9rTmJSOHNCLW4zSUk1VU1pV3RTWnc5MmVzZWhUMnQzamVzVklaUVBMODYzWTdpT1lxcUtRelcwdndVNENGX3dIcXFKZDVBWWJNQ2ExbjNnRF9ybU1LNndJaFVPVTdSVzIxektKSWhCM0ZpQ3djQnFrcnYwbVltZ2t3dUxZeDl6RWhqVndnTEFORzZGUFlldEcxc3kyOUREZ2FXMVhoNm9JRER1M0ppMjhJcEUtYUxLRWhOWE5IQmUxY2s0M2ZyUkFTVTNOdG9XVFV5V2xvUEQxMDY0?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Wells Fargo"
+  },
+  {
    "published": "2026-11-18",
    "title": "Is the NSA Network Down? NSANet Outage Explained",
    "outlet": "explainx.ai",
@@ -393,6 +448,22 @@
    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQYUVZUWs5WWdOVFNUSW1GUmN3QWFpcXM4LWNOT2xKRURHRWo2a1VxdlE3NjM3Vm8zbmI1N3l6Wm1vS0NEVDNXem4xZDNOY2FKSVYwSDBXSTB4bE5EckxWSTBrb04xSkpzSEYtYXFyTEc4UENlSDZDMmJzbXAtd1lRakdvSkp3aXRtX0F5M04wSm9PeTRENmdFRWhUWkhkbEdtY3otTDcxeUdzUHBweS1SbW8wdklqRF9LaHBqRmU1R2Vrd1l1Ymh6aUNWZmlqcWtDUFZMeUtOQ0hreFM3bkxVNUNSdXpYU0Y0ZGdjbGhKeDIyM18zc2k3Nmc0UmlFdXdZY0l4WExNa0xTZlY4Q0hjdi1CVUx4ZGl3TC0yY3p5Rk1nb3NJRFdpWWhCTGtaQnFCdVFscnZSd1JWenhWblV3?oc=5",
    "matched": "Is Apple down?",
    "brand": "Apple"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "PlayStation Network (PSN) Outage Today: Is PSN Down Today in the US? Users Report App, Website, Login Failures, Multiplayer Gaming, Online Service & GTA 6 Launch Issues | Check Latest Server Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPUDhjSmZESkhUSkMxYjRCTjRiM21UcUttOVRNMDFFRVAydktvMWJXdjlMZ3lPU0lsZDNPNDljcDg0dWhVVmVvR0lmQ3NQSnVyUVZBZzJkd0cxMkVmQ3pLZFIwMmcwd0RqSWQ0Z3FtSDJmX2NuYkJxSGxJMTFXQmdqZzFsU2E5ZlFMUHZ0RTRGYm1LUTZrbWQxYzZ4TWduaGYyRDdKbF9RZWZ4V3llWjM3Y3lJaVpMVHBBNWdLTnhSUGVraEhaZ042aU9vbWNCVjNWQ3JXWXoxd0Zzd2NzNzhrSXRWdFhUUGJYYnN6a05sTzliQlpNcEhSLWRjdmxVWlRFZzE3aWczM0U0SFFaV2xIWnpnOGFCdXp1Qm5qdlM1V1JiYnZpTkRUbzc1cGc4WDhRb0hkNlVMSkRBNzhva2F3UzRLeEd1bXJPV2N5MVVFRdIB1AJBVV95cUxNTHFFWXhFb1hIVVZ3YXdqbUUzVk1KWTdSSVZEY3lrVHZqTTU5NUFvVEZsVlFsV0hoUFA3NjZ3WHlyMVMyd1VlbV9HNHpJbGQyeTVUd2h6dWJPRmNmeUV1bE8wWkFZTk9KbWNIWWZNSHgxcndBZVFuaFVqSXhnbjlJTGpJeWNVR1M2b0dXVWVRVzAtUDdzenF5d3d4U09lckJTYmxEcHBKTF9ERjlEQUIxZnpjbE5YMkRGVV9OeEVvMWRmLWV6ZzV6QXhyTE9fLXZINkI3TnB0Yk9ES244dm0wbk5qZ28wc0ZVbnBYY0NVdm01UTc0Y2dCa2lYMmd4SlpMRVpYeFJDbC1YcVRkcXJrYno0Qy12NlQxbk9wTjEwLW16QkxBcWJya3Z4N3ZOb0UwaUxQcVJDa1h0X1ptTlJEaTdXX20ybF9GVGZGeGNPU3hiRnFC?oc=5",
+   "matched": "Outage Today:",
+   "brand": "PlayStation"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Chase Outage Today: Is Chase Down or Not Working? Users Report Mobile Banking, Login, Bill Pay & Transfer Issues; Check Services Affected & Latest Downdetector Update",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPajFmaFRQYjA1dnJIbWZrTXF4aVRtcl9uTXJtTG93dVBra1UyZm5HSjgwdTRkd0NEZUxkOGJFR21ZUHJvb0RSOC1ERkh6b0JUbGdFbVBiWEFtSjRPN05DZ1RmTEp5MVNkaTVkUzhGbFNJLUFPMXoxRVZuUjEwazc5TVhTWUJuMy1xY1B4RTNRcEdVTmhwSDl1TWtDNGQ3cFQwS0hERDZWQUtubkUzVDdNd1dYOHRNLVVuSUVCTzdBWE1WMlhxMWxfdzN3TFZuR3JpWG9vZm96amNqc0tOUjhEd2FTNUw2bmtWN1NtSFBRSlBuZE1BVXpZTjB4V3FId05EdGo4dTJWLTVNampLQjhjbEl0SlhPcG1iREpNRDl3T01WcVNHODNJcWh30gGvAkFVX3lxTE5oajFYaGN2ZEhZTmx2U0Q2cDRXNEZXdmJUS1dtTlljcnlrcU9CVjRVM0FGdFhZcFJtclRzQkVfZVdCVlllUktQUGZkVG1XY2tDckg3YVU4WklwQmNEeEg4VGpzWUlINWNKdWtCNmNYaXRjcWIxNmpZUDhSRFA1QUVzODhJdmlfeWxsaHJuUE5RaDU3QzZZOFhMYmUwejU2SVpYZjhKMjRKbGw5bHYyU3BFU1MzeVVsU2VFZ0RJZE5KVGgyOXJ4WkYtVFNDYzd1a1F5cmd2aGdIQk9lNkdLTk9UQXlPOTlvQTM4MEIwOHRvb2lhSEFKemdMWHo0UnliVjlsV0R6RFVVZV9XVDc4UE9ZMk9wN0FxTjJoOUhwaDlqOW1YNzdpelh6OEQ0LTN2Zw?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Chase"
   },
   {
    "published": "2026-11-18",
