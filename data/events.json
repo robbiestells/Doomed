@@ -1,7 +1,58 @@
 {
- "generated_at": "2026-11-24T21:32:11Z",
- "count": 285,
+ "generated_at": "2026-11-25T04:55:52Z",
+ "count": 286,
  "events": [
+  {
+   "key": "github:m0wx9qml7yjh",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Disruption with Code Completions and Next Edit Suggestions",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-25T00:08:17Z",
+   "resolved_at": "2026-11-25T01:15:18Z",
+   "duration_min": 67,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-25T01:15:18Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-25T01:05:35Z",
+     "status": "investigating",
+     "body": "We've applied a mitigation to fix the issues with Code Completion and Next Edit Suggestions. We are seeing improvements in telemetry and are monitoring for full recovery."
+    },
+    {
+     "at": "2026-11-25T00:41:09Z",
+     "status": "investigating",
+     "body": "We are investigating reports of issues with Code Completions and Next Edit Suggestions. We will continue to keep users updated on progress towards mitigation."
+    },
+    {
+     "at": "2026-11-25T00:08:18Z",
+     "status": "investigating",
+     "body": "We are investigating reports of impacted performance for some GitHub services."
+    }
+   ],
+   "url": "https://stspg.io/bk5200jsb13k",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": "GitHub",
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-25",
+   "last_reported": "2026-11-25",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "cloudflare:no721jcnlrbh",
    "source": "cloudflare",

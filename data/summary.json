@@ -1,12 +1,12 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 80,
- "per_week_avg": 6.22,
+ "total": 81,
+ "per_week_avg": 6.3,
  "by_service": [
   [
    "GitHub",
-   20
+   21
   ],
   [
    "Discord",
@@ -84,7 +84,7 @@
   ],
   [
    "developer",
-   22
+   23
   ],
   [
    "consumer-app",
@@ -166,13 +166,13 @@
   ],
   [
    "2026-W48",
-   3
+   4
   ]
  ],
  "by_cause": [
   [
    "unknown",
-   42
+   43
   ],
   [
    "software-change",
@@ -195,11 +195,11 @@
    2
   ]
  ],
- "cause_known_pct": 47.5,
+ "cause_known_pct": 46.9,
  "by_weekday": [
   [
    "Wed",
-   21
+   22
   ],
   [
    "Mon",
@@ -227,13 +227,13 @@
   ]
  ],
  "median_duration_min": {
+  "GitHub": 67,
   "Vercel": 81,
   "Shopify": 53,
   "Dropbox": 59,
   "Box": 88,
   "Cloudflare": 28,
   "1Password": 56,
-  "GitHub": 75,
   "Notion": 160,
   "Discord": 83,
   "npm": 110,

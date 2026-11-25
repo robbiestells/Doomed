@@ -1,23 +1,138 @@
 {
- "generated_at": "2026-11-24T21:32:06Z",
- "count": 1037,
+ "generated_at": "2026-11-25T04:55:51Z",
+ "count": 1041,
  "incidents": [
+  {
+   "key": "cloudflare:lqojvojhdcjv",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Elevated number of 5xx errors in Frankfurt",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-25T02:35:00Z",
+   "resolved_at": "2026-11-25T02:45:00Z",
+   "duration_min": 10,
+   "components": [
+    "Network",
+    "Frankfurt, Germany - (FRA)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T02:45:00Z",
+     "status": "resolved",
+     "body": "Between 02:35-02:45 UTC customers reaching Frankfurt, DE, may have experienced an elevated number of 5xx errors."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/lqojvojhdcjv",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "github:m0wx9qml7yjh",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Disruption with Code Completions and Next Edit Suggestions",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-25T00:08:17Z",
+   "resolved_at": "2026-11-25T01:15:18Z",
+   "duration_min": 67,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-25T01:15:18Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-25T01:05:35Z",
+     "status": "investigating",
+     "body": "We've applied a mitigation to fix the issues with Code Completion and Next Edit Suggestions. We are seeing improvements in telemetry and are monitoring for full recovery."
+    },
+    {
+     "at": "2026-11-25T00:41:09Z",
+     "status": "investigating",
+     "body": "We are investigating reports of issues with Code Completions and Next Edit Suggestions. We will continue to keep users updated on progress towards mitigation."
+    },
+    {
+     "at": "2026-11-25T00:08:18Z",
+     "status": "investigating",
+     "body": "We are investigating reports of impacted performance for some GitHub services."
+    }
+   ],
+   "url": "https://stspg.io/bk5200jsb13k",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:k8utv1c3ubf2",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "R2 elevated errors and timeouts for requests from South America",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-24T21:54:25Z",
+   "resolved_at": "2026-11-25T00:12:11Z",
+   "duration_min": 137,
+   "components": [
+    "R2"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T00:12:11Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-24T21:54:25Z",
+     "status": "investigating",
+     "body": "We are investigating elevated errors and read timeouts affecting R2 requests originating from South America. Our team is actively working to identify and resolve the issue."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/k8utv1c3ubf2",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:bt3k6hkjlh01",
    "source": "twilio",
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Some calls not branded or receive Spam likely labels",
+   "title": "KYC Onboarding Issues Affecting Voice Call Branding and Spam Labeling",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-24T21:03:06Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T23:48:27Z",
+   "duration_min": 165,
    "components": [
-    "PSTN US1"
+    "PHONE NUMBERS"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T23:48:27Z",
+     "status": "resolved",
+     "body": "We have monitored and resolved the issue with KYC Onboarding. All services are now operating normally at this time."
+    },
+    {
+     "at": "2026-11-24T23:34:45Z",
+     "status": "monitoring",
+     "body": "Our engineers have mitigated the issue and are monitoring system performance. Voice Integrity and branded calling workflows are continuing to return to normal, and the remaining background processing is expected to complete gracefully without additional customer impact. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T22:10:33Z",
+     "status": "identified",
+     "body": "We have identified the cause and are implementing a fix for the data inconsistency issue affecting some phone numbers has caused some customers to have calls not branded or labeled as spam. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T21:03:06Z",
      "status": "investigating",
@@ -37,14 +152,29 @@
    "kind": "feed",
    "title": "Voice Call Failures from Twilio Phone Numbers to Ireland",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-24T18:41:18Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-25T04:06:21Z",
+   "duration_min": 565,
    "components": [
     "Voice, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T04:06:21Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and voice calls from Twilio Phone Numbers to network subscribers in Ireland are operating normally."
+    },
+    {
+     "at": "2026-11-25T00:04:48Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from Twilio Mobile Numbers to network subscribers in Ireland and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-24T22:04:23Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls from Twilio Phone Numbers to network subscribers in Ireland and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T20:02:36Z",
      "status": "identified",
@@ -102,6 +232,31 @@
     }
    ],
    "url": "https://stspg.io/n7769lzz1dvy",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:kwqke6nmketa",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Increased HTTP 530 Errors in Seattle",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-24T13:55:00Z",
+   "resolved_at": "2026-11-24T14:39:00Z",
+   "duration_min": 44,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-24T14:39:00Z",
+     "status": "resolved",
+     "body": "Cloudflare investigated an increased level of HTTP 530 errors in Seattle between 19:55 - 20:39 UTC. We worked to analyse and mitigate this problem, and the issue has since been resolved."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/kwqke6nmketa",
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null
@@ -166,14 +321,24 @@
    "kind": "feed",
    "title": "Issues with Email Routing in France",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-24T13:38:40Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T22:42:43Z",
+   "duration_min": 544,
    "components": [
     "Email Routing"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T22:42:43Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-24T22:04:58Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
     {
      "at": "2026-11-24T14:50:35Z",
      "status": "identified",
@@ -796,14 +961,19 @@
    "kind": "feed",
    "title": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-23T13:52:11Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-24T21:35:41Z",
+   "duration_min": 1903,
    "components": [
     "Workers"
    ],
    "updates": [
+    {
+     "at": "2026-11-24T21:35:41Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
     {
      "at": "2026-11-24T19:25:51Z",
      "status": "monitoring",
@@ -3992,8 +4162,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Data Localization Suite",
     "Zero Trust",
+    "Data Localization Suite",
     "Cloudflare One Client"
    ],
    "updates": [
