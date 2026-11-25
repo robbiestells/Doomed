@@ -1,26 +1,29 @@
 first_reported,last_reported,service,category,title,severity,cause,cause_basis,ai_link,ai_service_affected,ai_evidence,articles,sources,key
+2026-11-25,2026-11-25,GitHub,developer,Investigating degraded experiences across GitHub products,critical,unknown,,none,False,,0,status-page,github:qn8mfv6q5hlx
 2026-11-25,2026-11-25,GitHub,developer,Disruption with Code Completions and Next Edit Suggestions,critical,unknown,,none,False,,0,status-page,github:m0wx9qml7yjh
 2026-11-24,2026-11-25,Cloudflare,cdn-network,Magic Transit Degraded Performance,major,unknown,,none,False,,0,status-page,cloudflare:no721jcnlrbh
+2026-11-24,2026-11-25,FAA,transport,FAA lifts restrictions on flights to Chicago after ground system outage — AeroTime,reported,unknown,,none,False,,6,news,news:FAA:2026-11-24
 2026-11-23,2026-11-23,Shopify,commerce,Errors at Online Store Checkout and Point Of Sale Checkout,major,unknown,,none,False,,0,status-page,shopify:m1grsygpsdbb
-2026-11-22,2026-11-24,Delta,transport,Delta baggage system outage adds to delays as Thanksgiving travel ramps up,reported,unknown,,none,False,,87,news,news:Delta:2026-11-22
+2026-11-22,2026-11-23,United Airlines,transport,United Airlines reports major system outage as US air travel faces fresh disruption,reported,unknown,,none,False,,3,news,news:United Airlines:2026-11-22
+2026-11-22,2026-11-24,Delta,transport,Delta baggage system outage adds to delays as Thanksgiving travel ramps up,reported,unknown,,none,False,,95,news,news:Delta:2026-11-22
 2026-11-21,2026-11-22,AWS,cloud,AWS got hit by an outage too. Here's why you didn't hear about it,reported,unknown,,none,False,,4,news,news:AWS:2026-11-21
 2026-11-20,2026-11-20,Dropbox,saas,Dropbox is not working as expected for some users,critical,unknown,,none,False,,0,status-page,dropbox:h0w7s25x3j7z
-2026-11-20,2026-11-20,Box,saas,"[Medium] Issue with Box Forms, File Request, and Box Doc Gen",major,unknown,,none,False,,0,status-page,box:0ssj5ngcpqhs
+2026-11-20,2026-11-20,Box,saas,"[Medium] Issue with Box Forms, File Request, and Box Doc Gen",major,software-change,provider,none,False,,0,status-page,box:0ssj5ngcpqhs
 2026-11-20,2026-11-20,Cloudflare,cdn-network,Cloudflare Dashboard and Cloudflare API service issues in EU region,major,unknown,,none,False,,0,status-page,cloudflare:iysf3fasf7wn
-2026-11-18,2026-11-20,PlayStation,consumer-app,"PlayStation suffers major outage hours before ""GTA VI"" launch",reported,unknown,override,none,False,,7,news,news:PlayStation:2026-11-18
-2026-11-17,2026-11-17,NSA,government,Partial outage of some internal communications systems,major,software-change,press,speculated,False,Banks and the NSA reportedly blame US outages on patches for AI-found flaws,45,manual|news,manual:2026-11-17-nsa-internal
+2026-11-18,2026-11-20,PlayStation,consumer-app,Reports: PlayStation Network outages spike during 'Grand Theft Auto VI' release,reported,unknown,override,none,False,,8,news,news:PlayStation:2026-11-18
+2026-11-17,2026-11-17,NSA,government,Partial outage of some internal communications systems,major,software-change,press,speculated,False,Banks and the NSA reportedly blame US outages on patches for AI-found flaws,47,manual|news,manual:2026-11-17-nsa-internal
 2026-11-17,2026-11-17,Dropbox,saas,Sign in with Apple is not working as expected for some users,major,unknown,,none,False,,0,status-page,dropbox:nxj9fhc24j92
 2026-11-17,2026-11-20,Apple,consumer-app,"Gmail, Apple Pay and iCloud hit by outage reports: What’s happening today?",reported,config-change,press,none,False,,68,news,news:Apple:2026-11-17
 2026-11-17,2026-11-18,Gmail,cloud,Gmail down? Outages are so widespread that companies are being forced to announce they are still online,reported,unknown,,none,False,,3,news,news:Gmail:2026-11-17
 2026-11-17,2026-11-18,Cloudflare,cdn-network,Cloudflare CEO on what's behind recent tech outages,reported,unknown,,none,False,,3,news,news:Cloudflare:2026-11-17
-2026-11-16,2026-11-16,Chase / Wells Fargo / Bank of America,bank,Customers unable to access accounts or transfer funds,major,software-change,press,none,False,,42,manual|news,manual:2026-11-16-us-banks
+2026-11-16,2026-11-16,Chase / Wells Fargo / Bank of America,bank,Customers unable to access accounts or transfer funds,major,third-party,press,none,False,,45,manual|news,manual:2026-11-16-us-banks
 2026-11-16,2026-11-16,1Password,saas,Degraded Device Trust Authentication Experience,major,network,provider,none,False,,0,status-page,onepassword:pjzfk1k4w5bh
-2026-11-16,2026-11-18,United Airlines,transport,United Airlines outage: System restored after flights delayed in Chicago,reported,unknown,,none,False,,111,news,news:United Airlines:2026-11-16
+2026-11-16,2026-11-20,United Airlines,transport,United Airlines says system outage affecting departing flights is resolved,reported,unknown,,none,False,,118,news,news:United Airlines:2026-11-16
 2026-11-15,2026-11-16,AWS,cloud,AWS Restores Services in US-EAST-1 After Hours-Long Outage Disrupts Cloud Operations,reported,unknown,,none,False,,7,news,news:AWS:2026-11-15
 2026-11-13,2026-11-13,GitHub,developer,Incident with Pull Requests,major,config-change,provider,none,False,,0,status-page,github:1xzmt89vv61l
-2026-11-13,2026-11-22,FAA,transport,FAA ground stop sparks cyberattack questions. Here’s what officials are saying,reported,network,press,none,False,,14,news,news:FAA:2026-11-13
+2026-11-13,2026-11-22,FAA,transport,FAA ground stop sparks cyberattack questions. Here’s what officials are saying,reported,network,press,none,False,,15,news,news:FAA:2026-11-13
 2026-11-13,2026-11-15,Google Cloud,cloud,CNA938 Rewind - Google Cloud outage exposes risks: Are banks too dependent on Big Tech?,reported,unknown,,none,False,,4,news,news:Google Cloud:2026-11-13
-2026-11-12,2026-11-14,Microsoft 365 / Outlook,saas,"Outlook, Teams, Copilot outage; secure-connection process overwhelmed on servers",critical,software-change,override,ruled-out,True,"Microsoft ‘deeply sorry’ for global outage, rules out cyberattack and AI",335,manual|news,manual:2026-11-12-microsoft-365
+2026-11-12,2026-11-14,Microsoft 365 / Outlook,saas,"Outlook, Teams, Copilot outage; secure-connection process overwhelmed on servers",critical,software-change,override,ruled-out,True,"Microsoft ‘deeply sorry’ for global outage, rules out cyberattack and AI",376,manual|news,manual:2026-11-12-microsoft-365
 2026-11-11,2026-11-11,GitHub,developer,"Impact across multiple GitHub products including Actions, Pages, and Copilot products.",critical,software-change,provider,none,True,,0,status-page,github:dvy0t3mvh1lg
 2026-11-10,2026-11-10,Notion,saas,Some Notion Agent sessions may hang or stop updating,major,unknown,,none,False,,0,status-page,notion:01M73GD2431C577QYYH7W6TMNQ
 2026-11-10,2026-11-10,GitHub,developer,Incident with Git Operations and Pull Requests,critical,capacity-overload,provider,none,False,,0,status-page,github:hnf21m9jkl3c

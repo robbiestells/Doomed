@@ -1,7 +1,304 @@
 {
- "generated_at": "2026-11-25T15:43:03Z",
- "count": 1049,
+ "generated_at": "2026-11-25T20:40:46Z",
+ "count": 1054,
  "incidents": [
+  {
+   "key": "cloudflare:ef6928vi0mic",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Elevated R2 Latency",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-25T20:08:42Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Stream",
+    "Pipelines",
+    "R2"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T20:08:42Z",
+     "status": "investigating",
+     "body": "We are currently investigating reports of high latency for R2, Stream, and Pipelines. Users may experience elevated latency while using these services."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/ef6928vi0mic",
+   "cause": "network",
+   "cause_basis": "provider",
+   "cause_evidence": "...We are currently investigating reports of high latency for R2, Stream, and Pipelines. Users may experien..."
+  },
+  {
+   "key": "cloudflare:2quqh864hxdi",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Elevated R2 errors for buckets in APAC region",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-25T16:50:45Z",
+   "resolved_at": "2026-11-25T20:03:49Z",
+   "duration_min": 193,
+   "components": [
+    "R2"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T20:03:49Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-25T17:23:55Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-25T16:50:45Z",
+     "status": "investigating",
+     "body": "Requests to R2 buckets in APAC region may experience elevated errors.\nWe are currently investigating this issue."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/2quqh864hxdi",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:vk87u9j2g6if",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Some customers cannot create monitors",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-25T16:42:03Z",
+   "resolved_at": "2026-11-25T17:48:50Z",
+   "duration_min": 66,
+   "components": [
+    "Notifications"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T17:48:50Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-25T16:42:03Z",
+     "status": "investigating",
+     "body": "We\u2019re investigating an issue that prevents some customers from creating monitors in the Cloudflare dashboard under Alerts \u2192 Monitors. Affected customers may see error 17204 stating that their account has a limit of zero custom analytics policies. \nWe\u2019ll share an update as we learn more."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/vk87u9j2g6if",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "openai:01M89RGC3STKK2MT53TXHFMY4H",
+   "source": "openai",
+   "service": "OpenAI",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Elevated errors with Codex GitHub reviews and pull request merges",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-25T16:27:02Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-25T16:58:51Z",
+     "status": "monitoring",
+     "body": "GitHub reports that the service disruption affecting pull requests and webhooks has been mitigated. We are monitoring Codex automated pull request reviews and merge operations to confirm recovery and stability."
+    },
+    {
+     "at": "2026-11-25T16:27:02Z",
+     "status": "identified",
+     "body": "Some Codex users may not receive automated reviews on GitHub pull requests or may encounter errors when merging pull requests from Codex. We have identified these failures as related to a GitHub service disruption. We will provide further updates as more information becomes available."
+    }
+   ],
+   "url": "https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "github:qn8mfv6q5hlx",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Investigating degraded experiences across GitHub products",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-25T15:55:19Z",
+   "resolved_at": "2026-11-25T16:52:16Z",
+   "duration_min": 56,
+   "components": [
+    "Git Operations",
+    "Webhooks",
+    "API Requests",
+    "Issues",
+    "Pull Requests",
+    "Actions",
+    "Packages",
+    "Pages"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T16:52:16Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-25T16:48:10Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:47:14Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:45:50Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:44:15Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:36:44Z",
+     "status": "monitoring",
+     "body": "The degradation affecting Actions, Packages, Pull Requests and Webhooks has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:33:37Z",
+     "status": "investigating",
+     "body": "The degradation affecting API Requests has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:32:46Z",
+     "status": "investigating",
+     "body": "The degradation affecting Issues has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:31:10Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:28:37Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:28:29Z",
+     "status": "investigating",
+     "body": "The degradation affecting Pages has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:25:42Z",
+     "status": "investigating",
+     "body": "We\u2019ve updated our database load distribution and are starting to see recovery. We are continuing to monitor."
+    },
+    {
+     "at": "2026-11-25T16:25:34Z",
+     "status": "investigating",
+     "body": "The degradation affecting Git Operations has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:21:25Z",
+     "status": "investigating",
+     "body": "API Requests is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:14:11Z",
+     "status": "investigating",
+     "body": "We are investigating increased failures due to high database load and are working on mitigations to reduce load and restore service."
+    },
+    {
+     "at": "2026-11-25T16:11:14Z",
+     "status": "investigating",
+     "body": "Pages is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:10:04Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:08:45Z",
+     "status": "investigating",
+     "body": "Git Operations is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:08:13Z",
+     "status": "investigating",
+     "body": "Packages is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:07:50Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:07:28Z",
+     "status": "investigating",
+     "body": "Actions is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:05:17Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:05:03Z",
+     "status": "investigating",
+     "body": "Git Operations is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:58:49Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:58:08Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:57:42Z",
+     "status": "investigating",
+     "body": "Pages is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:56:50Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:55:19Z",
+     "status": "investigating",
+     "body": "We are investigating reports of degraded performance for Actions and Webhooks"
+    }
+   ],
+   "url": "https://stspg.io/5qj9j0p5g4cr",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:4vs0xrtv0qs4",
    "source": "twilio",
@@ -10,7 +307,7 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Multiple Networks in Italy",
    "severity": "minor",
-   "status": "investigating",
+   "status": "monitoring",
    "started_at": "2026-11-25T14:49:12Z",
    "resolved_at": null,
    "duration_min": null,
@@ -18,6 +315,26 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T19:39:34Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to network subscribers on multiple networks in Italy and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T19:39:13Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Italy. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T17:52:45Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Italy. Our team is actively investigating this issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T15:52:24Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Italy. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-25T15:03:44Z",
      "status": "investigating",
@@ -79,12 +396,17 @@
    "kind": "feed",
    "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-25T11:48:13Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-25T16:12:21Z",
+   "duration_min": 264,
    "components": [],
    "updates": [
+    {
+     "at": "2026-11-25T16:12:21Z",
+     "status": "resolved",
+     "body": "All affected services are operating normally again. We\u2019re sorry for the disruption, and we appreciate your patience."
+    },
     {
      "at": "2026-11-25T13:22:34Z",
      "status": "monitoring",
@@ -127,6 +449,11 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T19:41:51Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-25T15:36:04Z",
      "status": "monitoring",
@@ -903,7 +1230,7 @@
    "kind": "feed",
    "title": "Claude for Microsoft 365 add-in missing for some users",
    "severity": "major",
-   "status": "investigating",
+   "status": "identified",
    "started_at": "2026-11-24T00:10:40Z",
    "resolved_at": null,
    "duration_min": null,
@@ -911,6 +1238,11 @@
     "claude.ai"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T20:21:12Z",
+     "status": "identified",
+     "body": "We have identified an issue with an upstream provider that is causing the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account. We are in contact with them. In the meantime, we recommend using the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. We will provide another update as soon as possible."
+    },
     {
      "at": "2026-11-24T01:31:04Z",
      "status": "investigating",
@@ -923,9 +1255,9 @@
     }
    ],
    "url": "https://stspg.io/ffdq2qfv8frk",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "third-party",
+   "cause_basis": "provider",
+   "cause_evidence": "...We have identified an issue with an upstream provider that is causing the Claude add-in to dis..."
   },
   {
    "key": "twilio:zv1172k6tkkq",
@@ -2035,7 +2367,7 @@
    "kind": "feed",
    "title": "[Medium] Issue with Box Forms, File Request, and Box Doc Gen",
    "severity": "major",
-   "status": "resolved",
+   "status": "postmortem",
    "started_at": "2026-11-20T18:48:22Z",
    "resolved_at": "2026-11-20T19:40:32Z",
    "duration_min": 52,
@@ -2044,6 +2376,11 @@
     "Box Doc Gen"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T18:51:55Z",
+     "status": "postmortem",
+     "body": "_Notice and disclaimer: Box is providing this preliminary information subject to further review and analysis. To the best of our knowledge, this is the current state and we may update as more information is confirmed._\n\nBetween November 19, 2026 at 11:05 PM PT and November 20 at 11:11 AM PST, some customers may have experienced errors when opening, creating, saving or submitting File Requests and Box Forms.\n\nThe issue was intermittent, and some requests succeeded when retried. A temporary routing issue caused elevated errors with these features. We restarted affected systems, and requests resumed by 11:11 AM PT.\n\nWe are reviewing our deployment practices to help prevent similar incidents in the future.\n\nWe are conducting a full engineering postmortem and our overview is subject to change with further analysis and findings. In the event our continuing investigation yields further substantive findings, we may publish additional analysis after the conclusion of the full engineering postmortem.\n\nWe are continuously working to improve Box and want to make sure we are delivering the best product and user experience we can. We hope we have provided some clarity here and we would be happy to answer any questions you may still have regarding this matter.\n\nSincerely,  \nThe Box Team"
+    },
     {
      "at": "2026-11-20T19:40:32Z",
      "status": "resolved",
@@ -2066,9 +2403,9 @@
     }
    ],
    "url": "https://stspg.io/4m7nwt0yqdq9",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...sts resumed by 11:11 AM PT.  We are reviewing our deployment practices to help prevent similar incidents in th..."
   },
   {
    "key": "cloudflare:iysf3fasf7wn",

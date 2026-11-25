@@ -1,6 +1,13 @@
 {
- "dropped_count": 51,
+ "dropped_count": 54,
  "dropped": [
+  {
+   "published": "2026-11-24",
+   "title": "Microsoft Declares 'Code Red' After Historic Email Outage, Report Says: What To Know",
+   "outlet": "DailyVoice.com",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzNNa0hCQjltYVdsWk5yUmNVeE5PRklUZ2NfZWJJR2d3c2ZXTEYtSTlhZEx5VndjSEtvcXdOcXl2Q0luNlZ4ZEprQ2pFSUNnQ2lQQldpN1dxbVkzMDhOVWJZUlpzSy1vMmV6ZVU1U1VlTzRHRzMxVGhjOUJHX0NFSE56MEdGc0VaT1JNNEZxYm5zcmNFQWFScjRKR2F2M2o3VUdRVHpKYzljNnF6cnlTYVdR?oc=5",
+   "matched": "What To Know"
+  },
   {
    "published": "2026-11-23",
    "title": "Delta outage snarls Thanksgiving travel in latest tech issue to plague US",
@@ -14,6 +21,13 @@
    "outlet": "Investor's Business Daily",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVHJuNFJCeTE5SmRPUmt4MEVna2sxYnJZbjdPU29GRmtMWnpta2NCUF9QSXY2OG5LZ1RhMTZJd3c5eDNMY2xyd0ZacXIwNnNwbU53OFRzYzFzNExrcTJNbkdTd3puRUJBb0t5elR1R19kSjVKQXFPazB4ZEpPaTF3dW9Ic0JzbmR5ZnRvZ1Z4a0hZeHNoSFZkeG82VVc?oc=5",
    "matched": "Congress"
+  },
+  {
+   "published": "2026-11-20",
+   "title": "Trump Fires Cybersecurity Director as NSA Network Outage Sparks National Security Fears Amid Nationwide Tech Failures",
+   "outlet": "SFL Media",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMmRZWnZwZHlnUndXMXQxdE40UVNPdk9iSnU1Vmxhc2Jvb2xOcFRxTjNlWm5iLTZ2ZnRiWGpHZUxqb2JwcFpkR1JEVFJNWGxYQ0xzeUVISk9lSEV0S215TlFGMHQ1Mk1fVzBYWGtjT2ZCb1BQOHFndzFoOU41MDV6QXlhanVrbldhbkYtZV8wcG5IWVFIZGI1Zi1VQnRPcE9qV0hRRDBSYmFzdkJlNjZIeGRFUE5iYWQxSUNLNDJrRDhnNWtYdldFS25MRHJyWUwwVlE?oc=5",
+   "matched": "Trump"
   },
   {
    "published": "2026-11-19",
@@ -63,6 +77,13 @@
    "outlet": "ABC7 Chicago",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQczBrVlBwMkxPalR3VTlNeEdjbUdEZVM0N1M1T3JJUWdPQnFKZk9PQk1QTjBPdWZBeWF5XzVvRHE0VnIwTlZlNjMzMFFhVHBTQ0VGQWpGQU5RUlI1WjRSQ3N6Nm9FR0lNVHBhR3R1X1MyaVpLX2NSUU1FQWRQWEQ4ZWZjUlh6ejBZbFl5YTR1Skd0ZnpmZlVtcnhzd0VUNWVZYUZsLUIxQ1VsaFpwa2VybnFNNktVaWtpRHpLU0JQcEhabC1TTzJ0LXE0VVlkRDl2eUxkM1N2NS1yaUXSAeABQVVfeXFMUE9uYWZ1dlJKX2dQc0E0WjdXRUlNNDhXbk9jZkRGVDhXUVI0WlFmTjU0NjJHU3ZRQnVBWEdzTndQVzZDaWhXYXNUNWM0Tk1HSTR0ZlBzS3NGdTZKQ0l6b1BUSjJEcEVfZFpTZ29TNnNSUVVWRjJoWFVjeWR3TkdQcVluOUdWZjZMMDBvWmo4dGpSUU9iMk1vRTlxODhCLWhxeUhCSEdmR3RTSFJDZlNmTWFjNU1kWDZDX2R6d1U5bWRyeER3N3V0RkJWQ090LXBjUDBaNE9jcVlLdWk4WmlHdEs?oc=5",
    "matched": "seeks answers"
+  },
+  {
+   "published": "2026-11-18",
+   "title": "Kaitlan Collins Takes Aim at Donald Trump, Says White House Response to NSA and Multiple Tech Outages Has Been 'Far From Conclusive'",
+   "outlet": "AOL.com",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjJ5N2x3R1R3M0FiUUJLeVJFWWNJTUFaNjJXeTJld1VubGloQVJHQ1czQjRJd01vamlKYVk2NUhPUWp3SUJlT3JWQXU5U1NtMDhWNjhfUjVkWWF2OFY4RmxqRnZ1c2R5ZU9jc1lyMnNZU0R0MUgwTlhSSi1Xa2lxTGRR?oc=5",
+   "matched": "Trump"
   },
   {
    "published": "2026-11-18",
@@ -359,8 +380,32 @@
    "matched": "How to "
   }
  ],
- "evidence_only_count": 91,
+ "evidence_only_count": 95,
  "evidence_only": [
+  {
+   "published": "2026-11-25",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email Delivery, App Login, Calendar, Inbox and Microsoft 365 Access Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOTGlFbHBHZE5qZi05U1ozbGFIR2wyblZYT3FsOWpFVU1TdG84Z1JJeDdsemFTb05yaGFhQktoWkNfY0pTT19aZHMxWFVqMUZuQlNneUFjQlpKUEQ2UTlQNU9JRHlKcjFreW5IZ3FXNFdWY3FKSHNndGVFZWhIc2dKR3pSX1RHSTlJdDBxN0FKWmsyRDVraHJRVHRrOXZfblIwc1ctSDZPRm9BZHlWNFpPSTJYalA3eXpKOWNmOXB0T3hzOVRqOHZqVkxQdEVaRUFLUVp0MU8yMWVqUWJHZmtTN2F6bEU4UFNnV19wMmdOZU0xQ2pwNzFlWFV1MWF3Q19YQkpXLXRYVHJYSllkRmVfSmJUM3BsR2xud0t3dWpfbmt3UE5WV2o2S05EVWhIM3UwVlhJS2w3VG9jV2R2VHJzYXphSXTSAcoCQVVfeXFMTlZHNTZ6MWYtcDh2WDZlYVVySGxnNlpITXl2eENmeV9mQWdkQlVJUnlqRVlXaHktNWVCMkhMNWR5YUMwRDBCOEl5QmNsY3Q0UHBGSjREaklfZ1JFelpxVGc2MXRYbC1pRWctbTAwVG9sZ3lPSlhYVTRpREloTmdJNnk0MHd3SlZJOFZmWW9ZQkpDa2E3T3NUU3hSam5LdlpwaTlOS1czZFhHQ21JRU5nYkVwUkFRR0l2dkpSZ19xbVcyNl94X1RCR1REU3VWLXE2M19uTTRUYVhEcUVhOWNGeXZhQnNSeVA2b0xQc0NOcW5vb1FsYU5kRXdQdU93NTRoNG9qU0twYXZFV2NtUVZYcWlOSXJKZkROdTZST0FoS24xbmtaaHZncVAycV9QQW9CTGdreklGMFlRVDE1bUVaanlYZGRDNnlpWThn?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
+  {
+   "published": "2026-11-25",
+   "title": "OpenAI Outage Today: Is OpenAI Down in the UK? Users Report ChatGPT, API, Login, AI Response & Website Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTFVwa29yVVRmYkhNS1JWcUVSWnVpQmh6WU4tRDZEOGE2a3JNZE1TQmx2NjdFNjltQmlXdV9zXzc5aHdzd1Z0dGw1X0p1V1A0aUNLcVRPbkl6czFyT1dVc3hRRGhrZHlNcGJ1bGE2akVpS0Nxa0FOdVkyM3pZVEt3QnN1MnJLQWY5LUZ6TGFjLUpPRzl0UGlZLUd1aUhrRVdRLWJZWDlRb0h1anRhaF9JblJ6MFRsT0FxTnJCYUhiTEEwTVM5eHBZTW5EN25fNVZXMldKekNCVFl5dDVxR0ItY0YtQlVtaE5PM2tHb2RxamlFTmxySUhCNzVnM1dPUXF2OXFWRWcxcXFLN3FVRy1lMtIBlgJBVV95cUxNT2hBVzkydWVJdmppa19fSDVLNng3WFB2alRUaW9adXZrY1lWdFhYY0tyWUJvWFVOc1U4dVNSUGY2ekZLcGU5am5TbFZQS2JrV0MyS1pHS2RHcEpOU2tPOHhseGIwcG05X3dvams5QmRMR0ItZHF4QTItdl9aX0kxMlBFcGtjODNJTjVxeVhRUWRxcjRaSlQ2bmFXRUxhcXlMbFNkb3YtajdHVUhsMTh1RlIxNHc1TDdQdnVFN21mdmN1OWdSbjZWMHFqLV9hSnNFWHE4VlhBWThoRjQ0em9yMFBmVjNtMlBId19TQXJZUGl4WjRSZGQzMjNRRndLdmpTWVBqNkk0Q0MwRTlHc0d0NlRDY25zUQ?oc=5",
+   "matched": "Outage Today:",
+   "brand": "OpenAI/ChatGPT"
+  },
+  {
+   "published": "2026-11-24",
+   "title": "Microsoft Outlook Outage Today: Is Outlook Down in the US? Users Report Email, App Login, Website, Calendar and Authentication Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNcGtnUHU0NWNfXzBJekx2QXZSRmQ1cWxERGhqdlFKV2xSX191dklfUWJyNTRoS2xqQUJ5WXNuVmszZ3dDZkVJUF9uYUUyZUtKdmxOV2E4dU4zZ1pzVFljNzllSTREUGtrWHlfQjBRWHZrWmFMQkV0MHVXdjBGU0tHVkZuSkgxZzlVTXZXTkdmcGRYelQxNVZuVzktUXVWdnlrRmlBUEtDMTdwVmY1bElvWjBQRmVlcWI5MzdJRHoyXzNqQVkzVnBTb0ViY1lEeDcxUDNNNXBhb3FnSnhkZzZpbXpES0hPanhZNGJrdVRKWjZlY2IwakhfTlRldVNyNXJXYVBnMDFyREpuaXVVb21jYy01MS0ySWkwM2hFSGRTZk85M00tVnBEd1h2NHBkZThMZlhJ0gG4AkFVX3lxTE1YX0FQQ2E1RmluV0Vpd2szOVRFYzBPLTJPNU5CeTUxZ2ZsZEMzdzJuNlhEZUZaTTY2SlItZFdZNnJlVGpEQXJaNTNZalRhcFhXVi1RSDZ5N0xWMzJsTU9RMGlPa3F4Yml1MksyS01XRWpXVzVpNG85NU03dzd4cERWblFBVFdwSHhtRmhmSVRZalNkaDQyWlhMcWRjTDRhZTEwNkdWeC1NQXdITmZ6WjJsTm1zZ0hOano2NF83SnZIZmJib3NsMWVMcU5QemxqQkZfVnFmdHJLU2lCWlpRa0IyMEZzQW9ONUFZLV9PZDhpSHVQSkdEYS1uYlZySDlvdzlsSVp4X1VaVjVhSUt0Q1dFYzBudS1LY1lVRm5MN2Zvekw5NlZCRHhZVTEtaUxTVjdMSGhJb1dMeA?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Microsoft"
+  },
   {
    "published": "2026-11-23",
    "title": "Gmail Outage Today: Is Gmail Down in the US? Users Report Email Delivery, App Login, Website, Inbox and Sending Issues | Check Latest Downdetector Status",
@@ -384,6 +429,14 @@
    "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQc3RXNVdtTngxQXpJaDVnREZkLUlZV1g4d014bFdnWEdEd1BVRkFnSjJSM3F1RjlPSG5Qa25PTkR6a0l3c1pWZ2VPVl9XMWdmTW92WHBkTXoyNVN4MFJXQjU4Qko0REVwME5xWmctNEdWcVh6TUtsclhFZUxMamM2YXE0amJ2OGtFVUV2WERxTnJONVBVU2x4OXJHb2xSRFdRRnpZbDB5VnY5ZU0zNWFYdGdycVY2UFB4N2Rmb2VpeTVJMzI2QnZNY0RCR0RhZHdJTGUySWt2MklmcDNrWTJrd19BbllHSk1ISHZ4MWVSR0tCZU5OendMYkpmaW9oSFVtVmxMbjRQZGFUcGRiaVB4M1Frc21lRzk1aTl3dVh4TFZHRnVUcWVCdUhWbUMyY0xxeG5uUHhHaEhncjJOTjN5ek5aRzfSAcoCQVVfeXFMTy01cVFsYUNwWXRIZEUtRm9UdVZVeXNyZ05UbTM1U0JtVGJCRkFRenZyemxscURON0lVY2lRTjhNckQ3NmN3Z3F6QWNjdjhQQmdHdHhVOGNjQ2RNc0M0S2JDNUMtX3B2NjRpZU9IUndpMXltUTRMZjdoY2NMSDNETllsYUp6dHNySXBqa1NPNWhIVUJvN3RNVTIwVmRiR3BKTng5YThjWmZEQmNDZmstbXhkZDBEclJ4eXR2N0t1N3NGdXphZDNXWmxfYzNwYXZnbUx0WjNfZlFvRTlRU3I0dnRSV2lQMU92VWh2Vk94WnVoLU80aGxiczFXMGVnOU03Z1dkNXktNGkzSjVNWk81SjYtb0pWbmp1eExFZDV5S1pzN2xRYkVsLXcycXc3TXBZOFhDUjJlUXptR2FIWDQ0MnRHbFpnYVhkbVpR?oc=5",
    "matched": "Outage Today:",
    "brand": "Chase"
+  },
+  {
+   "published": "2026-11-20",
+   "title": "Apple Pay Outage Today: Is Apple Pay Down in the US? Users Report Payment, Transaction, Wallet App, Card Verification and Contactless Payment Issues | Check Latest Downdetector Status",
+   "outlet": "The Sunday Guardian",
+   "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNMDIyelc0RkVkQ0JCbHdQLXRoU2xScXZrekJiTnFDWnpmZ0xlMFFNNk1mSDduelBSS2hfb0FqNTdTb3pyQjl2X3hEcVFicEZnMmM4S2ZhQU5MZXlvWDRETGdnNVZnWHFVS3ZNQmJVc2VLZWZxVzZiSWlHdVZ5cTNkb29GWFVQWU5Vb184bnlRVm00RW5ENGQtVkdaY244TDBvWEc0aXdGQkZ1UjRmR3hVVi1LSUtVejNQNzR6WjFBNjFqQXYzdnh2eERJaVRpMFRELTNkbTJkMkQwZkNGTmozMUZyQ3IxbmlNdG16WDhsLTB5alo5SklYbFlDSFpGNDAxUndwa01YU2syVDRZTzE3VjFwZldkOHRBb29MRE1taGJBRHB0T2R3TVFZX3VyN042SURMUVk4aURTbjM0UzVnc2hCd25nWUnSAcwCQVVfeXFMUGxDMWFrWVh5b0pzLVNMSUNqNlRpQjdiNDFLYmhJWUZfQ21GbG1tWmp6SEdEMkgta3psdm15RnJUaVh3RklLLWZOWU9UcmtscjNubVp3NTRTLXBDQVRKMzdPNnFRcVJNZXpiV0tQZS0walJZN1VHUmR2S3MzU3haN01VSWdxbmFNM0tra05OUV9SRUozZHBoVW9sSEhOLWswakJIbDZJR0REY2tjUmtsZzhkRXZacFB4ZlRnVi0wS3ZyZmR0dk1YbEE5VkdPbDBXaHk5d3ZJWEQ5MzFldTVuZXBhdUppSnZ5bmQ4RmxwaDExcGllVUFiSVNlV2FGMEpDT2ZPTVhGeDdYVWZvRW1zQ3lQX3d2TGtIdjhwaC1hRFh5Tm9JYUlBRHZEN0sxM1Y5SnFFa01iZzNmd3pOV2lqdmVmcmwzZ210eFhWaF8?oc=5",
+   "matched": "Outage Today:",
+   "brand": "Apple"
   },
   {
    "published": "2026-11-20",

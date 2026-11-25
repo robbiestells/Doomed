@@ -1,12 +1,12 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 81,
- "per_week_avg": 6.3,
+ "total": 82,
+ "per_week_avg": 6.38,
  "by_service": [
   [
    "GitHub",
-   21
+   22
   ],
   [
    "Discord",
@@ -84,7 +84,7 @@
   ],
   [
    "developer",
-   23
+   24
   ],
   [
    "consumer-app",
@@ -166,7 +166,7 @@
   ],
   [
    "2026-W48",
-   4
+   5
   ]
  ],
  "by_cause": [
@@ -176,7 +176,7 @@
   ],
   [
    "software-change",
-   28
+   29
   ],
   [
    "config-change",
@@ -195,11 +195,11 @@
    2
   ]
  ],
- "cause_known_pct": 46.9,
+ "cause_known_pct": 47.6,
  "by_weekday": [
   [
    "Wed",
-   22
+   23
   ],
   [
    "Mon",

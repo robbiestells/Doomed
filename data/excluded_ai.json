@@ -206,6 +206,36 @@
    "first_reported": "2026-08-20"
   },
   {
+   "key": "news:OpenAI/ChatGPT:2025-12-02",
+   "service": "OpenAI/ChatGPT",
+   "title": "OpenAI experiences major global outage as ChatGPT users face issues",
+   "first_reported": "2025-12-02"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-02-03",
+   "service": "OpenAI/ChatGPT",
+   "title": "Was ChatGPT down? Outage data showed spike",
+   "first_reported": "2026-02-03"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-04-20",
+   "service": "OpenAI/ChatGPT",
+   "title": "OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows",
+   "first_reported": "2026-04-20"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-07-14",
+   "service": "OpenAI/ChatGPT",
+   "title": "ChatGPT Outage Displays '504 Error' and Exposes Users' IP Addresses",
+   "first_reported": "2026-07-14"
+  },
+  {
+   "key": "news:OpenAI/ChatGPT:2026-07-25",
+   "service": "OpenAI/ChatGPT",
+   "title": "ChatGPT down in UAE: OpenAI confirms global outage",
+   "first_reported": "2026-07-25"
+  },
+  {
    "key": "news:Claude/Anthropic:2026-03-02",
    "service": "Claude/Anthropic",
    "title": "Anthropic\u2019s Claude hit by widespread service outage (updated)",
@@ -240,36 +270,6 @@
    "service": "Claude/Anthropic",
    "title": "Claude AI Goes Down for Thousands Wednesday, Downdetector Reports",
    "first_reported": "2026-07-29"
-  },
-  {
-   "key": "news:OpenAI/ChatGPT:2025-12-02",
-   "service": "OpenAI/ChatGPT",
-   "title": "OpenAI experiences major global outage as ChatGPT users face issues",
-   "first_reported": "2025-12-02"
-  },
-  {
-   "key": "news:OpenAI/ChatGPT:2026-02-03",
-   "service": "OpenAI/ChatGPT",
-   "title": "Was ChatGPT down? Outage data showed spike",
-   "first_reported": "2026-02-03"
-  },
-  {
-   "key": "news:OpenAI/ChatGPT:2026-04-20",
-   "service": "OpenAI/ChatGPT",
-   "title": "OpenAI's ChatGPT Down for Thousands of Users, Downdetecter Shows",
-   "first_reported": "2026-04-20"
-  },
-  {
-   "key": "news:OpenAI/ChatGPT:2026-07-14",
-   "service": "OpenAI/ChatGPT",
-   "title": "ChatGPT Outage Displays '504 Error' and Exposes Users' IP Addresses",
-   "first_reported": "2026-07-14"
-  },
-  {
-   "key": "news:OpenAI/ChatGPT:2026-07-25",
-   "service": "OpenAI/ChatGPT",
-   "title": "ChatGPT down in UAE: OpenAI confirms global outage",
-   "first_reported": "2026-07-25"
   }
  ]
 }

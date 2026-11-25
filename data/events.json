@@ -1,7 +1,187 @@
 {
- "generated_at": "2026-11-25T15:43:03Z",
- "count": 286,
+ "generated_at": "2026-11-25T20:40:51Z",
+ "count": 289,
  "events": [
+  {
+   "key": "github:qn8mfv6q5hlx",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "Investigating degraded experiences across GitHub products",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-25T15:55:19Z",
+   "resolved_at": "2026-11-25T16:52:16Z",
+   "duration_min": 56,
+   "components": [
+    "Git Operations",
+    "Webhooks",
+    "API Requests",
+    "Issues",
+    "Pull Requests",
+    "Actions",
+    "Packages",
+    "Pages"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T16:52:16Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-25T16:48:10Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:47:14Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:45:50Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:44:15Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:36:44Z",
+     "status": "monitoring",
+     "body": "The degradation affecting Actions, Packages, Pull Requests and Webhooks has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:33:37Z",
+     "status": "investigating",
+     "body": "The degradation affecting API Requests has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:32:46Z",
+     "status": "investigating",
+     "body": "The degradation affecting Issues has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:31:10Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:28:37Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:28:29Z",
+     "status": "investigating",
+     "body": "The degradation affecting Pages has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:25:42Z",
+     "status": "investigating",
+     "body": "We\u2019ve updated our database load distribution and are starting to see recovery. We are continuing to monitor."
+    },
+    {
+     "at": "2026-11-25T16:25:34Z",
+     "status": "investigating",
+     "body": "The degradation affecting Git Operations has been mitigated. We are monitoring to ensure stability."
+    },
+    {
+     "at": "2026-11-25T16:21:25Z",
+     "status": "investigating",
+     "body": "API Requests is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:14:11Z",
+     "status": "investigating",
+     "body": "We are investigating increased failures due to high database load and are working on mitigations to reduce load and restore service."
+    },
+    {
+     "at": "2026-11-25T16:11:14Z",
+     "status": "investigating",
+     "body": "Pages is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:10:04Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:08:45Z",
+     "status": "investigating",
+     "body": "Git Operations is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:08:13Z",
+     "status": "investigating",
+     "body": "Packages is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:07:50Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:07:28Z",
+     "status": "investigating",
+     "body": "Actions is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:05:17Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T16:05:03Z",
+     "status": "investigating",
+     "body": "Git Operations is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:58:49Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:58:08Z",
+     "status": "investigating",
+     "body": "Issues is experiencing degraded availability. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:57:42Z",
+     "status": "investigating",
+     "body": "Pages is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:56:50Z",
+     "status": "investigating",
+     "body": "Pull Requests is experiencing degraded performance. We are continuing to investigate."
+    },
+    {
+     "at": "2026-11-25T15:55:19Z",
+     "status": "investigating",
+     "body": "We are investigating reports of degraded performance for Actions and Webhooks"
+    }
+   ],
+   "url": "https://stspg.io/5qj9j0p5g4cr",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": "GitHub",
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-25",
+   "last_reported": "2026-11-25",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "github:m0wx9qml7yjh",
    "source": "github",
@@ -102,6 +282,41 @@
    "life_impact": "work"
   },
   {
+   "key": "news:FAA:2026-11-24",
+   "brand": "FAA",
+   "category": "transport",
+   "title": "FAA lifts restrictions on flights to Chicago after ground system outage \u2014 AeroTime",
+   "first_reported": "2026-11-24",
+   "last_reported": "2026-11-25",
+   "articles": 6,
+   "evidence_pages": 0,
+   "outlets": 6,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": true,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5GY1lrdDhhOEpUOV9fekFaYkJiRjFtZDBmckhVWHdJMkRLSWUwekZ4QkVfZVVIVEg4cUl3?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFduRndxMzBuUTEwRjd5MElsV09ZNVZ5M05yTk8zcThWZG0wb0FVVGswMEJEbFN5ZUlKVUtvdE93eUcxZDExWEpadWJZdTM3Smt1LTQ1TXl4WHNab3ptMm9VXzhzbTlqUmVzZ1lYV3NNeTlOa29XOURhTUJMZzFzQ2I2V2dEX2xNbko2OVFn0gGTAUFVX3lxTFBOVGdidjg5QzhwRDYzY3JjSE9JcGdZS1owSGdWUGVhM05HMWFKYTJwY2laeGUyRk8tRHh3WFZrME1zTUhSTXJTWjZJZmhsdmpJbk9WZWJNTFBDQTJfRDVGSmwtc2I4VUxMV1ZPbXRSeDEzZFljQ08ySDJyV18wUXNaYWFlZDRiREk2bTBhTjNPT2hoWQ?oc=5",
+    "https://news.google.com/rss/articles/CBMie0FVX3lxTE00by1lbERYVXdtM21EdG1HUHlxSzZZV2w4SFp6NjlJM2ZLMGtwZkJReExfdEV5Qnd3TzBrbFAzVS1TN1ljV29nR0pRT1FQNE51dUY0Rm1XQ2pJV19DRFNaajdFc1czZi1Jc2R5dmREWVVva2ljNi1Hb1FiSQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUEJSWU56Z2xtQXQ4NGRvZ25WTmZMTm9zWk9idFJPMFRXLTVCNXFnUVZUUldtNzRSbldOTUNmX1RUZ2loWmlLODFzN0dfaDlienR3RDh2X01ma1FGOEQ3Zm1UNV9uMXlXSEFvN3JjT0Z0alpnQUpBYjdpenZMSFhKWC10c1FaWDVrdVozbmUxa1ZuREZMVWFsUVotdWkxSGktcHJlRkFuQld5TzM2STA5V1ZYcGpOc2R6?oc=5",
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT0JCVU41RW50NmNGSktkQ2FNUC1qRUoycmdQdTViUkFzc0w0UnhrSXZ1R1ZaS3NRYlZCR3dqTmQ5NUl2dTNYeFlxMUNyTVl6TF85RXpkX1FsanJBMmpma2pDY2xfdFJyZXhkR3Q4eEJ3cFg2WXRhbjdOSnJiUzZEcmU2MjQwcHVqWTJUY3U3dGxXUldaYjdRMFo0bEtvRkdSSno4dllLM0dteGo0Q2laWVJzeUZ5dw?oc=5"
+   ],
+   "service": "FAA",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-24T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "daily"
+  },
+  {
    "key": "shopify:m1grsygpsdbb",
    "source": "shopify",
    "service": "Shopify",
@@ -170,15 +385,48 @@
    "life_impact": "daily"
   },
   {
+   "key": "news:United Airlines:2026-11-22",
+   "brand": "United Airlines",
+   "category": "transport",
+   "title": "United Airlines reports major system outage as US air travel faces fresh disruption",
+   "first_reported": "2026-11-22",
+   "last_reported": "2026-11-23",
+   "articles": 3,
+   "evidence_pages": 0,
+   "outlets": 3,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": true,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWF2dWVsWFJBZVUzRzJBVE0tOUJFMFNacW1wdlB4cnNLdU1XRzJObnFlY3VfRG5aVGNnLXA4Y2k3VEtMYWJxcklzcklKYjJnVTlENlZYa1Q1R0xLSm42LUI4THZab1RzcElIV2ZjcXBxMFJ4ME5pNEJMVjFzQlFxSk5ocmhhYXBXbFVTc2VxcEgtdktmbEtLT1dJcWxValBIYTJoTWxZYVZHZG92cF9hdDM5Mkk5UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XeTlLa3BVTnRZZ01yWnk4SGNVZnpaRXk0dV9KQWpLUGVWX0JSOTgtYXF5eDlTN1VnLVlGQnJ0UzJLSmRDa0VMbFNWb2ZtMVgyUjdSNExFZEE?oc=5",
+    "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNUphX0VRYkdYRzNZa25TdzVLY3JKdE5qbXJLNGE1bHBqXzlNY2I5a2lIeTVYTlJkaF9wYklJakRpQTA3NVJJZ21wcTlyMFV5X3ZMcXYtaFZxVDFjbV9jWTBJUEl4VDhuVkEzZ24yUUlvNDVqVHdlaFdGY29aOGI0MG1KVWtHTEZ6TVpFTmFDcm93Qm9MdXhhQTkzLTNNNVA4WEx3UmxsR05USm1oQUkxaXpFbWlnVlNZdUV0RmZSUzZmVzlfMS1IT2gtVThaR0VTZHU2QUcwTlpYQno4bU9BdUtuampmazJNdkhhcW9fdzk5bUVMSzVSYzNzekx4NkU?oc=5"
+   ],
+   "service": "United Airlines",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-22T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "daily"
+  },
+  {
    "key": "news:Delta:2026-11-22",
    "brand": "Delta",
    "category": "transport",
    "title": "Delta baggage system outage adds to delays as Thanksgiving travel ramps up",
    "first_reported": "2026-11-22",
    "last_reported": "2026-11-24",
-   "articles": 87,
+   "articles": 95,
    "evidence_pages": 0,
-   "outlets": 80,
+   "outlets": 86,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -310,7 +558,7 @@
    "kind": "feed",
    "title": "[Medium] Issue with Box Forms, File Request, and Box Doc Gen",
    "severity": "major",
-   "status": "resolved",
+   "status": "postmortem",
    "started_at": "2026-11-20T18:48:22Z",
    "resolved_at": "2026-11-20T19:40:32Z",
    "duration_min": 52,
@@ -319,6 +567,11 @@
     "Box Doc Gen"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T18:51:55Z",
+     "status": "postmortem",
+     "body": "_Notice and disclaimer: Box is providing this preliminary information subject to further review and analysis. To the best of our knowledge, this is the current state and we may update as more information is confirmed._\n\nBetween November 19, 2026 at 11:05 PM PT and November 20 at 11:11 AM PST, some customers may have experienced errors when opening, creating, saving or submitting File Requests and Box Forms.\n\nThe issue was intermittent, and some requests succeeded when retried. A temporary routing issue caused elevated errors with these features. We restarted affected systems, and requests resumed by 11:11 AM PT.\n\nWe are reviewing our deployment practices to help prevent similar incidents in the future.\n\nWe are conducting a full engineering postmortem and our overview is subject to change with further analysis and findings. In the event our continuing investigation yields further substantive findings, we may publish additional analysis after the conclusion of the full engineering postmortem.\n\nWe are continuously working to improve Box and want to make sure we are delivering the best product and user experience we can. We hope we have provided some clarity here and we would be happy to answer any questions you may still have regarding this matter.\n\nSincerely,  \nThe Box Team"
+    },
     {
      "at": "2026-11-20T19:40:32Z",
      "status": "resolved",
@@ -341,9 +594,9 @@
     }
    ],
    "url": "https://stspg.io/4m7nwt0yqdq9",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
+   "cause": "software-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...sts resumed by 11:11 AM PT.  We are reviewing our deployment practices to help prevent similar incidents in th...",
    "brand": null,
    "sources": [
     "status-page"
@@ -406,12 +659,12 @@
    "key": "news:PlayStation:2026-11-18",
    "brand": "PlayStation",
    "category": "consumer-app",
-   "title": "PlayStation suffers major outage hours before \"GTA VI\" launch",
+   "title": "Reports: PlayStation Network outages spike during 'Grand Theft Auto VI' release",
    "first_reported": "2026-11-18",
    "last_reported": "2026-11-20",
-   "articles": 7,
+   "articles": 8,
    "evidence_pages": 3,
-   "outlets": 6,
+   "outlets": 7,
    "cause": "unknown",
    "cause_basis": "override",
    "cause_evidence": "...etwork outages spike during 'Grand Theft Auto VI' release...",
@@ -458,7 +711,7 @@
     "manual",
     "news"
    ],
-   "articles": 45,
+   "articles": 47,
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-17",
    "other_industry": true,
@@ -528,7 +781,7 @@
    "first_reported": "2026-11-17",
    "last_reported": "2026-11-20",
    "articles": 68,
-   "evidence_pages": 12,
+   "evidence_pages": 13,
    "outlets": 59,
    "cause": "config-change",
    "cause_basis": "press",
@@ -634,7 +887,7 @@
     "online banking",
     "transfers"
    ],
-   "cause": "software-change",
+   "cause": "third-party",
    "source_url": "https://www.fox29.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack",
    "time_precision": "day",
    "cause_basis": "press",
@@ -643,7 +896,7 @@
     "manual",
     "news"
    ],
-   "articles": 42,
+   "articles": 45,
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-16",
    "other_industry": true,
@@ -654,7 +907,7 @@
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVdlb1VvajJMQVpZRVNmb1JSa3lsVnVjRmdEY0x3LVVoUU0tN2hFMzZCYWx5LVZEakxLS1A1RTlCYnVOOWpKR2JzNlRLclczYUdVQUdKTy1FSkFsc1JzLU82bjJaSUFXZXdHd3pUVTFuc3hxNnQ4cHZ6b1FJUm5HeU81X2UzbW82UnNFdy1rNjJhS3puWXhpQXJhMnRLSGIyVTBGRjR0YklrU0xyMWRsckFJLUR6OXBsWGJZdTByNDhHQdIBygFBVV95cUxNcXlsV2pmWlpqQm5INzNhUjdvLWZLSDQtd2w4VjA0WmZCVTZqc1BRc1RfTjZrSmNyc1QzX243YUFCeVJQZURkeEtvLXQwMmVYa0V5THVxenl6TE83TmtFc1g5d1VHQzhQY3lXc0pfZVFIS0tld3d3a2doNEpNS290SU1iYnpLbWdZUU1QSV9EWm9sRDBNb0xiSElnbm9xLVE0dWpXTXMwOU9MVVJtcEduei1xMzdmTWtXdGNFNTNHUGVpUGstZjE2RmZB?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMnhDdm9nemFDeE9EbzVSRUgtcHFSS1RpdDVrMFp2OEg0WG1VSUhlVWcyX1BvUFp0NU85RDUzM1ZoMGZHUURQZkg3YVdJR2F6S213NzJZVHMtdGZ5aTVFVHgxdlJCQU1mNmRUMk5OYjVTOTllTml1ZW9yb21GTGtJMTRmdTFSc3hWQXJuRzhSVm9JY1g1dktBVEJxdklqeU4tNV9LOTM5YjhucTdZTEdhU3hreDd1cll1S1hvTmJhSmk2VTA3RmtRMnVWT2t4enZGakYteUpNMnZwb0plLTVJ?oc=5"
    ],
-   "cause_evidence": "...FBI says Chase outage tracks back to software release,   activity...",
+   "cause_evidence": "...Chase Hit by Third-Party Data Breach Unrelated to Recent Outage...",
    "ai_link": "none",
    "ai_evidence": null,
    "ai_service_affected": false,
@@ -713,12 +966,12 @@
    "key": "news:United Airlines:2026-11-16",
    "brand": "United Airlines",
    "category": "transport",
-   "title": "United Airlines outage: System restored after flights delayed in Chicago",
+   "title": "United Airlines says system outage affecting departing flights is resolved",
    "first_reported": "2026-11-16",
-   "last_reported": "2026-11-18",
-   "articles": 111,
+   "last_reported": "2026-11-20",
+   "articles": 118,
    "evidence_pages": 0,
-   "outlets": 101,
+   "outlets": 108,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -859,9 +1112,9 @@
    "title": "FAA ground stop sparks cyberattack questions. Here\u2019s what officials are saying",
    "first_reported": "2026-11-13",
    "last_reported": "2026-11-22",
-   "articles": 14,
+   "articles": 15,
    "evidence_pages": 0,
-   "outlets": 14,
+   "outlets": 15,
    "cause": "network",
    "cause_basis": "press",
    "cause_evidence": "...alance of bridging the copper legacy and next-gen fiber...",
@@ -946,7 +1199,7 @@
     "manual",
     "news"
    ],
-   "articles": 335,
+   "articles": 376,
    "first_reported": "2026-11-12",
    "last_reported": "2026-11-14",
    "other_industry": true,
