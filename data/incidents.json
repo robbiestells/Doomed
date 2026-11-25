@@ -1,7 +1,320 @@
 {
- "generated_at": "2026-11-25T04:55:51Z",
- "count": 1041,
+ "generated_at": "2026-11-25T15:43:03Z",
+ "count": 1049,
  "incidents": [
+  {
+   "key": "twilio:4vs0xrtv0qs4",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Multiple Networks in Italy",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-25T14:49:12Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T15:03:44Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Italy. Our team is actively investigating this issue. We will provide another update in 48 minutes or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T14:49:12Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Iliad network subscribers in Italy. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/rp96f6745g5j",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "github:189rrqcfhc75",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "MAI Code 2 Degredation",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-25T11:58:36Z",
+   "resolved_at": "2026-11-25T12:03:55Z",
+   "duration_min": 5,
+   "components": [
+    "Copilot AI Model Providers"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T12:03:55Z",
+     "status": "resolved",
+     "body": "This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available."
+    },
+    {
+     "at": "2026-11-25T11:58:52Z",
+     "status": "investigating",
+     "body": "We are experiencing degraded availability for the MAI Code 2 model in Copilot products and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolve the issue, we recommend choosing another model or selecting 'Auto' to continue using Copilot."
+    },
+    {
+     "at": "2026-11-25T11:58:36Z",
+     "status": "investigating",
+     "body": "We are investigating reports of degraded performance for Copilot AI Model Providers"
+    }
+   ],
+   "url": "https://stspg.io/djn1brd9cmzj",
+   "cause": "third-party",
+   "cause_basis": "provider",
+   "cause_evidence": "...and IDE surfaces. This is due to an issue with an upstream model provider. While we work with them to resolv..."
+  },
+  {
+   "key": "openai:01M898HVZGXFV2XC4775CG9GF8",
+   "source": "openai",
+   "service": "OpenAI",
+   "category": "ai",
+   "kind": "feed",
+   "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-25T11:48:13Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-25T13:22:34Z",
+     "status": "monitoring",
+     "body": "We have applied mitigations and are seeing recovery across ChatGPT, ChatGPT Work, and Codex cloud threads. We are monitoring the affected services to ensure continued stability. Our investigation into the underlying cause remains ongoing."
+    },
+    {
+     "at": "2026-11-25T13:07:14Z",
+     "status": "identified",
+     "body": "We are seeing improvements following our mitigations. Some users may continue to experience elevated errors across ChatGPT, ChatGPT Work, and Codex cloud threads. We are continuing to work toward full recovery."
+    },
+    {
+     "at": "2026-11-25T11:56:25Z",
+     "status": "identified",
+     "body": "We have identified that users are experiencing elevated errors for ChatGPT and ChatGPT Work, as well as cloud Codex threads.\n\nWe have identified the issue and are working on implementing a mitigation."
+    },
+    {
+     "at": "2026-11-25T11:48:13Z",
+     "status": "identified",
+     "body": "We have identified that users are experiencing elevated errors for the impacted services.\n\nWe are working on implementing a mitigation."
+    }
+   ],
+   "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:kmqsql9zjkm3",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-25T10:13:57Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T15:36:04Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T13:35:39Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T13:28:30Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing MMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T11:21:46Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing MMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T10:21:09Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing MMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T10:13:57Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing MMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/6wckhw8p3c7q",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "zoom:wltt2z6h9m71",
+   "source": "zoom",
+   "service": "Zoom",
+   "category": "saas",
+   "kind": "feed",
+   "title": "Service Degradation Affecting Zoom Phone Inbound Calls for Subset of Jio subscribers in India",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-25T07:31:08Z",
+   "resolved_at": "2026-11-25T08:32:10Z",
+   "duration_min": 61,
+   "components": [
+    "Calling (Inbound/Outbound)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T08:32:10Z",
+     "status": "resolved",
+     "body": "This incident has been resolved and the affected services have been restored."
+    },
+    {
+     "at": "2026-11-25T08:20:43Z",
+     "status": "monitoring",
+     "body": "The issue affecting Zoom Phone Inbound Calls for subset of Jio subscribers in India has been successfully resolved. \n\nOur team will continue to monitor the situation closely and keep you informed of any further developments."
+    },
+    {
+     "at": "2026-11-25T08:04:31Z",
+     "status": "identified",
+     "body": "We have successfully identified the root cause affecting Zoom Phone Inbound Calls for subset of Jio subscribers in India.\n\nOur team is actively working with our partner on a resolution, and we will keep you informed with timely updates as progress is made. \n\nThank you for your patience."
+    },
+    {
+     "at": "2026-11-25T07:31:09Z",
+     "status": "investigating",
+     "body": "We are currently investigating a service degradation affecting Zoom Phone Inbound Calls for subset of Jio subscribers in India.\n\nOur team is actively working to identify the impact and root cause. We will provide an update as soon as more information becomes available.\n\nWe appreciate your patience as we work to resolve this issue."
+    }
+   ],
+   "url": "https://stspg.io/0ksyj3jq48yb",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:xufkpdtfdglk",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Firewall Configuration Delay",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-25T07:24:35Z",
+   "resolved_at": "2026-11-25T09:11:39Z",
+   "duration_min": 107,
+   "components": [
+    "Network",
+    "Firewall"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T09:11:39Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-25T08:56:47Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-25T07:49:18Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-25T07:24:35Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with some firewall configuration updates. Customers making changes to Custom Lists and User Agent Blocking rules, may experience configuration delays applying to the edge.\n\nWe are working to analyze and mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/xufkpdtfdglk",
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...dflare is investigating issues with some firewall configuration updates. Customers making changes to Custom Lists..."
+  },
+  {
+   "key": "twilio:gjc25j51yq37",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Failures from Twilio to Econet Telecom Lesotho",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-25T06:31:58Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Middle East & Africa"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-25T13:43:13Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team is actively investigating this issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T09:37:23Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team is actively investigating this issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T07:32:27Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T06:31:58Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/72lmzlvqj3bm",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "anthropic:yl30wkjblcm6",
+   "source": "anthropic",
+   "service": "Anthropic",
+   "category": "ai",
+   "kind": "feed",
+   "title": "Elevated errors for multiple models",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-25T05:32:26Z",
+   "resolved_at": "2026-11-25T05:32:26Z",
+   "duration_min": 0,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-25T05:32:26Z",
+     "status": "resolved",
+     "body": "We have identified an issue which affected Claude Fable 5.2, Claude Mythos 5.2, Claude Opus 5.5, Claude Sonnet 5.5 and Claude Haiku 5.5 from 20:52 PT on November 24 / 04:52 UTC on November 25 to 21:16 PT on November 24 / 05:16 UTC on November 25, resulting in elevated errors. This issue has been resolved."
+    }
+   ],
+   "url": "https://stspg.io/z0c74vfltddb",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:lqojvojhdcjv",
    "source": "cloudflare",
@@ -463,14 +776,19 @@
    "kind": "feed",
    "title": "Magic Transit Degraded Performance",
    "severity": "major",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-24T11:29:22Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-25T08:16:26Z",
+   "duration_min": 1247,
    "components": [
     "Magic Transit"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T08:16:26Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
     {
      "at": "2026-11-24T12:58:11Z",
      "status": "identified",
@@ -1365,6 +1683,11 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T11:14:28Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team is actively investigating the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T11:14:04Z",
      "status": "investigating",
@@ -4162,8 +4485,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [

@@ -1,6 +1,6 @@
 first_reported,last_reported,service,category,title,severity,cause,cause_basis,ai_link,ai_service_affected,ai_evidence,articles,sources,key
 2026-11-25,2026-11-25,GitHub,developer,Disruption with Code Completions and Next Edit Suggestions,critical,unknown,,none,False,,0,status-page,github:m0wx9qml7yjh
-2026-11-24,2026-11-24,Cloudflare,cdn-network,Magic Transit Degraded Performance,major,unknown,,none,False,,0,status-page,cloudflare:no721jcnlrbh
+2026-11-24,2026-11-25,Cloudflare,cdn-network,Magic Transit Degraded Performance,major,unknown,,none,False,,0,status-page,cloudflare:no721jcnlrbh
 2026-11-23,2026-11-23,Shopify,commerce,Errors at Online Store Checkout and Point Of Sale Checkout,major,unknown,,none,False,,0,status-page,shopify:m1grsygpsdbb
 2026-11-22,2026-11-24,Delta,transport,Delta baggage system outage adds to delays as Thanksgiving travel ramps up,reported,unknown,,none,False,,87,news,news:Delta:2026-11-22
 2026-11-21,2026-11-22,AWS,cloud,AWS got hit by an outage too. Here's why you didn't hear about it,reported,unknown,,none,False,,4,news,news:AWS:2026-11-21

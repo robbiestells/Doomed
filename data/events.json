@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T04:55:52Z",
+ "generated_at": "2026-11-25T15:43:03Z",
  "count": 286,
  "events": [
   {
@@ -61,14 +61,19 @@
    "kind": "feed",
    "title": "Magic Transit Degraded Performance",
    "severity": "major",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-24T11:29:22Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-25T08:16:26Z",
+   "duration_min": 1247,
    "components": [
     "Magic Transit"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T08:16:26Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
     {
      "at": "2026-11-24T12:58:11Z",
      "status": "identified",
@@ -90,7 +95,7 @@
    ],
    "articles": 0,
    "first_reported": "2026-11-24",
-   "last_reported": "2026-11-24",
+   "last_reported": "2026-11-25",
    "ai_link": "none",
    "ai_evidence": null,
    "ai_service_affected": false,
