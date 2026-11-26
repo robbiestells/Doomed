@@ -1,7 +1,265 @@
 {
- "generated_at": "2026-11-26T00:29:27Z",
- "count": 1055,
+ "generated_at": "2026-11-26T09:38:29Z",
+ "count": 1062,
  "incidents": [
+  {
+   "key": "cloudflare:qlwszxx4667e",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare Billing Issues",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-26T09:28:58Z",
+   "resolved_at": "2026-11-26T09:37:54Z",
+   "duration_min": 8,
+   "components": [
+    "Subscriptions",
+    "R2"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T09:37:54Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T09:28:58Z",
+     "status": "monitoring",
+     "body": "Cloudflare is experiencing problems in processing changes through our billing subscription service for R2. All other services are operating normally. We will provide an update once billing subscription services return to normal."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/qlwszxx4667e",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:mkudgr09g9ax",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "RealTimeKit Recording Delays",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-26T09:26:11Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "RealtimeKit"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T09:33:29Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-26T09:26:11Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with RealTimeKit recordings remaining in an invoked state. We are working to understand the full impact and mitigate this problem. More updates to follow shortly"
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/mkudgr09g9ax",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:sv0gq9wsgmvl",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-26T07:58:11Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T09:05:45Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T08:03:42Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T07:58:11Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/rwdp0wm7mlfx",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:l7553gm3lz12",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Voice Call Post Dial Delay and Failures between a Subset of Twilio South Africa Phone Numbers and Network Subscribers in South Africa",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-26T07:41:32Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Voice, Middle East & Africa"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T08:42:18Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing voice call post dial delay and voice call failures between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T07:41:32Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing voice call post dial delay and call failures between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/0h9sgv6c925j",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:5rbrrc126nq7",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Delay in Outbound SMS Send",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-26T04:01:45Z",
+   "resolved_at": "2026-11-26T06:17:52Z",
+   "duration_min": 136,
+   "components": [
+    "SMS"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T06:17:52Z",
+     "status": "resolved",
+     "body": "We have monitored and resolved the issue with Messaging. All services are now operating normally at this time."
+    },
+    {
+     "at": "2026-11-26T04:33:03Z",
+     "status": "monitoring",
+     "body": "Our engineers have mitigated the issue and are monitoring system performance. Outbound SMS traffic is returning to normal, and messages that were previously delayed are being processed. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T04:01:45Z",
+     "status": "investigating",
+     "body": "We are investigating an issue with Messaging. Users may experience delay in sending outbound SMS messages. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/61290pdd6tbv",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "coinbase:llmzmlbtsrmn",
+   "source": "coinbase",
+   "service": "Coinbase",
+   "category": "bank",
+   "kind": "feed",
+   "title": "Delayed Sends & Receives - INJ",
+   "severity": "none",
+   "status": "resolved",
+   "started_at": "2026-11-26T02:41:07Z",
+   "resolved_at": "2026-11-26T04:16:55Z",
+   "duration_min": 95,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-26T04:16:55Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T04:16:50Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-26T04:16:45Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-26T02:41:08Z",
+     "status": "investigating",
+     "body": "We are aware that some users may be experiencing delayed sends and receives for Injective (INJ). Buys, Sells, and Fiat withdrawals/deposits are not affected. We are investigating this issue and will provide an update shortly. Rest assured, your funds are safe."
+    }
+   ],
+   "url": "https://stspg.io/f32n3n3j0wfz",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:j5pydzd50fhm",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Spusu United Kingdom",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-26T00:49:43Z",
+   "resolved_at": "2026-11-26T04:15:08Z",
+   "duration_min": 205,
+   "components": [
+    "SMS, Europe"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T04:15:08Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Spusu network subscribers in the United Kingdom is operating normally."
+    },
+    {
+     "at": "2026-11-26T02:14:10Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Spusu network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T01:55:57Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Spusu network subscribers in the United Kingdom. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T00:55:17Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Spusu network subscribers in the United Kingdom. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T00:49:43Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Spusu network subscribers in the United Kingdom. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/ymdrx1zttc6m",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "github:m0wvf9pt3l0l",
    "source": "github",
@@ -10,12 +268,22 @@
    "kind": "feed",
    "title": "LFS degradation for some customers",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-25T23:06:54Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-26T00:43:01Z",
+   "duration_min": 96,
    "components": [],
    "updates": [
+    {
+     "at": "2026-11-26T00:43:01Z",
+     "status": "resolved",
+     "body": "On November 25, 2026, between 21:30 UTC and 00:28 UTC, Git Large File Storage (LFS) operations on github.com were degraded. During this time, an average of 2% of Git LFS requests failed, peaking at 4%. Many more requests initially failed but succeeded when Git LFS clients automatically retried them, which caused slower uploads and downloads for affected users. Other Git operations were not affected. This was due to a large volume of automated, unauthenticated traffic that overwhelmed the Git LFS servers in one of our regions, leaving them unable to respond to requests in time.<br /><br />We mitigated the incident by moving most Git LFS traffic from the affected region to other regions with more capacity. Error rates returned to normal by 00:28 UTC.<br /><br />We are working to limit the impact of high-volume unauthenticated traffic on Git LFS, and to add capacity in the affected region, to prevent similar disruptions in the future."
+    },
+    {
+     "at": "2026-11-26T00:41:11Z",
+     "status": "monitoring",
+     "body": "The degradation has been mitigated. We are monitoring to ensure stability."
+    },
     {
      "at": "2026-11-26T00:28:37Z",
      "status": "investigating",
@@ -38,9 +306,9 @@
     }
    ],
    "url": "https://stspg.io/ywpzwl4yl621",
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...volume of automated, unauthenticated traffic that overwhelmed the Git LFS servers in one of our regions, leav..."
   },
   {
    "key": "cloudflare:ef6928vi0mic",
@@ -656,6 +924,16 @@
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T04:53:41Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T00:47:19Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-25T22:44:52Z",
      "status": "identified",
@@ -2082,7 +2360,7 @@
    "kind": "feed",
    "title": "Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada",
    "severity": "minor",
-   "status": "investigating",
+   "status": "identified",
    "started_at": "2026-11-22T03:50:54Z",
    "resolved_at": null,
    "duration_min": null,
@@ -2090,6 +2368,16 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T07:44:50Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T06:44:32Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-25T11:14:28Z",
      "status": "investigating",
