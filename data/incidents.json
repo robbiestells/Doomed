@@ -1,7 +1,166 @@
 {
- "generated_at": "2026-11-26T09:38:29Z",
- "count": 1062,
+ "generated_at": "2026-11-26T19:41:21Z",
+ "count": 1066,
  "incidents": [
+  {
+   "key": "cloudflare:xiqj67vl5pqm",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare Dashboard and Cloudflare API service issues",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-26T16:03:50Z",
+   "resolved_at": "2026-11-26T18:17:04Z",
+   "duration_min": 133,
+   "components": [
+    "Dashboard",
+    "API"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T18:17:04Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T16:39:33Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-26T16:03:50Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with Cloudflare Dashboard and related APIs. These issues do not affect the serving of cached files via the Cloudflare CDN or other security features at the Cloudflare Edge. Customers using the Dashboard / Cloudflare APIs are impacted as requests might fail and/or errors may be displayed."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/xiqj67vl5pqm",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:jlx1q8b88c0c",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to Multiple Networks in Bahrain",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-26T15:46:20Z",
+   "resolved_at": "2026-11-26T19:31:14Z",
+   "duration_min": 224,
+   "components": [
+    "SMS, Middle East & Africa"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T19:31:14Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to affected networks in Bahrain is operating normally."
+    },
+    {
+     "at": "2026-11-26T17:25:26Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to network subscribers on multiple networks in Bahrain and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T17:02:53Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Bahrain. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T16:02:32Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Bahrain. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T15:46:20Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to network subscribers on multiple networks in Bahrain. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/krpzh4mqjsbl",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:6crqy1zulybd",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Workers AI - Deepseek Flash increased errors",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-26T14:41:21Z",
+   "resolved_at": "2026-11-26T14:42:37Z",
+   "duration_min": 1,
+   "components": [
+    "Workers AI"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T14:42:37Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T14:41:21Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating an increased amount of errors from Deepseek Flash on Workers AI."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/6crqy1zulybd",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:filussqshtfq",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "AI Gateway \u2013 Elevated errors for Gemini 4 models using Unified Billing",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-26T14:19:51Z",
+   "resolved_at": "2026-11-26T18:07:04Z",
+   "duration_min": 227,
+   "components": [
+    "AI Gateway"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T18:07:04Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T16:39:49Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-26T15:36:40Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-26T14:19:51Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating elevated errors affecting AI Gateway requests to Gemini 4 models (gemini-4-argon, gemini-4-carbon, gemini-4-hydrogen, gemini-4-neon) routed through Google Vertex AI with Unified Billing. We are working to understand the full impact and mitigate this problem. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/filussqshtfq",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:qlwszxx4667e",
    "source": "cloudflare",
@@ -43,14 +202,24 @@
    "kind": "feed",
    "title": "RealTimeKit Recording Delays",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-26T09:26:11Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-26T10:05:20Z",
+   "duration_min": 39,
    "components": [
     "RealtimeKit"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T10:05:20Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T09:43:00Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
     {
      "at": "2026-11-26T09:33:29Z",
      "status": "identified",
@@ -75,7 +244,7 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
    "severity": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-26T07:58:11Z",
    "resolved_at": null,
    "duration_min": null,
@@ -83,6 +252,21 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T17:41:25Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T15:20:10Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T11:14:16Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Bouygues Telecom network subscribers in France. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T09:05:45Z",
      "status": "identified",
@@ -110,16 +294,41 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Voice Call Post Dial Delay and Failures between a Subset of Twilio South Africa Phone Numbers and Network Subscribers in South Africa",
+   "title": "Voice Call Post Dial Delay and Failures Between a Subset of Twilio South Africa Phone Numbers and Network Subscribers",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-26T07:41:32Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-26T18:38:01Z",
+   "duration_min": 656,
    "components": [
     "Voice, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T18:38:01Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and voice calls between a subset of Twilio South Africa Phone Numbers and network subscribers to and from Twilio South Africa Phone Numbers are operating normally."
+    },
+    {
+     "at": "2026-11-26T15:11:40Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T13:05:40Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T13:05:22Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing voice call post dial delay and voice call failures between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T10:52:31Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing voice call post dial delay and call failures between a subset of Twilio South Africa Phone Numbers and network subscribers in South Africa. Our team is actively investigating this issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T08:42:18Z",
      "status": "investigating",
@@ -431,12 +640,17 @@
    "kind": "feed",
    "title": "Elevated errors with Codex GitHub reviews and pull request merges",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-25T16:27:02Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-26T14:07:54Z",
+   "duration_min": 1300,
    "components": [],
    "updates": [
+    {
+     "at": "2026-11-26T14:07:54Z",
+     "status": "resolved",
+     "body": "The GitHub service disruption has been resolved. Codex automated GitHub pull request reviews and merges are operating normally"
+    },
     {
      "at": "2026-11-25T16:58:51Z",
      "status": "monitoring",
@@ -924,6 +1138,11 @@
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T12:54:24Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T04:53:41Z",
      "status": "identified",
@@ -2368,6 +2587,16 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T13:45:34Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T09:45:13Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T07:44:50Z",
      "status": "identified",

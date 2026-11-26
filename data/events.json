@@ -1,7 +1,56 @@
 {
- "generated_at": "2026-11-26T09:38:30Z",
- "count": 289,
+ "generated_at": "2026-11-26T19:41:22Z",
+ "count": 290,
  "events": [
+  {
+   "key": "cloudflare:xiqj67vl5pqm",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare Dashboard and Cloudflare API service issues",
+   "severity": "major",
+   "status": "resolved",
+   "started_at": "2026-11-26T16:03:50Z",
+   "resolved_at": "2026-11-26T18:17:04Z",
+   "duration_min": 133,
+   "components": [
+    "Dashboard",
+    "API"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-26T18:17:04Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-26T16:39:33Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-26T16:03:50Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating issues with Cloudflare Dashboard and related APIs. These issues do not affect the serving of cached files via the Cloudflare CDN or other security features at the Cloudflare Edge. Customers using the Dashboard / Cloudflare APIs are impacted as requests might fail and/or errors may be displayed."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/xiqj67vl5pqm",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": "Cloudflare",
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-26",
+   "last_reported": "2026-11-26",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "github:qn8mfv6q5hlx",
    "source": "github",

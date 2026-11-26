@@ -1,8 +1,8 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 81,
- "per_week_avg": 6.3,
+ "total": 82,
+ "per_week_avg": 6.38,
  "by_service": [
   [
    "GitHub",
@@ -29,6 +29,10 @@
    5
   ],
   [
+   "Cloudflare",
+   3
+  ],
+  [
    "Dropbox",
    3
   ],
@@ -39,10 +43,6 @@
   [
    "Squarespace",
    3
-  ],
-  [
-   "Cloudflare",
-   2
   ],
   [
    "npm",
@@ -96,7 +96,7 @@
   ],
   [
    "cdn-network",
-   2
+   3
   ],
   [
    "bank",
@@ -162,13 +162,13 @@
   ],
   [
    "2026-W48",
-   5
+   6
   ]
  ],
  "by_cause": [
   [
    "unknown",
-   43
+   44
   ],
   [
    "software-change",
@@ -191,7 +191,7 @@
    2
   ]
  ],
- "cause_known_pct": 46.9,
+ "cause_known_pct": 46.3,
  "by_weekday": [
   [
    "Wed",
@@ -211,7 +211,7 @@
   ],
   [
    "Thu",
-   10
+   11
   ],
   [
    "Sat",
@@ -223,9 +223,9 @@
   ]
  ],
  "median_duration_min": {
+  "Cloudflare": 133,
   "GitHub": 67,
   "Vercel": 81,
-  "Cloudflare": 1247,
   "Shopify": 53,
   "Dropbox": 59,
   "Box": 74,
