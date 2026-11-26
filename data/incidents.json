@@ -1,7 +1,47 @@
 {
- "generated_at": "2026-11-25T20:40:46Z",
- "count": 1054,
+ "generated_at": "2026-11-26T00:29:27Z",
+ "count": 1055,
  "incidents": [
+  {
+   "key": "github:m0wvf9pt3l0l",
+   "source": "github",
+   "service": "GitHub",
+   "category": "developer",
+   "kind": "feed",
+   "title": "LFS degradation for some customers",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-25T23:06:54Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-26T00:28:37Z",
+     "status": "investigating",
+     "body": "We've applied a mitigation to fix the issues in Git LFS. We are seeing improvements in telemetry and are monitoring for full recovery."
+    },
+    {
+     "at": "2026-11-25T23:45:35Z",
+     "status": "investigating",
+     "body": "We're continuing to investigate elevated error rates affecting a small number of customers using Git LFS. We are still assessing mitigation options and will share updates as we learn more."
+    },
+    {
+     "at": "2026-11-25T23:10:38Z",
+     "status": "investigating",
+     "body": "We have identified an issue that impacts Large File Storage (LFS) for a small number of customers. We are working on mitigation."
+    },
+    {
+     "at": "2026-11-25T23:06:54Z",
+     "status": "investigating",
+     "body": "We are investigating reports of impacted performance for some GitHub services."
+    }
+   ],
+   "url": "https://stspg.io/ywpzwl4yl621",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:ef6928vi0mic",
    "source": "cloudflare",
@@ -10,16 +50,31 @@
    "kind": "feed",
    "title": "Elevated R2 Latency",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-25T20:08:42Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-26T00:11:05Z",
+   "duration_min": 242,
    "components": [
     "Stream",
     "Pipelines",
     "R2"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T00:11:05Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-25T21:00:59Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-25T20:45:48Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
     {
      "at": "2026-11-25T20:08:42Z",
      "status": "investigating",
@@ -307,14 +362,19 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Multiple Networks in Italy",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-25T14:49:12Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-25T21:34:00Z",
+   "duration_min": 404,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T21:34:00Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to network subscribers on affected networks in Italy is operating normally."
+    },
     {
      "at": "2026-11-25T19:39:34Z",
      "status": "monitoring",
@@ -441,14 +501,19 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-25T10:13:57Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-25T23:00:12Z",
+   "duration_min": 766,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T23:00:12Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Bouygues Telecom network subscribers in France is operating normally."
+    },
     {
      "at": "2026-11-25T19:41:51Z",
      "status": "monitoring",
@@ -583,7 +648,7 @@
    "kind": "feed",
    "title": "SMS Delivery Failures from Twilio to Econet Telecom Lesotho",
    "severity": "minor",
-   "status": "investigating",
+   "status": "identified",
    "started_at": "2026-11-25T06:31:58Z",
    "resolved_at": null,
    "duration_min": null,
@@ -591,6 +656,16 @@
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T22:44:52Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-25T21:44:29Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery failures from Twilio to Econet Telecom network subscribers in Lesotho. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-25T13:43:13Z",
      "status": "investigating",
@@ -3448,7 +3523,7 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Voice Call Silent and One-Way Audio From Colombia to a Subset of Twilio Phone Numbers",
+   "title": "Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Phone Numbers",
    "severity": "minor",
    "status": "identified",
    "started_at": "2026-11-18T15:56:21Z",
@@ -3458,6 +3533,11 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-25T21:32:22Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing silent and one-way audio for voice calls from network subscribers in Colombia to a subset of Twilio Phone Numbers. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 24 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-24T21:31:48Z",
      "status": "identified",
