@@ -1,5 +1,5 @@
 {
- "dropped_count": 54,
+ "dropped_count": 55,
  "dropped": [
   {
    "published": "2026-11-24",
@@ -7,6 +7,13 @@
    "outlet": "DailyVoice.com",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzNNa0hCQjltYVdsWk5yUmNVeE5PRklUZ2NfZWJJR2d3c2ZXTEYtSTlhZEx5VndjSEtvcXdOcXl2Q0luNlZ4ZEprQ2pFSUNnQ2lQQldpN1dxbVkzMDhOVWJZUlpzSy1vMmV6ZVU1U1VlTzRHRzMxVGhjOUJHX0NFSE56MEdGc0VaT1JNNEZxYm5zcmNFQWFScjRKR2F2M2o3VUdRVHpKYzljNnF6cnlTYVdR?oc=5",
    "matched": "What To Know"
+  },
+  {
+   "published": "2026-11-24",
+   "title": "Mullin Pressed In Congress Over FAA Ground Stop And Tech Outages",
+   "outlet": "https://www.thetraveler.org/",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNDFRQ1kzS2lOOWtsQXZNZ1FHM2lYTlV3ejFyM2lYTzRPcUtVbDVXZWMyVHlxZGZveVAtLXUwYXBTN1VKT25oOEpPVzljYkFYc0ZUNkhiUjg5UkxDOUNaZDJhdmp1Mloya3lIQ0dsR0huWEZLaXVLWmhHMHlQZERrYlE2aXJuTHhqOU51bmVaRTJwb2VQOXk4Mw?oc=5",
+   "matched": "Mullin"
   },
   {
    "published": "2026-11-23",

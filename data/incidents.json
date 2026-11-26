@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:41:21Z",
+ "generated_at": "2026-11-26T20:33:00Z",
  "count": 1066,
  "incidents": [
   {
@@ -252,6 +252,11 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T19:47:12Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T17:41:25Z",
      "status": "monitoring",

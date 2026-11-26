@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:41:22Z",
+ "generated_at": "2026-11-26T20:33:04Z",
  "count": 290,
  "events": [
   {
@@ -334,12 +334,12 @@
    "key": "news:FAA:2026-11-24",
    "brand": "FAA",
    "category": "transport",
-   "title": "FAA lifts restrictions on flights to Chicago after ground system outage \u2014 AeroTime",
+   "title": "'I'm going to drive': FAA outage and high fares reshape Thanksgiving travel plans",
    "first_reported": "2026-11-24",
-   "last_reported": "2026-11-25",
-   "articles": 6,
+   "last_reported": "2026-11-26",
+   "articles": 8,
    "evidence_pages": 0,
-   "outlets": 6,
+   "outlets": 7,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -434,6 +434,41 @@
    "life_impact": "daily"
   },
   {
+   "key": "news:Delta:2026-11-22",
+   "brand": "Delta",
+   "category": "transport",
+   "title": "Delta outage has limited impact at Nashville airport ahead of Thanksgiving",
+   "first_reported": "2026-11-22",
+   "last_reported": "2026-11-26",
+   "articles": 104,
+   "evidence_pages": 0,
+   "outlets": 89,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": true,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaF92d3VOZ1NfZ01qMTV3b0tMeVp5dnlhVkY1cVNaTGNIT0c1LU81N2dabDEtelBmUmRKOXBCcHJzalBCWU9vS0dvbFhKVWFybi0tcjRmdTM0UlJqZzlXc2RDRmU0UlFrSThxM1N1LUtWWnhva0xLLUtHU25XcWlwODVSWnRBaVQ2ejZhdVNDQUlsQUg4SEo0?oc=5",
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU3p4aFNQcUtvdTRtUk9ydGNpUzQxTVJCbGl4cVFmVVJyUE1VVGVlbXNNOXVydkJlakowSGhncHZqZTAwS2ZiRUpxMlB4QjBxbWhWTHk4WlR5ZElpWW1OWVV0akRSMG1YVkt0ZkVFZmttdFVNb2RwbmdqQ3l6cXV1TTVSYlhsUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWVjWEwyYUlvMVowUUtnLWt5Q3NlUkg4V2FPc21BZXNST1hZSTlaSzRNVmNLcGtIUFB5Z3djM1U2aUVXdlJUYlplYk5xWkFKc0loYnJOM0JtanpUVHZSS3EwMndCUzFSR1ZKYWYzdFFEWng2RzFGZk01MmJoZ0JwUUJpMF94VmhjeDVaMlczNXR6QlJ6amcyYXV3?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNjcHozY1hpYnNhcncxaW5aOG5mQmJudWFZc3BXU21jT1Utd05aNndQZGhDUWlLTC1rVUxVNmdhZHlnT2hkLTM2ZjdmbURHeFBQVWM2X1BlUnpQekMxc0RHN3NaS29uNmFMM3I1MmFENVlhZ3JwS3p2M3NRaEpaUkFIZ3dCMFFkX3Q3Nl9vbHIzS295Tmg4Sld5RjAwMVE3SW8tYkJQSzRfUXlISUU3ZkZaZmF4T29Rd3JrV2ZB?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSG1SbDYxUi1nQkJCcnQ5MFJmU29DTGxlRFNJSjhMSlRJS2VVcVFwZVd6eHNKWDFtSkdKX3Zpc0FvUmdQbGw0cmhEOXExd3ZCVTRzQVl3bWJIamtQcjhTU1prOVMtaXIybGlzTHpZd0lQSnh2cHhEcEdqRVYyUHJXbEViZUNnYTJoLUtBdXFwRG00NUZGdV9KX2lDWGJ2Q3VxcUNrOWN5Z2ViZExxc2pLSi01Y3ZnS1NEZkRyb2Fpa3hGcnJuX2FnYmJPME5JMlRCYnlQRzRSNi1NcHduLXdZ?oc=5"
+   ],
+   "service": "Delta",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-22T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "daily"
+  },
+  {
    "key": "news:United Airlines:2026-11-22",
    "brand": "United Airlines",
    "category": "transport",
@@ -467,48 +502,13 @@
    "life_impact": "daily"
   },
   {
-   "key": "news:Delta:2026-11-22",
-   "brand": "Delta",
-   "category": "transport",
-   "title": "Delta baggage system outage adds to delays as Thanksgiving travel ramps up",
-   "first_reported": "2026-11-22",
-   "last_reported": "2026-11-24",
-   "articles": 95,
-   "evidence_pages": 0,
-   "outlets": 86,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "other_industry": true,
-   "ai_link": "none",
-   "ai_evidence": null,
-   "urls": [
-    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaF92d3VOZ1NfZ01qMTV3b0tMeVp5dnlhVkY1cVNaTGNIT0c1LU81N2dabDEtelBmUmRKOXBCcHJzalBCWU9vS0dvbFhKVWFybi0tcjRmdTM0UlJqZzlXc2RDRmU0UlFrSThxM1N1LUtWWnhva0xLLUtHU25XcWlwODVSWnRBaVQ2ejZhdVNDQUlsQUg4SEo0?oc=5",
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU3p4aFNQcUtvdTRtUk9ydGNpUzQxTVJCbGl4cVFmVVJyUE1VVGVlbXNNOXVydkJlakowSGhncHZqZTAwS2ZiRUpxMlB4QjBxbWhWTHk4WlR5ZElpWW1OWVV0akRSMG1YVkt0ZkVFZmttdFVNb2RwbmdqQ3l6cXV1TTVSYlhsUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWWVjWEwyYUlvMVowUUtnLWt5Q3NlUkg4V2FPc21BZXNST1hZSTlaSzRNVmNLcGtIUFB5Z3djM1U2aUVXdlJUYlplYk5xWkFKc0loYnJOM0JtanpUVHZSS3EwMndCUzFSR1ZKYWYzdFFEWng2RzFGZk01MmJoZ0JwUUJpMF94VmhjeDVaMlczNXR6QlJ6amcyYXV3?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZlNjcHozY1hpYnNhcncxaW5aOG5mQmJudWFZc3BXU21jT1Utd05aNndQZGhDUWlLTC1rVUxVNmdhZHlnT2hkLTM2ZjdmbURHeFBQVWM2X1BlUnpQekMxc0RHN3NaS29uNmFMM3I1MmFENVlhZ3JwS3p2M3NRaEpaUkFIZ3dCMFFkX3Q3Nl9vbHIzS295Tmg4Sld5RjAwMVE3SW8tYkJQSzRfUXlISUU3ZkZaZmF4T29Rd3JrV2ZB?oc=5",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSG1SbDYxUi1nQkJCcnQ5MFJmU29DTGxlRFNJSjhMSlRJS2VVcVFwZVd6eHNKWDFtSkdKX3Zpc0FvUmdQbGw0cmhEOXExd3ZCVTRzQVl3bWJIamtQcjhTU1prOVMtaXIybGlzTHpZd0lQSnh2cHhEcEdqRVYyUHJXbEViZUNnYTJoLUtBdXFwRG00NUZGdV9KX2lDWGJ2Q3VxcUNrOWN5Z2ViZExxc2pLSi01Y3ZnS1NEZkRyb2Fpa3hGcnJuX2FnYmJPME5JMlRCYnlQRzRSNi1NcHduLXdZ?oc=5"
-   ],
-   "service": "Delta",
-   "kind": "news",
-   "severity": "reported",
-   "sources": [
-    "news"
-   ],
-   "started_at": "2026-11-22T00:00:00Z",
-   "resolved_at": null,
-   "time_precision": "day",
-   "ai_service_affected": false,
-   "life_impact": "daily"
-  },
-  {
    "key": "news:AWS:2026-11-21",
    "brand": "AWS",
    "category": "cloud",
-   "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+   "title": "AWS us-east-1 region experienced unnoticed outage",
    "first_reported": "2026-11-21",
    "last_reported": "2026-11-22",
-   "articles": 4,
+   "articles": 5,
    "evidence_pages": 0,
    "outlets": 4,
    "cause": "unknown",
@@ -521,6 +521,7 @@
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2t1WFliYTRldnUxeWZnd2I2a1JVd0llSlVWVWZRbGZqZ3dwM2Y3OUxNb1dvd01BYkNIVjBlblYxVXNwanZCNWJYRkh2c3RGTnlrNlJhUFZRQ0pkMkcwYUpXbHdfdEgxc1VHWllSUHV3VVAtYl9zdmpkSjFld3FaOEhiS0FJdHRGVlpqcnROZGNoVmM2OFZfYXRSY2VyNGJ5dndKMUhB?oc=5",
     "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3VGMzR05LMGZqQ1pmVjkyMFk5ZkpTQlNaMGJ4OTBmMDZnak1xVi00Q1hwc3YxWmdXZExzclljbGppMHA1Mm1kVEpNSW1XOERaYzM3cUZwUTRnaHcwZHQzOC1raFBFOEVzOUlVMjNRREc5STBod3M0?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXlBSFZUSWo1TVBlTTlRaTBPUFhGVU42RWJpY0YySlhpSG44emVVZTc1QnR1Z3oxVzN0NE5RSkJsUjdMNTFDaXBKQzUxRFJkNmU4bUUwSUJNTjdJOVh2cG9QLS1qQ2s2UzgwN25ldjZpYzQ5cXl1ZmUwMkNtTmxnR01INk1oZExFWlEzVHNUaVdhTDdZTXBSSTEwS0lpdklEWmFWYTZzcUVrNDZ0b0VxWC1McUV2UUhxOXN4OQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmY0NUdUQU1CUTY3dFk5Q0VJOUxzVW9GQ3NfOWdHWGJtR3JJc1VVaUtpQjBvQ0VDYVgyOENHMFZ0cWFYTFFlV0oySUtQa19sS0FmMnpmbW1YOWJibUFMMkhHQzNUTTR5ZC1jUGgtRHdQRl9Rd1dlSVRhNWtTUm5XOWwwclk4WGtGaXgxTmF0ZEYzR3dqOGRRdEJtTTRRenI4TkdyLVcwV1ZHOGhSRE82b1dyWFBac1VBekdqM3Z1WVdsQkJzcnpzcGFETDZLUXNP0gHWAUFVX3lxTFBJRzZGSGZ0RnZyVWpUdC03UnFnMHk0SkJ0dTJBLTBCbDJhUTRBa1hQRUdqcTFhbkJKQjNON0xCczR1X1ZGVFpSQXZGS0N2Wm9FeUZXOWlTZjBBbmhLejdNem4xYmlvcF9UR1dXS00wcEgzWDdjZmw4b25hdU1Idk41MjR6alFKc29NeFQ3U25SdkZDeHlibmYzZzVYR0hkbDdiYk44VnZTR2F4YjR3SlFOVEQ4dzRLOVZZYjNtdEtBUlc1LXdHbERfWHQzbVhzanRkZUk5Z1E?oc=5",
     "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSmY0NUdUQU1CUTY3dFk5Q0VJOUxzVW9GQ3NfOWdHWGJtR3JJc1VVaUtpQjBvQ0VDYVgyOENHMFZ0cWFYTFFlV0oySUtQa19sS0FmMnpmbW1YOWJibUFMMkhHQzNUTTR5ZC1jUGgtRHdQRl9Rd1dlSVRhNWtTUm5XOWwwclk4WGtGaXgxTmF0ZEYzR3dqOGRRdEJtTTRRenI4TkdyLVcwV1ZHOGhSRE82b1dyWFBac1VBekdqM3Z1WVdsQkJzcnpzcGFETDZLUXNP0gHUAUFVX3lxTFAtVFNSSWhENXZlMHp4bzRLSmN5dEduOC1pU0swS0FOb25iazBYT0RwSDNSTmZCUVE4MHZCVW9MU2g3M2syM2l5NnpWV25DWU0yRC10R0ppa2tXd2xuOUktS1JMaTAwLVpRY1JaVHI3NUIwN0JUc24xa3QzOHhwZlJsZXlJYU9Tb0d6YlZBV2NVazFHWmxVNHdkLTdRV0otaFlUZkFNTGIyQWFKUWJpRHpjbUIzVW9wUU1YRDRvVDFDVVVrekhKS1U4THo3OGhOX3ZLTUtm?oc=5"
    ],
    "service": "AWS",
@@ -823,6 +824,39 @@
    "life_impact": "work"
   },
   {
+   "key": "news:Cloudflare:2026-11-17",
+   "brand": "Cloudflare",
+   "category": "cdn-network",
+   "title": "Cloudflare CEO on what's behind recent tech outages",
+   "first_reported": "2026-11-17",
+   "last_reported": "2026-11-18",
+   "articles": 3,
+   "evidence_pages": 0,
+   "outlets": 3,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "none",
+   "ai_evidence": null,
+   "urls": [
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PM3BrcS0tSUMySzhlN3ZQWVROT0VDWWhNRE1DNjAzZjlNaDZKbzhOSmh1UFVZdG56TFRSVFpYV3RsQkR5T2U3RFE2ekwwLXhsTFN5MUc3WUl3VHVsc05udl9mMnM?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFJKekUyRTBfNVQ1eVhseFZKTC1YR0tCQVRsMzN6ZnZkRWh5bUV4bGNDUmwxWlpEcVRBU1dkLXFTU0NtcXFmSm54c2YxTzZZZFNxWnNacFpRWTBQWGhvNF9kR1UtdWNqXy1XWXExTHlYNGo2YUF5Z0h1U2p6eFVodDlSLTlPS0hBSjNR?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzNVNnhEeXhzQmZYRWF5WVRBYUZKMXZJUTIyZGdWNnkyQkFpSVp3ck1IdzNkS3pkNUtBZHFwRTNSVnhwdV8zejVEYUlyTlJhVEVlRS1RSWlORmJ5TklYcUtyV1RGN0Rxbm81WHBLeHFNSUVKcWNiN3VQUEp6bzFuQl9aVHFzdmZ1?oc=5"
+   ],
+   "service": "Cloudflare",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-11-17T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
    "key": "news:Apple:2026-11-17",
    "brand": "Apple",
    "category": "consumer-app",
@@ -891,39 +925,6 @@
    "life_impact": "work"
   },
   {
-   "key": "news:Cloudflare:2026-11-17",
-   "brand": "Cloudflare",
-   "category": "cdn-network",
-   "title": "Cloudflare CEO on what's behind recent tech outages",
-   "first_reported": "2026-11-17",
-   "last_reported": "2026-11-18",
-   "articles": 3,
-   "evidence_pages": 0,
-   "outlets": 3,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "other_industry": false,
-   "ai_link": "none",
-   "ai_evidence": null,
-   "urls": [
-    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PM3BrcS0tSUMySzhlN3ZQWVROT0VDWWhNRE1DNjAzZjlNaDZKbzhOSmh1UFVZdG56TFRSVFpYV3RsQkR5T2U3RFE2ekwwLXhsTFN5MUc3WUl3VHVsc05udl9mMnM?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFJKekUyRTBfNVQ1eVhseFZKTC1YR0tCQVRsMzN6ZnZkRWh5bUV4bGNDUmwxWlpEcVRBU1dkLXFTU0NtcXFmSm54c2YxTzZZZFNxWnNacFpRWTBQWGhvNF9kR1UtdWNqXy1XWXExTHlYNGo2YUF5Z0h1U2p6eFVodDlSLTlPS0hBSjNR?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSzNVNnhEeXhzQmZYRWF5WVRBYUZKMXZJUTIyZGdWNnkyQkFpSVp3ck1IdzNkS3pkNUtBZHFwRTNSVnhwdV8zejVEYUlyTlJhVEVlRS1RSWlORmJ5TklYcUtyV1RGN0Rxbm81WHBLeHFNSUVKcWNiN3VQUEp6bzFuQl9aVHFzdmZ1?oc=5"
-   ],
-   "service": "Cloudflare",
-   "kind": "news",
-   "severity": "reported",
-   "sources": [
-    "news"
-   ],
-   "started_at": "2026-11-17T00:00:00Z",
-   "resolved_at": null,
-   "time_precision": "day",
-   "ai_service_affected": false,
-   "life_impact": "work"
-  },
-  {
    "key": "manual:2026-11-16-us-banks",
    "service": "Chase / Wells Fargo / Bank of America",
    "category": "bank",
@@ -945,7 +946,7 @@
     "manual",
     "news"
    ],
-   "articles": 45,
+   "articles": 46,
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-16",
    "other_industry": true,
@@ -1018,9 +1019,9 @@
    "title": "United Airlines says system outage affecting departing flights is resolved",
    "first_reported": "2026-11-16",
    "last_reported": "2026-11-20",
-   "articles": 118,
+   "articles": 119,
    "evidence_pages": 0,
-   "outlets": 108,
+   "outlets": 109,
    "cause": "unknown",
    "cause_basis": null,
    "cause_evidence": null,
@@ -1248,7 +1249,7 @@
     "manual",
     "news"
    ],
-   "articles": 376,
+   "articles": 394,
    "first_reported": "2026-11-12",
    "last_reported": "2026-11-14",
    "other_industry": true,
@@ -10044,41 +10045,6 @@
    "life_impact": "work"
   },
   {
-   "key": "news:AWS:2026-02-20",
-   "brand": "AWS",
-   "category": "cloud",
-   "title": "Amazon pushes back on Financial Times report blaming AI coding tools for AWS outages",
-   "first_reported": "2026-02-20",
-   "last_reported": "2026-02-21",
-   "articles": 7,
-   "evidence_pages": 0,
-   "outlets": 7,
-   "cause": "unknown",
-   "cause_basis": null,
-   "cause_evidence": null,
-   "other_industry": false,
-   "ai_link": "cited-cause",
-   "ai_evidence": "13-hour AWS outage reportedly caused by Amazon's own AI tools",
-   "urls": [
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkJYQ1lPMk1zR2x4c2Q1SktqRVA5Yl9DeHNjUjRuNlkweE9WcXlEdUpwU29tTmZHVlBjdndJSS1fQlViT3Uwak00TDRidTNPTjNIUFdKOGtiZEEwVDlULWVsNERJUWkwUENScDBfMzNfZUZUdU44MFZSM2YwcHkzWjNiNXlpZFZtXzZFQkpBYm9EdnhZSGJCbTFUZTkxaXZDc2RNOERWeDZLOF9jQ2FOVlJVUUJvdw?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0ozNU5jeTVGUWQzNk1wd3E1MEE5UUhkeFg2R091bGJ3WnBWZkg5QjVROFdxX3BMZUxyWEtRbmlVY3dpUGpXS0I3VUZqaWtyRlFKWEF4UXpRS094TmxQVHhPcDBMSUdtY3pOc0F4cVEybG1WaEdSdUJXYlVndTJSd1BQMGplbDVlRWxSXzBweXh0dm5EcVE1QU1QRFhtT2EtOXlGektXUmM2SjMyaWxXZVA4Y3UzRnVPZkdhVHdJeFZySFM2a1JucXNwbkNfU3M?oc=5",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWd5VEQxRExwcUFzUk5aeEJ5WjlFa25QWXVvUDEtdVNmUnlsRUNCUjlVTHE3cHZnY1RuUTRPYkZmUk5JcURGVGM0MzZvdmZFQkxvclNmVW9yQnA3bWYyZG9jdURrbUlPQUllb1VfVE5BOWR3ZWdmdXFLRnJjY3lmR1VPZmYyTWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFlmRm9Cc1gwQ3pVajRFUEpLQ3NfandsMnpZMWVIMGdnR251N1ZsSVNkeThKNlNFNEUwdjF1VTY2SFowYUNKU0xGMWFLUFNXOU1ydXpMUnpQU2x4dUZMLW9LdmI4NmVOSG43dk1hUEIzVkk3SDdJUThNRVpMSkEwelJZMWQ3dlJzWWRrbkd1VzRLeEpWYnBoMmZ2SFhEd00zTjUw?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjJpc3N5VEZMVndHMmhwbktOWW40ZWtpV056T0pBdDJUSHFUZmM5UWFmYndRWGVEY196R2tBSGVSRE5mZ3hkMDRGUEV2R2xPdDNuV0tPMkRNeWU5WlV2VWlERFR6MDJjUUoyVlVUQkdRaHNkbVVGelFOdVlxXzRVWGdTNnU3WlpMcmRYdW9wU1dwa1dFMjNTb3Y4b3lWQQ?oc=5"
-   ],
-   "service": "AWS",
-   "kind": "news",
-   "severity": "reported",
-   "sources": [
-    "news"
-   ],
-   "started_at": "2026-02-20T00:00:00Z",
-   "resolved_at": null,
-   "time_precision": "day",
-   "ai_service_affected": false,
-   "life_impact": "work"
-  },
-  {
    "key": "news:Cloudflare:2026-02-20",
    "brand": "Cloudflare",
    "category": "cdn-network",
@@ -10102,6 +10068,41 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc0w4MTNnaXZ1WjZ1bGVJZjFnQzI2TV9hVEdGb3o3V3VJUnMtdTY4WUxRMHFwYUkyWUFuM29WUmh1OWYwTjJGSWlxWnZlQUpmbDNQTHJwbU1IMUVjVHpWSWJrckJRNy13bFJDVC0xeDdZZ1FPOFl1cmt3T0NOT0p6RWJGQVQxYTNHcGJIdm4tRW54aWZwRjFXNWk4YVdxN2w4ZlJvLURvQzlORVNvMVhWeNIBtgFBVV95cUxPckR1Z2w1SG9ySHJ2OC1WX1o1YzhEb29sRUVQa1JCVk04OXE0MkduaFRzcXhfdUMyQnJaWkY3WXFQaTB1Y2hiMlhiVlladG9SMEgxRnlqeU9jZlRiS3BzN0NjekFuUldrQkdyNjZjcUJ0d2ljWDNkdDZ5ZHUzRFpGNVlVdmVRWGJVamstUEJlWnRPaXRIYTJEcDZVWmx5ZGxyLXNWWGRvWWtFZEZhRmlVbG8wcHRuUQ?oc=5"
    ],
    "service": "Cloudflare",
+   "kind": "news",
+   "severity": "reported",
+   "sources": [
+    "news"
+   ],
+   "started_at": "2026-02-20T00:00:00Z",
+   "resolved_at": null,
+   "time_precision": "day",
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
+  {
+   "key": "news:AWS:2026-02-20",
+   "brand": "AWS",
+   "category": "cloud",
+   "title": "Amazon pushes back on Financial Times report blaming AI coding tools for AWS outages",
+   "first_reported": "2026-02-20",
+   "last_reported": "2026-02-21",
+   "articles": 7,
+   "evidence_pages": 0,
+   "outlets": 7,
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "other_industry": false,
+   "ai_link": "cited-cause",
+   "ai_evidence": "13-hour AWS outage reportedly caused by Amazon's own AI tools",
+   "urls": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTkJYQ1lPMk1zR2x4c2Q1SktqRVA5Yl9DeHNjUjRuNlkweE9WcXlEdUpwU29tTmZHVlBjdndJSS1fQlViT3Uwak00TDRidTNPTjNIUFdKOGtiZEEwVDlULWVsNERJUWkwUENScDBfMzNfZUZUdU44MFZSM2YwcHkzWjNiNXlpZFZtXzZFQkpBYm9EdnhZSGJCbTFUZTkxaXZDc2RNOERWeDZLOF9jQ2FOVlJVUUJvdw?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0ozNU5jeTVGUWQzNk1wd3E1MEE5UUhkeFg2R091bGJ3WnBWZkg5QjVROFdxX3BMZUxyWEtRbmlVY3dpUGpXS0I3VUZqaWtyRlFKWEF4UXpRS094TmxQVHhPcDBMSUdtY3pOc0F4cVEybG1WaEdSdUJXYlVndTJSd1BQMGplbDVlRWxSXzBweXh0dm5EcVE1QU1QRFhtT2EtOXlGektXUmM2SjMyaWxXZVA4Y3UzRnVPZkdhVHdJeFZySFM2a1JucXNwbkNfU3M?oc=5",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNWd5VEQxRExwcUFzUk5aeEJ5WjlFa25QWXVvUDEtdVNmUnlsRUNCUjlVTHE3cHZnY1RuUTRPYkZmUk5JcURGVGM0MzZvdmZFQkxvclNmVW9yQnA3bWYyZG9jdURrbUlPQUllb1VfVE5BOWR3ZWdmdXFLRnJjY3lmR1VPZmYyTWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUFlmRm9Cc1gwQ3pVajRFUEpLQ3NfandsMnpZMWVIMGdnR251N1ZsSVNkeThKNlNFNEUwdjF1VTY2SFowYUNKU0xGMWFLUFNXOU1ydXpMUnpQU2x4dUZMLW9LdmI4NmVOSG43dk1hUEIzVkk3SDdJUThNRVpMSkEwelJZMWQ3dlJzWWRrbkd1VzRLeEpWYnBoMmZ2SFhEd00zTjUw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjJpc3N5VEZMVndHMmhwbktOWW40ZWtpV056T0pBdDJUSHFUZmM5UWFmYndRWGVEY196R2tBSGVSRE5mZ3hkMDRGUEV2R2xPdDNuV0tPMkRNeWU5WlV2VWlERFR6MDJjUUoyVlVUQkdRaHNkbVVGelFOdVlxXzRVWGdTNnU3WlpMcmRYdW9wU1dwa1dFMjNTb3Y4b3lWQQ?oc=5"
+   ],
+   "service": "AWS",
    "kind": "news",
    "severity": "reported",
    "sources": [
