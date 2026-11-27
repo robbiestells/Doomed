@@ -1,6 +1,12 @@
 {
- "count": 45,
+ "count": 46,
  "events": [
+  {
+   "key": "anthropic:0x1yvzkfmmxj",
+   "service": "Anthropic",
+   "title": "Degraded performance for Claude Fable 5.2",
+   "first_reported": "2026-11-27"
+  },
   {
    "key": "anthropic:fbvlx4wx4zx5",
    "service": "Anthropic",
