@@ -1,7 +1,109 @@
 {
- "generated_at": "2026-11-26T20:33:00Z",
- "count": 1066,
+ "generated_at": "2026-11-27T02:54:58Z",
+ "count": 1069,
  "incidents": [
+  {
+   "key": "twilio:kv5wqlt4n24z",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T02:20:41Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "MMS Long Code, North America",
+    "MMS Long Code, North America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T02:20:41Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing MMS delivery delays from a subset of Twilio Long Codes to GCI network subscribers in the United States. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/7hkn8yf0vc8x",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:9f6xy0pvfy9r",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from Twilio to OneNZ / Vodafone New Zealand",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T01:15:26Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, APAC"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T02:16:50Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to OneNZ / Vodafone network subscribers in New Zealand. Our team is actively investigating this issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T01:15:26Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to OneNZ / Vodafone network subscribers in New Zealand. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/bk5cbp5q1s8j",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:ksgz9lqsdqmp",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Delays from a Subset of Twilio Alphanumeric and Long Codes to AT&T Mexico",
+   "severity": "minor",
+   "status": "monitoring",
+   "started_at": "2026-11-26T22:16:45Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS, Latin America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T01:21:57Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from a subset of Twilio Alphanumeric Sender ID and Long Codes to AT&T network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T23:25:44Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Alphanumeric and Long Codes to AT&T network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T22:25:20Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Alphanumeric and Long Codes to AT&T network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T22:16:45Z",
+     "status": "investigating",
+     "body": "Twilio customers may be experiencing SMS delivery delays from a subset of Twilio Alphanumeric Sender IDs and Long Codes to AT&T network subscribers in Mexico. Our team is actively investigating this issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/x6c34mr50tbd",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "cloudflare:xiqj67vl5pqm",
    "source": "cloudflare",
@@ -252,6 +354,11 @@
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T23:47:59Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Bouygues Telecom network subscribers in France and are monitoring service stability. We will provide another update in 8 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T19:47:12Z",
      "status": "monitoring",
@@ -2109,16 +2216,26 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "SIP Domain Emergency Caller ID Configuration Issues",
+   "title": "Emergency Calling Configuration Issues for SIP Domains",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-23T16:28:12Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-26T20:35:02Z",
+   "duration_min": 4566,
    "components": [
     "Console"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T20:35:02Z",
+     "status": "resolved",
+     "body": "We have monitored and resolved the issue with SIP Domain emergency calling configuration in Console. All services are now operating normally at this time."
+    },
+    {
+     "at": "2026-11-26T20:34:28Z",
+     "status": "monitoring",
+     "body": "Our engineers have resolved the issue. Newly configured phone numbers with emergency calling enabled are now appearing in the Emergency Caller ID dropdown for SIP Domains."
+    },
     {
      "at": "2026-11-23T17:38:23Z",
      "status": "identified",
@@ -2138,7 +2255,7 @@
    "url": "https://stspg.io/cvjkwmkmx7d3",
    "cause": "config-change",
    "cause_basis": "provider",
-   "cause_evidence": "...ains. This affects numbers with emergency calling configuration enabled more recently, while previously configure..."
+   "cause_evidence": "...olved the issue with SIP Domain emergency calling configuration in Console. All services are now operating normal..."
   },
   {
    "key": "openai:01M84HKHX73RF7HTVZQ2A9GFXP",
@@ -2584,7 +2701,7 @@
    "kind": "feed",
    "title": "Gateway API (Lookup API) Failure Increase on Bell Mobility in Canada",
    "severity": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-22T03:50:54Z",
    "resolved_at": null,
    "duration_min": null,
@@ -2592,6 +2709,21 @@
     "Lookup Line Type Intelligence [Legacy API]"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T01:46:12Z",
+     "status": "monitoring",
+     "body": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T23:45:40Z",
+     "status": "monitoring",
+     "body": "We have observed the recovery for Lookup API transactions involving Bell Mobility in Canada and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T21:46:09Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing failure responses for Lookup API transactions on Bell Mobility in Canada. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 16 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-26T13:45:34Z",
      "status": "identified",
@@ -4045,9 +4177,9 @@
    "service": "Twilio",
    "category": "cloud-api",
    "kind": "feed",
-   "title": "Voice Call Silent and One-Way Audio from Colombia to a Subset of Twilio Phone Numbers",
+   "title": "Voice Call Silent and One-Way Audio Between a Subset of Twilio Phone Numbers and Multiple Networks in Colombia",
    "severity": "minor",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-18T15:56:21Z",
    "resolved_at": null,
    "duration_min": null,
@@ -4055,6 +4187,16 @@
     "Voice, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-26T23:36:04Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls between a subset of Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-26T21:35:32Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in voice calls between Twilio Phone Numbers and network subscribers on multiple networks in Colombia and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-25T21:32:22Z",
      "status": "identified",
