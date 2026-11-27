@@ -1,7 +1,316 @@
 {
- "generated_at": "2026-11-27T12:37:31Z",
- "count": 1072,
+ "generated_at": "2026-11-27T20:19:25Z",
+ "count": 1081,
  "incidents": [
+  {
+   "key": "twilio:8s075bl36dqp",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Status From Twilio Long-Codes to US/CA Carriers",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T18:30:05Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS Long Code, North America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T18:30:05Z",
+     "status": "investigating",
+     "body": "Due to sustained high traffic on the US carrier networks, we are currently experiencing SMS delivery issues from Twilio Long-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status -  Operational)\nVerizon (status -  Operational)           \nAppalachian  (status -  DLR Delays)   \n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    }
+   ],
+   "url": "https://stspg.io/3wycnywz5m3h",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...om Twilio Long-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sendi..."
+  },
+  {
+   "key": "twilio:17kswrnt7km6",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Issue Affecting Bulk Messaging and Twilio Email",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-27T18:23:24Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Mailsend: Comms API"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T20:11:40Z",
+     "status": "identified",
+     "body": "We are experiencing an issue with a subset of endpoints impacting Bulk Messaging and Twilio Email functions. Customers may see a delay in aggregate counts per status when using Operation.stats for both Message Operation and Email Operation resources.\n\nThis issue does not impact message sending.\n\nOur engineers are working to implement a solution. We will provide another update in 1 hour or as soon as new information is available."
+    },
+    {
+     "at": "2026-11-27T19:32:17Z",
+     "status": "investigating",
+     "body": "We are experiencing an issue with a subset of endpoints impacting Bulk Messaging and Twilio Email functions. Customers may see a delay in aggregate counts per status when using Operation.stats for both Message Operation and Email Operation resources.\n\nThis issue does not impact message sending.\n\nOur engineers are investigating to implement a solution. We will provide another update in 1 hour or as soon as new information is available."
+    },
+    {
+     "at": "2026-11-27T18:23:24Z",
+     "status": "investigating",
+     "body": "We are experiencing an issue with a subset of endpoints impacting Bulk Messaging and Twilio Email functions. Our engineers are investigating and we will provide another update as soon as possible."
+    }
+   ],
+   "url": "https://stspg.io/q3vwm7gqy658",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:2yzm68jqtl5q",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Status From Twilio Short-Code to US/CA Carriers",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T18:05:28Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS Short Code, North America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T20:18:13Z",
+     "status": "investigating",
+     "body": "Please find the current SMS delivery status from Twilio Short-Codes for the major carriers below:\n\nUnited States:\n\nAT&T (status - Monitoring)\nT-Mobile (status -  Operational)\nVerizon (status -  Monitoring)\nAltice (status - Monitoring)\nAppalachian status - DLR Delayed)\n\nPuerto Rico:\nLiberty Mobile (status - DLR Delayed)  \n\nWe will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T19:11:34Z",
+     "status": "investigating",
+     "body": "Please find the current SMS delivery status from Twilio Short-Codes for the major carriers below:\n\nUnited States:\n\nAT&T (status - Monitoring)\nT-Mobile (status -  Operational)\nVerizon (status -  DLR Delayed)\nAltice (status - DLR Delayed)\nAppalachian status - DLR Delayed)\n\nPuerto Rico:\nLiberty Mobile (status - DLR Delayed)  \n\nWe will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T18:18:57Z",
+     "status": "investigating",
+     "body": "Please find the current SMS delivery status from Twilio Short-Codes for the major carriers below:\n\nUnited States:\n\nAT&T (status - DLR Delayed)\nT-Mobile (status -  Operational)\nVerizon (status -  Operational)\nAltice (status - DLR Delayed)\nAppalachian status - DLR Delayed)\n\nPuerto Rico:\nLiberty Mobile (status - DLR Delayed)  \n\nWe will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T18:05:28Z",
+     "status": "investigating",
+     "body": "Due to sustained high traffic on the US carrier networks, we are currently experiencing SMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - DLR Delayed)\nT-Mobile (status -  Operational)\nVerizon (status -  Operational)\n\nPuerto Rico:\nLiberty Mobile (status - DLR Delayed)             \n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    }
+   ],
+   "url": "https://stspg.io/vmh0kp4xg1kq",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...m Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sendi..."
+  },
+  {
+   "key": "twilio:540h10h47l48",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "SMS Delivery Status From Twilio Toll-Free to US/CA Carriers",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T17:40:40Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "SMS Toll-Free, North America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T19:56:59Z",
+     "status": "investigating",
+     "body": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Delays)\nAppalachian (status - Delays)\n\nCanada:\n\nVideotron in Canada  - (status - DLR Delays)\nCogeco - (status - DLR Delays)\n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T17:56:29Z",
+     "status": "investigating",
+     "body": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Delays)\n\nCanada:\n\nVideotron in Canada  - (status - DLR Delays)\nCogeco - (status - DLR Delays)"
+    },
+    {
+     "at": "2026-11-27T17:40:40Z",
+     "status": "investigating",
+     "body": "Please find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Delays)\nAppalachian (status - Delays)\n\nCanada:\n\nVideotron in Canada  (status - DLR Delays)\n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T17:22:40Z",
+     "status": "investigating",
+     "body": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Delays)\n\nCanada:\n\nVideotron in Canada  (status - DLR Delays)\n\nWe will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T17:07:46Z",
+     "status": "investigating",
+     "body": "Due to sustained high traffic on the US carrier networks, we are currently experiencing SMS delivery issues from Twilio Toll-Free.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Delays)\n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    }
+   ],
+   "url": "https://stspg.io/gyrgw2z3kzpz",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...rom Twilio Toll-Free.  Messages are queued due to capacity shortage, and customers may see delays when sendi..."
+  },
+  {
+   "key": "twilio:wr55v3qb6hjp",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "RCS Message Delivery Failures",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-27T17:18:34Z",
+   "resolved_at": "2026-11-27T17:53:47Z",
+   "duration_min": 35,
+   "components": [
+    "RCS Messaging"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T17:53:47Z",
+     "status": "resolved",
+     "body": "This incident is now resolved."
+    },
+    {
+     "at": "2026-11-27T17:18:34Z",
+     "status": "investigating",
+     "body": "We are investigating an issue with RCS Messaging. Users may experience messages not being timely  delivered and/or marked delivered on AT&T network. We will provide another update in 1 hour or as soon as more information becomes available."
+    }
+   ],
+   "url": "https://stspg.io/fqzbq2wdh05w",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:22slxfqncqr7",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "MMS Delivery Status From Twilio Short-Code to US/CA",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T16:57:50Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "MMS Short Code, North America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T18:58:03Z",
+     "status": "investigating",
+     "body": "Please find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Delays)\nT-Mobile (status - Operational)\nVerizon (status -  DLR Delays)            \n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T16:57:50Z",
+     "status": "investigating",
+     "body": "Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Delays)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)            \n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    }
+   ],
+   "url": "https://stspg.io/4ytn0nz8xcgp",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...m Twilio Short-Codes.  Messages are queued due to capacity shortage, and customers may see delays when sendi..."
+  },
+  {
+   "key": "twilio:93c38rcb25dz",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "MMS Delivery Status From Twilio Toll-Free to US/CA",
+   "severity": "minor",
+   "status": "investigating",
+   "started_at": "2026-11-27T16:53:22Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "MMS Toll-Free, North America"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-27T18:54:00Z",
+     "status": "investigating",
+     "body": "Please find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Delays)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)            \n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-27T16:53:22Z",
+     "status": "investigating",
+     "body": "Due to sustained high traffic on the US carrier networks, we are currently experiencing MMS delivery issues from Twilio Toll-Free numbers. Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.  \n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Delays)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)            \n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    }
+   ],
+   "url": "https://stspg.io/jbf2vqmwn628",
+   "cause": "capacity-overload",
+   "cause_basis": "provider",
+   "cause_evidence": "...lio Toll-Free numbers. Messages are queued due to capacity shortage, and customers may see delays when sendi..."
+  },
+  {
+   "key": "cloudflare:955xa7dtx0ca",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Cloudflare University website unavailable",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-27T14:49:03Z",
+   "resolved_at": "2026-11-27T15:05:32Z",
+   "duration_min": 16,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-27T15:05:32Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-27T14:52:29Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-27T14:49:03Z",
+     "status": "investigating",
+     "body": "The Cloudflare University website, learn.cloudflare.com, may be unavailable for some customers. Access to it may return a 521 error message."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/955xa7dtx0ca",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "twilio:yd4mkydzk7dt",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Black Friday and Cyber Monday (November 27\u201330, 2026)",
+   "severity": "none",
+   "status": "investigating",
+   "started_at": "2026-11-27T13:00:40Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [],
+   "updates": [
+    {
+     "at": "2026-11-27T13:00:40Z",
+     "status": "investigating",
+     "body": "Due to expected high traffic on US mobile networks during Black Friday and Cyber Monday (November 27\u201330, 2026), you may experience temporary SMS and MMS delivery delays. Please visit our Help Center for additional information at Twilio Help Center: https://help.twilio.com/articles/58869431409947-Advisory-Potential-Message-Delays-During-Black-Friday-Cyber-Monday-2026."
+    }
+   ],
+   "url": "https://stspg.io/v1kl9d0j12hb",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
   {
    "key": "twilio:5px4q9my59kq",
    "source": "twilio",
@@ -10,14 +319,39 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Izzi Mexico",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-27T12:10:31Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-27T19:29:58Z",
+   "duration_min": 439,
    "components": [
     "SMS, Latin America"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T19:29:58Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Izzi network subscribers in Mexico is operating normally."
+    },
+    {
+     "at": "2026-11-27T17:27:49Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Izzi network subscribers in Mexico and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T15:48:40Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Izzi network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T13:48:10Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Izzi network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T12:47:44Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Izzi network subscribers in Mexico. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-27T12:10:32Z",
      "status": "investigating",
@@ -37,14 +371,39 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Vodafone and Tismi United Kingdom",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-27T11:23:46Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-27T18:45:26Z",
+   "duration_min": 441,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T18:45:26Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom is operating normally."
+    },
+    {
+     "at": "2026-11-27T16:43:58Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T14:43:29Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Vodafone and Tismi network subscribers in the United Kingdom and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T14:05:56Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Vodafone and Tismi network subscribers in the United Kingdom. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-27T13:05:21Z",
+     "status": "identified",
+     "body": "Twilio customers may be experiencing SMS delivery delays from Twilio to Vodafone and Tismi network subscribers in the United Kingdom. Our team has identified the cause, and is working to resolve the issue. We will provide another update in 1 hour or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-27T12:03:43Z",
      "status": "identified",
@@ -114,15 +473,25 @@
    "kind": "feed",
    "title": "MMS Delivery Delays from a Subset of Twilio Long Codes to GCI United States",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-27T02:20:41Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-27T14:49:01Z",
+   "duration_min": 748,
    "components": [
     "MMS Long Code, North America",
     "MMS Long Code, North America"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T14:49:01Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and MMS delivery from a subset of Twilio Long Codes to GCI network subscribers in the United States is operating normally."
+    },
+    {
+     "at": "2026-11-27T14:05:49Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in MMS delivery from a subset of Twilio Long Codes to GCI network subscribers in the United States and are monitoring service stability. We will provide another update in 4 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-27T12:05:01Z",
      "status": "monitoring",
@@ -505,14 +874,19 @@
    "kind": "feed",
    "title": "SMS Delivery Delays from Twilio to Bouygues Telecom France",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-26T07:58:11Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-27T15:16:14Z",
+   "duration_min": 1878,
    "components": [
     "SMS, Europe"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T15:16:14Z",
+     "status": "resolved",
+     "body": "The incident has been resolved and SMS delivery from Twilio to Bouygues Telecom network subscribers in France is operating normally."
+    },
     {
      "at": "2026-11-27T08:56:16Z",
      "status": "monitoring",
@@ -1411,14 +1785,24 @@
    "kind": "feed",
    "title": "SMS Delivery Failures from Twilio to Econet Telecom Lesotho",
    "severity": "minor",
-   "status": "identified",
+   "status": "resolved",
    "started_at": "2026-11-25T06:31:58Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-27T15:26:38Z",
+   "duration_min": 3414,
    "components": [
     "SMS, Middle East & Africa"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T15:26:38Z",
+     "status": "resolved",
+     "body": "We have completed our investigation and determined that this event did not result in any customer impact. All systems are operating normally."
+    },
+    {
+     "at": "2026-11-27T15:23:42Z",
+     "status": "monitoring",
+     "body": "We have observed a recovery in SMS delivery from Twilio to Econet Telecom network subscribers in Lesotho and are monitoring service stability. We will provide another update in 2 hours or as soon as more information becomes available."
+    },
     {
      "at": "2026-11-27T05:03:15Z",
      "status": "identified",
@@ -2088,7 +2472,7 @@
    "kind": "feed",
    "title": "Claude for Microsoft 365 add-in missing for some users",
    "severity": "major",
-   "status": "identified",
+   "status": "monitoring",
    "started_at": "2026-11-24T00:10:40Z",
    "resolved_at": null,
    "duration_min": null,
@@ -2096,6 +2480,11 @@
     "claude.ai"
    ],
    "updates": [
+    {
+     "at": "2026-11-27T19:48:22Z",
+     "status": "monitoring",
+     "body": "Our upstream provider has applied a mitigation for the issue that caused the Claude add-in to disappear from Excel, Word, and PowerPoint on Mac for users signed in to Microsoft Office with a personal Microsoft account, and we are monitoring for recovery. If Claude is still missing, try adding it again from Microsoft Marketplace, or use the web versions of Excel, Word, and PowerPoint at office.com, where Claude remains available for many users. We will provide another update as soon as possible."
+    },
     {
      "at": "2026-11-25T20:21:12Z",
      "status": "identified",
@@ -2115,7 +2504,7 @@
    "url": "https://stspg.io/ffdq2qfv8frk",
    "cause": "third-party",
    "cause_basis": "provider",
-   "cause_evidence": "...We have identified an issue with an upstream provider that is causing the Claude add-in to dis..."
+   "cause_evidence": "...Our upstream provider has   for the issue that caused the Clau..."
   },
   {
    "key": "twilio:zv1172k6tkkq",
@@ -5755,8 +6144,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Data Localization Suite",
     "Zero Trust",
+    "Data Localization Suite",
     "Cloudflare One Client"
    ],
    "updates": [
