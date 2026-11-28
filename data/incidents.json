@@ -1,7 +1,128 @@
 {
- "generated_at": "2026-11-28T03:58:07Z",
- "count": 1083,
+ "generated_at": "2026-11-28T13:09:49Z",
+ "count": 1086,
  "incidents": [
+  {
+   "key": "cloudflare:27xnfvjy0n6j",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Email Delivery Delays",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-28T07:21:21Z",
+   "resolved_at": "2026-11-28T09:23:38Z",
+   "duration_min": 122,
+   "components": [
+    "Dashboard"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-28T09:23:38Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-28T09:13:48Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-28T08:33:41Z",
+     "status": "investigating",
+     "body": "We are continuing to investigate the issue."
+    },
+    {
+     "at": "2026-11-28T07:21:21Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating a delay in our ability to send emails. This includes password reset, mFA token emails. We are working to resolve the issue. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/27xnfvjy0n6j",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null
+  },
+  {
+   "key": "cloudflare:j7ihgms4mvhb",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Elevated Errors for Cloudflare Workers Subrequests",
+   "severity": "minor",
+   "status": "resolved",
+   "started_at": "2026-11-28T04:45:43Z",
+   "resolved_at": "2026-11-28T05:38:42Z",
+   "duration_min": 52,
+   "components": [
+    "Workers",
+    "Atlanta, United States - (ATL)",
+    "Columbus, United States - (CMH)",
+    "Dallas, United States - (DFW)",
+    "S\u00e3o Paulo, Brazil - (GRU)"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-28T05:38:42Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-28T05:31:18Z",
+     "status": "monitoring",
+     "body": "A fix has been implemented and we are monitoring the results."
+    },
+    {
+     "at": "2026-11-28T05:03:27Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-28T04:45:43Z",
+     "status": "investigating",
+     "body": "Cloudflare has identified an issue that causes intermittent DNS errors for a small subset of Cloudflare Workers subrequests to origins. Affected subrequests return HTTP 403 with Cloudflare error 1000. Impact is concentrated in Columbus, Dallas, S\u00e3o Paulo and Atlanta. No customer action is required. Public authoritative DNS is not affected. We are actively working to mitigate the impact and resolve the issue."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/j7ihgms4mvhb",
+   "cause": "config-change",
+   "cause_basis": "provider",
+   "cause_evidence": "...has identified an issue that causes intermittent DNS errors for a small subset of Cloudflare Workers s..."
+  },
+  {
+   "key": "twilio:lj4tfg6b7lrx",
+   "source": "twilio",
+   "service": "Twilio",
+   "category": "cloud-api",
+   "kind": "feed",
+   "title": "Email Delivery Delays to Apple Private Relay Addresses",
+   "severity": "minor",
+   "status": "identified",
+   "started_at": "2026-11-28T04:11:29Z",
+   "resolved_at": null,
+   "duration_min": null,
+   "components": [
+    "Mailsend: Comms API",
+    "SendGrid API"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-28T04:26:43Z",
+     "status": "identified",
+     "body": "We have identified an issue with Email due to a third-party provider. Users may experience delays in message delivery to Apple Private Relay addresses. Messages will continue to be retried for up to 72 hours."
+    },
+    {
+     "at": "2026-11-28T04:11:29Z",
+     "status": "identified",
+     "body": "We have identified an issue with Email due to a third-party provider. Users may experience delays in message delivery to Apple Private Relay addresses. Messages will continue to be retried for up to 72 hours."
+    }
+   ],
+   "url": "https://stspg.io/t6wqb6v4410n",
+   "cause": "third-party",
+   "cause_basis": "provider",
+   "cause_evidence": "...We have identified an issue with Email due to a third-party provider. Users may experience delays in message..."
+  },
   {
    "key": "twilio:gz4f90dym5mg",
    "source": "twilio",
@@ -10,14 +131,40 @@
    "kind": "feed",
    "title": "SMS Delivery Status From Twilio Toll-Free to US/CA Carriers",
    "severity": "minor",
-   "status": "investigating",
+   "status": "resolved",
    "started_at": "2026-11-28T03:53:11Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-28T06:39:35Z",
+   "duration_min": 166,
    "components": [
+    "SMS Toll-Free, North America",
     "SMS"
    ],
    "updates": [
+    {
+     "at": "2026-11-28T06:39:35Z",
+     "status": "resolved",
+     "body": "We are no longer experiencing SMS delivery issues from Twilio Toll-Free at this time. This incident has been resolved."
+    },
+    {
+     "at": "2026-11-28T05:07:40Z",
+     "status": "monitoring",
+     "body": "Please find the current SMS delivery status from Twilio Toll-Free for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status - Operational)\nVerizon (status -  Operational)\nAppalachian (status - Operational)\n\nCanada:\nBell Mobility - (status - Operational)\nVideotron in Canada  (status - Operational)\nCogeco - (status - Operational)\n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-28T04:24:05Z",
+     "status": "investigating",
+     "body": "SMS Delivery Status From Twilio Toll-Free to US/CA Carriers\n\nDue to sustained high traffic on the US/CA carrier networks, we are currently experiencing SMS delivery issues from Twilio Toll-Free.\u00a0 Messages are queued due to capacity shortage, and customers may see delays when sending to certain US carriers.\n\nPlease find the current delivery status for the major carriers below:\n\nUnited States:\n\nAT&T (status - Operational)\nT-Mobile (status -\u00a0 Operational)\nVerizon (status -\u00a0 Operational)\n\nCanada :\nBell (status - delivery delayed)\nRogers (status -\u00a0 Operational)\nTelus (status -\u00a0 Operational)\nFreedom (status -\u00a0 Operational)\nVideotron (status -\u00a0 Operational)\nCogeco (status -\u00a0 Operational)\n\nWe are actively working with our carrier partners to resolve the issue, and we will provide another update in 2 hours or as soon as we have any new information to share."
+    },
+    {
+     "at": "2026-11-28T04:20:48Z",
+     "status": "investigating",
+     "body": "Message - We are experiencing delays in Twilio Toll Free to CA. Our engineers are working with our carrier partner to resolve the issue. We expect to provide another update in 2 hours or as soon as more information becomes available."
+    },
+    {
+     "at": "2026-11-28T04:19:41Z",
+     "status": "investigating",
+     "body": "We are continuing to investigate this issue."
+    },
     {
      "at": "2026-11-28T03:53:12Z",
      "status": "investigating",
@@ -74,14 +221,19 @@
    "kind": "feed",
    "title": "SMS Delivery Status From Twilio Short-Code to US/CA Carriers",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-27T19:11:34Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-28T04:50:20Z",
+   "duration_min": 578,
    "components": [
     "SMS Short Code, North America"
    ],
    "updates": [
+    {
+     "at": "2026-11-28T04:50:20Z",
+     "status": "resolved",
+     "body": "We are no longer experiencing delivery report delays from Twilio Sort-Code to US/CA Carriers. This incident has been resolved."
+    },
     {
      "at": "2026-11-28T02:08:47Z",
      "status": "monitoring",
@@ -126,14 +278,19 @@
    "kind": "feed",
    "title": "SMS Delivery Status From Twilio Long-Codes to US/CA Carriers",
    "severity": "minor",
-   "status": "monitoring",
+   "status": "resolved",
    "started_at": "2026-11-27T18:30:05Z",
-   "resolved_at": null,
-   "duration_min": null,
+   "resolved_at": "2026-11-28T04:32:47Z",
+   "duration_min": 602,
    "components": [
     "SMS Long Code, North America"
    ],
    "updates": [
+    {
+     "at": "2026-11-28T04:32:47Z",
+     "status": "resolved",
+     "body": "We are no longer experiencing SMS delivery delay from Twilio Long-Code to US/CA Carriers at this time. This incident has been resolved."
+    },
     {
      "at": "2026-11-28T02:00:10Z",
      "status": "monitoring",
@@ -6293,8 +6450,8 @@
    "resolved_at": "2026-11-17T14:56:52Z",
    "duration_min": 62,
    "components": [
-    "Zero Trust",
     "Data Localization Suite",
+    "Zero Trust",
     "Cloudflare One Client"
    ],
    "updates": [

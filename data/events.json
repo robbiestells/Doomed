@@ -1,7 +1,60 @@
 {
- "generated_at": "2026-11-28T03:58:08Z",
- "count": 289,
+ "generated_at": "2026-11-28T13:09:50Z",
+ "count": 290,
  "events": [
+  {
+   "key": "cloudflare:27xnfvjy0n6j",
+   "source": "cloudflare",
+   "service": "Cloudflare",
+   "category": "cdn-network",
+   "kind": "feed",
+   "title": "Email Delivery Delays",
+   "severity": "critical",
+   "status": "resolved",
+   "started_at": "2026-11-28T07:21:21Z",
+   "resolved_at": "2026-11-28T09:23:38Z",
+   "duration_min": 122,
+   "components": [
+    "Dashboard"
+   ],
+   "updates": [
+    {
+     "at": "2026-11-28T09:23:38Z",
+     "status": "resolved",
+     "body": "This incident has been resolved."
+    },
+    {
+     "at": "2026-11-28T09:13:48Z",
+     "status": "identified",
+     "body": "The issue has been identified and a fix is being implemented."
+    },
+    {
+     "at": "2026-11-28T08:33:41Z",
+     "status": "investigating",
+     "body": "We are continuing to investigate the issue."
+    },
+    {
+     "at": "2026-11-28T07:21:21Z",
+     "status": "investigating",
+     "body": "Cloudflare is investigating a delay in our ability to send emails. This includes password reset, mFA token emails. We are working to resolve the issue. More updates to follow shortly."
+    }
+   ],
+   "url": "https://www.cloudflarestatus.com/incidents/27xnfvjy0n6j",
+   "cause": "unknown",
+   "cause_basis": null,
+   "cause_evidence": null,
+   "brand": "Cloudflare",
+   "sources": [
+    "status-page"
+   ],
+   "articles": 0,
+   "first_reported": "2026-11-28",
+   "last_reported": "2026-11-28",
+   "ai_link": "none",
+   "ai_evidence": null,
+   "ai_service_affected": false,
+   "life_impact": "work"
+  },
   {
    "key": "cloudflare:xiqj67vl5pqm",
    "source": "cloudflare",

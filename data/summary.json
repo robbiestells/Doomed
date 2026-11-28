@@ -1,8 +1,8 @@
 {
  "window_days": 90,
  "min_severity": "major",
- "total": 82,
- "per_week_avg": 6.38,
+ "total": 83,
+ "per_week_avg": 6.46,
  "by_service": [
   [
    "GitHub",
@@ -30,7 +30,7 @@
   ],
   [
    "Cloudflare",
-   3
+   4
   ],
   [
    "Dropbox",
@@ -96,7 +96,7 @@
   ],
   [
    "cdn-network",
-   3
+   4
   ],
   [
    "bank",
@@ -162,13 +162,13 @@
   ],
   [
    "2026-W48",
-   6
+   7
   ]
  ],
  "by_cause": [
   [
    "unknown",
-   44
+   45
   ],
   [
    "software-change",
@@ -191,7 +191,7 @@
    2
   ]
  ],
- "cause_known_pct": 46.3,
+ "cause_known_pct": 45.8,
  "by_weekday": [
   [
    "Wed",
@@ -215,7 +215,7 @@
   ],
   [
    "Sat",
-   2
+   3
   ],
   [
    "Sun",
